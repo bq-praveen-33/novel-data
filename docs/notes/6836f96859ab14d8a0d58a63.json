@@ -3,10 +3,7 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
@@ -18,10 +15,20 @@
           {
             "type": "text",
             "text": "this is atharv Page 3"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "adding the new Text"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-05-28T13:20:35.556Z"
+  "online_content_time": "2025-05-29T10:08:02.413Z"
 }
