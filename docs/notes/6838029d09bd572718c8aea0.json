@@ -5,7 +5,28 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 3
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Giant Panda"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/images.jpeg-98622643-203b-4ee9-8066-bddab49d5849",
+          "alt": null,
+          "title": null,
+          "width": 480,
+          "height": 241.27
         }
       },
       {
@@ -34,18 +55,8 @@
             "text": "A newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk."
           }
         ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/images.jpeg-98622643-203b-4ee9-8066-bddab49d5849",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-05-29T06:48:01.330Z"
+  "online_content_time": "2025-05-29T06:49:28.831Z"
 }
