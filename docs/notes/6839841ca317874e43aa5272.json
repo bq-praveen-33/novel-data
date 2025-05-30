@@ -52,15 +52,15 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "youtube",
+        "attrs": {
+          "src": "https://www.youtube.com/watch?v=78t7DWEwrVU",
+          "start": 0,
+          "width": 640,
+          "height": 480
+        }
       }
     ]
   },
-  "online_content_time": "2025-05-30T10:42:01.477Z"
+  "online_content_time": "2025-05-30T10:43:59.765Z"
 }
