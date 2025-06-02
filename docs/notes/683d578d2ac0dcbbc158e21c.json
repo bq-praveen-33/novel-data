@@ -10,11 +10,83 @@
         "content": [
           {
             "type": "text",
-            "text": "Start Editing"
+            "text": "New Feature Publish"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "-> publish -> approval -> raw github URL -> component pass -> betaque -> blogs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "-> published doc "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "yet to publish"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "wait for appoval"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "apporved"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "rejected"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "-> publish -> email trigger for approval -> approver can accept or reject -> accept -> a new document create in side github directory notes/approved if document is not present, and user is going to get the raw github URL, if document is already present then simply copy paste content from notes/id to notes/approved/id"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "-> In home screen with saved pages for the approver email we also need to show approved pages, what all pages that user has approved"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-02T07:49:34.538Z"
+  "online_content_time": "2025-06-02T07:50:04.263Z"
 }
