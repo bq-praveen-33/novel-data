@@ -27,12 +27,54 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "-> published doc "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "yet to publish"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "wait for appoval"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "apporved"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "rejected"
+          }
+        ]
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-02T07:38:38.012Z"
+  "online_content_time": "2025-06-02T07:43:04.048Z"
 }
