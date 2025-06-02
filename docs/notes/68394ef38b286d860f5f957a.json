@@ -15,33 +15,21 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "jioi"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "typingh"
+            "text": "-> publish -> approval -> raw github URL -> component pass ->"
           }
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "checking"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-02T07:32:20.258Z"
+  "online_content_time": "2025-06-02T07:37:45.961Z"
 }
