@@ -45,60 +45,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "One would think that by now evolutionary biologists would agree on what constitutes a "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(31, 31, 31)"
-                }
-              }
-            ],
-            "text": "species"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": ". However, it turns out that species concepts are almost as varied as the types of researchers that work on the question. To date there is no single, universally accepted definition of a species, although certain frameworks for thinking about species have come in and out of favor over the years (Howard and Berlocher, 1998; Coyne and Orr, 2004; Wilkins, 2009"
-          },
-          {
-            "type": "text",
-            "text": "). Most definitions of species serve a useful research purpose and are a function of the types of questions that are being addressed (e.g., whether species designations should serve a strictly taxonomic purpose as in systematics or represent the active evolutionary unit of diversification as in population genetics). This is not to imply that the definition of species is purely a semantic issue, but rather that the diversity of definitions reflects very different perspectives as to what factors should be emphasized in describing species. Beyond these purely theoretical issues, species concepts have an additional problem of not always being easy to apply in real-life situations."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "As a result of these conflicting purposes of species concepts, every subdiscipline within speciation research has formulated its own particular species concept. However, the problems surrounding species definitions are more fundamental than simple differences in perspective. There is an inherent problem of trying to categorize groups of organisms that are undergoing a continual process of change. Speciation is a process, not an instantaneous event. It is also not caused by a single unified mechanism, but by a collection of different mechanisms of divergence affecting different traits at potentially different rates."
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-03T07:06:24.356Z"
+  "online_content_time": "2025-06-03T07:07:32.246Z"
 }
