@@ -45,9 +45,33 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Species is defined as a group of organisms that consist of similar individuals capable of interbreeding or exchanging genes among themselves"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In biology, species is the most basic unit of classification, as well as a taxonomic rank. The next taxonomic rank on the hierarchy of biological classification is a genus. On earth, there are currently 8.7 million species living today, however, that number is just a fraction of all organisms that have ever lived."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The concept of species dates back to the time of Aristotle. He used the term “génos”, which meant “a kind” (eg: fish), and “eidos”, which means “a specific form” (eg: tuna, sardine etc). These terms were eventually translated into Latin as “genus” and “species”, though they do not correspond to the terms under the Linnaean taxonomy."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-03T07:07:32.246Z"
+  "online_content_time": "2025-06-03T07:08:22.413Z"
 }
