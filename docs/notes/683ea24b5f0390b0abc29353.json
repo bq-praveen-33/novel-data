@@ -13,8 +13,28 @@
             "text": "Start Editing"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://localhost:3000/notes/683e99c6d4350754557ea65b",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "http://localhost:3000/notes/683e99c6d4350754557ea65b"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-03T07:20:58.233Z"
+  "online_content_time": "2025-06-03T07:22:32.711Z"
 }
