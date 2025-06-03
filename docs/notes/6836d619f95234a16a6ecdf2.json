@@ -15,6 +15,9 @@
         ]
       },
       {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph",
         "content": [
           {
@@ -30,8 +33,11 @@
             "text": "A biological species is a group of organisms that can reproduce with one another in nature and produce fertile offspring. Species are characterized by the fact that they are reproductively isolated from other groups, which means that the organisms in one species are incapable of reproducing with organisms in another species. The term species can also be defined as the most basic category in the system of taxonomy. Taxonomy is a scientific system that classifies organisms into categories based on their biological characteristics. Species can also be defined based on a shared evolutionary history and ancestry. This method of defining species is called phylogenetics, which is the study of the evolutionary relationships among organisms. The evolutionary process by which a new species comes into being is called speciation."
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-03T07:02:52.886Z"
+  "online_content_time": "2025-06-03T07:03:39.247Z"
 }
