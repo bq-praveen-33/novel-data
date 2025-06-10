@@ -88,41 +88,7 @@
                 }
               }
             ],
-            "text": "6 min read"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(107, 107, 107)"
-                }
-              }
-            ],
-            "text": "·"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "Dec 31, 2023"
+            "text": "6 min read Dec 31, 2023"
           }
         ]
       },
@@ -587,5 +553,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-10T12:45:56.396Z"
+  "online_content_time": "2025-06-10T12:49:46.728Z"
 }
