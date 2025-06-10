@@ -23,42 +23,6 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://miro.medium.com/v2/resize:fill:32:32/1*g8oJoIIHqE_jOSth1LSWLw.jpeg",
-          "alt": "Roger G March",
-          "title": null,
-          "width": 32,
-          "height": 32
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://medium.com/@rogergmarch?source=post_page---byline--14389fc3e71c---------------------------------------",
-                  "target": "_blank",
-                  "rel": "noopener follow",
-                  "class": "ag ah ai fe ak al am an ao ap aq ar as ip"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(36, 36, 36)"
-                }
-              }
-            ],
-            "text": "Roger G March"
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -91,16 +55,6 @@
             "text": "6 min read Dec 31, 2023"
           }
         ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://miro.medium.com/v2/resize:fit:700/1*RTvnmJoUCpv4fxON0i83gA.png",
-          "alt": "",
-          "title": null,
-          "width": 700,
-          "height": 400
-        }
       },
       {
         "type": "paragraph",
@@ -553,5 +507,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-10T13:19:00.046Z"
+  "online_content_time": "2025-06-10T13:25:34.604Z"
 }
