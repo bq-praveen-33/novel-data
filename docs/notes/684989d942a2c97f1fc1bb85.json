@@ -54,9 +54,28 @@
         ]
       },
       {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "AI is not going to replace humans, but humans who use AI will replace those who don’t."
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:54:11.636Z"
+  "online_content_time": "2025-06-11T13:54:55.636Z"
 }
