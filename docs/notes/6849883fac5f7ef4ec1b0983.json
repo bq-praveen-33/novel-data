@@ -18,8 +18,54 @@
             "text": "The Tangled Web: Copyright, AI, and the Content ID Conundrum"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While browsing YouTube last week, I came across "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=LrkAORPiaEA",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "a video"
+          },
+          {
+            "type": "text",
+            "text": " exploring how AI-generated content, when combined with YouTube’s Content ID system, could pose a greater threat to musicians than patent trolls have been to engineers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The burgeoning field of AI-generated content is sparking a complex and often contentious debate surrounding copyright. The fundamental question of who owns what when an algorithm, trained on a vast dataset that inevitably includes copyrighted material, produces a new work, remains largely unanswered and presents a significant challenge to existing legal frameworks."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The implications are far-reaching, potentially impacting not only artists, musicians, and writers but also the very future of creative industries."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:45:25.635Z"
+  "online_content_time": "2025-06-11T13:46:01.633Z"
 }
