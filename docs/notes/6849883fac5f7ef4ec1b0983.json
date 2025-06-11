@@ -208,6 +208,138 @@
                     "text": "This AI-generated piece is uploaded and registered with a content identification system like Content ID."
                   }
                 ]
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://www.technewsworld.com/images/article_images/product-of-the-week_585x75.jpg",
+                  "alt": "Tech Product of the Week",
+                  "title": null,
+                  "width": 585,
+                  "height": 75
+                }
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 3
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "The Tools for Humanity Orb"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Are You Human, or Just Really Good at Captchas?"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Here in Bend, where our biggest existential threat is usually choosing between a hazy IPA and a crisp pilsner, Sam Altman’s Tools for Humanity "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.toolsforhumanity.com/orb",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      }
+                    ],
+                    "text": "Orb"
+                  },
+                  {
+                    "type": "text",
+                    "text": " has rolled into the conversation like a chrome-plated alien eyeball. Its mission? To scan your iris and definitively prove you’re not a robot."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In our increasingly AI-saturated future, verifying your fleshy humanity might just become the new must-have accessory."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The Orb itself looks like something out of a low-budget sci-fi flick, all shiny and vaguely ominous. It promises to peer into your very soul — or at least your iris pattern, which is supposedly as unique as a snowflake. This verification process grants you a “World ID,” a digital passport that proves you’re a genuine Homo sapiens, not some silicon-based life form cleverly disguised in a human suit."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/06/Orb-by-Tools-for-Humanity.jpg",
+                  "alt": "The Orb device from Tools for Humanity ",
+                  "title": null,
+                  "width": 1000,
+                  "height": 580
+                }
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "The Orb device scans users’ irises to verify they’re human. (Image Credit: Tools for Humanity)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Now, why all the fuss about proving your meat bag status? Well, imagine a future where AI can convincingly impersonate anyone, including your favorite (or least favorite) politicians."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
               }
             ]
           }
@@ -224,5 +356,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:48:56.629Z"
+  "online_content_time": "2025-06-11T13:50:40.700Z"
 }
