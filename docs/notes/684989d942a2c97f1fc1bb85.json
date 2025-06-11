@@ -249,15 +249,18 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
         "content": [
           {
             "type": "text",
-            "text": "/"
+            "text": "from sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.naive_bayes import MultinomialNB\nfrom sklearn.pipeline import make_pipeline\n\n# Sample training data (text and corresponding sentiment)\ntexts = [\n    \"I love this product! It's amazing.\",  # Positive\n    \"This is terrible. Worst experience ever.\",  # Negative\n    \"Great job, very impressed.\",  # Positive\n    \"Not good, disappointed.\",  # Negative\n    \"Absolutely fantastic!\",  # Positive\n    \"Would not recommend.\"  # Negative\n]\nlabels = [\"positive\", \"negative\", \"positive\", \"negative\", \"positive\", \"negative\"]\n\n# Create a pipeline: Convert text to numbers → Train AI model\nmodel = make_pipeline(CountVectorizer(), MultinomialNB())\nmodel.fit(texts, labels)  # Train the model\n\n# Test the AI model with new text\nnew_texts = [\n    \"This is awesome!\",  # Likely positive\n    \"I hate this.\"  # Likely negative\n]\npredictions = model.predict(new_texts)\n\n# Print predictions\nfor text, sentiment in zip(new_texts, predictions):\n    print(f\"Text: '{text}' → Sentiment: {sentiment}\")\n\n"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T14:03:22.636Z"
+  "online_content_time": "2025-06-11T14:05:17.637Z"
 }
