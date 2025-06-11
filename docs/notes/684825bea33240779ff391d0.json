@@ -57,7 +57,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "#include<iostream>\n#include<header>\n"
+                    "text": "#include<iostream>\n#include<header>\n\nint main(){\nreturn 0;\n}\n"
                   }
                 ]
               }
@@ -114,7 +114,7 @@
                 }
               }
             ],
-            "text": "Follow"
+            "text": "Follow "
           }
         ]
       },
@@ -131,41 +131,7 @@
                 }
               }
             ],
-            "text": "6 min read"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(107, 107, 107)"
-                }
-              }
-            ],
-            "text": "·"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "Jan 8, 2024"
+            "text": "6 min read Jan 8, 2024"
           }
         ]
       },
@@ -442,5 +408,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T06:36:37.080Z"
+  "online_content_time": "2025-06-11T06:38:29.019Z"
 }
