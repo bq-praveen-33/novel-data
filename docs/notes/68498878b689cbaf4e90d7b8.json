@@ -192,16 +192,6 @@
         "type": "paragraph"
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Jt-xNdA6WQaV-8W6ZzL-XA.png",
-          "alt": "DevOps Workflow Diagram",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1157,5 +1147,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:51:45.454Z"
+  "online_content_time": "2025-06-11T13:51:59.593Z"
 }
