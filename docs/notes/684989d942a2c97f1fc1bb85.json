@@ -20,7 +20,10 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
         "content": [
           {
             "type": "text",
@@ -29,11 +32,28 @@
                 "type": "bold"
               }
             ],
-            "text": "/"
+            "text": "Introduction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(64, 64, 64)"
+                }
+              }
+            ],
+            "text": "Artificial Intelligence (AI) is no longer a futuristic concept—it’s here, transforming workplaces across industries. From automating repetitive tasks to enhancing decision-making, AI is revolutionizing how businesses operate. In this blog, we explore key ways AI is boosting productivity and what it means for the future of work."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:52:16.636Z"
+  "online_content_time": "2025-06-11T13:53:01.195Z"
 }
