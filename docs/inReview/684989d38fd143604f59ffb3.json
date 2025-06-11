@@ -1,0 +1,1118 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Demystifying Dynamic Programming: A Step-by-Step Journey with Unique Paths"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dynamic Programming (DP) has a reputation—one that precedes it into every tech interview room and haunts every aspiring developer’s mind. If you’ve spent time wrestling with DP and feel like it keeps slipping through your fingers, you’re not alone. I’ve been there too—stuck, confused, and often frustrated."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This article is my attempt to give DP the deep-dive treatment I wish I had early on. We’ll build our understanding from the ground up, focusing not just on how to solve DP problems, but more importantly, on why DP is even needed in the first place. Our ultimate goal is to break the concept down into digestible steps you can confidently explain and apply—especially in an interview setting."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Important:"
+              },
+              {
+                "type": "text",
+                "text": " This isn’t a quick read. It’s a deliberate, detailed walkthrough meant for those genuinely trying to grasp the essence of dynamic programming. If you're committed to learning, I promise this will be time well spent."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎯 What You Need Before You Start"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before diving in, make sure you’re comfortable with the concept of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "recursion"
+          },
+          {
+            "type": "text",
+            "text": ". DP is deeply rooted in recursive thinking, and without that foundation, the explanations ahead may not fully click. Thankfully, there are already excellent resources on recursion—so spend some time there if needed."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🌍 How to View Dynamic Programming"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Let’s start by adjusting our perspective. Instead of labeling problems as “DP problems” from the outset, here’s a better approach:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Dynamic Programming is a strategy for optimizing recursive solutions by eliminating redundant computations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "That’s it. DP is not where we begin—it's the tool we reach for once we've noticed inefficiencies in our recursive logic. And this distinction matters, especially in interviews. Instead of saying, “This is a DP problem,” say, “This problem can be improved using DP after we establish a recursive approach.”"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧭 A Roadmap for Solving DP Problems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To systematically break down any DP-style challenge, I follow a 4-step framework. We’ll explore each step using a well-known example:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📌 Unique Paths"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You're given an "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "code"
+                  }
+                ],
+                "text": "m x n"
+              },
+              {
+                "type": "text",
+                "text": " grid. A robot starts at the top-left corner and can only move either down or right at each step. How many unique paths are there to reach the bottom-right corner?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We’ll use this problem to demonstrate how we evolve from naive recursion to an optimized DP solution."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔍 Step 1: Start with Pure Recursion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Begin by building the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "basic recursive logic"
+          },
+          {
+            "type": "text",
+            "text": ", without worrying about performance. You need to focus on capturing the core relationship or rule governing the problem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In this case, from any cell "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "(m, n)"
+          },
+          {
+            "type": "text",
+            "text": ", the number of unique paths to the destination is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "sum of the unique paths from"
+          },
+          {
+            "type": "text",
+            "text": ":"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The cell directly below: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "(m-1, n)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The cell directly to the right: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "(m, n-1)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This gives us the recursive relation:"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "js"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function uniquePaths(m, n) {   if (m === 1 || n === 1) return 1;   return uniquePaths(m - 1, n) + uniquePaths(m, n - 1); } "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At the edges (bottom row or rightmost column), there’s only one path available—just keep moving in one direction."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "🎓 "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Key Insight:"
+              },
+              {
+                "type": "text",
+                "text": " The first step is all about establishing this relationship clearly. You must understand the brute-force recursive structure before thinking about optimization."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Yes, this version is inefficient. It’s essentially a binary tree of calls that grows exponentially—similar to the classic Fibonacci recursion."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 Step 2: Add Memoization (Now You’re Doing DP)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once you’ve identified that the recursive solution recalculates the same subproblems repeatedly, it's time to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "optimize using memoization"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before you proceed, check for two properties:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Overlapping Subproblems"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Are you solving the same inputs multiple times?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Optimal Substructure"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Can you solve the overall problem by combining solutions of subproblems?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For our case:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Overlapping subproblems? ✅ Yes, paths for "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "(m-1, n)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "(m, n-1)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " are recalculated."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Optimal substructure? ✅ Yes, the number of paths at "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "(m, n)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " depends entirely on smaller subgrids."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Implementing Memoization"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We now store results of subproblems so we don't recalculate them:"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "js"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function uniquePaths(m, n, memo = {}) {   const key = ${m},${n};   if (key in memo) return memo[key];   if (m === 1 || n === 1) return 1;   memo[key] = uniquePaths(m - 1, n, memo) + uniquePaths(m, n - 1, memo);   return memo[key]; } "
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "🧩 We use a stringified version of "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "code"
+                  }
+                ],
+                "text": "(m, n)"
+              },
+              {
+                "type": "text",
+                "text": " as the key since JavaScript objects don't support tuple keys natively."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now, instead of exploring every path blindly, we remember previous results and reuse them. This improves time complexity from exponential to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "O(m * n)"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🏗 Step 3: Build a Bottom-Up Solution"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once memoization works, we can further refine our solution using "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "tabulation"
+          },
+          {
+            "type": "text",
+            "text": ", i.e., solving subproblems iteratively instead of recursively."
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "js"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function uniquePaths(m, n) {   const dp = Array(m).fill().map(() => Array(n).fill(1));   for (let i = 1; i < m; i++) {     for (let j = 1; j < n; j++) {       dp[i][j] = dp[i - 1][j] + dp[i][j - 1];     }   }   return dp[m - 1][n - 1]; } "
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "✨ Each cell stores the number of ways to reach it, derived from the cell above and the one to the left."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is a classic DP grid-fill problem. It avoids recursion entirely and gives the most efficient implementation in both time and space."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🚀 Step 4: Optimize Space (If Needed)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you observe that each row only depends on the row directly above it, you can reduce space complexity to O(n):"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "js"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function uniquePaths(m, n) {   let prev = Array(n).fill(1);   for (let i = 1; i < m; i++) {     let curr = Array(n).fill(1);     for (let j = 1; j < n; j++) {       curr[j] = curr[j - 1] + prev[j];     }     prev = curr;   }   return prev[n - 1]; } "
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🎓 Final Thoughts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dynamic Programming becomes manageable—almost intuitive—when you stop treating it as a black box and start using it as a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "systematic optimization strategy"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Let’s recap the mindset shift:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Don’t start by asking “Is this a DP problem?”"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Start by writing a brute-force recursive solution."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify overlapping subproblems and optimal substructure."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Apply memoization or tabulation accordingly."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you can articulate this journey in an interview—from recursion to optimization—you’ll impress interviewers not just with the final answer, but with the structured reasoning behind it."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✍️ TL;DR: Your 4-Step DP Framework"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Recursion"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – Write the brute-force recursive solution."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Memoization"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – Optimize by storing repeated subproblem results."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tabulation"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – Use bottom-up iteration to avoid recursion."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Space Optimization"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – If possible, reduce extra space usage."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-06-11T13:48:40.875Z"
+}
