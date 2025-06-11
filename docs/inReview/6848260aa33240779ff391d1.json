@@ -20,6 +20,52 @@
         ]
       },
       {
+        "type": "taskList",
+        "content": [
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": true
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "New text added "
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "First task"
+                  }
+                ]
+              },
+              {
+                "type": "codeBlock",
+                "attrs": {
+                  "language": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "#include<iostream>\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "image",
         "attrs": {
           "src": "https://miro.medium.com/v2/resize:fill:32:32/1*g8oJoIIHqE_jOSth1LSWLw.jpeg",
@@ -396,5 +442,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-10T12:32:37.509Z"
+  "online_content_time": "2025-06-11T06:33:40.669Z"
 }
