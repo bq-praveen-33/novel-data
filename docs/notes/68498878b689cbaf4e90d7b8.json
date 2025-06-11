@@ -486,18 +486,13 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "/"
-          }
-        ]
+        "type": "youtube",
+        "attrs": {
+          "src": "https://www.youtube.com/watch?v=Pteu1qQHr0Q",
+          "start": 0,
+          "width": 640,
+          "height": 480
+        }
       },
       {
         "type": "horizontalRule"
@@ -1161,5 +1156,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:55:52.899Z"
+  "online_content_time": "2025-06-11T13:56:16.935Z"
 }
