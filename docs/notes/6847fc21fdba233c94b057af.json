@@ -357,20 +357,16 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "image",
+        "type": "codeBlock",
         "attrs": {
-          "src": "https://images.unsplash.com/photo-1617103402319-6d2c1c61c560?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80",
-          "alt": "Smart Home Image",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
-        "type": "horizontalRule"
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Hello</title>\n  </head>\n  <body>\n    <h1>Hello, World!</h1>\n  </body>\n</html>\n"
+          }
+        ]
       },
       {
         "type": "heading",
@@ -659,13 +655,7 @@
         ]
       },
       {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        }
-      },
-      {
-        "type": "horizontalRule"
+        "type": "paragraph"
       },
       {
         "type": "heading",
@@ -1017,5 +1007,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T06:51:40.612Z"
+  "online_content_time": "2025-06-11T06:52:48.591Z"
 }
