@@ -662,16 +662,6 @@
         "type": "paragraph"
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Yb_z_lLW8PYXQzkBOH0RCw.jpeg",
-          "alt": "AI in Smart Cities",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
         "type": "horizontalRule"
       },
       {
@@ -1024,5 +1014,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T06:49:20.036Z"
+  "online_content_time": "2025-06-11T06:49:33.152Z"
 }
