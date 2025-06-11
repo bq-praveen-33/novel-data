@@ -77,9 +77,157 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "How AI is Changing the Workplace"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here are five ways AI is making an impact:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Automation of Routine Tasks"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – AI handles data entry, scheduling, and customer queries, freeing employees for strategic work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Enhanced Decision-Making"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – Predictive analytics helps businesses forecast trends and make data-driven choices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Personalized Customer Experiences"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – AI-powered chatbots and recommendation engines improve engagement."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Improved Cybersecurity"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – Machine learning detects and prevents threats in real time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Remote Work Efficiency"
+                  },
+                  {
+                    "type": "text",
+                    "text": " – AI tools streamline collaboration and project management for distributed teams."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T14:23:06.092Z"
+  "online_content_time": "2025-06-11T14:23:52.378Z"
 }
