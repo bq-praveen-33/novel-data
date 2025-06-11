@@ -1675,6 +1675,18 @@
         ]
       },
       {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "// C++ Program to demonstrate how to implement the quick\n// sort algorithm\n#include <bits/stdc++.h>\nusing namespace std;\n\nint partition(vector<int> &vec, int low, int high) {\n\n    // Selecting last element as the pivot\n    int pivot = vec[high];\n\n    // Index of elemment just before the last element\n    // It is used for swapping\n    int i = (low - 1);\n\n    for (int j = low; j <= high - 1; j++) {\n\n        // If current element is smaller than or\n        // equal to pivot\n        if (vec[j] <= pivot) {\n            i++;\n            swap(vec[i], vec[j]);\n        }\n    }\n\n    // Put pivot to its position\n    swap(vec[i + 1], vec[high]);\n\n    // Return the point of partition\n    return (i + 1);\n}\n\nvoid quickSort(vector<int> &vec, int low, int high) {\n\n    // Base case: This part will be executed till the starting\n    // index low is lesser than the ending index high\n    if (low < high) {\n\n        // pi is Partitioning Index, arr[p] is now at\n        // right place\n        int pi = partition(vec, low, high);\n\n        // Separately sort elements before and after the\n        // Partition Index pi\n        quickSort(vec, low, pi - 1);\n        quickSort(vec, pi + 1, high);\n    }\n}\n\nint main() {\n    vector<int> vec = {10, 7, 8, 9, 1, 5};\n    int n = vec.size();\n\t\n  \t// Calling quicksort for the vector vec\n    quickSort(vec, 0, n - 1);\n\n    for (auto i : vec) {\n        cout << i << \" \";\n    }\n    return 0;\n}"
+          }
+        ]
+      },
+      {
         "type": "heading",
         "attrs": {
           "level": 3
@@ -1708,5 +1720,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:55:06.626Z"
+  "online_content_time": "2025-06-11T13:57:09.439Z"
 }
