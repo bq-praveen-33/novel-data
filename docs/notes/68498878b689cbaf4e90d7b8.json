@@ -486,6 +486,9 @@
         ]
       },
       {
+        "type": "paragraph"
+      },
+      {
         "type": "horizontalRule"
       },
       {
@@ -1147,5 +1150,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:54:44.791Z"
+  "online_content_time": "2025-06-11T13:55:08.586Z"
 }
