@@ -252,15 +252,6 @@
                     "text": "AI in Action"
                   }
                 ]
-              },
-              {
-                "type": "youtube",
-                "attrs": {
-                  "src": "https://www.youtube.com/watch?v=FwOTs4UxQS4",
-                  "start": 0,
-                  "width": 640,
-                  "height": 480
-                }
               }
             ]
           }
@@ -268,5 +259,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T14:26:55.937Z"
+  "online_content_time": "2025-06-11T14:27:57.983Z"
 }
