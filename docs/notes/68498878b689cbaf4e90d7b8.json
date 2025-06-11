@@ -683,26 +683,6 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://d33wubrfki0l68.cloudfront.net/1671195964813-img/k8s_dashboard.png",
-          "alt": "K8s Dashboard",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://cdn.buttercms.com/S1KGv9QTSbCJ2JvcsbW6",
-          "alt": "Monitoring",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
         "type": "horizontalRule"
       },
       {
@@ -1154,5 +1134,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:53:07.626Z"
+  "online_content_time": "2025-06-11T13:53:23.590Z"
 }
