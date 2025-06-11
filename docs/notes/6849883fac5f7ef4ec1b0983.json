@@ -107,10 +107,35 @@
           {
             "type": "text",
             "text": "The core of the copyright problem with AI-generated content lies in the traditional legal requirement of human authorship."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "In its current form, copyright law primarily protects works that are the product of human intellect and creativity. Because AI is a tool, it doesn’t possess legal personhood or intent. Therefore, the act of an AI generating an image, a piece of music, or a block of text doesn’t neatly fit into the established definition of authorship."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is the copyright held by the user who prompted the AI? By the developers who created and trained the model? Or is the output inherently uncopyrightable and falls into the public domain? These are the thorny questions that legal systems around the world are grappling with, often struggling to keep pace with the rapid advancements in AI capabilities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The challenge is compounded by the datasets on which these AI models are trained. These massive collections of text, images, audio, and video often contain vast amounts of copyrighted material. While the models learn patterns and styles from this data, the extent to which this constitutes copyright infringement is another significant legal gray area."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:46:23.633Z"
+  "online_content_time": "2025-06-11T13:46:41.633Z"
 }
