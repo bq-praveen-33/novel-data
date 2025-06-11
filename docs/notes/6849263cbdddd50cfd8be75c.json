@@ -5,16 +5,397 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 2
+          "level": 1
         },
         "content": [
           {
             "type": "text",
-            "text": "Start Editing"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Data Science Roadmap 2024: The RPG Journey Begins!"
+          }
+        ]
+      },
+      {
+        "type": "taskList",
+        "content": [
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": true
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "New text added "
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "First task"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "H1 tag"
+                  }
+                ]
+              },
+              {
+                "type": "codeBlock",
+                "attrs": {
+                  "language": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "#include<iostream>\n#include<header>\n\nint main(){\nreturn 0;\n}\n"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://miro.medium.com/v2/resize:fill:32:32/1*g8oJoIIHqE_jOSth1LSWLw.jpeg",
+          "alt": "Roger G March",
+          "title": null,
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://medium.com/@rogergmarch?source=post_page---byline--0c9681bde038---------------------------------------",
+                  "target": "_blank",
+                  "rel": "noopener follow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer ag ah ai fe ak al am an ao ap aq ar as ip"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(36, 36, 36)"
+                }
+              }
+            ],
+            "text": "Roger G March"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Follow "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "6 min read Jan 8, 2024"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "50"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://miro.medium.com/v2/resize:fit:700/0*6h1tXrmeFAOa5xv-",
+          "alt": "",
+          "title": null,
+          "width": 700,
+          "height": 400
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Welcome, brave adventurers, to the thrilling and ever-evolving world of AI Engineering! Just like in a RPG, you’re embarking on an epic quest filled with challenges, learning, and leveling up. So, grab your gear, and let’s start this adventure to become a formidable AI Engineer."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "🌟 Level 1: The Python Apprentice"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Setting: In the mystical land of Data Science, you begin your journey in the Python Plains, a realm where the Python language flows like a gentle stream, nurturing the lands with its versatility and simplicity."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://miro.medium.com/v2/resize:fit:427/1*mWJmg0W73j6JZ_gUFSnmPg.png",
+          "alt": "",
+          "title": null,
+          "width": 427,
+          "height": 598
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Python Apprentice"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "🛠️ Gear Up:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Weapon: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Python"
+                  },
+                  {
+                    "type": "text",
+                    "text": " — A versatile and powerful blade, perfect for beginners yet favored by the masters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shield: Online "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Tutorials"
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Defend yourself against confusion and doubts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Armor: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Persistence"
+                  },
+                  {
+                    "type": "text",
+                    "text": " — Protects you from the inevitable bugs and errors."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "📖 Quests:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Python Syntax Scrolls: Your first quest is to master the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Python Syntax"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Scrolls. From "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "variables"
+                  },
+                  {
+                    "type": "text",
+                    "text": " to "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "loops"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", these scrolls are the foundation of your coding journey."
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T06:46:22.033Z"
+  "online_content_time": "2025-06-11T06:46:47.947Z"
 }
