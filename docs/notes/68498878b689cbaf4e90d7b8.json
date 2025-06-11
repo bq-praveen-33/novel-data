@@ -189,14 +189,11 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "Betaque’s infrastructure leverages "
+            "text": "etaque’s infrastructure leverages "
           },
           {
             "type": "text",
@@ -1147,5 +1144,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:51:59.593Z"
+  "online_content_time": "2025-06-11T13:52:28.592Z"
 }
