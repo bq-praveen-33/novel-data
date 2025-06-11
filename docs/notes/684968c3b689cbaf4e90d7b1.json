@@ -329,121 +329,6 @@
         "content": [
           {
             "type": "text",
-            "text": "1. "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Adjacency List"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "cpp"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "CopyEdit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "vector<int> adj[100]; // for 100 nodes adj[0].push_back(1); // edge from node 0 to 1 "
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "2. "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Adjacency Matrix"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "cpp"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "CopyEdit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "int adj[100][100] = {0}; // matrix of 0s adj[0][1] = 1; // edge from 0 to 1 "
-          }
-        ]
-      },
-      {
-        "type": "horizontalRule"
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
             "text": "🔍 BFS (Breadth-First Search)"
           }
         ]
@@ -454,18 +339,6 @@
           {
             "type": "text",
             "text": "Uses a queue. Useful for finding shortest paths in unweighted graphs."
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "cpp"
           }
         ]
       },
@@ -705,5 +578,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T11:33:46.568Z"
+  "online_content_time": "2025-06-11T11:34:43.858Z"
 }
