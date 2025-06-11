@@ -3,18 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Start Editing"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:52:26.427Z"
+  "online_content_time": "2025-06-11T13:52:50.628Z"
 }
