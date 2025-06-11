@@ -20,7 +20,447 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Many people think that not enough of us care about climate change, but the truth is quite different. Our World in Data recently shared an article called ‘More people care about climate change than you think’. It shows that we often underestimate how many people are really worried about climate change and the steps we need to take to address it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "An article from Nature about Climate Change found that most people want our leaders to do more. About 89% of people said they want to see more action from politicians on climate change. 86% think we all should do our part to fight global warming. And 69% said they would be willing to give a small part of their income, at least 1%, to help stop climate change."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "These numbers are important. They show that most people are not just aware of climate change, but they also want to do something about it. This goes against what we often hear — that people don’t care or don’t want to change. It’s clear that many people are ready to act and want our leaders to act too."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ourworldindata.org/climate-change-support?source=post_page-----f944593d1739---------------------------------------",
+                  "target": "_blank",
+                  "rel": "noopener  ugc nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "More people care about climate change than you think"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://ourworldindata.org/climate-change-support?source=post_page-----f944593d1739---------------------------------------",
+                  "target": "_blank",
+                  "rel": "noopener  ugc nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "The majority of people in every country support action on climate, but the public consistently underestimates this…"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://ourworldindata.org",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "ourworldindata.org"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It’s clear that many people believe in climate change, but there’s still a gap between this belief and what some of us think others believe. Part of this might be because we usually see ourselves in a good light but can be doubtful about others, especially those we don’t know well. But there’s another big reason for this gap: the spread of false information about climate change."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Extreme views often get more attention, especially on social media, where they can echo around in groups of people who all think the same way. This makes the problem look worse. What’s more, dramatic and polarizing headlines draw more clicks and attention. They can make it seem like there’s a big debate with two equal sides, even when that’s not true."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In reality, those who deny climate change are a small group, but they can be very loud. This global agreement among most people about climate change has led deniers to shift their focus. Instead of just saying climate change isn’t happening, they try to distract us or make us doubt the need for action. They waste time we don’t have, arguing about whether climate change is caused by humans, whether we need to do something, or even making extreme claims like saying wind and solar energy don’t work, that rising sea levels are good for coral reefs, or that climate scientists are just trying to scare us for their gain."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "These misleading ideas slow down our efforts to deal with climate change. We need to focus on real solutions and actions, not get stuck arguing over facts that are already clear."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://edition.cnn.com/2024/01/16/climate/climate-denial-misinformation-youtube/index.html?source=post_page-----f944593d1739---------------------------------------",
+                  "target": "_blank",
+                  "rel": "noopener  ugc nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What is 'new denial?' An alarming wave of climate misinformation is spreading on YouTube, watchdog…"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://edition.cnn.com/2024/01/16/climate/climate-denial-misinformation-youtube/index.html?source=post_page-----f944593d1739---------------------------------------",
+                  "target": "_blank",
+                  "rel": "noopener  ugc nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Many YouTubers undermining climate action no longer call global warming a hoax, but they are sowing doubt over the…"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://edition.cnn.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "edition.cnn.com"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Top misinformation examples"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the realm of climate change discussions, misinformation can often cloud public understanding. Below, we confront and clarify some of the most commonly circulated myths about climate change. Each point represents a prevalent misconception, followed by the facts and scientific evidence that debunk these erroneous beliefs."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. “Scientists do not agree about climate change.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "In reality, there is a strong consensus among scientists that climate change is happening and is caused by human activities. Extensive research and numerous studies support this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. “Climate change is a political hoax.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "Climate change is a scientific fact, not a political invention. It’s based on data and research from across the world, not political agendas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. “We can’t possibly know that humans are causing climate change.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "Scientific evidence clearly shows human activities, like burning fossil fuels and deforestation, are major drivers of climate change. It’s not just a guess."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. “The climate is always changing, today is no different.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "While it’s true that the climate has changed naturally over millions of years, the current rate of change is much faster and directly linked to human activities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "5. “There’s nothing we can do about climate change, so why bother.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "There are many effective actions we can take, from reducing emissions to investing in renewable energy. Every effort counts."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "6. “A temperature increase of 1.5 degrees C is no big deal.”"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "Even a small temperature rise can have significant effects on weather patterns, ecosystems, and sea levels. It’s a big deal."
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "image",
@@ -34,5 +474,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T10:22:42.775Z"
+  "online_content_time": "2025-06-11T10:23:06.596Z"
 }
