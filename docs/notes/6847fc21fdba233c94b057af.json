@@ -50,97 +50,6 @@
           {
             "type": "text",
             "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "paragraphs"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "stylized text"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "images"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "videos"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "YouTube embeds"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "bullet points"
-          },
-          {
-            "type": "text",
-            "text": ", and "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "numbered lists"
-          },
-          {
-            "type": "text",
-            "text": "—ideal for testing all types of content formatting in one place."
           }
         ]
       },
@@ -1115,5 +1024,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T06:48:58.263Z"
+  "online_content_time": "2025-06-11T06:49:20.036Z"
 }
