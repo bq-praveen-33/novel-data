@@ -6,7 +6,13 @@
         "type": "heading",
         "attrs": {
           "level": 2
-        }
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Demystifying Dynamic Programming: A Step-by-Step Journey with Unique Paths"
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -1108,5 +1114,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:47:31.877Z"
+  "online_content_time": "2025-06-11T13:48:40.875Z"
 }
