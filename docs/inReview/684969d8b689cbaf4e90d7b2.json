@@ -514,18 +514,6 @@
         "content": [
           {
             "type": "text",
-            "text": "cpp"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
             "text": "#include <iostream>\n#include <vector>\n#include <queue>\nusing namespace std;\n\nvoid topoSort(int n, vector<int> adj[]) {\n    vector<int> inDegree(n, 0);\n    for (int u = 0; u < n; u++)\n        for (int v : adj[u])\n            inDegree[v]++;\n\n    queue<int> q;\n    for (int i = 0; i < n; i++)\n        if (inDegree[i] == 0)\n            q.push(i);\n\n    while (!q.empty()) {\n        int u = q.front(); q.pop();\n        cout << u << \" \";\n\n        for (int v : adj[u]) {\n            inDegree[v]--;\n            if (inDegree[v] == 0)\n                q.push(v);\n        }\n    }\n}\n"
           }
         ]
@@ -578,5 +566,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T11:35:16.727Z"
+  "online_content_time": "2025-06-11T11:37:28.150Z"
 }
