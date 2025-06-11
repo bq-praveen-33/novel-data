@@ -62,10 +62,55 @@
           {
             "type": "text",
             "text": "The implications are far-reaching, potentially impacting not only artists, musicians, and writers but also the very future of creative industries."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Let’s dig into the growing collision between AI, copyright law, and automated content enforcement systems — and what it could mean for the future of creative work."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We’ll close with my Product of the Week, which almost looks like it came out of a 1950s-era sci-fi horror movie: Orb, from Tools for Humanity, designed to prove you’re a human."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Who Owns AI-Generated Content?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The core of the copyright problem with AI-generated content lies in the traditional legal requirement of human authorship."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:46:01.633Z"
+  "online_content_time": "2025-06-11T13:46:23.633Z"
 }
