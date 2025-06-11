@@ -150,15 +150,12 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "twitter",
+        "attrs": {
+          "src": "https://x.com/ImDrPooja/status/1932657915699343696"
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:42:42.636Z"
+  "online_content_time": "2025-06-11T13:45:06.292Z"
 }
