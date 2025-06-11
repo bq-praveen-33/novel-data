@@ -107,23 +107,22 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
         "content": [
           {
-            "type": "text",
-            "marks": [
+            "type": "listItem",
+            "content": [
               {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(64, 64, 64)"
-                }
+                "type": "paragraph"
               }
-            ],
-            "text": "/"
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-11T13:55:28.316Z"
+  "online_content_time": "2025-06-11T13:55:39.637Z"
 }
