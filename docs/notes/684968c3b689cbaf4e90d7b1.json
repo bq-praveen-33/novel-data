@@ -682,7 +682,13 @@
             },
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Algorithm Use Case Time Complexity BFS Shortest path in unweighted graphs O(V + E) DFS Component traversal, cycle detection O(V + E) Dijkstra Shortest path in weighted graphs O((V + E) log V) Topological Sort DAG ordering O(V + E)"
+                  }
+                ]
               }
             ]
           }
@@ -699,5 +705,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-11T11:33:30.156Z"
+  "online_content_time": "2025-06-11T11:33:46.568Z"
 }
