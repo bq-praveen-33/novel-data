@@ -11,6 +11,16 @@
       {
         "type": "image",
         "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/Screenshot 2025-04-08 at 5.51.25 PM.png-55cc2dac-92cf-4f59-90bc-32f759e95d67",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
           "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/Screenshot 2025-04-08 at 5.52.37 PM.png-0b254328-0265-46d3-8f3c-5e994299d0ea",
           "alt": null,
           "title": null,
@@ -40,5 +50,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-12T12:34:06.540Z"
+  "online_content_time": "2025-06-12T12:34:36.222Z"
 }
