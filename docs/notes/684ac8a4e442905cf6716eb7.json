@@ -6,15 +6,19 @@
         "type": "heading",
         "attrs": {
           "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Start Editing"
-          }
-        ]
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/Screenshot 2025-04-08 at 5.52.53 PM.png-44b1394f-8245-4f6b-acb9-fb3937637d80",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-12T12:31:33.569Z"
+  "online_content_time": "2025-06-12T12:32:04.159Z"
 }
