@@ -2862,7 +2862,16 @@
         "content": [
           {
             "type": "text",
-            "text": "PracticeDescription✅ Use multiple AZsTo achieve high availability and fault tolerance✅ Health checksUse both EC2 and ELB health checks to detect instance failures✅ Cooldown periodsPrevent over-scaling and unnecessary flapping✅ Graceful shutdownAllow time for draining in-flight requests before terminating✅ Secure listenersAlways prefer HTTPS over HTTP✅ Use lifecycle hooksCustomize instance initialization (e.g., install dependencies)✅ Monitor & test scalingSimulate load to test scaling policies✅ Use Launch Templates (not Launch Configs)Launch Templates support more features and flexibility"
+            "text": "PracticeDescription✅"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " Use multiple AZsTo achieve high availability and fault tolerance✅ Health checksUse both EC2 and ELB health checks to detect instance failures✅ Cooldown periodsPrevent over-scaling and unnecessary flapping✅ Graceful shutdownAllow time for draining in-flight requests before terminating✅ Secure listenersAlways prefer HTTPS over HTTP✅ Use lifecycle hooksCustomize instance initialization (e.g., install dependencies)✅ Monitor & test scalingSimulate load to test scaling policies✅ Use Launch Templates (not Launch Configs)Launch Templates support more features and flexibility"
           }
         ]
       },
@@ -3351,5 +3360,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-12T06:31:40.666Z"
+  "online_content_time": "2025-06-12T06:32:08.401Z"
 }
