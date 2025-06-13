@@ -19,15 +19,6 @@
         "content": [
           {
             "type": "text",
-            "text": "/"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
             "text": "this is the content added to the note for checking "
           }
         ]
@@ -105,5 +96,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-13T12:00:49.993Z"
+  "online_content_time": "2025-06-13T12:01:20.278Z"
 }
