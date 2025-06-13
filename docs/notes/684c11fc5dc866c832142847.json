@@ -144,33 +144,6 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/DBMS.png-82b24158-8da5-4de1-b623-ac59d72f498b",
-          "alt": null,
-          "title": null,
-          "width": 490,
-          "height": 275.019
-        }
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 4
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Table of contents"
-          }
-        ]
-      },
-      {
         "type": "orderedList",
         "attrs": {
           "tight": true,
@@ -182,216 +155,7 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "10 Best Database Management System for Software Developers"
-                  }
-                ]
-              },
-              {
-                "type": "bulletList",
-                "attrs": {
-                  "tight": true
-                },
-                "content": [
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "Oracle"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "MySQL"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "Microsoft SQL Server"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "PostgreSQL"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "MongoDB"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "Redis"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "ElasticSearch"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "MariaDB"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "IBM DB2"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "underline"
-                              }
-                            ],
-                            "text": "SQLite"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
+                "type": "paragraph"
               },
               {
                 "type": "heading",
@@ -409,6 +173,16 @@
                     "text": "10 Best Database Management System for Software Developers"
                   }
                 ]
+              },
+              {
+                "type": "image",
+                "attrs": {
+                  "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/DBMS.png-82b24158-8da5-4de1-b623-ac59d72f498b",
+                  "alt": null,
+                  "title": null,
+                  "width": 490,
+                  "height": 275.019
+                }
               },
               {
                 "type": "paragraph",
@@ -1493,5 +1267,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-13T12:22:55.741Z"
+  "online_content_time": "2025-06-13T12:23:43.461Z"
 }
