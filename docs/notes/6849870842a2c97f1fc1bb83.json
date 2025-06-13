@@ -3,62 +3,7 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "mailto:ADMINS=tarun.dubey@betaque.com",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                }
-              }
-            ],
-            "text": "ADMINS=tarun.dubey@betaque.com"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "mailto:ujjawal.chouhan@betaque.com",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                }
-              }
-            ],
-            "text": "ujjawal.chouhan@betaque.com"
-          },
-          {
-            "type": "text",
-            "text": ","
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "mailto:nikita.rani@betaque.com",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                }
-              }
-            ],
-            "text": "nikita.rani@betaque.com"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -215,5 +160,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-13T12:47:05.985Z"
+  "online_content_time": "2025-06-13T12:50:41.291Z"
 }
