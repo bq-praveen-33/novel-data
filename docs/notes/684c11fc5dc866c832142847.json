@@ -154,23 +154,6 @@
         }
       },
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "10 Best Database Management System for Software Developers"
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1249,5 +1232,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-13T12:24:30.792Z"
+  "online_content_time": "2025-06-13T12:24:48.263Z"
 }
