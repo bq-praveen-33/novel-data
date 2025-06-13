@@ -15,37 +15,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Atharv"
-          }
-        ]
-      },
-      {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "z"
-          }
-        ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/file-8a7d8c7b-c3cd-4f74-bdd5-152a42baba1a.png",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-06-13T10:03:24.718Z"
+  "online_content_time": "2025-06-13T10:04:00.158Z"
 }
