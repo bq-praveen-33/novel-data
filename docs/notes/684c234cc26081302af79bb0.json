@@ -58,14 +58,7 @@
                     "type": "italic"
                   }
                 ],
-                "text": "\"AI is not going to replace humans, but humans who use AI will replace those who don’t.\""
-              },
-              {
-                "type": "hardBreak"
-              },
-              {
-                "type": "text",
-                "text": "— Karim Lakhani, Harvard Business School Professor"
+                "text": "AI is not going to replace humans, but humans who use AI will replace those who don’t."
               }
             ]
           }
@@ -241,8 +234,11 @@
             ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-13T13:11:04.686Z"
+  "online_content_time": "2025-06-13T13:11:36.518Z"
 }
