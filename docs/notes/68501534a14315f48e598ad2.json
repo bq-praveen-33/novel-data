@@ -5,16 +5,21 @@
       {
         "type": "heading",
         "attrs": {
-          "level": 2
+          "level": 1
         },
         "content": [
           {
             "type": "text",
-            "text": "Start Editing"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Bootstrapping vs Fundraising: Which Strategy Works Best for Your Startup?"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-16T12:59:33.852Z"
+  "online_content_time": "2025-06-16T13:00:32.242Z"
 }
