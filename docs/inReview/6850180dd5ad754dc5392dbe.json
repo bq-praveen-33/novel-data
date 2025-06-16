@@ -1,0 +1,31 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Essential Cybersecurity Practices Every Business Should Follow in 2025"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-06-16T13:11:39.008Z"
+}
