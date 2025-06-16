@@ -13,8 +13,23 @@
             "text": "Start Editing"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "// components/DialogueCard.js\nimport React from \"react\";\n\nconst DialogueCard = ({ title, text, highlight }) => {\n  const highlightedText = text.replace(\n    highlight,\n    `<span class=\"highlight\">${highlight}</span>`\n  );\n\n  return (\n    <div className=\"dialogue-card\">\n      <h4 className=\"dialogue-title\">{title}</h4>\n      <p\n        className=\"dialogue-text\"\n        dangerouslySetInnerHTML={{ __html: highlightedText }}\n      />\n    </div>\n  );\n};\n\nexport default DialogueCard;\n"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-16T12:16:16.521Z"
+  "online_content_time": "2025-06-16T12:18:22.765Z"
 }
