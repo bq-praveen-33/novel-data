@@ -19,8 +19,18 @@
             "type": "hardBreak"
           }
         ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-025bc1e4-bf9b-4ba5-9b1f-f73722b24c35",
+          "alt": null,
+          "title": null,
+          "width": 928.892,
+          "height": 880.996
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-16T12:44:49.428Z"
+  "online_content_time": "2025-06-16T12:45:20.075Z"
 }
