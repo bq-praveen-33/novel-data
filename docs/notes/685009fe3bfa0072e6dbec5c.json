@@ -58,12 +58,20 @@
             "type": "listItem",
             "content": [
               {
+                "type": "paragraph"
+              },
+              {
+                "type": "youtube",
+                "attrs": {
+                  "src": "https://www.youtube.com/watch?v=358xI2QpWKU",
+                  "start": 0,
+                  "width": 640,
+                  "height": 480
+                }
+              },
+              {
                 "type": "paragraph",
                 "content": [
-                  {
-                    "type": "text",
-                    "text": "/"
-                  },
                   {
                     "type": "hardBreak"
                   }
@@ -106,5 +114,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-16T12:16:43.128Z"
+  "online_content_time": "2025-06-16T12:17:11.646Z"
 }
