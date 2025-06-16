@@ -6,6 +6,800 @@
         "type": "paragraph"
       },
       {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Building Self-Confidence"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "To achieve our personal goals and make ourselves truly happy, we need to develop and maintain our self-confidence and self-respect."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "To do this we need to understand the difference between worldly self-confidence and authentic self-confidence, and be able to distinguish self-confidence from selfish intentions that prevent us from fulfilling our wish to be truly happy. By using tried and tested methods we can then build and strengthen our self-confidence so that it remains stable and long-lasting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "In his book, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "How to Transform Your Life"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", Venerable Geshe Kelsang Gyatso explains clearly how to build authentic self-confidence and how to bring this experience into modern, daily life. Extracts from the book, also available as a free eBook download, are included in the explanation that follows."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://kadampa.org/wp-content/uploads/2016/12/meditation_selfhelp-768x512.png",
+          "alt": "Learn meditation with the free ebook, How to Transform Your Life",
+          "title": "meditation_selfhelp-768x512",
+          "width": 768,
+          "height": 512
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 94, 173)"
+                }
+              }
+            ],
+            "text": "“These instructions are scientific methods to improve our human nature.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              }
+            ],
+            "text": "Download the FREE eBook"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "(No sign-up required)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "What is Authentic Self-Confidence?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "If we look honestly at our own life, and the lives of those around us, we will see that in searching for happiness we spend most of our time and energy improving external conditions, such as increasing our wealth and possessions, enhancing our reputation or finding a better partner. However, we can see through our own experience that even if we are successful in acquiring these external conditions, we will never enjoy the lasting happiness that we all desire. If we try to develop self-confidence based on our ability to acquire better worldly conditions - 'worldly self-confidence' - we will always be left feeling incomplete and disappointed. Worldly self-confidence will never be fully realized or remain stable because we can never be completely satisfied with or hold on to our worldly conditions and achievements."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "In the introduction of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "How to Transform Your Life"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", Venerable Geshe Kelsang Gyatso says:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "‘Since this world evolved, human beings have spent almost all their time and energy improving external conditions in their search for happiness and a solution to their problems. What has been the result? Instead of their wishes being fulfilled, human suffering and problems have continued to increase while the experience of happiness and peace is decreasing. This clearly shows that until now we have not found a correct method for reducing our problems and increasing happiness.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Venerable Geshe Kelsang Gyatso"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "How to Transform Your Life"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://kadampa.org/wp-content/uploads/2017/01/self-confidence-05-1.jpg",
+          "alt": "Lots of people on a busy city street",
+          "title": "self-confidence-05",
+          "width": 1200,
+          "height": 1200
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "There is, however, a type of self-confidence that is completely free from worldly aspirations. 'Authentic self-confidence' is based on our wish to achieve spiritual goals and can never lead to harm or dissatisfaction. For example, self-confidence based on a wish to benefit others through increasing our love and compassion for them will be strong and stable and always lead to good results."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Self-confidence based on spiritual aspirations makes our human life precious and meaningful because spiritual goals are the only conditions that actually lead to the lasting happiness we desire. Venerable Geshe Kelsang Gyatso explains:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "‘If we use our human life to accomplish spiritual realizations, it becomes immensely meaningful. By using it in this way, we actualize our full potential and progress from the state of an ordinary, ignorant being to that of a fully enlightened being, the highest of all beings; and when we have done this we will have the power to benefit all living beings without exception. Thus, by using our human life for gaining spiritual realizations we can solve all our human problems and fulfil all our own and others’ wishes. What could be more meaningful than this?’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Understanding this we can see that authentic self-confidence can be gained only by attaining spiritual realizations through inner development."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Self-confidence & self-respect rather than self-importance"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "As well as understanding what authentic self-confidence is, we also need to avoid confusing it with any type of selfishness or harmful intention. Venerable Geshe Kelsang Gyatso identifies the harmful attitude of ‘self-cherishing’ as one such mind. This is a mind that thinks I am important while neglecting others, and he explains that it is at the root of all of our problems and unhappiness. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "How to Transform Your Life,"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " he says:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "‘We may sometimes confuse self-cherishing with self-confidence and self-respect, but in reality they are completely unrelated. It is not out of self-respect that we always want the best for ourself, nor is it out of self-respect that we deceive or exploit others, or fail in our responsibilities to them. If we check honestly, we will see that it is our self-cherishing that causes us to act in ways that rob us of our self-respect and destroy our confidence. Some people are driven by their self-cherishing to the depths of alcoholism or drug addiction, completely losing any modicum of self-respect in the process.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://kadampa.org/wp-content/uploads/2017/01/How-to-transform-your-life-336x280-lrg-rectangle.png",
+          "alt": "How to Transform Your Life - Free eBook Download",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Authentic self-confidence, therefore, is unmixed with selfish minds such as self-cherishing, but rather is associated with beneficial minds that lead only to happiness for ourself and others."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "How to be Confident"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Having correctly understood the difference between authentic self-confidence and harmful minds such as self-cherishing, we can learn how to be confident by being steadfast in our practice of training the mind on the path of compassion and wisdom."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Buddha gave many thousands of teachings, but the root of all the great realizations of the Buddhist path to enlightenment are the meditations on love, compassion and the supreme good heart of bodhichitta - a mind that spontaneously wishes to attain enlightenment for the benefit of all living beings. Training our mind in these meditations will give us great confidence that is based on our wish and capacity to benefit others. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://howtotyl.com/?utm_source=adwords&utm_medium=link&utm_content=visit&utm_campaign=httyl-themed-pages",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "How to Transform Your Life"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://howtotyl.com/?utm_source=adwords&utm_medium=link&utm_content=visit&utm_campaign=httyl-themed-pages",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", available as a free eBook download"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", Venerable Geshe Kelsang Gyatso says:"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "‘... the more we cherish others and act to benefit them, the greater our self-respect and confidence will become. The Bodhisattva vow, for example, in which the Bodhisattva promises to overcome all faults and limitations, attain all good qualities and work until all living beings are liberated from the sufferings of samsara, is an expression of tremendous self-confidence, far beyond that of any self-centred being.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "The first step in achieving this goal is to reduce our desire for our own happiness, which is our self-cherishing, and to replace this with a mind that wishes others to be happy. As Venerable Geshe Kelsang Gyatso explains:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "'If we sincerely practise every day stopping wishing for ourself to be happy all the time and instead wishing for others to be happy all the time, then we will understand from our own experience that through this practice, which prevents attachment to the fulfilment of our own wishes, we will have no experience of problems or unhappiness at all. Thus, if we really want pure and everlasting happiness and freedom from misery, we must learn to control our mind, principally our desire.'"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://kadampa.org/wp-content/uploads/2017/01/self-confidence-02-1.jpg",
+          "alt": "Man smiling and full of self-confidence",
+          "title": "happy-man",
+          "width": 1200,
+          "height": 799
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "If in our daily life we put effort into developing and improving our mind that cherishes others, eventually we will become a great being, a Bodhisattva, and our beneficial influence will extend well beyond the limitations of the present level of our imagination."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "How to Transform Your Life - A Blissful Journey"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "How to Transform Your Life"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", by Venerable Geshe Kelsang Gyatso, provides all the necessary techniques and practical advice we need to make real, inner development and transformation. In the Introduction, he says:"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "‘Through practising the instructions presented in this book we can transform our life from a state of misery into one of pure and everlasting happiness. These instructions are scientific methods to improve our human nature. Everybody needs to be good-natured with a good heart, because in this way we can solve our own problems as well as those of others, and we can make our human life meaningful. Every living being has the same basic wish – to be happy and avoid suffering. Even newborn babies, animals and insects have this wish. It has been our main wish since beginningless time and it is with us all the time, even during our sleep. We spend our whole life working hard to fulfil this wish.’"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://kadampa.org/wp-content/uploads/2016/12/Hero-Book-Phone.png",
+          "alt": "How to Transform Your Life, available as a paperback and an eBook",
+          "title": "How to Transform Your Life, available as a paperback and an eBook",
+          "width": 494,
+          "height": 528
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              }
+            ],
+            "text": "Download the FREE eBook"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "(No sign-up required)"
+          }
+        ]
+      },
+      {
         "type": "image",
         "attrs": {
           "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-bd7e2dda-4e59-44e9-8631-c54ff77661f4",
@@ -17,5 +811,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-16T13:00:46.998Z"
+  "online_content_time": "2025-06-16T13:01:18.730Z"
 }
