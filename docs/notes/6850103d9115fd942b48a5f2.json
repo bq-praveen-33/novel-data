@@ -3,6 +3,18 @@
     "type": "doc",
     "content": [
       {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Essential Cyber security practices every business should follow in 2025"
+          }
+        ]
+      },
+      {
         "type": "paragraph",
         "content": [
           {
@@ -10,6 +22,19 @@
             "text": "As cyber threats grow more sophisticated, businesses of all sizes must prioritise security to protect sensitive data and maintain customer trust. Whether you're a startup or an enterprise, these five cyber security best practices can help safeguard your digital assets in 2025."
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/growtika-Jcw-i0fSqXg-unsplash.jpg-6ba4fb0c-25dc-4aca-a660-33837a4b7907",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       },
       {
         "type": "heading",
@@ -184,18 +209,8 @@
       },
       {
         "type": "paragraph"
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/growtika-Jcw-i0fSqXg-unsplash.jpg-c5be7782-adb8-438d-9319-9f46b9c3f7ec",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-06-16T12:40:04.603Z"
+  "online_content_time": "2025-06-16T12:43:38.268Z"
 }
