@@ -15,9 +15,16 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-3337f788-85b2-44b0-9732-c8daeaa6f518",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-17T13:16:16.363Z"
+  "online_content_time": "2025-06-17T13:16:57.721Z"
 }
