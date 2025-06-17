@@ -92,8 +92,547 @@
             "text": "We’ll close with my Product of the Week, which almost looks like it came out of a 1950s-era sci-fi horror movie: Orb, from Tools for Humanity, designed to prove you’re a human."
           }
         ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Who Owns AI-Generated Content?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The core of the copyright problem with AI-generated content lies in the traditional legal requirement of human authorship."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In its current form, copyright law primarily protects works that are the product of human intellect and creativity. Because AI is a tool, it doesn’t possess legal personhood or intent. Therefore, the act of an AI generating an image, a piece of music, or a block of text doesn’t neatly fit into the established definition of authorship."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is the copyright held by the user who prompted the AI? By the developers who created and trained the model? Or is the output inherently uncopyrightable and falls into the public domain? These are the thorny questions that legal systems around the world are grappling with, often struggling to keep pace with the rapid advancements in AI capabilities."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The challenge is compounded by the datasets on which these AI models are trained. These massive collections of text, images, audio, and video often contain vast amounts of copyrighted material. While the models learn patterns and styles from this data, the extent to which this constitutes copyright infringement is another significant legal gray area."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is the AI essentially creating derivative works on a massive scale? Or is it merely learning underlying principles in a way that doesn’t trigger copyright violations? The answers to these questions will have profound implications for the legality and commercial viability of AI-generated content."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The Double-Edged Sword of Content ID and AI’s Legacy"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "One particularly troubling aspect of this emerging legal landscape revolves around the potential misuse of content identification systems like YouTube’s Content ID."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While designed to protect copyright holders from unauthorized use of their content, Content ID, in the context of AI, could create a perverse incentive where an AI-generated work that has learned from a human creator’s style could be used to block that very creator from monetizing their "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "future"
+          },
+          {
+            "type": "text",
+            "text": " human-created work."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here’s how this problematic scenario could unfold:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A human musician develops a distinctive and popular musical style."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "An AI model is trained on a large dataset that includes this musician’s work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The AI generates a new musical piece that’s not a direct copy but strongly resembles the stylistic hallmarks of the original artist."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This AI-generated piece is uploaded and registered with a content identification system like Content ID."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Later, the human musician releases a new original work in their signature style."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Because the AI’s prior output has been “fingerprinted” by Content ID, the system may incorrectly flag the human’s new work as infringing on the AI-generated content."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As a result, the original creator could face takedowns, blocked monetization, or loss of control over their own music — all due to algorithmic confusion over who was the true source of the style."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "A Primer in Algorithmic Copyright Enforcement"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To understand how the scenario outlined above becomes plausible, it’s important to grasp "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://support.google.com/youtube/answer/2797370",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "how YouTube’s Content ID system operates"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Content ID is an automated tool that scans uploaded videos against a database of audio and visual reference files submitted by copyright holders. When a match is detected, the system issues a Content ID claim. Depending on the copyright owner’s settings, this can result in one of three actions:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Block the video from being viewed"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Monetize the video by running ads and, in some cases, share revenue with the uploader"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Track the video’s viewership statistics"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "These actions can also be geography-specific — for example, a video might be monetized in one region and blocked in another."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The matching process relies on algorithms that detect similarities in audio and visual content, making it effective at identifying exact or near-exact copies. However, it doesn’t account for context — such as fair use, parody, or creative influence — which introduces problems when dealing with AI-generated content."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As mentioned earlier, when an AI model produces new material that resembles existing works, Content ID’s reliance on algorithmic matching without human oversight can lead to overreach and unintended takedowns."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "AI Blurs Ownership Beyond the Arts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The challenges posed by copyright and AI-generated content are not isolated to the creative arts. They represent a broader trend in which AI blurs the lines of ownership, authorship, and responsibility across various domains."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Consider the implications for scientific research, where AI algorithms can analyze massive datasets and generate novel hypotheses or even draft scientific papers. Who owns the intellectual property rights to these AI-driven discoveries? The researchers who guided the AI? The developers of the AI model? Or is the output considered a collective effort, potentially hindering traditional models of academic credit and ownership?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Similarly, in the realm of journalism, AI is increasingly being used to generate news articles and summaries. While this can improve efficiency and speed, it raises questions about journalistic integrity, factual accuracy, and, again, authorship. If an AI algorithm compiles and writes a news report based on publicly available data, who is responsible for its accuracy, and who holds the editorial rights?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "These examples illustrate how the challenges we face with copyright and AI-generated art are symptomatic of a broader societal need to reassess our understanding of creativity, ownership, and the role of intelligent machines in various aspects of human endeavor."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The legal frameworks and ethical considerations developed for a world dominated by human creation may not be adequate for navigating a future where AI plays an increasingly significant role in generating content and knowledge."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Wrapping Up: Rethinking Ownership in an AI World"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The intersection of copyright law and AI-generated content presents a complex web of legal and ethical dilemmas. The lack of clear guidelines on authorship, the complexities of training data, and the potential for misuse of content identification systems, such as Content ID, create significant challenges for creators and the industries they inhabit."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The scenario where an AI trained on a human creator’s work could be used to block that creator’s future monetization underscores the urgency of addressing these issues. These problems extend beyond the realm of artistic creation, touching upon questions of ownership and responsibility in scientific research, journalism, and other fields where AI is playing an increasingly prominent role."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As AI continues to evolve at a rapid pace, a comprehensive and thoughtful re-evaluation of our legal frameworks and ethical principles is crucial to ensure a fair and equitable future for human creators in an increasingly AI-driven world."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The Tools for Humanity Orb"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Are You Human, or Just Really Good at Captchas?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here in Bend, where our biggest existential threat is usually choosing between a hazy IPA and a crisp pilsner, Sam Altman’s Tools for Humanity "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.toolsforhumanity.com/orb",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Orb"
+          },
+          {
+            "type": "text",
+            "text": " has rolled into the conversation like a chrome-plated alien eyeball. Its mission? To scan your iris and definitively prove you’re not a robot."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In our increasingly AI-saturated future, verifying your fleshy humanity might just become the new must-have accessory."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Orb itself looks like something out of a low-budget sci-fi flick, all shiny and vaguely ominous. It promises to peer into your very soul — or at least your iris pattern, which is supposedly as unique as a snowflake. This verification process grants you a “World ID,” a digital passport that proves you’re a genuine Homo sapiens, not some silicon-based life form cleverly disguised in a human suit."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-17T10:57:17.721Z"
+  "online_content_time": "2025-06-17T10:58:04.175Z"
 }
