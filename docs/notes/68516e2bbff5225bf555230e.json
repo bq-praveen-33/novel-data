@@ -3,18 +3,15 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
+        "type": "paragraph"
+      },
+      {
+        "type": "twitter",
         "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Start Editing"
-          }
-        ]
+          "src": "https://x.com/Write/status/1765884209527394325?lang=en"
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-17T13:31:24.320Z"
+  "online_content_time": "2025-06-17T13:31:49.195Z"
 }
