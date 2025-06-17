@@ -97,9 +97,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "youtube",
         "attrs": {
           "src": "https://youtu.be/LrkAORPiaEA?feature=shared",
@@ -107,9 +104,6 @@
           "width": 640,
           "height": 480
         }
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "heading",
@@ -502,5 +496,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-17T11:01:45.307Z"
+  "online_content_time": "2025-06-17T13:32:41.106Z"
 }
