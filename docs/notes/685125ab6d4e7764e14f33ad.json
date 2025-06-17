@@ -24,15 +24,6 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "changed text to be rejected"
-          }
-        ]
-      },
-      {
         "type": "image",
         "attrs": {
           "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/growtika-Jcw-i0fSqXg-unsplash.jpg-6bbb4b88-b19c-4c48-bde5-4b58fd264c3e",
@@ -44,5 +35,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-17T08:47:07.463Z"
+  "online_content_time": "2025-06-17T08:49:44.823Z"
 }
