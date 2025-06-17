@@ -21,6 +21,15 @@
         ]
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "yup lets check the emoji"
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       },
       {
@@ -35,5 +44,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-17T10:55:27.386Z"
+  "online_content_time": "2025-06-17T10:59:48.527Z"
 }
