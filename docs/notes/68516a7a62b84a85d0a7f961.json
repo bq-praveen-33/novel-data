@@ -15,6 +15,16 @@
         ]
       },
       {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-3337f788-85b2-44b0-9732-c8daeaa6f518",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
         "type": "paragraph",
         "content": [
           {
@@ -51,16 +61,33 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-3337f788-85b2-44b0-9732-c8daeaa6f518",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Today, employers aren’t just looking for a perfect match in qualifications. They want people who can grow, collaborate, and bring a unique perspective to their teams. This is where transferable skills shine. They allow candidates to pivot into new roles with confidence and demonstrate that success is not only about where you’ve been, but about what you’ve learned along the way."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For those navigating their own career path, understanding and valuing your transferable skills is more important than ever. It starts with self-awareness—recognizing patterns in your strengths and contributions across different settings. Once you know your core skills, the key is to communicate them effectively, both in writing and in person."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As the world of work continues to change, one thing is clear: the people who thrive are not just those with the most impressive résumés, but those who can carry their skills from one challenge to the next, with purpose and confidence. Transferable skills aren’t just tools—they’re the thread that ties together a truly resilient and dynamic career."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-17T13:18:48.721Z"
+  "online_content_time": "2025-06-17T13:19:25.598Z"
 }
