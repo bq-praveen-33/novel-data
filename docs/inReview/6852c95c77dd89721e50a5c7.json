@@ -1,0 +1,40 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Editing "
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "I am adding more text."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/Screenshot%202025-04-08%20at%205.52.53%E2%80%AFPM.png-c50cadfa-4fc7-4b7c-8252-0a84ba5e76ad",
+          "alt": null,
+          "title": null,
+          "width": 243,
+          "height": 424.042
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-06-18T14:12:10.542Z"
+}
