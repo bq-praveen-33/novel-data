@@ -15,13 +15,22 @@
         ]
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "S"
+          }
+        ]
+      },
+      {
         "type": "image",
         "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-cbab9a21-32ed-4dce-8c7a-4951448e4d4e",
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/image/image.png-6d9ac5a2-47ea-48aa-9a38-28a6fc2fb1f9",
           "alt": null,
           "title": null,
-          "width": 1281,
-          "height": 721.093
+          "width": null,
+          "height": null
         }
       },
       {
@@ -29,7 +38,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Software as a Service (SaaS) represents a significant shift in how software is distributed and utilized in today’s business landscape, incorporating modern tools like "
+            "text": "oftware as a Service (SaaS) represents a significant shift in how software is distributed and utilized in today’s business landscape, incorporating modern tools like "
           },
           {
             "type": "text",
@@ -335,5 +344,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-18T14:02:56.070Z"
+  "online_content_time": "2025-06-18T14:03:21.721Z"
 }
