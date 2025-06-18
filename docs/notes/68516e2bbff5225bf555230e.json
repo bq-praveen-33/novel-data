@@ -3,37 +3,18 @@
     "type": "doc",
     "content": [
       {
-        "type": "bulletList",
+        "type": "heading",
         "attrs": {
-          "tight": true
+          "level": 2
         },
         "content": [
           {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "this is articale"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph"
-              }
-            ]
+            "type": "text",
+            "text": "Start Editing"
           }
         ]
-      },
-      {
-        "type": "twitter",
-        "attrs": {
-          "src": "https://x.com/Write/status/1765884209527394325?lang=en"
-        }
       }
     ]
   },
-  "online_content_time": "2025-06-18T12:45:58.516Z"
+  "online_content_time": "2025-06-18T12:54:55.103Z"
 }
