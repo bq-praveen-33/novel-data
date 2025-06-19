@@ -19,11 +19,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/p"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/6853f7b6480a06650bb4754d",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Untitled"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-19T11:41:28.718Z"
+  "online_content_time": "2025-06-19T11:42:58.708Z"
 }
