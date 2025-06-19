@@ -1,17 +1,17 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
-      },
-      "content": [
-        {
-          "type": "text",
-          "text": "Start Editing"
-        }
-      ]
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is the first blog i am writing."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-06-19T07:42:38.946Z"
 }
