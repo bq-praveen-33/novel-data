@@ -3,36 +3,73 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
+        "type": "table",
         "content": [
           {
-            "type": "text",
-            "text": "Start Editing"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              }
+            ]
+          },
           {
-            "type": "text",
-            "text": "/"
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
+              }
+            ]
           }
         ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-19T10:30:42.474Z"
+  "online_content_time": "2025-06-19T13:03:14.635Z"
 }
