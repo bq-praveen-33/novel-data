@@ -28,11 +28,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/pag"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/6853f658ccdf752d9023244c",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "ededded"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-19T11:36:55.771Z"
+  "online_content_time": "2025-06-19T11:37:10.877Z"
 }
