@@ -19,11 +19,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/p"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/6853f6c3480a06650bb4754a",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "page 32.4"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-19T11:38:44.688Z"
+  "online_content_time": "2025-06-19T11:38:55.032Z"
 }
