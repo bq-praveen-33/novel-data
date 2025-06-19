@@ -22,11 +22,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/6853c89056a6227b7f23362b",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "testing"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-19T08:21:37.917Z"
+  "online_content_time": "2025-06-19T08:21:48.055Z"
 }
