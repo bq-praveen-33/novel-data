@@ -4,8 +4,18 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685555061a4446b0ca10b1bc/images/growtika-Jcw-i0fSqXg-unsplash.jpg-5dff4698-097c-4aba-b790-644256f1132f",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-20T12:33:27.491Z"
+  "online_content_time": "2025-06-20T12:33:43.296Z"
 }
