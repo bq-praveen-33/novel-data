@@ -18,12 +18,18 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/heal"
+          }
+        ]
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-20T03:54:07.574Z"
+  "online_content_time": "2025-06-20T03:55:38.078Z"
 }
