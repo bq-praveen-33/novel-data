@@ -27,7 +27,19 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": null,
+          "url": null,
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "pending",
+          "totalUptime": null,
+          "totalDowntime": null,
+          "lastDownAt": null
+        }
       },
       {
         "type": "healthCheck",
@@ -46,5 +58,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-20T08:03:40.419Z"
+  "online_content_time": "2025-06-20T08:04:40.950Z"
 }
