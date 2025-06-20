@@ -18,12 +18,21 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": 1750396361052,
+          "url": "busdkfjaklsd.com",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": "asdfasdf",
+          "status": "up"
+        }
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-20T03:55:53.855Z"
+  "online_content_time": "2025-06-20T05:14:49.294Z"
 }
