@@ -22,11 +22,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/page"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/68550890da11d391bee88129",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Page1.1"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-20T07:06:49.213Z"
+  "online_content_time": "2025-06-20T07:07:07.262Z"
 }
