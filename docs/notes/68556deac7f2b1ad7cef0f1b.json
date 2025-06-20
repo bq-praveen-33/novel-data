@@ -3,14 +3,19 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
         "content": [
           {
             "type": "text",
-            "text": "Over several decades as an industry analyst, I have followed the evolution of telecom, wireless, broadband, pay TV, and more. Today, a new transformation is taking shape. Artificial intelligence and 5G wireless — both part of the broader telecom ecosystem — are now converging to create intelligent, self-optimizing networks that are reshaping industries from telecommunications to health care."
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The AI–5G Convergence Is Shaping the Future of Telecom"
           }
         ]
       },
@@ -20,9 +25,18 @@
           "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68556deac7f2b1ad7cef0f1b/images/image.png-3cee0897-ab4d-4754-841a-67c25bc7032d",
           "alt": null,
           "title": null,
-          "width": 804,
-          "height": 418.871
+          "width": 942,
+          "height": 490.954
         }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Over several decades as an industry analyst, I have followed the evolution of telecom, wireless, broadband, pay TV, and more. Today, a new transformation is taking shape. Artificial intelligence and 5G wireless — both part of the broader telecom ecosystem — are now converging to create intelligent, self-optimizing networks that are reshaping industries from telecommunications to health care."
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -144,5 +158,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-20T14:26:20.807Z"
+  "online_content_time": "2025-06-20T14:27:09.509Z"
 }
