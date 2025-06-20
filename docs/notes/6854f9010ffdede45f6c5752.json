@@ -4,26 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "healthCheck",
-        "attrs": {
-          "id": 1750399246420,
-          "url": "https://google.com",
-          "method": "GET",
-          "port": null,
-          "interval": 5000,
-          "webhook": null,
-          "status": "down"
-        }
       }
     ]
   },
-  "online_content_time": "2025-06-20T06:02:42.891Z"
+  "online_content_time": "2025-06-20T06:35:03.906Z"
 }
