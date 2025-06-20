@@ -1,17 +1,47 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Editing"
+          }
+        ]
       },
-      "content": [
-        {
-          "type": "text",
-          "text": "Start Editing"
-        }
-      ]
-    }
-  ]
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/6854f607dfb3e7fb28722fae",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "child page"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-06-20T05:48:04.166Z"
 }
