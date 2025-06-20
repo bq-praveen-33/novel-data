@@ -3,15 +3,42 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": 1750398204006,
+          "url": "https://betaque.com",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "up"
+        }
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": 1750398194506,
+          "url": "https://google.com",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "down"
+        }
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": 1750398183955,
+          "url": "https://testing.com",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "down"
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-20T05:40:43.649Z"
+  "online_content_time": "2025-06-20T05:44:48.882Z"
 }
