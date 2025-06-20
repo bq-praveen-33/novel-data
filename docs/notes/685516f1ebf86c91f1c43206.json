@@ -10,11 +10,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/pa"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/68551710ebf86c91f1c43207",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "delete child 1"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-20T08:08:48.679Z"
+  "online_content_time": "2025-06-20T08:09:01.166Z"
 }
