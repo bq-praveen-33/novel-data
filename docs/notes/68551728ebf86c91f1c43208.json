@@ -25,8 +25,21 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68551728ebf86c91f1c43208/images/vecteezy_green-liquid-effects-background_7325473.jpg-31e5d525-425a-4441-8ed0-0ca46124ee9c",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-20T08:09:58.128Z"
+  "online_content_time": "2025-06-20T08:11:56.406Z"
 }
