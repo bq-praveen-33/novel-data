@@ -3,7 +3,21 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The AI–5G Convergence Is Shaping the Future of Telecom"
+          }
+        ]
       },
       {
         "type": "image",
@@ -11,11 +25,11 @@
           "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68556deac7f2b1ad7cef0f1b/images/image.png-3cee0897-ab4d-4754-841a-67c25bc7032d",
           "alt": null,
           "title": null,
-          "width": null,
-          "height": null
+          "width": 971,
+          "height": 505.597
         }
       }
     ]
   },
-  "online_content_time": "2025-06-20T14:20:16.990Z"
+  "online_content_time": "2025-06-20T14:20:57.807Z"
 }
