@@ -3,36 +3,15 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Start Editing"
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       },
       {
-        "type": "healthCheck",
-        "attrs": {
-          "id": 1750396361052,
-          "url": "busdkfjaklsd.com",
-          "method": "GET",
-          "port": null,
-          "interval": 5000,
-          "webhook": "asdfasdf",
-          "status": "up"
-        }
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-20T05:14:49.294Z"
+  "online_content_time": "2025-06-20T05:40:43.649Z"
 }
