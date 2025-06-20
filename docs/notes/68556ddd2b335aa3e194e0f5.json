@@ -3,22 +3,27 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "blockquote",
         "content": [
           {
-            "type": "text",
-            "marks": [
+            "type": "paragraph",
+            "content": [
               {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.chrismytton.com/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "mr-auto font-thin text-4xl"
-                }
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.chrismytton.com/",
+                      "target": "_blank",
+                      "rel": "noopener noreferrer nofollow",
+                      "class": "mr-auto font-thin text-4xl"
+                    }
+                  }
+                ],
+                "text": "Chris Mytton"
               }
-            ],
-            "text": "Chris Mytton"
+            ]
           }
         ]
       },
@@ -27,48 +32,7 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.chrismytton.com/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "hover:underline"
-                }
-              }
-            ],
-            "text": "Home"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.chrismytton.com/articles/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "hover:underline"
-                }
-              }
-            ],
-            "text": "Articles"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.chrismytton.com/videos/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "hover:underline"
-                }
-              }
-            ],
-            "text": "Videos"
+            "text": "HomeArticlesVideos"
           }
         ]
       },
@@ -346,5 +310,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-20T14:20:13.190Z"
+  "online_content_time": "2025-06-20T14:20:54.832Z"
 }
