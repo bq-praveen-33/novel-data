@@ -1,17 +1,20 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/page"
+          }
+        ]
       },
-      "content": [
-        {
-          "type": "text",
-          "text": "Start Editing"
-        }
-      ]
-    }
-  ]
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-06-20T08:02:03.992Z"
 }
