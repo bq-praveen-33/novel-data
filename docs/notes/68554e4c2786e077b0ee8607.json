@@ -7,11 +7,24 @@
         "content": [
           {
             "type": "text",
-            "text": "test<h1>hellow world<h1/>"
+            "text": "test<h1>hellow world<"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "h1"
+          },
+          {
+            "type": "text",
+            "text": "/>"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-20T14:16:50.866Z"
+  "online_content_time": "2025-06-20T14:35:29.154Z"
 }
