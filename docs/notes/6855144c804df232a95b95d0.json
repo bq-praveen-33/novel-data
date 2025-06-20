@@ -27,9 +27,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "healthCheck",
         "attrs": {
           "id": null,
@@ -43,11 +40,8 @@
           "totalDowntime": null,
           "lastDownAt": null
         }
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-06-20T07:57:43.476Z"
+  "online_content_time": "2025-06-20T07:58:20.912Z"
 }
