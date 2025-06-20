@@ -22,8 +22,21 @@
             "text": "hety"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/6855240882bfe9111c599710/images/0.png-d3d6e37f-c287-411c-9fcc-51e9e9febf30",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-20T09:04:28.262Z"
+  "online_content_time": "2025-06-20T09:08:12.657Z"
 }
