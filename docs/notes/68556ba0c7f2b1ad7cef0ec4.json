@@ -12,12 +12,12 @@
           "interval": 5000,
           "webhook": null,
           "status": "up",
-          "totalUptime": 0,
+          "totalUptime": 38699829,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-20T16:50:43.526Z"
+  "online_content_time": "2025-06-21T03:35:56.879Z"
 }
