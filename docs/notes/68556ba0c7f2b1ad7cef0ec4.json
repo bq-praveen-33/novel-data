@@ -3,24 +3,21 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "adfsadf"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "sdfasdfasdfasdf"
-          }
-        ]
+        "type": "healthCheck",
+        "attrs": {
+          "id": "6855837e9bf7cfa0817611b0",
+          "url": "https://google.com",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "up",
+          "totalUptime": 51610550,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-21T07:08:33.419Z"
+  "online_content_time": "2025-06-21T07:10:51.385Z"
 }
