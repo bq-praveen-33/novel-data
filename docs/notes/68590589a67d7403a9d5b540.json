@@ -14,21 +14,6 @@
       {
         "type": "healthCheck",
         "attrs": {
-          "id": "685949903049f7ac17b38dd8",
-          "url": "http://http://localhost:3000/notes/68590589a67d7403a9d5b540",
-          "method": "POST",
-          "port": null,
-          "interval": 3000,
-          "webhook": null,
-          "status": "pending",
-          "totalUptime": 0,
-          "totalDowntime": 0,
-          "lastDownAt": null
-        }
-      },
-      {
-        "type": "healthCheck",
-        "attrs": {
           "id": "6859451380e7912dc0fa25a6",
           "url": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "method": "POST",
@@ -36,7 +21,7 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 941696,
+          "totalUptime": 1214077,
           "totalDowntime": 0,
           "lastDownAt": null
         }
@@ -51,12 +36,12 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 1242817,
+          "totalUptime": 1515492,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:33:58.197Z"
+  "online_content_time": "2025-06-23T12:35:28.233Z"
 }
