@@ -12,7 +12,19 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": "6859451380e7912dc0fa25a6",
+          "url": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
+          "method": "POST",
+          "port": null,
+          "interval": 3000,
+          "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
+          "status": "pending",
+          "totalUptime": 0,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
       },
       {
         "type": "healthCheck",
@@ -31,5 +43,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:13:19.834Z"
+  "online_content_time": "2025-06-23T12:14:59.823Z"
 }
