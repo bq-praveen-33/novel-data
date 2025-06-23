@@ -7,8 +7,18 @@
         "attrs": {
           "level": 2
         }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/6859123132b65da6578a5d14/images/random.jpg-72818c84-0029-4909-9954-8c2c383b29e8",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-23T08:37:24.617Z"
+  "online_content_time": "2025-06-23T08:37:35.332Z"
 }
