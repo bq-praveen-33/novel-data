@@ -24,7 +24,7 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 1259786,
+          "totalUptime": 1319699,
           "totalDowntime": 0,
           "lastDownAt": null
         }
@@ -39,12 +39,12 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 1560945,
+          "totalUptime": 1620752,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:36:51.225Z"
+  "online_content_time": "2025-06-23T12:37:21.289Z"
 }
