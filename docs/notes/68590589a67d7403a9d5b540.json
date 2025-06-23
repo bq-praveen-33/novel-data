@@ -20,7 +20,7 @@
           "port": null,
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
-          "status": "pending",
+          "status": "up",
           "totalUptime": 0,
           "totalDowntime": 0,
           "lastDownAt": null
@@ -36,12 +36,12 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 26734,
+          "totalUptime": 316395,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:14:59.823Z"
+  "online_content_time": "2025-06-23T12:15:39.817Z"
 }
