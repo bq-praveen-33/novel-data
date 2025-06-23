@@ -14,21 +14,6 @@
       {
         "type": "healthCheck",
         "attrs": {
-          "id": "68594add116106bb7edaab13",
-          "url": "http://http://localhost:3000/notes/68590589a67d7403a9d5b540",
-          "method": "POST",
-          "port": null,
-          "interval": 5000,
-          "webhook": null,
-          "status": "down",
-          "totalUptime": 0,
-          "totalDowntime": 0,
-          "lastDownAt": "2025-06-23T12:39:03.434Z"
-        }
-      },
-      {
-        "type": "healthCheck",
-        "attrs": {
           "id": "6859451380e7912dc0fa25a6",
           "url": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "method": "POST",
@@ -58,5 +43,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:39:21.238Z"
+  "online_content_time": "2025-06-23T12:39:35.784Z"
 }
