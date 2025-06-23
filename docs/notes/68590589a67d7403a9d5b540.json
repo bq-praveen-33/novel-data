@@ -12,9 +12,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "healthCheck",
         "attrs": {
           "id": "6859451380e7912dc0fa25a6",
@@ -24,7 +21,7 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 1240973,
+          "totalUptime": 1259786,
           "totalDowntime": 0,
           "lastDownAt": null
         }
@@ -39,12 +36,12 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 1541472,
+          "totalUptime": 1560945,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:36:11.143Z"
+  "online_content_time": "2025-06-23T12:36:35.787Z"
 }
