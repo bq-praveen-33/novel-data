@@ -1,0 +1,23 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "healthCheck",
+        "attrs": {
+          "id": "68594c36116106bb7edaabd8",
+          "url": "http://localhost:3000/notes/685905aca67d7403a9d5b549",
+          "method": "POST",
+          "port": null,
+          "interval": 5000,
+          "webhook": null,
+          "status": "up",
+          "totalUptime": 3667,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-06-23T12:45:26.740Z"
+}
