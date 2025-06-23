@@ -19,38 +19,8 @@
             "text": "Adding more content."
           }
         ]
-      },
-      {
-        "type": "healthCheck",
-        "attrs": {
-          "id": "6859451380e7912dc0fa25a6",
-          "url": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
-          "method": "POST",
-          "port": null,
-          "interval": 3000,
-          "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
-          "status": "up",
-          "totalUptime": 4210865,
-          "totalDowntime": 0,
-          "lastDownAt": null
-        }
-      },
-      {
-        "type": "healthCheck",
-        "attrs": {
-          "id": "685943f180e7912dc0fa2587",
-          "url": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
-          "method": "GET",
-          "port": null,
-          "interval": 3000,
-          "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
-          "status": "up",
-          "totalUptime": 4503344,
-          "totalDowntime": 0,
-          "lastDownAt": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-06-23T13:25:59.257Z"
+  "online_content_time": "2025-06-23T13:41:00.747Z"
 }
