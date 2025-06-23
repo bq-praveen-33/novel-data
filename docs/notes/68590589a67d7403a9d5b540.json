@@ -12,9 +12,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "healthCheck",
         "attrs": {
           "id": "6859451380e7912dc0fa25a6",
@@ -46,5 +43,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:37:21.289Z"
+  "online_content_time": "2025-06-23T12:37:35.789Z"
 }
