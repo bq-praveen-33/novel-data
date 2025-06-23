@@ -21,12 +21,12 @@
           "interval": 3000,
           "webhook": "https://books.betaque.com/notes/68590589a67d7403a9d5b540",
           "status": "up",
-          "totalUptime": 0,
+          "totalUptime": 26734,
           "totalDowntime": 0,
           "lastDownAt": null
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:10:19.867Z"
+  "online_content_time": "2025-06-23T12:10:49.857Z"
 }
