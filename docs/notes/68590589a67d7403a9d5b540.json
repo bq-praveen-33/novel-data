@@ -12,7 +12,19 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": "685949903049f7ac17b38dd8",
+          "url": "http://http://localhost:3000/notes/68590589a67d7403a9d5b540",
+          "method": "POST",
+          "port": null,
+          "interval": 3000,
+          "webhook": null,
+          "status": "pending",
+          "totalUptime": 0,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
       },
       {
         "type": "healthCheck",
@@ -46,5 +58,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-23T12:33:08.195Z"
+  "online_content_time": "2025-06-23T12:33:58.197Z"
 }
