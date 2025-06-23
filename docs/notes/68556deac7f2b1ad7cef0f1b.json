@@ -166,11 +166,24 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "taskList",
         "content": [
           {
-            "type": "text",
-            "text": "Understanding these differences is critical because AI is evolving rapidly and rewriting the rules across every sector it touches."
+            "type": "taskItem",
+            "attrs": {
+              "checked": true
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Understanding these differences is critical because AI is evolving rapidly and rewriting the rules across every sector it touches."
+                  }
+                ]
+              }
+            ]
           }
         ]
       },
@@ -203,5 +216,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-23T06:31:56.174Z"
+  "online_content_time": "2025-06-23T06:32:18.604Z"
 }
