@@ -11,9 +11,9 @@
           "port": null,
           "interval": 5000,
           "webhook": null,
-          "status": "down",
-          "totalUptime": 1538959,
-          "totalDowntime": 291569,
+          "status": "up",
+          "totalUptime": 1554299,
+          "totalDowntime": 581810,
           "lastDownAt": "2025-06-23T13:15:23.341Z"
         }
       },
@@ -28,11 +28,11 @@
           "webhook": null,
           "status": "down",
           "totalUptime": 0,
-          "totalDowntime": 1200909,
+          "totalDowntime": 1500876,
           "lastDownAt": "2025-06-23T12:55:29.855Z"
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T13:16:29.300Z"
+  "online_content_time": "2025-06-23T13:24:20.767Z"
 }
