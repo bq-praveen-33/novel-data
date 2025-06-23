@@ -28,11 +28,11 @@
           "webhook": null,
           "status": "down",
           "totalUptime": 0,
-          "totalDowntime": 2703821,
+          "totalDowntime": 2704920,
           "lastDownAt": "2025-06-23T12:55:29.855Z"
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T13:40:37.419Z"
+  "online_content_time": "2025-06-23T13:41:34.721Z"
 }
