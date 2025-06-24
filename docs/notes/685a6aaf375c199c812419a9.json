@@ -1,0 +1,49 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Editing"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "newNote"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685a6a4b375c199c812419a6/images/0.1.jpg-dbb2b68c-e6e3-40f2-b113-9518ad6d1e66",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685a6a4b375c199c812419a6/images/0_zvQede7--TNKtpUO.webp-578d68d7-937e-4448-98cb-f19e51ebde20",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-06-24T09:05:47.384Z"
+}
