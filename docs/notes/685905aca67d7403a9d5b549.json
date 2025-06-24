@@ -11,10 +11,10 @@
           "port": null,
           "interval": 5000,
           "webhook": null,
-          "status": "up",
-          "totalUptime": 2761539,
-          "totalDowntime": 581810,
-          "lastDownAt": "2025-06-23T13:15:23.341Z"
+          "status": "down",
+          "totalUptime": 60547986,
+          "totalDowntime": 7487415,
+          "lastDownAt": "2025-06-24T07:25:22.571Z"
         }
       },
       {
@@ -28,11 +28,11 @@
           "webhook": null,
           "status": "down",
           "totalUptime": 0,
-          "totalDowntime": 2704920,
+          "totalDowntime": 66610122,
           "lastDownAt": "2025-06-23T12:55:29.855Z"
         }
       }
     ]
   },
-  "online_content_time": "2025-06-23T13:41:34.721Z"
+  "online_content_time": "2025-06-24T07:25:49.991Z"
 }
