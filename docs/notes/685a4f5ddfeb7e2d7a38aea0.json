@@ -1,17 +1,33 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "heading",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Editing"
+          }
+        ]
       },
-      "content": [
-        {
-          "type": "text",
-          "text": "Start Editing"
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685a4f5ddfeb7e2d7a38aea0/images/0.3 atypes.png-be2ff855-6a23-421d-b7ae-e65164e62cac",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
-      ]
-    }
-  ]
+      }
+    ]
+  },
+  "online_content_time": "2025-06-24T07:10:43.979Z"
 }
