@@ -7,11 +7,24 @@
         "content": [
           {
             "type": "text",
-            "text": "NEW. NOTE by tarun"
+            "text": "NEW. NOTE by tarun "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685bfda7762c2cdbbc316d5d/images/0_zvQede7--TNKtpUO.webp-0bb8cf65-4e97-4cb0-b1dd-5c8d1de5072a",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-25T13:49:29.663Z"
+  "online_content_time": "2025-06-25T13:50:00.853Z"
 }
