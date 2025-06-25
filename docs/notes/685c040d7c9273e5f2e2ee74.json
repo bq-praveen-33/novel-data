@@ -35,96 +35,6 @@
               {
                 "type": "link",
                 "attrs": {
-                  "href": "https://github.com/login?return_to=https://github.com/facebook/react/issues/18178#issuecomment-595846312",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "prc-Button-ButtonBase-c50BI"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "New issue"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(255, 255, 255)"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Closed"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://github.com/facebook/react/pull/18330",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "Box-sc-g0xbh4-0 fxWQtf prc-Link-Link-85e08"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "#18330"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(255, 255, 255)"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Closed"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
                   "href": "https://github.com/facebook/react/issues/18178#top",
                   "target": "_blank",
                   "rel": "noopener noreferrer nofollow",
@@ -148,32 +58,6 @@
               }
             ],
             "text": "#18178"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://github.com/facebook/react/pull/18330",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "Box-sc-g0xbh4-0 fxWQtf prc-Link-Link-85e08"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "#18330"
           }
         ]
       },
@@ -971,5 +855,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-25T14:14:25.083Z"
+  "online_content_time": "2025-06-25T14:15:04.938Z"
 }
