@@ -7,7 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Tarun Dubey is the  afjasdfasjfkladjflkajdflkajdfkaj;sdkfjaskdjfakldfjaksjdfklsajflksadjfklajsdkfjas;kfjkldj;kflajdkfjaskfjaksdfja"
+            "text": "jtkajfkdsjdfkjasdkfjaskdjfaks"
           }
         ]
       },
@@ -16,7 +16,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Tarun is the "
+            "text": ";jasdfljasdkfjaksdjfkaj"
           }
         ]
       },
@@ -25,7 +25,7 @@
         "content": [
           {
             "type": "text",
-            "text": "asdjfkasdjfkasjdfkajsdkfjaskdfjaksf"
+            "text": "Taurasdfnasd fasi the akdiabe yusdfnjasdfklajf"
           }
         ]
       },
@@ -34,25 +34,7 @@
         "content": [
           {
             "type": "text",
-            "text": "sfaasjdfklajfkjasdkfj"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "af"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "adasdkfjasfjiusdfasudfioausfuasdifasdj;lkajdlkasjdjfklajsdkfjaskdfjtarua"
+            "text": "afjsadfjasdfkjahdflaskdfasa"
           }
         ]
       },
@@ -60,15 +42,16 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "rtajasfkjaskljaskdjfask"
-          }
-        ]
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/685bab7eabf6d8681e26b4b8/images/0_zvQede7--TNKtpUO.webp-24b180ef-7aa6-4a5d-bc00-293c5fdf3b5b",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-06-25T08:02:17.349Z"
+  "online_content_time": "2025-06-25T08:03:30.955Z"
 }
