@@ -25,8 +25,32 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/685c640fa70bc81900cdae6f",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "ssss"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-06-25T21:02:35.139Z"
+  "online_content_time": "2025-06-25T21:03:23.472Z"
 }
