@@ -130,7 +130,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    225
+                  ]
                 },
                 "content": [
                   {
@@ -150,7 +152,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    314
+                    275
                   ]
                 },
                 "content": [
@@ -253,7 +255,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    225
+                  ]
                 },
                 "content": [
                   {
@@ -267,7 +271,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    314
+                    275
                   ]
                 },
                 "content": [
@@ -364,7 +368,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    225
+                  ]
                 },
                 "content": [
                   {
@@ -378,7 +384,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    314
+                    275
                   ]
                 },
                 "content": [
@@ -475,7 +481,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    225
+                  ]
                 },
                 "content": [
                   {
@@ -489,7 +497,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    314
+                    275
                   ]
                 },
                 "content": [
@@ -504,5 +512,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T13:15:14.296Z"
+  "online_content_time": "2025-06-26T13:20:54.826Z"
 }
