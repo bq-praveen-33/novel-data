@@ -85,7 +85,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    159
+                    169
                   ]
                 },
                 "content": [
@@ -105,21 +105,6 @@
                         "text": "Name"
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": [
-                    130
-                  ]
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
                   }
                 ]
               }
@@ -185,7 +170,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    159
+                    169
                   ]
                 },
                 "content": [
@@ -197,21 +182,6 @@
                         "text": "Atharv Mahajan"
                       }
                     ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": [
-                    130
-                  ]
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
                   }
                 ]
               }
@@ -277,7 +247,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    159
+                    169
                   ]
                 },
                 "content": [
@@ -291,21 +261,6 @@
                     ]
                   }
                 ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": [
-                    130
-                  ]
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
               }
             ]
           }
@@ -313,5 +268,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T10:51:16.120Z"
+  "online_content_time": "2025-06-26T10:51:52.085Z"
 }
