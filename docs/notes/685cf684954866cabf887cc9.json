@@ -974,7 +974,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    131
+                  ]
                 },
                 "content": [
                   {
@@ -993,7 +995,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    106
+                  ]
                 },
                 "content": [
                   {
@@ -1001,7 +1005,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "dsfdsf"
+                        "text": "dsfdsfdfggggggggggggggggggggg"
                       }
                     ]
                   }
@@ -1038,7 +1042,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    131
+                  ]
                 },
                 "content": [
                   {
@@ -1057,7 +1063,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    106
+                  ]
                 },
                 "content": [
                   {
@@ -1102,7 +1110,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    131
+                  ]
                 },
                 "content": [
                   {
@@ -1115,7 +1125,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    106
+                  ]
                 },
                 "content": [
                   {
@@ -1799,5 +1811,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T13:23:16.722Z"
+  "online_content_time": "2025-06-26T13:25:46.694Z"
 }
