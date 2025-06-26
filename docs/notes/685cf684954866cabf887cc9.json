@@ -31,7 +31,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    159
+                  ]
                 },
                 "content": [
                   {
@@ -39,7 +41,28 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "gyjgjghjg"
+                        "text": "sdgssdg"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    50
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "sdfsdfsddfdfsdfsdfsdfsdfsdfsfsdfsdfsdfsf"
                       }
                     ]
                   }
@@ -58,18 +81,25 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "ghjghjgjghj"
+                        "text": "sdfsdfsdf"
                       }
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
               {
-                "type": "tableHeader",
+                "type": "tableCell",
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    159
+                  ]
                 },
                 "content": [
                   {
@@ -77,36 +107,20 @@
                     "content": [
                       {
                         "type": "text",
-                        "text": "gjgjghjghjgj"
+                        "text": "dfsdf"
                       }
                     ]
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
               },
               {
                 "type": "tableCell",
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    50
+                  ]
                 },
                 "content": [
                   {
@@ -137,7 +151,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    159
+                  ]
                 },
                 "content": [
                   {
@@ -150,7 +166,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    50
+                  ]
                 },
                 "content": [
                   {
@@ -1032,5 +1050,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T12:14:28.449Z"
+  "online_content_time": "2025-06-26T12:15:32.771Z"
 }
