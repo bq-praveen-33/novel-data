@@ -22,7 +22,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    440
+                  ]
                 },
                 "content": [
                   {
@@ -86,7 +88,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    440
+                  ]
                 },
                 "content": [
                   {
@@ -144,11 +148,37 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    440
+                  ]
                 },
                 "content": [
                   {
-                    "type": "paragraph"
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "asasd"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "sd"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "gsg"
+                      }
+                    ]
                   }
                 ]
               },
@@ -161,7 +191,13 @@
                 },
                 "content": [
                   {
-                    "type": "paragraph"
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "sgsgs"
+                      }
+                    ]
                   }
                 ]
               },
@@ -186,5 +222,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T09:45:39.055Z"
+  "online_content_time": "2025-06-26T09:46:24.154Z"
 }
