@@ -12,15 +12,6 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/table"
-          }
-        ]
-      },
-      {
         "type": "table",
         "content": [
           {
@@ -1802,5 +1793,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T13:09:34.079Z"
+  "online_content_time": "2025-06-26T13:17:50.984Z"
 }
