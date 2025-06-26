@@ -32,7 +32,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    162
+                    107
                   ]
                 },
                 "content": [
@@ -44,21 +44,7 @@
                     "content": [
                       {
                         "type": "text",
-                        "marks": [
-                          {
-                            "type": "link",
-                            "attrs": {
-                              "href": "http://S.no",
-                              "target": "_blank",
-                              "rel": "noopener noreferrer nofollow",
-                              "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                            }
-                          },
-                          {
-                            "type": "italic"
-                          }
-                        ],
-                        "text": " s.no"
+                        "text": "S.no"
                       }
                     ]
                   }
@@ -70,7 +56,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    220
+                    123
                   ]
                 },
                 "content": [
@@ -99,7 +85,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    265
+                    159
                   ]
                 },
                 "content": [
@@ -121,6 +107,21 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    130
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
               }
             ]
           },
@@ -133,7 +134,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    162
+                    107
                   ]
                 },
                 "content": [
@@ -163,7 +164,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    220
+                    123
                   ]
                 },
                 "content": [
@@ -184,7 +185,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    265
+                    159
                   ]
                 },
                 "content": [
@@ -196,6 +197,21 @@
                         "text": "Atharv Mahajan"
                       }
                     ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    130
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
                   }
                 ]
               }
@@ -210,7 +226,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    162
+                    107
                   ]
                 },
                 "content": [
@@ -240,7 +256,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    220
+                    123
                   ]
                 },
                 "content": [
@@ -261,7 +277,7 @@
                   "colspan": 1,
                   "rowspan": 1,
                   "colwidth": [
-                    265
+                    159
                   ]
                 },
                 "content": [
@@ -275,6 +291,21 @@
                     ]
                   }
                 ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": [
+                    130
+                  ]
+                },
+                "content": [
+                  {
+                    "type": "paragraph"
+                  }
+                ]
               }
             ]
           }
@@ -282,5 +313,5 @@
       }
     ]
   },
-  "online_content_time": "2025-06-26T10:48:33.056Z"
+  "online_content_time": "2025-06-26T10:51:16.120Z"
 }
