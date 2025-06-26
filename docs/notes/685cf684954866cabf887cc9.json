@@ -7,160 +7,20 @@
         "content": [
           {
             "type": "text",
-            "text": "/table"
+            "text": "Adding the table "
           }
         ]
       },
       {
-        "type": "table",
+        "type": "paragraph",
         "content": [
           {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              },
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              },
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "a"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "b"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph"
-                  }
-                ]
-              }
-            ]
+            "type": "text",
+            "text": "/tal"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-06-26T10:08:56.786Z"
+  "online_content_time": "2025-06-26T10:12:30.105Z"
 }
