@@ -7,11 +7,19 @@
         "content": [
           {
             "type": "text",
-            "text": "ttytttttttdfgdfdgdfg"
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(142, 0, 75)"
+                }
+              }
+            ],
+            "text": "isRestrictedPage"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-01T11:20:07.810Z"
+  "online_content_time": "2025-07-01T11:23:04.816Z"
 }
