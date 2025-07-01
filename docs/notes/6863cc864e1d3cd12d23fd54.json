@@ -7,7 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": "hhbbhbhjbjbhbbbbbbbbbbbbb"
+            "text": "hhbbhbhjbjbhbbbbbbbbbbbbbjjbbbbbjb"
           }
         ]
       },
@@ -16,11 +16,82 @@
         "content": [
           {
             "type": "text",
-            "text": "dfgdfgdfgddfgdgdfgddfgdfgd"
+            "text": "dfgdfgdfgddfgdgdfgddfgdfgdnjknknnnnnnnnn"
           }
         ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "hnnnn"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/6863cc864e1d3cd12d23fd54/images/Screenshot 2025-07-01 at 1.59.03 PM.png-ee2f021c-f774-45c1-aef1-884e5229898e",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-07-01T14:28:46.135Z"
+  "online_content_time": "2025-07-01T14:30:01.097Z"
 }
