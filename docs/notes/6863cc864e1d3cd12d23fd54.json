@@ -51,13 +51,13 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "youtube",
+        "attrs": {
+          "src": "https://www.youtube.com/watch?v=Eppn8jQhTVI&list=RDEppn8jQhTVI&start_radio=1",
+          "start": 0,
+          "width": 640,
+          "height": 480
+        }
       },
       {
         "type": "bulletList",
@@ -93,5 +93,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-01T14:30:57.460Z"
+  "online_content_time": "2025-07-01T14:31:04.651Z"
 }
