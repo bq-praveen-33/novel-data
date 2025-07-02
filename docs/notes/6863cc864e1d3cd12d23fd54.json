@@ -3,76 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "1"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "jbbbbbbbhbhnnnndfgdfgdfghdfgdfgdfgdfgdffrsgfgddddAhtvarv "
-          }
-        ]
-      },
-      {
-        "type": "bulletList",
-        "attrs": {
-          "tight": true
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "paragraph"
-      },
-      {
-        "type": "youtube",
-        "attrs": {
-          "src": "https://www.youtube.com/watch?v=Eppn8jQhTVI&list=RDEppn8jQhTVI&start_radio=1",
-          "start": 0,
-          "width": 640,
-          "height": 480
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/6863cc864e1d3cd12d23fd54/images/Screenshot 2025-07-01 at 1.59.03 PM.png-ee2f021c-f774-45c1-aef1-884e5229898e",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-07-01T15:13:11.922Z"
+  "online_content_time": "2025-07-02T07:30:38.131Z"
 }
