@@ -52,7 +52,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -117,7 +119,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -522,7 +526,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -587,7 +593,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -986,7 +994,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -1051,7 +1061,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -1450,7 +1462,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -1515,7 +1529,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -1914,7 +1930,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -1979,7 +1997,9 @@
                 "attrs": {
                   "colspan": 1,
                   "rowspan": 1,
-                  "colwidth": null
+                  "colwidth": [
+                    25
+                  ]
                 },
                 "content": [
                   {
@@ -2359,5 +2379,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-02T11:36:26.425Z"
+  "online_content_time": "2025-07-02T11:35:31.598Z"
 }
