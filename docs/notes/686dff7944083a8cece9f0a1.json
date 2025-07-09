@@ -3,15 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "this is public Note 1"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-09T05:36:10.467Z"
+  "online_content_time": "2025-07-09T05:41:02.912Z"
 }
