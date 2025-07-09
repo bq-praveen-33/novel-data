@@ -3,9 +3,15 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is public page 1 (restrictedMode)"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-09T08:21:24.488Z"
+  "online_content_time": "2025-07-09T08:21:51.724Z"
 }
