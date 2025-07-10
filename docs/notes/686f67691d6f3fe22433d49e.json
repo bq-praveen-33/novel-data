@@ -7,11 +7,30 @@
         "content": [
           {
             "type": "text",
-            "text": "normal test for upload content and updateNote.sd"
+            "text": "normal test for upload content and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://updateNote.sd",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "updateNote.sd"
+          },
+          {
+            "type": "text",
+            "text": " dfsd"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-10T07:21:07.753Z"
+  "online_content_time": "2025-07-10T07:21:16.487Z"
 }
