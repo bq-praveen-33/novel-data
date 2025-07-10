@@ -1,26 +1,4 @@
 {
-  "online_content": {
-    "type": "doc",
-    "content": [
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "sdfdsfdsfsdfsdfsdfsdfrgdfgdfzfdsfdsf"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Atharv "
-          }
-        ]
-      }
-    ]
-  },
-  "online_content_time": "2025-07-10T07:40:31.152Z"
+  "title": "Blog  2 A",
+  "online_content_time": "2025-07-10T07:41:22.618Z"
 }
