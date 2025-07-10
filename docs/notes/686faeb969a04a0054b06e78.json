@@ -3,15 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "this is root page 2"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-10T12:24:42.179Z"
+  "online_content_time": "2025-07-10T12:35:39.460Z"
 }
