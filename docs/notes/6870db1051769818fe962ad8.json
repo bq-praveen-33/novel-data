@@ -3,69 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "AI’s Growing Impact Across Connectivity Sectors"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Artificial intelligence is not a single technology but a broad term covering many types, each affecting different industries and companies in distinct ways."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Understanding these differences is critical because AI is evolving rapidly and rewriting the rules across every sector it touches."
-          }
-        ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/6870db1051769818fe962ad8/images/image.png-55dba8fe-90bf-4481-95a4-938e4a8f827e",
-          "alt": null,
-          "title": null,
-          "width": 569,
-          "height": 275.773
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Some companies are acting quickly to integrate AI. These early movers gain a first-to-market advantage. Others are taking a wait-and-see approach, positioning themselves as fast followers — ready to act once the industry’s direction becomes clearer. Both strategies — leading and fast following — can succeed, but they represent very different paths to growth."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "We’ve seen a similar dynamic before in the wireless industry. AT&T, for example, is often first to market with new technologies — sometimes right, sometimes wrong. Verizon tends to move in once the path is better defined, succeeding as a fast follower."
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-11T09:40:57.656Z"
+  "online_content_time": "2025-07-11T09:41:18.997Z"
 }
