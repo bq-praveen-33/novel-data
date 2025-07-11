@@ -20,9 +20,24 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Artificial intelligence is not a single technology but a broad term covering many types, each affecting different industries and companies in distinct ways."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Understanding these differences is critical because AI is evolving rapidly and rewriting the rules across every sector it touches."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-11T09:38:26.433Z"
+  "online_content_time": "2025-07-11T09:38:40.259Z"
 }
