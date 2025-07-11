@@ -58,7 +58,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Innovation has always driven change across every industry, but the pace is accelerating with the rise of technologies like artificial intelligence. Different forms of AI are proliferating, just as 5G and wireless networks have already transformed how we live and work. Now, these forces are beginning to converge — and the impact will be profound."
+            "text": "Innovation has always driven change across every industry, but the pace is accelerating with the rise of technologies like artificial intelligence. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#E00000"
+                }
+              }
+            ],
+            "text": "Different forms of AI are proliferating, just as 5G and wireless networks have already transformed how we live and work."
+          },
+          {
+            "type": "text",
+            "text": " Now, these forces are beginning to converge — and the impact will be profound."
           }
         ]
       },
@@ -82,5 +98,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-11T09:34:12.898Z"
+  "online_content_time": "2025-07-11T09:35:19.346Z"
 }
