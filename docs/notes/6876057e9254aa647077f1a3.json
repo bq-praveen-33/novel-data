@@ -3,26 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(255, 255, 255)"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Page2.1"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-15T07:41:04.681Z"
+  "online_content_time": "2025-07-15T07:42:43.564Z"
 }
