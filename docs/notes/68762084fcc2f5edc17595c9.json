@@ -111,12 +111,7 @@
             "text": "From home-grown"
           },
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ]
+            "type": "hardBreak"
           },
           {
             "type": "text",
@@ -1163,5 +1158,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-15T09:35:28.671Z"
+  "online_content_time": "2025-07-15T09:39:49.484Z"
 }
