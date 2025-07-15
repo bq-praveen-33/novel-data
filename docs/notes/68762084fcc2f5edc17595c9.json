@@ -3,9 +3,1165 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/01/sell/navigation/logos/amazon-in-half-logo.svg",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/01/sell/images/logo-amazon-white.svghttps://m.media-amazon.com/images/G/01/sell/images/logo-amazon-white.svg",
+          "alt": "",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_become_Navreg&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "nav-menu-cta link button button-type-primary "
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Start Selling"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/01/sell/icons/star.svg",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ready to start selling online? Get powered with 36k worth benefits. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/fees-and-pricing",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Explore now"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "From home-grown"
+          },
+          {
+            "type": "hardBreak",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "to well-known"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Amazon.in"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Register with a valid GSTIN and an active bank account to become an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "text": " seller."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_Become_header_SEM_T&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link  button button-type-primary font-size-xlarge button-focus-default"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Start Selling"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/Banner_image_new_new.webp",
+          "alt": "Man selling his home products online",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/ATF_Conveyor_moving.gif",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "On an average 71% of the new sellers get their first sales within 4 weeks of starting their business.1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Build your Brand with Us"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/customer_outline_copy_678.png",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "300M+"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Unique visitors per year visit "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": ".2"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/delivery_free_outline_copy_4567.png",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "99.3%"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Indian pincode reach for delivery.2"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/prime_day_outline_copy_567.webp",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "38K+"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Sellers achieved their highest-ever single day sales during festive events.2"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/selling_partner_new.webp",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "14L+"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Sellers are selling on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": ".2"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Get a head-start to selling with us"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/1_copy_final_version.webp",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/2_copy_final_version.webp",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/3_copy_final_version.webp",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_Become_SEM_create_T&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link  button button-type-primary font-size-regular button-focus-default"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Create Your Seller Account"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "See what our sellers have to say3"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=DYJWDIi5RD0&initialSessionID=258-5784250-7172006&ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&pageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "video-popup"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Watch"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=QoM8ZjPazyE&initialSessionID=258-5784250-7172006&ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&pageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "video-popup"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Watch"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=xwnBWbftDjc&initialSessionID=258-5784250-7172006&ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&pageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "video-popup"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Watch"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "25% new brand owners on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "text": " get their first one lakh in sale within 100 days of launch on average.1"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " Newsletter!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Take 30 seconds to answer "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3 questions"
+          },
+          {
+            "type": "text",
+            "text": " and discover how big brands win on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "text": ", interesting market trends and more from "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "our newsletter"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/newsletter-subscription-success",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link-container  "
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Subscribe"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Zero spam. Unsubscribe at any time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Question 1 of 3"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/01/sp-marketing-toolkit/sandbox/blu-progress-bar-33.svg",
+          "alt": "Progress bar showing 33% progress",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 5
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What do you want to learn more about?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/sell-online/become-a-seller?ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&gad_source=1&gad_campaignid=20911146236&gbraid=0AAAAADNqPAaRi21nytAEH4y4Q3I5kOz0x&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeAwVRvG9dLDAxnrh37MvpMrFVslYwKIcFGW1hj_KpGYpiMyTiOj7g0aArF8EALw_wcB#",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link-container popup-link "
+                }
+              }
+            ],
+            "text": "How to start selling?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/sell-online/become-a-seller?ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&gad_source=1&gad_campaignid=20911146236&gbraid=0AAAAADNqPAaRi21nytAEH4y4Q3I5kOz0x&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeAwVRvG9dLDAxnrh37MvpMrFVslYwKIcFGW1hj_KpGYpiMyTiOj7g0aArF8EALw_wcB#",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link-container popup-link "
+                }
+              }
+            ],
+            "text": "How to grow my business?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/sell-online/become-a-seller?ld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become&gad_source=1&gad_campaignid=20911146236&gbraid=0AAAAADNqPAaRi21nytAEH4y4Q3I5kOz0x&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeAwVRvG9dLDAxnrh37MvpMrFVslYwKIcFGW1hj_KpGYpiMyTiOj7g0aArF8EALw_wcB#",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link-container popup-link "
+                }
+              }
+            ],
+            "text": "How top brands succeed?"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Start selling today!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Put your products in front of millions of customers who search for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.in",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Amazon.in"
+          },
+          {
+            "type": "text",
+            "text": " everyday."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_Become_footer_SEM_T&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link-container  "
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Start selling"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/31/amazonservices/BTF_conveyor_moving.gif",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "1 Amazon Internal Data, 2023"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "2 Amazon Internal Data, 2024"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "3Disclaimer"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://m.media-amazon.com/images/G/01/sell/navigation/logos/amazon-in-half-logo-REV.svg",
+          "alt": "",
+          "title": "",
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/standards/confidentiality-policy.html",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link  link-type-plain-text-mid"
+                }
+              }
+            ],
+            "text": "Confidentiality Policy"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/standards/terms-of-use.html",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link  link-type-plain-text-mid"
+                }
+              }
+            ],
+            "text": "Terms of Use"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sell.amazon.in/standards/cookies.html",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "link  link-type-plain-text-mid"
+                }
+              }
+            ],
+            "text": "Cookies"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "© 2024 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://Amazon.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Amazon.com"
+          },
+          {
+            "type": "text",
+            "text": ", Inc. or its affiliates. All rights reserved"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-15T09:34:52.488Z"
+  "online_content_time": "2025-07-15T09:35:28.671Z"
 }
