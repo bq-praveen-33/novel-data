@@ -649,9 +649,6 @@
                 "attrs": {
                   "color": "rgb(255, 255, 255)"
                 }
-              },
-              {
-                "type": "bold"
               }
             ],
             "text": "Watch"
@@ -1158,5 +1155,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-15T09:41:00.062Z"
+  "online_content_time": "2025-07-15T09:42:23.458Z"
 }
