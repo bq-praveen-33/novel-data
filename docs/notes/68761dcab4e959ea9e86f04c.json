@@ -1,12 +1,14 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-07-15T09:22:36.753Z"
 }
