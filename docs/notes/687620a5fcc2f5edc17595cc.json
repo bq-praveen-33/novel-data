@@ -3,41 +3,7 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://openai.com/index/chatgpt/#main",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "transition duration-short ease-curve-a rounded-[2.5rem] text-nowrap min-h-md flex items-center justify-center gap-[0.3em] text-cta focus:outline focus:outline-1 outline-offset-2 h-[2.5rem] left-xs top-xl absolute z-[102] [&:not(:focus-visible)]:pointer-events-none [&:not(:focus-visible)]:opacity-0 bg-primary-4 text-primary-100 px-xs hover:bg-primary-12 disabled:bg-primary-4 disabled:text-primary-60 focus:bg-primary-12 focus:outline-primary-12"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Skip to main content"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Log in"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "bulletList",
@@ -4697,5 +4663,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-15T09:38:18.332Z"
+  "online_content_time": "2025-07-15T09:55:15.981Z"
 }
