@@ -6,11 +6,34 @@
         "type": "image",
         "attrs": {
           "src": "https://m.media-amazon.com/images/G/01/sell/navigation/logos/amazon-in-half-logo.svg",
-          "alt": "",
+          "alt": null,
           "title": null,
-          "width": null,
-          "height": null
+          "width": 177,
+          "height": 45.7439
         }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_become_Navreg&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "nav-menu-cta link button button-type-primary "
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Start Selling"
+          }
+        ]
       },
       {
         "type": "image",
@@ -35,29 +58,6 @@
                 "type": "paragraph"
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://sellercentral.amazon.in/seller/onboarding?passthrough%2Faccount=soa&passthrough%2FsuperSource=OAR&ref_=sdin_soa_nav&passthrough%2FmarketplaceID=A21TJRUUN4KGV&productTier=SILVER&productType=SellOnAmazon&marketplaceId=A21TJRUUN4KGV&passthrough%2FinitialSessionID=258-5784250-7172006&passthrough%2Fld=inkenshoo_SEM_BrandDesktopP02025_AmazonSeller_Search_SDIN_Become_SDIN_become_Navreg&passthrough%2FpageName=IN%3ASD%3ASOA%3ABecome",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "nav-menu-cta link button button-type-primary "
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Start Selling"
           }
         ]
       },
@@ -1158,5 +1158,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-15T09:39:49.484Z"
+  "online_content_time": "2025-07-15T09:40:43.485Z"
 }
