@@ -3,27 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "dfgdsfgsdfgdfgdfgsdfgdfgdgdf"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": "typescriptreact"
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "console.log(\"💬 Title update deferred:\", newTitle);\n              // ✅ Mark title as dirty\n              isTitleDirtyRef.current = true;\n              console.log(\"Is titleDirty\", isTitleDirtyRef.current);\n              console.log(\"ParentId...\", parentId);\n              pendingTitleMap.current[editorKey] = newTitle;\n              console.log(\"PendingTitle Map\", pendingTitleMap);\n              localStorage.setItem(`pending-title-${editorKey}`, JSON.stringify({newTitle , parentId, titleIcon}));\n              //Update localStorage to reflect immediately in sidebar\n              try {\n                const rootNodesRaw = localStorage.getItem(\"rootNodes\");\n                if (rootNodesRaw) {\n                  const rootNodes = JSON.parse(rootNodesRaw);\n                  const updatedRootNodes = updateTitleDeep(rootNodes, editorKey, newTitle);\n                  setNotes(updatedRootNodes);\n                  localStorage.setItem(\"rootNodes\", JSON.stringify(updatedRootNodes));\n\n                  updateNodeInCache(editorKey, newTitle, titleIcon || \"\");\n                }\n              } catch (err) {\n                console.error(\"Failed to update localStorage title on blur:\", err);\n                toast.error(\"Error in updating name \");\n              }"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-15T14:33:29.819Z"
+  "online_content_time": "2025-07-16T05:24:06.251Z"
 }
