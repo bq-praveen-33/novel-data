@@ -23,56 +23,6 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://media.geeksforgeeks.org/gfg-gg-logo.svg",
-          "alt": "geeksforgeeks",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
-        "type": "bulletList",
-        "attrs": {
-          "tight": true
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "bulletList",
         "attrs": {
           "tight": true
@@ -15792,5 +15742,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-16T06:46:35.273Z"
+  "online_content_time": "2025-07-16T06:46:49.837Z"
 }
