@@ -7,15 +7,6 @@
         "content": [
           {
             "type": "text",
-            "text": "Atharv typing...."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
             "marks": [
               {
                 "type": "textStyle",
@@ -14196,5 +14187,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-16T11:20:58.284Z"
+  "online_content_time": "2025-07-16T11:21:39.969Z"
 }
