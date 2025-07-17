@@ -3,9 +3,21 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "healthCheck",
+        "attrs": {
+          "id": "6878cd84e0bd6eac38d53b2e",
+          "url": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
+          "status": "pending",
+          "totalUptime": 0,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-07-17T10:16:00.812Z"
+  "online_content_time": "2025-07-17T10:16:50.044Z"
 }
