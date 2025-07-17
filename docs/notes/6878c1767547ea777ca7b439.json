@@ -11,10 +11,10 @@
           "port": null,
           "interval": 5000,
           "webhook": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
-          "status": "up",
-          "totalUptime": 1199785,
+          "status": "down",
+          "totalUptime": 1500709,
           "totalDowntime": 1501855,
-          "lastDownAt": "2025-07-17T10:55:00.617Z"
+          "lastDownAt": "2025-07-17T11:10:00.662Z"
         }
       },
       {
@@ -22,5 +22,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-17T11:05:20.106Z"
+  "online_content_time": "2025-07-17T11:10:30.153Z"
 }
