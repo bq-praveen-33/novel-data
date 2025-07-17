@@ -12,9 +12,9 @@
           "interval": 5000,
           "webhook": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
           "status": "up",
-          "totalUptime": 300184,
-          "totalDowntime": 601287,
-          "lastDownAt": "2025-07-17T10:35:00.540Z"
+          "totalUptime": 599423,
+          "totalDowntime": 602403,
+          "lastDownAt": "2025-07-17T10:40:00.348Z"
         }
       },
       {
@@ -22,5 +22,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-17T10:36:00.004Z"
+  "online_content_time": "2025-07-17T10:40:20.002Z"
 }
