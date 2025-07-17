@@ -3,9 +3,44 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Close your eyes, for a moment!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your eyes are probably getting dried by constant exposure to the monitor. Just close your eyes for few seconds which will help to clean and ease your eyes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At a minimum, slowly blink your eyes few times."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-17T09:39:11.842Z"
+  "online_content_time": "2025-07-17T10:22:52.051Z"
 }
