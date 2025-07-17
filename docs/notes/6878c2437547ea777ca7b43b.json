@@ -3,29 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "#FFA500"
-                }
-              },
-              {
-                "type": "italic"
-              }
-            ],
-            "text": "jjjj"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-17T11:07:11.303Z"
+  "online_content_time": "2025-07-17T11:11:25.434Z"
 }
