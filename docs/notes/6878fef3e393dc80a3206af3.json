@@ -3,13 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "text",
-        "attrs": {
-          "level": 2
-        },
-        "content": []
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-17T13:47:50.295Z"
+  "online_content_time": "2025-07-17T13:49:50.601Z"
 }
