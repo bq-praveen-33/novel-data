@@ -3,24 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "healthCheck",
-        "attrs": {
-          "id": "6878cd84e0bd6eac38d53b2e",
-          "url": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
-          "method": "GET",
-          "port": null,
-          "interval": 5000,
-          "webhook": "http://localhost:3001/notes/6878c1767547ea777ca7b439",
-          "status": "down",
-          "totalUptime": 1500709,
-          "totalDowntime": 1501855,
-          "lastDownAt": "2025-07-17T11:10:00.662Z"
-        }
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-17T11:10:30.153Z"
+  "online_content_time": "2025-07-17T12:41:26.758Z"
 }
