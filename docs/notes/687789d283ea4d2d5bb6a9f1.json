@@ -77,7 +77,34 @@
                 }
               }
             ],
-            "text": " that learns from the labelled datasets and maps the data points with most optimized linear functions which can be used for prediction on new datasets. It assumes that there is a linear relationship between the input and output, meaning the output changes at a constant rate as the input changes. This relationship is represented by a straight line."
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "that"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " learns from the labelled datasets and maps the data points with most optimized linear functions which can be used for prediction on new datasets. It assumes that there is a linear relationship between the input and output, meaning the output changes at a constant rate as the input changes. This relationship is represented by a straight line."
           }
         ]
       },
@@ -14216,5 +14243,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-17T06:20:12.877Z"
+  "online_content_time": "2025-07-17T06:21:48.693Z"
 }
