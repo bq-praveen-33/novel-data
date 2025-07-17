@@ -5,6 +5,21 @@
       {
         "type": "healthCheck",
         "attrs": {
+          "id": "6878ce72d6af4434b3974a58",
+          "url": "https://http://localhost:3000/notes/6878b35a8be8c83c5224fc6d",
+          "method": "GET",
+          "port": null,
+          "interval": 5000,
+          "webhook": "http://localhost:3000/notes/6878b35a8be8c83c5224fc6d",
+          "status": "pending",
+          "totalUptime": 0,
+          "totalDowntime": 0,
+          "lastDownAt": null
+        }
+      },
+      {
+        "type": "healthCheck",
+        "attrs": {
           "id": "6878ce46d6af4434b3974a4e",
           "url": "https://localhost:3000/notes/6878b35a8be8c83c5224fc6d",
           "method": "GET",
@@ -19,5 +34,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-17T10:20:12.576Z"
+  "online_content_time": "2025-07-17T10:21:02.572Z"
 }
