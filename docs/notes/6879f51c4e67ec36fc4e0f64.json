@@ -1,12 +1,17 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is the "
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-18T07:18:04.762Z"
 }
