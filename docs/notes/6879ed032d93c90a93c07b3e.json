@@ -3,9 +3,30 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/687a18c1953877d17b9a8665",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "c1"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-18T08:03:08.623Z"
+  "online_content_time": "2025-07-18T10:11:24.783Z"
 }
