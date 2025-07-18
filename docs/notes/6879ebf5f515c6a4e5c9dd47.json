@@ -31,11 +31,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/pa"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/687a12e4953877d17b9a865a",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "c2"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-18T09:24:53.411Z"
+  "online_content_time": "2025-07-18T09:25:03.655Z"
 }
