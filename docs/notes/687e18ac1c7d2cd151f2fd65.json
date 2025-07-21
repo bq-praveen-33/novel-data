@@ -7,11 +7,20 @@
         "content": [
           {
             "type": "text",
-            "text": "fsadfasd"
+            "text": "fsadfasdceasf"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "dfsad"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-21T10:38:54.606Z"
+  "online_content_time": "2025-07-21T10:44:02.597Z"
 }
