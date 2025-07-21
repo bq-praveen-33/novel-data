@@ -3,21 +3,1523 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
         "content": [
           {
             "type": "text",
-            "text": "new tewating"
+            "text": "JavaScript Tutorial"
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Last Updated : 05 Jun, 2025"
+          }
+        ]
       },
       {
-        "type": "paragraph"
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "JavaScript is a programming language used to create dynamic content for websites. It is a lightweight, cross-platform, and single-threaded programming language. It's an interpreted language that executes code line by line, providing more flexibility"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "JavaScript on Client Side:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " On the client side, JavaScript works along with HTML and CSS. HTML adds structure to a web page, CSS styles it, and JavaScript brings it to life by allowing users to interact with elements on the page, such as actions on clicking buttons, filling out forms, and showing animations. JavaScript on the client side is directly executed in the user's browser."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "JavaScript on Server Side"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": On the Server side (on Web Servers), JavaScript is used to access databases, file handling, and security features to send responses"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": ","
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " to browsers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20250514181421572975/Server-Side-JavaScript.webp",
+          "alt": "Server-Side-JavaScript.webp",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20250514181421572975/Server-Side-JavaScript.webp",
+          "alt": "Server-Side-JavaScript.webp",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Why Learn JavaScript?"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "JavaScript is core language for web development, enabling dynamic and interactive features in websites with fewer lines of code."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It is highly in demand, offering many job opportunities in Frontend, Backend (Node.js), and Full Stack Development."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "JavaScript supports powerful frameworks and libraries like React, Angular, Vue.js, Node.js, and Express.js, widely used in modern web applications."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "JavaScript is an object-oriented and event-driven language, ideal for building scalable and responsive applications."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It is cross-platform and runs directly in all modern web browsers without the need for installation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Major companies like Google, Facebook, and Amazon use JavaScript in their tech stacks."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Write and Run Your First JavaScript Program"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Mostly browsers can run JavaScript directly, so there's no need to install a compiler. However, the built-in browser console isn’t very beginner-friendly. That’s why we’ve added an online editor below to help you get started easily."
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "console.log(\"Hello World!\");"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Before we start, We recommend you to edit the code and try to print your own name."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Fundamentals"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Let's Explore "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "JavaScript's fundamentals"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " which will help build you a understanding to start with JavaScript"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/introduction-to-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Introduction"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quiz: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/javascript-basics-1/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "JS Basics"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/where-to-put-javascript-in-an-html-document/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Using JS in HTML"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/variables-datatypes-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Variables and Datatypes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quiz: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/variables-and-data-types-1/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Variables & Data Types"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-operators/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Operators"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/type-conversion-and-type-coercion-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Type Conversion and Coercion"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-control-flow-statements/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Control Flow Statements"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quiz: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/javascript-operators/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Operators"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/control-flow/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Control Flow"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/understanding-variable-scopes-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Scope"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/console-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Browser console"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Functions and Events"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Functions in JavaScript are reusable blocks of code that perform a specific task. Events are actions that happen in the browser, such as mouse clicks, keyboard input, or page loading."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/functions-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-function-binding/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Function binding"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-hoisting/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Hoisting"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/closure-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Closures"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-higher-order-functions/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Higher-Order Functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-iterator/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Iterator"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-function-generator/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Function Generator"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quiz: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/javascript-functions/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/javascript-events/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Events"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/what-is-an-event-loop-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Event Loop"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/event-bubbling-in-javascript/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Event Bubbling"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quiz:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/quizzes/javascript-events/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Event Handling"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "JavaScript Beginner Projects"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Now you have a basic understanding of JavaScript. So start with some beginner level projects to clear your concept and to implement in real world applications."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-21T08:18:21.596Z"
+  "online_content_time": "2025-07-21T08:18:51.813Z"
 }
