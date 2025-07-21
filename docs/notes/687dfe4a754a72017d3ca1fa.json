@@ -148,36 +148,7 @@
         "content": [
           {
             "type": "text",
-            "text": "const { createServer } = require('node:http');const hostname = '127.0.0.1';const port = 3000;const server = createServer((req, res) => {  res.statusCode = 200;  res.setHeader('Content-Type', 'text/plain');  res.end('Hello World');});server.listen(port, hostname, () => {  console.log(`Server running at http://${hostname}:${port}/`);});"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(203, 212, 217)"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "JavaScript"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Copy to clipboard"
+            "text": "const { createServer } = require('node:http');\nconst hostname = '127.0.0.1';\nconst port = 3000;\n\nconst server = createServer((req, res) => {  res.statusCode = 200;  res.setHeader('Content-Type', 'text/plain');  res.end('Hello World');});\n\nserver.listen(port, hostname, () => {  console.log(`Server running at http://${hostname}:${port}/`);});"
           }
         ]
       },
@@ -452,5 +423,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-21T08:46:58.055Z"
+  "online_content_time": "2025-07-21T08:47:36.595Z"
 }
