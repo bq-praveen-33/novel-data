@@ -49,10 +49,24 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "After renaming an empty field is coming in share modal "
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-22T09:41:30.848Z"
+  "online_content_time": "2025-07-22T09:44:32.164Z"
 }
