@@ -78,7 +78,7 @@
                             "content": [
                               {
                                 "type": "text",
-                                "text": "remove permission from public Page"
+                                "text": "remove permission from public Page if not owner "
                               }
                             ]
                           }
@@ -115,11 +115,26 @@
                 },
                 "content": [
                   {
-                    "type": "paragraph",
+                    "type": "orderedList",
+                    "attrs": {
+                      "tight": true,
+                      "start": 2,
+                      "type": null
+                    },
                     "content": [
                       {
-                        "type": "text",
-                        "text": "2"
+                        "type": "listItem",
+                        "content": [
+                          {
+                            "type": "paragraph",
+                            "content": [
+                              {
+                                "type": "text",
+                                "text": " child note name and emoj"
+                              }
+                            ]
+                          }
+                        ]
                       }
                     ]
                   }
@@ -144,5 +159,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T06:20:18.715Z"
+  "online_content_time": "2025-07-22T06:32:26.029Z"
 }
