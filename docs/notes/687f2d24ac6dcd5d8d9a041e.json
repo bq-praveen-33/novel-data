@@ -54,7 +54,13 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "readonly not works for media it can edit when on BE when ower also on this note at that time "
+                  }
+                ]
               },
               {
                 "type": "paragraph"
@@ -65,5 +71,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T06:58:47.752Z"
+  "online_content_time": "2025-07-22T07:04:58.580Z"
 }
