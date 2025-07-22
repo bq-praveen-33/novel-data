@@ -16,7 +16,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "remove  rename and delete permission from public Page if not owner and text ellipsis ."
+                    "text": "remove  rename and delete permission from public Page if not owner and text ellipsis property not apllying to other user ."
                   }
                 ]
               }
@@ -68,5 +68,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T11:38:18.348Z"
+  "online_content_time": "2025-07-22T11:39:42.252Z"
 }
