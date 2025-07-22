@@ -3,6 +3,18 @@
     "type": "doc",
     "content": [
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "orderedList",
         "attrs": {
           "tight": true,
@@ -18,7 +30,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "remove  rename and delete permission from public Page if not owner "
+                    "text": "Child note requires a reload  after updating name or emoji."
                   }
                 ]
               }
@@ -32,7 +44,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": " Child note requires a reload  after updating name or emoji."
+                    "text": "remove  rename and delete permission from public Page if not owner "
                   }
                 ]
               }
@@ -53,5 +65,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T06:57:33.742Z"
+  "online_content_time": "2025-07-22T06:58:47.752Z"
 }
