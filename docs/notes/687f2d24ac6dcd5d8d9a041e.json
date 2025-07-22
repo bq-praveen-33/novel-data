@@ -35,12 +35,7 @@
                     "text": " Child note requires a reload  after updating name or emoji."
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
+              },
               {
                 "type": "paragraph"
               }
@@ -50,5 +45,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T06:44:30.532Z"
+  "online_content_time": "2025-07-22T06:44:40.979Z"
 }
