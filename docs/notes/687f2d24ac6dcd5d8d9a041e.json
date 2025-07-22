@@ -58,7 +58,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "readonly not works for media it can edit when on BE when ower also on this note at that time "
+                    "text": "readonly not works for media it can edit on BE when owner also on this note at that time "
                   }
                 ]
               },
@@ -71,5 +71,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-22T07:04:58.580Z"
+  "online_content_time": "2025-07-22T07:05:22.380Z"
 }
