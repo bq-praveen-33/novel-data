@@ -3,79 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "bulletList",
-        "attrs": {
-          "tight": true
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "disable  rename and delete button from public Page if not owner and text ellipsis property not applying to other user ."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "Child note requires a reload  after updating name or emoji."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "readonly not works for media it can edit on BE when owner also on this note at same time ."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "After renaming an empty field is coming in share modal ."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-22T11:58:49.295Z"
+  "online_content_time": "2025-07-23T05:25:34.795Z"
 }
