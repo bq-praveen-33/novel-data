@@ -19,7 +19,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is widely regarded as one of the most popular and versatile programming languages globally. Renowned for its exceptional portability, scalability, and robust community support, Java serves as the backbone for a diverse array of applications, ranging from innovative Android mobile apps to complex enterprise-level systems. Its rich ecosystem of libraries and frameworks further empowers developers, making it a top choice for building reliable and high-performance software solutions."
+            "text": "Java is widely regarded as one of the most popular and versatile programming languages globally. Renowned for its exceptional portability, scalability, and robust community support, Java serves as the backbone for a diverse array of applications, ranging from innovative Android mobile apps to complex enterprise-level systems. Its rich ecosystem of libraries and frameworks further empowers developers, making it a top choice for building reliable and high-performance software "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "solutions"
+          },
+          {
+            "type": "text",
+            "text": "."
           }
         ]
       },
@@ -37,7 +53,7 @@
         "content": [
           {
             "type": "text",
-            "text": "/It seems like you're asking for a brief history of Java. Here it is:"
+            "text": "/It seems like you're asking for a brief history of Java. Here it is: "
           }
         ]
       },
@@ -462,5 +478,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T13:24:57.359Z"
+  "online_content_time": "2025-07-23T13:36:48.275Z"
 }
