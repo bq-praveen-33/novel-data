@@ -137,7 +137,129 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While OpenAI hasn’t confirmed details, insider leaks and research papers suggest:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Multimodal Mastery:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Beyond text, GPT-5 may process "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "video, audio, and real-time sensor data"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", enabling AI to \"see\" and \"hear\" like humans."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Autonomous Learning:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Unlike GPT-4, which relies on static datasets, GPT-5 might "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "self-improve by generating synthetic training data"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Robotics Integration:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Early experiments show AI controlling robots for tasks like warehouse logistics and even "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "elderly care"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph"
@@ -153,5 +275,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T12:09:39.183Z"
+  "online_content_time": "2025-07-23T12:14:31.869Z"
 }
