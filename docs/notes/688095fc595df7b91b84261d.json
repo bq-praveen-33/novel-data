@@ -3,354 +3,47 @@
     "type": "doc",
     "content": [
       {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Getting Started with Java: A Beginner's Guide"
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "/aks"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Java"
+          },
           {
             "type": "text",
-            "text": "Java is widely regarded as one of the most popular and versatile programming languages globally. Renowned for its exceptional portability, scalability, and robust community support, Java serves as the backbone for a diverse array of applications, ranging from innovative Android mobile apps to complex enterprise-level systems. Its rich ecosystem of libraries and frameworks further empowers developers, making it a top choice for building reliable and high-performance software solutions."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
+            "text": " is a "
+          },
           {
             "type": "text",
-            "text": "/ask+"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "high-level, object-oriented programming language"
+          },
           {
             "type": "text",
-            "text": "/It seems like you're asking for a brief history of Java. Here it is: "
+            "text": " developed by Sun Microsystems (now owned by Oracle). Known for its portability, scalability, and stability, Java is used in everything from Android apps and web servers to enterprise software and financial systems."
           }
         ]
       },
       {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
+        "type": "blockquote",
         "content": [
           {
-            "type": "text",
-            "text": "History of Java"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": false,
-          "start": 1,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
+            "type": "paragraph",
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Origins (1991)"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Java was originally developed by James Gosling and his team at Sun Microsystems as part of the Green Project. The language was initially called Oak, named after an oak tree outside Gosling's office."
-                  }
-                ]
+                "type": "text",
+                "text": "“Write once, run anywhere” — Java’s motto reflects its biggest strength: code compiled in Java can run on any platform that supports the Java Virtual Machine (JVM)."
               }
             ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Official Release (1995)"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Java was officially released to the public in May 1995. It was designed to be a platform-independent language, allowing developers to write code that could run on any device that had a Java Virtual Machine (JVM)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Key Features"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Java introduced several key features, including:"
-                  }
-                ]
-              },
-              {
-                "type": "bulletList",
-                "attrs": {
-                  "tight": true
-                },
-                "content": [
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "Object-Oriented"
-                          },
-                          {
-                            "type": "text",
-                            "text": ": Encourages modular programming and code reuse."
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "Platform Independence"
-                          },
-                          {
-                            "type": "text",
-                            "text": ": \"Write once, run anywhere\" capability due to bytecode compilation."
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "type": "listItem",
-                    "content": [
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "Robustness"
-                          },
-                          {
-                            "type": "text",
-                            "text": ": Strong memory management and exception handling."
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Java 2 (1998)"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": The release of Java 2 introduced significant enhancements, including the Swing graphical user interface (GUI) toolkit and the Collections framework."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Java 5 (2004)"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": This version introduced major language enhancements such as generics, metadata annotations, and the enhanced for loop."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Java 8 (2014)"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": A landmark release that introduced lambda expressions, the Stream API, and new date and time APIs, making Java more functional in its programming style."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Ongoing Development"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Oracle Corporation acquired Sun Microsystems in 2010 and has continued to develop Java, releasing new versions regularly. Features have included improvements in performance, security, and developer productivity."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Current Version"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": As of October 2023, Java continues to evolve, with the latest Long-Term Support (LTS) version being Java 17, released in September 2021, and Java 21 expected in September 2023."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Java remains one of the most popular programming languages, widely used for building enterprise applications, web applications, and Android mobile apps."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "In this blog post, we’ll walk you through the essentials to get started with Jawe’ll walk you throva."
           }
         ]
       },
@@ -360,119 +53,274 @@
       {
         "type": "heading",
         "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Features of Java"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
           "level": 3
         },
         "content": [
           {
             "type": "text",
-            "text": "🔹 Why Learn Java?"
+            "text": "1. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Platform Independent"
           }
         ]
       },
       {
-        "type": "bulletList",
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Java programs run on the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "JVM"
+          },
+          {
+            "type": "text",
+            "text": ", allowing them to work across Windows, Mac, Linux, etc., without any modification."
+          }
+        ]
+      },
+      {
+        "type": "heading",
         "attrs": {
-          "tight": false
+          "level": 3
         },
         "content": [
           {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "t popular progPlatform Independent"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Write once, run anywhere (WORA)."
-                  }
-                ]
-              }
-            ]
+            "type": "text",
+            "text": "2. "
           },
           {
-            "type": "listItem",
-            "content": [
+            "type": "text",
+            "marks": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Object-Oriented"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Helps organize complex code using classes and objects."
-                  }
-                ]
+                "type": "bold"
               }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Robust Ecosystem"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Rich APIs, powerful tools (like IntelliJ, Eclipse), and frameworks (like Spring, Hibernate)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "we’ll walk you throJob Opportunities"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Widely used in backend development, Android apps, banking systems, and more."
-                  }
-                ]
-              }
-            ]
+            ],
+            "text": "Object-Oriented"
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything in Java revolves around "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "classes and objects"
+          },
+          {
+            "type": "text",
+            "text": ", making code modular, reusable, and easier to maintain."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Secure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Java has built-in security features like bytecode verification and runtime checking, making it ideal for networked/distributed environments."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Rich API and Libraries"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Java provides a robust "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "standard library (Java API)"
+          },
+          {
+            "type": "text",
+            "text": " and frameworks for everything from GUI design to web development and database access."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Multithreaded"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Java has native support for "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "concurrent programming"
+          },
+          {
+            "type": "text",
+            "text": ", enabling apps to perform multiple tasks at once."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hello World in Java"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here’s your first simple Java program:"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "java"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Copy code"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "public class HelloWorld {   public static void main(String[] args) {     System.out.println(\"Hello, World!\");   } }"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-23T14:39:24.742Z"
+  "online_content_time": "2025-07-23T17:31:01.966Z"
 }
