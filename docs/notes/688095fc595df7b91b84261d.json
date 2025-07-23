@@ -28,7 +28,23 @@
         "content": [
           {
             "type": "text",
-            "text": "In this blog post, we’ll walk you through the essentials to get started with Java."
+            "text": "In this blog p"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "ost, we’ll walk you through the essentials to get started with"
+          },
+          {
+            "type": "text",
+            "text": " Jawe’ll walk you throva."
           }
         ]
       },
@@ -149,5 +165,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T08:34:29.658Z"
+  "online_content_time": "2025-07-23T08:38:00.045Z"
 }
