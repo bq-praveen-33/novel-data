@@ -19,7 +19,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is one of the most popular programming languages in the world. Known for its portability, scalability, and strong"
+            "text": "Java is one of the most popular programming langua"
           },
           {
             "type": "text",
@@ -31,11 +31,11 @@
                 }
               }
             ],
-            "text": " community s"
+            "text": "ges in the w"
           },
           {
             "type": "text",
-            "text": "upport, it powers everything from Android apps to enterprise-level systems."
+            "text": "orld. Known for its portability, scalability, and strong community support, it powers everything from Android apps to enterprise-level systems."
           }
         ]
       },
@@ -44,23 +44,7 @@
         "content": [
           {
             "type": "text",
-            "text": "In this blog p"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "ost, we’ll walk you through the essentials to get started with"
-          },
-          {
-            "type": "text",
-            "text": " Jawe’ll walk you throva."
+            "text": "In this blog post, we’ll walk you through the essentials to get started with Jawe’ll walk you throva."
           }
         ]
       },
@@ -181,5 +165,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T08:38:32.354Z"
+  "online_content_time": "2025-07-23T08:39:13.101Z"
 }
