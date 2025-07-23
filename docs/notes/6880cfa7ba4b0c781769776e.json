@@ -21,9 +21,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "bulletList",
         "attrs": {
           "tight": false
@@ -275,5 +272,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T12:22:45.419Z"
+  "online_content_time": "2025-07-23T12:33:49.856Z"
 }
