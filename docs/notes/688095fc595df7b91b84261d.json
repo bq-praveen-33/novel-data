@@ -293,34 +293,14 @@
         "content": [
           {
             "type": "text",
-            "text": "java"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Copy code"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
             "text": "public class HelloWorld {   public static void main(String[] args) {     System.out.println(\"Hello, World!\");   } }"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-23T17:31:01.966Z"
+  "online_content_time": "2025-07-23T17:31:44.647Z"
 }
