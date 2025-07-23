@@ -10,12 +10,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Java"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": " is a "
           },
           {
@@ -23,12 +37,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "high-level, object-oriented programming language"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": " developed by Sun Microsystems (now owned by Oracle). Known for its portability, scalability, and stability, Java is used in everything from Android apps and web servers to enterprise software and financial systems."
           }
         ]
@@ -44,6 +72,14 @@
             "content": [
               {
                 "type": "text",
+                "marks": [
+                  {
+                    "type": "ai-highlight",
+                    "attrs": {
+                      "color": "#c1ecf970"
+                    }
+                  }
+                ],
                 "text": "“Write once, run anywhere” — Java’s motto reflects its biggest strength: code compiled in Java can run on any platform that supports the Java Virtual Machine (JVM)."
               }
             ]
@@ -61,6 +97,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Key Features of Java"
           }
         ]
@@ -73,6 +117,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "1. "
           },
           {
@@ -80,6 +132,12 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Platform Independent"
@@ -91,6 +149,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Java programs run on the "
           },
           {
@@ -98,13 +164,15 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "JVM"
-          },
-          {
-            "type": "text",
-            "text": ", allowing them to work across Wind"
           },
           {
             "type": "text",
@@ -116,11 +184,7 @@
                 }
               }
             ],
-            "text": "ows, Ma"
-          },
-          {
-            "type": "text",
-            "text": "c, Linux, etc., without any modification."
+            "text": ", allowing them to work across Windows, Mac, Linux, etc., without any modification."
           }
         ]
       },
@@ -132,6 +196,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "2. "
           },
           {
@@ -139,6 +211,12 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Object-Oriented"
@@ -150,6 +228,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Everything in Java revolves around "
           },
           {
@@ -157,12 +243,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "classes and objects"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": ", making code modular, reusable, and easier to maintain."
           }
         ]
@@ -175,6 +275,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "3. "
           },
           {
@@ -182,6 +290,12 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Secure"
@@ -193,6 +307,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Java has built-in security features like bytecode verification and runtime checking, making it ideal for networked/distributed environments."
           }
         ]
@@ -205,6 +327,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "4. "
           },
           {
@@ -212,6 +342,12 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Rich API and Libraries"
@@ -223,6 +359,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Java provides a robust "
           },
           {
@@ -230,12 +374,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "standard library (Java API)"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": " and frameworks for everything from GUI design to web development and database access."
           }
         ]
@@ -248,6 +406,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "5. "
           },
           {
@@ -255,6 +421,12 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Multithreaded"
@@ -266,7 +438,19 @@
         "content": [
           {
             "type": "text",
-            "text": "Java has native support for "
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "Java has native support "
+          },
+          {
+            "type": "text",
+            "text": "for "
           },
           {
             "type": "text",
@@ -321,5 +505,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T19:09:37.505Z"
+  "online_content_time": "2025-07-23T19:10:05.598Z"
 }
