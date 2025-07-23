@@ -19,7 +19,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is one of the most popular programming languages in the world. Known for its portability, scalability, and strong community support, it powers everything from Android apps to enterprise-level systems."
+            "text": "Java is one of the most popul"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "ar programming languages in the world. Known for its portability, scalability, and strong comm"
+          },
+          {
+            "type": "text",
+            "text": "unity support, it powers everything from Android apps to enterprise-level systems."
           }
         ]
       },
@@ -149,5 +165,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T07:59:24.167Z"
+  "online_content_time": "2025-07-23T08:12:14.838Z"
 }
