@@ -265,17 +265,10 @@
         },
         "content": [
           {
-            "type": "text",
-            "text": "🧠 "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Real-World Applications"
+            "type": "math",
+            "attrs": {
+              "latex": "🧠 Real-World Applications"
+            }
           }
         ]
       },
@@ -980,5 +973,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T17:28:38.270Z"
+  "online_content_time": "2025-07-23T17:29:08.027Z"
 }
