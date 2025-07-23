@@ -28,15 +28,308 @@
         "content": [
           {
             "type": "text",
-            "marks": [
+            "text": "/"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It seems like you're asking for a brief history of Java. Here it is:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "History of Java"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
               {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Origins (1991)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Java was originally developed by James Gosling and his team at Sun Microsystems as part of the Green Project. The language was initially called Oak, named after an oak tree outside Gosling's office."
+                  }
+                ]
               }
-            ],
-            "text": "/add "
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Official Release (1995)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Java was officially released to the public in May 1995. It was designed to be a platform-independent language, allowing developers to write code that could run on any device that had a Java Virtual Machine (JVM)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Key Features"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Java introduced several key features, including:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Object-Oriented"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Encourages modular programming and code reuse."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Platform Independence"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": \"Write once, run anywhere\" capability due to bytecode compilation."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Robustness"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Strong memory management and exception handling."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Java 2 (1998)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The release of Java 2 introduced significant enhancements, including the Swing graphical user interface (GUI) toolkit and the Collections framework."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Java 5 (2004)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": This version introduced major language enhancements such as generics, metadata annotations, and the enhanced for loop."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Java 8 (2014)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": A landmark release that introduced lambda expressions, the Stream API, and new date and time APIs, making Java more functional in its programming style."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Ongoing Development"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Oracle Corporation acquired Sun Microsystems in 2010 and has continued to develop Java, releasing new versions regularly. Features have included improvements in performance, security, and developer productivity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Current Version"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": As of October 2023, Java continues to evolve, with the latest Long-Term Support (LTS) version being Java 17, released in September 2021, and Java 21 expected in September 2023."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Java remains one of the most popular programming languages, widely used for building enterprise applications, web applications, and Android mobile apps."
           }
         ]
       },
@@ -169,5 +462,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-23T12:05:40.318Z"
+  "online_content_time": "2025-07-23T12:11:12.157Z"
 }
