@@ -40,23 +40,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is known for its robustness, security features, and extensive standard libraries. It supports multi-threading, which allows multiple threads of execution to run concurrently, making it suitable for hig"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "h-perfor"
-          },
-          {
-            "type": "text",
-            "text": "mance applications. The language also emphasizes strong memory management, with automatic garbage collection that helps prevent memory leaks and other related issues."
+            "text": "Java is known for its robustness, security features, and extensive standard libraries. It supports multi-threading, which allows multiple threads of execution to run concurrently, making it suitable for high-performance applications. The language also emphasizes strong memory management, with automatic garbage collection that helps prevent memory leaks and other related issues."
           }
         ]
       },
@@ -86,5 +70,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-24T13:08:48.533Z"
+  "online_content_time": "2025-07-24T13:16:12.742Z"
 }
