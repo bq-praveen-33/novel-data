@@ -58,11 +58,23 @@
         "content": [
           {
             "type": "text",
-            "text": "The Java community is vibrant and active, with numerous resources available for learning and support. Java's popularity continues to grow, making it a valuable skill for software developers in various fields. Whether for building large-scale enterprise applications or simple desktop software, Java remains a powerful and reliable choice for developers around the world."
+            "text": "The Java community is"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": " vibrant and active, with numerous resources available for learning and support. Java's popularity continues to grow, making it a valuable skill for software developers in various fields. Whether for building large-scale enterprise applications or simple desktop software, Java remains a powerful and reliable choice for developers around the world."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-24T07:06:50.196Z"
+  "online_content_time": "2025-07-24T07:24:20.961Z"
 }
