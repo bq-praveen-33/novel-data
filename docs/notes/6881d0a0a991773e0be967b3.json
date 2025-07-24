@@ -28,23 +28,7 @@
         "content": [
           {
             "type": "text",
-            "text": "One of the core principles of Java is \"Write Once, Run Anywhere\" (WORA). This principle highlights Java's ability to allow developers to write code that/ can be executed on any platform without modification. This is particularly beneficial in today's diverse"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": " computin"
-          },
-          {
-            "type": "text",
-            "text": "g environment, where applications need to operate across various devices and operating systems."
+            "text": "One of the core principles of Java is \"Write Once, Run Anywhere\" (WORA). This principle highlights Java's ability to allow developers to write code that/ can be executed on any platform without modification. This is particularly beneficial in today's diverse computing environment, where applications need to operate across various devices and operating systems."
           }
         ]
       },
@@ -56,7 +40,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is known for its robustness, security features, and extensive standard libraries. It supports multi-threading, which allows multiple threads of execution to run concurrently, making it suitable for high-performance applications. The language also emphasizes strong memory management, with automatic garbage collection that helps prevent memory leaks and other related issues."
+            "text": "Java is known for its robustness, security features, and extensive standard libraries. It supports multi-threading, which allows multiple threads of execution to run concurrently, making it suitable for hig"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "h-perfor"
+          },
+          {
+            "type": "text",
+            "text": "mance applications. The language also emphasizes strong memory management, with automatic garbage collection that helps prevent memory leaks and other related issues."
           }
         ]
       },
@@ -86,5 +86,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-24T13:08:14.667Z"
+  "online_content_time": "2025-07-24T13:08:48.533Z"
 }
