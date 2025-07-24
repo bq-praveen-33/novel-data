@@ -49,19 +49,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java has a rich ecosystem of frameworks and libraries, such as Spring, Hibernate, and JavaFX, which facilitate the development of web applications, enterprise solutions, and graphical user interfaces. Moreover, Java is commonly used in Android app development, making it a cr"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "ucial language for mobile developers."
+            "text": "Java has a rich ecosystem of frameworks and libraries, such as Spring, Hibernate, and JavaFX, which facilitate the development of web applications, enterprise solutions, and graphical user interfaces. Moreover, Java is commonly used in Android app development, making it a crucial language for mobile developers."
           }
         ]
       },
@@ -79,5 +67,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-24T08:48:58.027Z"
+  "online_content_time": "2025-07-24T09:03:53.568Z"
 }
