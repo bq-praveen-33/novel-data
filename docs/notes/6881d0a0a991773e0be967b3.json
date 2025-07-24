@@ -19,12 +19,34 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is indeed a versatile and widely-used programming language, first released by Sun Microsystems in 1995. Its object-oriented nature allows developers to create modular programs using \"objects\" that encapsulate both data and methods. One of Java's standout features is its platform independence, facilitated by the Java Virtual Machine (JVM). This means that Java applications can run on any device with a compatible JVM, enabling seamless execution across different operating systems. This capability has contributed significantly to Java's popularity in various domains, including web development, enterprise applications, and mobile app development."
+            "text": "Java is indeed a versatile and widely-used programming language, first released by Sun Microsystems in 1995. Its object-oriented nature allows developers to create modular programs using \"objects\" that encapsulate both data and methods. One of Java's standout features is its platform independence, facilitated by the Java Virtual Machine (JVM). This means that Java applications can run on any device with a compatible JVM, enabling seamless execution across different operating systems. This capability has contributed significantly to Java's popul"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "arity in various domains, including web development, enterprise "
+          },
+          {
+            "type": "text",
+            "text": "applications, and mobile app development."
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/"
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -67,5 +89,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-24T09:39:59.452Z"
+  "online_content_time": "2025-07-24T09:41:01.927Z"
 }
