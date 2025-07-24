@@ -24,21 +24,7 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "/"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -81,5 +67,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-24T09:54:59.129Z"
+  "online_content_time": "2025-07-24T10:01:16.710Z"
 }
