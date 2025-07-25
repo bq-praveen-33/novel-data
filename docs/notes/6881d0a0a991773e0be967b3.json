@@ -7,23 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is a high-level, versatile programming language that was developed by Sun Microsystems in the mid-1990s. It is designed to be platform-independent, which means that Java code can run on an"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "y device that has a J"
-          },
-          {
-            "type": "text",
-            "text": "ava Virtual Machine (JVM) installed. This is often summarized by the phrase \"Write Once, Run Anywhere\" (WORA), making Java a popular choice for cross-platform applications."
+            "text": "Java is a high-level, versatile programming language that was developed by Sun Microsystems in the mid-1990s. It is designed to be platform-independent, which means that Java code can run on any device that has a Java Virtual Machine (JVM) installed. This is often summarized by the phrase \"Write Once, Run Anywhere\" (WORA), making Java a popular choice for cross-platform applications."
           }
         ]
       },
@@ -89,5 +73,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T16:01:08.853Z"
+  "online_content_time": "2025-07-25T17:08:12.066Z"
 }
