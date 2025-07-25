@@ -28,7 +28,7 @@
         "content": [
           {
             "type": "text",
-            "text": "elopers to create modular programs and reusable code. This approach promotes better orgreusable code. This approach promotes better organization and easier maintenanceanization and easier maintenance of software. Java supports key object-oriented principles such as inheritance, encapsulation, and polymorphism. "
+            "text": "elopers to create modular programs and reusable code. This approach promotes better orgreusable code. This approach promotes better organization and easier maintenanceanization and easier maintenance of software. Java supports key object-oriented principles such as inheritance, encapsulation, and polymorphism.  "
           }
         ]
       },
@@ -46,7 +46,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is widely used in various domains, including web development, mobile applications (especially Android), enterprise-level applications, and scientific computing. Frameworks such as Spring and Hibernate have further extended Java's capabilities, providing powerful tools for building robust applications."
+            "text": "Java is widely used in various domains, including web development, mobile applications (especially Android), enterprise-level applications, and scientific compwhich meanuting. Frameworks such as Spring and Hibernate have further extended Java's capabilities, providing powerful tools for building robust applications."
           }
         ]
       },
@@ -79,5 +79,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T17:22:13.178Z"
+  "online_content_time": "2025-07-25T17:24:48.662Z"
 }
