@@ -55,7 +55,7 @@
         "content": [
           {
             "type": "text",
-            "text": "In summary, Java is a powerful and widely-used programming language that offers flexibility, security, and a vast ecosystem of tools and libraries, making it suitable for a broad range of applications."
+            "text": "In summary, Java is a powerful and widely-used programming language that offers flexibility, security, and a vast ecosystem of tools and libraries, making it suitable for a broad range of applications./ "
           }
         ]
       },
@@ -63,15 +63,12 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-25T17:10:36.067Z"
+  "online_content_time": "2025-07-25T17:17:04.611Z"
 }
