@@ -43,23 +43,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Java's object-oriented nature promotes modular programming, enabling developers to create reusable code components. The platform independence offered by the JVM means that Java applications can be executed seamlessly across various operating systems, making it a popular choice in diverse domains such as web development, enterprise applications, and mobile app development. Java's robust ecosystem, which includes a vast array of libraries and framew"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "orks, further enha"
-          },
-          {
-            "type": "text",
-            "text": "nces its appeal to developers and organizations alike. "
+            "text": "Java's object-oriented nature promotes modular programming, enabling developers to create reusable code components. The platform independence offered by the JVM means that Java applications can be executed seamlessly across various operating systems, making it a popular choice in diverse domains such as web development, enterprise applications, and mobile app development. Java's robust ecosystem, which includes a vast array of libraries and frameworks, further enhances its appeal to developers and organizations alike. "
           }
         ]
       },
@@ -140,5 +124,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T10:55:11.707Z"
+  "online_content_time": "2025-07-25T10:55:33.145Z"
 }
