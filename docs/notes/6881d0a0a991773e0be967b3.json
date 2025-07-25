@@ -43,7 +43,13 @@
         "type": "codeBlock",
         "attrs": {
           "language": null
-        }
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "public class SimpleProgram {\n    public static void main(String[] args) {\n        // Print Hello World\n        System.out.println(\"Hello, World!\");\n\n        // Declare two numbers\n        int num1 = 10;\n        int num2 = 20;\n\n        // Calculate sum\n        int sum = num1 + num2;\n\n        // Print result\n        System.out.println(\"Sum of \" + num1 + \" and \" + num2 + \" is: \" + sum);\n    }\n}"
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -83,5 +89,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T17:55:48.230Z"
+  "online_content_time": "2025-07-25T17:57:30.139Z"
 }
