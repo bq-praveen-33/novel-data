@@ -48,7 +48,37 @@
                 }
               }
             ],
-            "text": ") refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and "
+            "text": ") refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems that ca"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "n perform tasks whic"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "h requiring human abilities such as visual perception, speech recognition, decision-making and "
           }
         ]
       },
@@ -4611,5 +4641,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T14:45:17.909Z"
+  "online_content_time": "2025-07-25T14:48:07.828Z"
 }
