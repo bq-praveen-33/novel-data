@@ -34,7 +34,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is a versatile and widely-used programming language that was first released by Sun Microsystems in 1995. It is an object-oriented language, meaning it is built on the concept of \"objects\" that encapsulate both data and methods. One of Java's most significant advantages is its platform independence, achieved through the Java Virtual Machine (JVM). This allows Java programs to run on any device with the JVM installed, regardless of the underlying operating system."
+            "text": "Java is a versatile and widely-used programming language that was first released by Sun Microsystems in 1995. It is an object-oriented language, meaning it is built on the concept of \"objects\" that encapsulate both data and methods. One of Java's most significant advantages is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "its platform independence, achieved through th"
+          },
+          {
+            "type": "text",
+            "text": "e Java Virtual Machine (JVM). This allows Java programs to run on any device with the JVM installed, regardless of the underlying operating system."
           }
         ]
       },
@@ -124,5 +140,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T10:55:33.145Z"
+  "online_content_time": "2025-07-25T10:55:44.962Z"
 }
