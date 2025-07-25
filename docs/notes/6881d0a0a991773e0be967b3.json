@@ -26,19 +26,7 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "One of the defining features of Java is its object-oriented na"
-          },
-          {
-            "type": "text",
-            "text": "ture, which allows devimport { Button } from \"../ui/button\";"
+            "text": "One of the defining features of Java is its object-oriented nature, which allows devimport { Button } from \"../ui/button\";"
           }
         ]
       },
@@ -101,5 +89,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T18:00:59.379Z"
+  "online_content_time": "2025-07-25T18:02:47.878Z"
 }
