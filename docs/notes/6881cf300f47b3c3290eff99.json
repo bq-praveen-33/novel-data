@@ -32,37 +32,7 @@
                 }
               }
             ],
-            "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              },
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "that can perfo"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "rm tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation. "
+            "text": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which helps in allowing them to think and act like humans. It involves creating algorithms and systems that can perform tasks which requiring human abilities such as visual perception, speech recognition, decision-making and language translation. "
           },
           {
             "type": "text",
@@ -4608,5 +4578,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T11:58:49.739Z"
+  "online_content_time": "2025-07-25T11:59:09.374Z"
 }
