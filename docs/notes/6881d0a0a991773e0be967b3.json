@@ -19,7 +19,7 @@
         "content": [
           {
             "type": "text",
-            "text": "One of the defining features of Java is its object-oriented nature, which allows developers to create modular programs and reusable code. This approach promotes better orgreusable code. This approach promotes better organization and easier maintenanceanization and easier maintenance of software. Java supports key object-oriented principles such as inheritance, encapsulation, and polymorphism."
+            "text": "One of the defining features of Java is its object-oriented nature, which allows devimport { Button } from \"../ui/button\";"
           }
         ]
       },
@@ -28,6 +28,23 @@
         "content": [
           {
             "type": "text",
+            "text": "elopers to create modular programs and reusable code. This approach promotes better orgreusable code. This approach promotes better organization and easier maintenanceanization and easier maintenance of software. Java supports key object-oriented principles such as inheritance, encapsulation, and polymorphism."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Java has a rich standard library, which provides a wide range of functionalities, from data structures to networking capabilities. This extensive API makes it easier for developers to implement complex features without having to write everything from scratch. Additionally, Java has a strong community and extensive documentation, which support developers in troubleshooting and enhancing their applications."
           }
         ]
@@ -37,7 +54,19 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is widely used in various domains, including web development, mobile applications (especially Android), enterprise-level applications, and scientific computing. Frameworks such as Spring and Hibernate have further extended Java's capabilities, providing powerful tools for building robust applications."
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "Java is widely used in various domains, including web development, mobile applications (especially Android), enterprise-level applications, and scientific computing. Frameworks such as Spring and Hibernate have further extended Java's capabilities, p"
+          },
+          {
+            "type": "text",
+            "text": "roviding powerful tools for building robust applications."
           }
         ]
       },
@@ -70,5 +99,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-25T17:18:16.129Z"
+  "online_content_time": "2025-07-25T17:21:36.336Z"
 }
