@@ -7,27 +7,11 @@
         "content": [
           {
             "type": "text",
-            "text": "dksjbcsbckjbc"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "kjbnxjkc"
-          },
-          {
-            "type": "text",
-            "text": "n"
+            "text": "dksjbcsbckjbckjbnxjkcn"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-28T05:52:41.817Z"
+  "online_content_time": "2025-07-28T05:54:41.771Z"
 }
