@@ -19,7 +19,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is a high-level, object-oriented programming language that was first released by Sun Microsystems in 1995. It was designed with the principle of \"write once, run anywhere\" (WORA) in mind, meaning that code written in Java can run on any platform that has a Java Virtual Machine (JVM). This portability is one of Java's key features, contributing to its widespread use in various applications, from web development to enterprise solutions."
+            "text": "Java is a high-level, object-oriented programming language that was first released by"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": " Sun Microsystems in 1995. It was designed with the principle of \"write once, run anywhere\" (WORA) in mind, meaning that code written in Java can run on any platform that has a "
+          },
+          {
+            "type": "text",
+            "text": "Java Virtual Machine (JVM). This portability is one of Java's key features, contributing to its widespread use in various applications, from web development to enterprise solutions."
           }
         ]
       },
@@ -64,5 +80,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-28T06:40:33.457Z"
+  "online_content_time": "2025-07-28T06:49:40.738Z"
 }
