@@ -38,9 +38,12 @@
           },
           {
             "type": "text",
-            "text": "  Virtual Machine (JVM). This portability is one of Java's key features,  It seems like you're looking for features of Java. Here are some key features of the Java programming language:"
+            "text": "  Virtual Machine (JVM). This portability is one of Java's key features,  It seems like you're looking for features of Java. Here are some key features of the Java programming language:/"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "orderedList",
@@ -344,5 +347,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-28T08:33:57.893Z"
+  "online_content_time": "2025-07-28T08:42:22.146Z"
 }
