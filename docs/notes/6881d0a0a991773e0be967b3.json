@@ -19,25 +19,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Java is a high-level, object-oriented programming language that was first released by"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": " Sun Microsystems in 1995. It was designed with the principle of \"write once, run anywhere\" (WORA) in mind, meaning that code written in Java can run on any platform that has a "
-          },
-          {
-            "type": "text",
-            "text": "Java Virtual Machine (JVM). This portability is one of Java's key features, contributing to its widespread use in various applications, from web development to enterprise solutions."
+            "text": "Java is a high-level, object-oriented programming language that was first released byThe text refers to Java, a programming language developed by Sun Microsystems in 1995. The principle of \"write once, run anywhere\" (WORA) means that Java code can be written once and executed on any device or operating system that has a Java Virtual Machine (JVM) installed. This capability is a significant advantage of Java, allowing developers to create applications that are portable across different computing environments without needing to rewrite or modify the code for each specific platform. The JVM interprets the compiled Java code into machine code that can run on the host operating system, facilitating this cross-platform functionality.Java Virtual Machine (JVM). This portability is one of Java's key features, contributing to its widespread use in various applications, from web development to enterprise solutions."
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -62,7 +49,7 @@
         "content": [
           {
             "type": "text",
-            "text": "The Java ecosystem is supported by a strong community and numerous frameworks, such as Spring and Hibernate, which enhance its capabilities and simplify development processes. Additionally, Java's robust security features make it a popular choice for applications that require a high level of security, like banking and financial services."
+            "text": "The Java ecosystem is supported by a strong community and numerous frameworks, such as Spring and Hibernate, which enhance its capabilities and simplify development processes. Additionally, Java's robust security features make it a popular choice for applications that require a high level of security, like banking and financial services. "
           }
         ]
       },
@@ -80,5 +67,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-28T06:49:40.738Z"
+  "online_content_time": "2025-07-28T06:50:17.352Z"
 }
