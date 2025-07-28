@@ -7,18 +7,6 @@
         "content": [
           {
             "type": "text",
-            "text": "Sure! Here’s a modified version of the original text about the chatbot:"
-          }
-        ]
-      },
-      {
-        "type": "horizontalRule"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
             "text": "🎉 "
           },
           {
@@ -186,23 +174,11 @@
         "content": [
           {
             "type": "text",
-            "text": "We hope you have a fantastic time chatting with our chatbot! Your feedback is crucial, so please let us know how we can enhance your experience. Happy chatting! 🌟"
-          }
-        ]
-      },
-      {
-        "type": "horizontalRule"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Feel free to let me know if you’d like any further modifications!"
+            "text": "We hope you have a fantastic time chatting with our chatbot! Your feedback is crucial, so please let us know how we can enhance your experience. Happy chatting 🌟"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-28T17:59:19.090Z"
+  "online_content_time": "2025-07-28T17:59:54.418Z"
 }
