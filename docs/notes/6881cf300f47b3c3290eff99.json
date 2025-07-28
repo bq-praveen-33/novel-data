@@ -820,7 +820,7 @@
                 }
               }
             ],
-            "text": "Adversarial search deal with competitive environments where multiple agents (often two) are in direct competition with one another such as in games like chess, tic-tac-toe or Go."
+            "text": "Adversarial search deal with competitive environments where multiple agents (often two) are in direct competition with one another such as in games like chess, tic-tac-toe or Go. "
           }
         ]
       },
@@ -4574,5 +4574,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-28T07:57:36.321Z"
+  "online_content_time": "2025-07-28T07:58:36.428Z"
 }
