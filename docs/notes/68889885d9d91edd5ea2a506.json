@@ -174,36 +174,6 @@
                 ]
               }
             ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
-                      }
-                    ],
-                    "text": "a"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
           }
         ]
       },
@@ -222,5 +192,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T12:38:36.859Z"
+  "online_content_time": "2025-07-29T12:43:33.858Z"
 }
