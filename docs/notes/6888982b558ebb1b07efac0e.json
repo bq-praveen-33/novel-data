@@ -3,9 +3,1490 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Data Structures & Algorithms (DSA)"
+          },
+          {
+            "type": "text",
+            "text": " played a huge role in my journey. And if you are targeting product based companies, then you have to be well-versed with the DSA concepts."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "I have "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "solved more than 2000+ problems"
+          },
+          {
+            "type": "text",
+            "text": " on platforms like LeetCode(850+), Codeforces (950+), GFG (200+),etc."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now, don’t get overwhelmed by these numbers. Anyone can achieve these stats."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "How?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Well this blog will answer your question."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Prerequisites Before Starting DSA"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You should have a base knowledge of any one programming language (CPP, JAVA or PYHTON)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Don’t go too deep into the programming language at first, just basic concepts like conditional statements, loops, pattern printing and basic questions (prime, Armstrong, palindrome, etc) are enough."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It will take somewhere between 15–30 days to learn a language."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "DSA Topics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You have to prepare all the DSA topics in order to have complete understanding. Companies can ask from any of the below topics."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At first it may look like the topic is tough but with time you will get the grasp of the topic by solving the problems regularly."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Learn “Object Oriented Programming” along with DSA"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Math [Factors, Primes (Sieve Of Eratosthenes), Modulo Arithmetic, GCD]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Array"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ String"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Linked List"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Greedy Algorithm"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Bit Manipulation"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Recursion"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Backtracking"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Sorting Algorithms (Merge, Quick, Heap Sort)"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Binary Search"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Stack"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Queue"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Heaps"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Binary Tree"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Binary Search Tree"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Graphs [Most IMP]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Dynamic Programming [Most IMP]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Trie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "How To Prepare For Each Topic?"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Start with the implementation of the Data Structure or Algorithm. For eg: Learn how to implement binary tree or binary search at first."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then learn about various algorithms which are used in that Data Structure. For eg: Learn how to traverse a tree, DFS, BFS, etc."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Solve all the common/generic/famous problems. For eg: If you are learning DP, then solve LIS, LCS type of problems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then start solving the problems randomly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First choose easy problem. Solve 10–15 easy problems and once you get comfortable with easy problems, then move to medium and then to hard."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "How to Solve a Problem?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "I have created some mental models which will help you to solve a problem."
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "DON’T FEAR ANY PROBLEM. Every problem which is given to you (by interviewer or some website) can be SOLVED."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Clear your basics. You cannot solve a Graph problem, if you don’t have any idea about Graphs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Understand the problem fully. Don’t half read it, in fact read it twice or thrice."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "MOST IMP:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Use Notebook while solving a problem."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Dry run the test-cases. Just know how the answer to a test-case is forming."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Try to figure out the topic on that problem. Figure out which Data Structure(s) or Algorithm(s) can be used."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Break down the problem into smaller sub-problems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the problem is based on observation, then check if you can find some pattern. For eg: check for n = 0,1,2,3, and so on till you find some pattern."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Always try to use fundamental concepts to solve a problem. Most of the problems are built on top of some fundamental problem(s) only."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Try to come up with the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "rgb(232, 243, 232)"
+                        }
+                      }
+                    ],
+                    "text": "Brute Force"
+                  },
+                  {
+                    "type": "text",
+                    "text": " approach and then try to optimize it."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Note: "
+          },
+          {
+            "type": "text",
+            "text": "These are not steps, these are just some tips. But you can consider 1–6 as a step."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://medium.com/@tushar_patil/master-problem-solving-in-data-structures-algorithms-7abd106ca630",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "ag oc"
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Detailed Guide On Problem Solving"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "How much time to give to each problem?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "NOTE: "
+          },
+          {
+            "type": "text",
+            "text": "If you are a beginner then please don’t follow this timing because you’ll have to give an hour or two even to solve an easy problem. So take your time as a beginner."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "These are the timings which I generally follow."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Easy Problems: 15 –20 mins"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Medium Problems: 30–45 mins"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ Hard Problems: 1–1.5 hours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "And if you still cannot figure out the solution after that, then it is better to look at the solution."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is my timing which I follow, but don’t stick to this if the timing doesn’t suits you. In fact, I would encourage you to create your own timing."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Websites"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.hackerrank.com/",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Hackerank "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "(for beginners)"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://leetcode.com/",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Leetcode"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.geeksforgeeks.org/",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Geeks For Geeks"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.interviewbit.com/",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "InterviewBit"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.hackerearth.com/",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Hackerearth"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "YouTube Channels"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/takeUforward",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Take U Forward"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/CodeHelpbyBabbar",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Code Help — By Babbar"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/Pepcoding",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "PepCoding"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://youtu.be/HtSuA80QTyo",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "MIT- Introduction To Algorithms"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/AdityaVermaTheProgrammingLord",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Aditya Verma"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": " [For DP]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/AnujBhaiya",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Anuj Bhaiya"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/NeetCode",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "NeetCode"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": " [For Leetcode Solutions]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/c/TECHDOSE4u",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "TechDose"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": " [For Leetcode Solutions]"
+              },
+              {
+                "type": "hardBreak"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "→ "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw",
+                      "target": "_blank",
+                      "rel": "noopener ugc nofollow",
+                      "class": "ag oc"
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Abdul Bari"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Competitive Programming"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Competitive Programming is a mind sport in which some problems are given and you compete with others by solving those problems as fast as you can."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you are very much interested towards DSA then after having some hands-on knowledge of DSA, I would suggest you to do Competitive Programming (on CodeForces, CodeChef, etc)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "But if you are more interested towards Development, then I would suggest that along with Development try to give at least one Leetcode Contest every week."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The benefit of competitive programming is that, you can think and code fast. Plus your confidence increases in problem solving."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Conclusion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now, coming back to the first question which you asked. How you can solve 2000+ problems?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Well the simple answer to question is “you don’t have to”."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "When I started DSA, my goal was never to solve 2000+ problems. My goal was just to solve a particular problem which is given to me. And this is the best way to solve more problems. Don’t have any goals in problem solving. Just keep on solving and level up."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Last but not least, don’t focus on quantity, focus more on the quality. Even if you solve 1 problem in a day, but solve that problem in such a way that you know ins and outs of that problem."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-29T09:45:26.804Z"
+  "online_content_time": "2025-07-29T09:52:06.206Z"
 }
