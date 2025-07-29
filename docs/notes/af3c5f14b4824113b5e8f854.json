@@ -19,7 +19,23 @@
         "content": [
           {
             "type": "text",
-            "text": "The sun dipped below the horizon, painting the sky in hues of orange and pink. A gentle breeze rustled the leaves of the trees, carrying the scent of blooming flowers through the air. In the distance, laughter echoed from a group of friends gathered around a bonfire, sharing stories and roasting marshmallows. As night fell, the stars began to twinkle like diamonds scattered across a velvet blanket, and the moon cast a soft glow over the landscape, illuminating the path for nocturnal creatures awakening from their slumber. It was a perfect evening, filled with warmth, joy, and a sense of adventure in the air. "
+            "text": "T"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "he sun"
+          },
+          {
+            "type": "text",
+            "text": " dipped below the horizon, painting the sky in hues of orange and pink. A gentle breeze rustled the leaves of the trees, carrying the scent of blooming flowers through the air. In the distance, laughter echoed from a group of friends gathered around a bonfire, sharing stories and roasting marshmallows. As night fell, the stars began to twinkle like diamonds scattered across a velvet blanket, and the moon cast a soft glow over the landscape, illuminating the path for nocturnal creatures awakening from their slumber. It was a perfect evening, filled with warmth, joy, and a sense of adventure in the air. "
           }
         ]
       },
@@ -35,5 +51,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T11:44:02.361Z"
+  "online_content_time": "2025-07-29T11:44:48.806Z"
 }
