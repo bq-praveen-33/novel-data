@@ -145,22 +145,56 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "🧍‍♂️ Promotes "
+                    "text": "🧍‍♂️ "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
+                      }
+                    ],
+                    "text": "Promotes "
                   },
                   {
                     "type": "text",
                     "marks": [
                       {
                         "type": "bold"
+                      },
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
                       }
                     ],
                     "text": "better posture"
                   },
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
+                      }
+                    ],
                     "text": " and reminds you to move, helping with neck/back tension."
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
               }
             ]
           }
@@ -567,5 +601,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T11:16:28.888Z"
+  "online_content_time": "2025-07-29T11:59:18.642Z"
 }
