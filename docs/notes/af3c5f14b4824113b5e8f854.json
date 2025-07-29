@@ -3,9 +3,34 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sure! Here’s some random text:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The sun dipped below the horizon, painting the sky in hues of orange and pink. A gentle breeze rustled the leaves of the trees, carrying the scent of blooming flowers through the air. In the distance, laughter echoed from a group of friends gathered around a bonfire, sharing stories and roasting marshmallows. As night fell, the stars began to twinkle like diamonds scattered across a velvet blanket, and the moon cast a soft glow over the landscape, illuminating the path for nocturnal creatures awakening from their slumber. It was a perfect evening, filled with warmth, joy, and a sense of adventure in the air."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/af3c5f14b4824113b5e8f854/images/image.png-f042597b-2ad5-4440-8e8a-56c6fd9bf14e",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-07-29T09:19:10.094Z"
+  "online_content_time": "2025-07-29T11:40:22.888Z"
 }
