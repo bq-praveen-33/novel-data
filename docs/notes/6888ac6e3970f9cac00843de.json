@@ -565,9 +565,925 @@
         ]
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": ": Printing the summary -------> Action 1: Found 5 notes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: • ML (URL: /notes/68889885d9d91edd5ea2a506)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: • New Note (URL: /notes/af3c5f14b4824113b5e8f854)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: • JAVA (URL: /notes/68888824b922ca8a0cf0bcca)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: • Language Models (URL: /notes/6888976afb4cfdef7586a918)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: • java Program (URL: /notes/87de08b3774540c9bab47ccf)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'system',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: 'You are a precise AI assistant for a note-taking application.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    📌 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "STRICT RULES"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - The ACTION RESULTS below are the single source of truth.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - These actions have ALREADY BEEN PERFORMED. Do not say you are going to do them.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - Never promise future actions.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "    - Never say \"Let's perform\" or \"I will now do it\". It's done.\\n"
+          },
+          {
+            "type": "text",
+            "text": " +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - Report the outcome exactly as given.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - You may rewrite for tone and clarity but never change facts.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - If multiple actions were performed, list each in order.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - Use clear checkmarks (✅) to show success, or clear messages for failures.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - If any action failed, mention the reason exactly as given.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    ✅ "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "CURRENT USER CONTEXT"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    - User: Atharv Mahajan\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    ✅ "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "USER PERMISSIONS"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    Access Level: viewer\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       'Permissions: view only\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    ✅ "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "ACTION RESULTS (SOURCE OF TRUTH)"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    Action 1: Found 5 notes\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '• ML (URL: /notes/68889885d9d91edd5ea2a506)\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '• New Note (URL: /notes/af3c5f14b4824113b5e8f854)\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '• JAVA (URL: /notes/68888824b922ca8a0cf0bcca)\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '• Language Models (URL: /notes/6888976afb4cfdef7586a918)\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '• java Program (URL: /notes/87de08b3774540c9bab47ccf)\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    ✅ "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "CONTEXTUAL INFORMATION"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    User name: Atharv Mahajan\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       'User is currently viewing note: 20-20-20 rule\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       'Current path: /20-20-20 rule\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    🎯 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "RESPONSE RULES"
+          },
+          {
+            "type": "text",
+            "text": ":\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    1. Confirm each action result in order. Example: \"Action 1 ✅: Created note ...\", \"Action 2 ✅: Shared note ...\".\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    2. Do not change the meaning or result.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    3. Do not imply the actions are pending.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       \"    4. Acknowledge the user's location if relevant.\\n\" +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    5. Mention permissions if they explain success or failure.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    6. Add a warm tone if appropriate: e.g., \"Nice work, [UserName]!\" — but facts first.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    7. Do not guess extra steps. Only what the results say.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    8. If all actions succeeded, say so clearly.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    9. If some failed, say exactly which and why — do not add reasons not given.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    10. Never contradict the ACTION RESULTS.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    \\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '    🔒 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "STRICT:"
+          },
+          {
+            "type": "text",
+            "text": " Any violation of these facts is unacceptable. Rewrite for tone only. Never for content.'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'assistant',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: 'Action 1 ✅: Yes, a note titled \"20-20-20 rule\" was successfully found.\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       '\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       'Action 2 ✅: Additionally, a note titled \"Github vs gitLab\" was also located.',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     action: 'search_results',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     data: [ [Object] ]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'user',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: 'search all the notes of user  Tarun Dubey'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'assistant',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: \"Action 1: I'm sorry, but no matching notes were found for the user Tarun Dubey.\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     action: 'search_results',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     data: []"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'user',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: 'search all the notes of userEmail "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "mailto:Tarun.Dubey@betaque.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Tarun.Dubey@betaque.com"
+          },
+          {
+            "type": "text",
+            "text": "'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     role: 'assistant',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     content: \"Action 1: I'm sorry, but no matching notes were found for the user with the email "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "mailto:Tarun.Dubey@betaque.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Tarun.Dubey@betaque.com"
+          },
+          {
+            "type": "text",
+            "text": ".\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     action: 'search_results',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     data: []"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   { role: 'user', content: 'search all the notes of user Tarun Dubey' }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: ] this is the messages"
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-29T13:14:53.103Z"
+  "online_content_time": "2025-07-29T13:46:11.126Z"
 }
