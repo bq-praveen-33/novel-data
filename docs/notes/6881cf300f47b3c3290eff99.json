@@ -24,6 +24,15 @@
         "content": [
           {
             "type": "text",
+            "text": "An AI agent is a software or hardware entity that performs actions autonomously with the goal of achieving specific objectives."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
             "marks": [
               {
                 "type": "textStyle",
@@ -4574,5 +4583,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T07:30:07.548Z"
+  "online_content_time": "2025-07-29T07:32:00.693Z"
 }
