@@ -1,12 +1,597 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you're entering the world of blogging, chances are you’ve heard of Medium—the online blogging platform with more than 170 million readers. You might have heard that it's a good place to get your brand noticed and that it's easy to set up. But with so many alternatives available, how do you know if Medium is the right home for your blog?"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Below we’ll examine the pros and cons of blogging on Medium to help you decide if it's the right solution for you."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What is Medium?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Launched in 2012, free blogging platform Medium is the brainchild of online entrepreneur and Twitter co-creator Evan Williams. As an example of social journalism, it is home to both long- and short-form writing, featuring posts from journalists both professional and citizen, thought leaders, and academics. The platform describes itself as a distribution channel allowing “the best ideas” to “take shape, take off, and spark powerful conversations.”"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Why should you care? With such a massive readership worldwide, Medium is a behemoth of the blogging world and remains a growing platform. But, perhaps more importantly, Medium differs from conventional blogging platforms in a number of key respects which make it an interesting proposition for online content writers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The most significant of these differences is that, as a blogger on Medium, you won’t operate your own website as you would on platforms such as WordPress, Wix, or Blogger. Instead you’ll post your words onto a platform that remains the property of Medium."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Pros of blogging on Medium"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "You don’t have to set up your own website"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For the technophobic among us, Medium’s model could eliminate many of the headaches involved in running business blogs. Not having your own website means you’ll have far less of the technical stress and anxiety typically involved in setting up a platform. You’ll also be spared the expense of finding a third party to provide web-hosting services for your site."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Get your brand noticed"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Medium can also be a useful tool for building awareness of your brand and enabling your content to reach a far larger audience than it would if you were running your own self-published company blogs. In an ideal scenario, one of these newfound readers will engage with your content on Medium and then recognize your name as a thought leader in your field."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It’s easy to use"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you’re not particularly confident with coding or HTML, Medium offers a full suite of features that could help you design your blog. Its editor tool works on an intuitive basis, enabling you to post quotes, share photos and videos, reblog, or link to other articles. Should you wish to send out a newsletter, the company’s help center contains detailed instructions. If your newsletter proves a success, you may eventually convert these newsletter signups into loyal customers."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Join a distinguished set of voices"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you decide to post your blog on Medium, you’ll be in good company. Medium is often the platform of choice for CEOs and thought leaders, with big-name accounts like The Economist and The Washington Post lending the site credibility."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For many emerging writers, this could provide a unique opportunity for their blog posts to appear alongside prestige publications. Using the platform’s publication tool, you can even collaborate with other writers on a popular topic within your industry."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Earn money from your blog"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Whether you’re a small business owner or a private individual looking for a side hustle, Medium can provide a useful method of making a passive income. Through the company’s partner program, you can make certain pieces of content exclusive to Medium members."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You’ll then earn a portion of those members’ $5 monthly membership fee whenever they read your posts. You’ll receive your payments each month, and Medium will update the amount of your earnings on a daily basis."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "High-quality content equals better rewards"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The amount of money you earn is based on the average time a reader spends on a given article, which will reward those who create content that engages with their target audience on more than a superficial level."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you’ve blogged on Medium in the past, you’ll probably be aware the platform previously paid writers in accordance with the number of claps earned by a post (the equivalent of a Twitter like). Such vanity metrics can easily provide a false indication of a post’s worth, as readers may click the clap icon based on a clickbait headline."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The current shift to more nuanced metrics is certainly welcome for those looking to create content that readers are willing to invest their time exploring in depth."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Customize your posts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While it is true that you won’t have your own website if you launch a blog on Medium, this doesn’t mean that you can’t personalize your posts to reflect your business’s brand. The platform enables you to add your company’s logo, as well as picking accent and background colors, and personalizing your fonts."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Harness your Twitter network"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you’re active on Twitter, Medium allows you to mine your existing social media contacts. By connecting your Medium account to your Twitter account, you can identify people you follow on Twitter who are already writing on Medium via the suggestions tab on your Medium account. When you’re writing a blog, it’s always wise to promote this content as much as possible on your other social media platforms."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "You own your content"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While many writers new to Medium probably work on the assumption they will own their content once it’s posted on Medium, it’s worth including this in our list following to correct a common misconception."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As the company stated in its blog in August last year, “you own all the content you post on Medium, and we make no claims to it, nor will we in the future.” In simple terms, you won’t own the platform, but your words remain your own. This difference is subtle but crucial."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Custom domains are making a comeback"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "As existing Medium users know, the company launched a policy several years ago which prevented new users from setting up a custom domain (which still includes “"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://medium.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "medium.com"
+          },
+          {
+            "type": "text",
+            "text": "” as part of the url). These are essentially domains that have the appearance of being a separate website, but still remain part of Medium. At the time, Medium argued that customized domains ran counter to the company’s aim for the platform to be “frictionless and scalable.” However, the company is now relaunching this feature in response to feedback from its writers. Although the company had previously charged $75 for custom domains, these will now be free for Medium members."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cons"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "You don’t control the platform"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If having control of your content is a top priority for your blog, Medium is unlikely to be the right choice for you. As you won’t be operating your own website, you are, theoretically, at the platform’s mercy. In a worst-case (and admittedly unlikely) scenario, Medium’s moderators could decide your content is unsuitable and remove your posts or even suspend your account."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Should you use your blog for business purposes, being suddenly de-platformed could be an embarrassing blow for your brand. If it can happen to Trump on Twitter..."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "You’re at the mercy of changing trends"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you rely on Medium as your only blog website, you could also face a massive personal blow if Medium were to suddenly suffer a downturn in fortune and no longer hold the appeal it currently does for its massive readership. While it’s hard to imagine now, think of examples such as MySpace or MSN Messenger. In an age before Facebook or Instagram, these were the go-to platforms for many of us during our teenage years, but they are now essentially defunct."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It isn’t easy to get noticed"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "With such a wealth of interesting and informed contributors, you may struggle to make your voice heard above the crowd of popular content. Even with brilliant content and an engaging blogging style, you may be competing against those with a more established reputation. While this doesn't make success impossible for newcomers, it underlines the importance of investing time, energy, and patience into producing content that will resonate with your intended readership."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It’s hard to get (tangible) results"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "While Medium can be a fantastic tool for adding intangible value to your business in the form of goodwill and increased brand awareness, the same isn’t necessarily true for more quantifiable metrics. Unless you use your Medium blog to drive your readers to your own website, you may struggle to convert your readers into sales: which, for many small businesses, is the whole idea behind starting a blog."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "You (probably) won’t earn a fortune"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Although you may welcome the opportunity to earn a little extra income, it’s important to be realistic about your potential earnings even if your content is of an extremely high standard. According to data released by the company in September 2020, the highest sum earned by a writer in the previous month was $49,581.31, with 6.2% of its active writers earning more than $100 per month. Flip this around, and it also means that almost 94% of the platform’s writers make less than $100 per month."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Your time could be better spent building your own blog"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you’re generating content to post on Medium, there is certainly an argument that your time could be more wisely spent creating your own blog, one over which you have total creative control. Remember, the traffic your posts drive to Medium belongs to Medium, which brings us to the following point on how best to appropriate Medium for your business."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Consider Medium as a syndication tool"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you’re still uncertain whether Medium is right for you, you also have the option to use the platform as a syndication tool — a place to republish or repurpose existing content from your primary blog. While this approach will give you access to Medium’s larger audience, it can also free you from some of its constraints on creative control."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Should you choose this option, blogging on Medium isn’t necessarily an end in itself, but a tool through which you can drive readers to your business or personal website. If you’re using your blog as a commercial tool, you can then convert these readers into potential customers."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "It can be bad for SEO… if you’re not careful"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "When you’re syndicating content, it’s essential you follow the correct procedure, or search engines could identify your blog as duplicate content and penalize you in terms of SEO. This could prove disastrous if you're seeking to obtain a better rank on a Google search."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The process of importing original content is extremely straightforward. All you need to do is create an account, click on your profile picture, navigate down to your story, and then select import a story. It’s important to note that republishing your content in this manner won’t have an impact on SEO, as Medium will mark this post as imported, which means you won’t be penalized by Google."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Summary: is Medium worth it?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Medium has plenty in its favor and can be an extremely effective way of raising awareness of your brand, but the real worth lies in investing a certain amount of creative thinking into transforming this increased exposure into tangible worth."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "One thing is certain when it comes to content creation: whether you start publishing your blog posts through Medium or another distribution channel, the most important point you need to consider is the quality of your online content."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Provide engaging, thoughtful, and transparent posts and you’re likely to gain a loyal following who may later engage with your business in other ways. Employ your blog for shameless self-promotion or provide misleading information, on the other hand, and your readers may regard your blog as little more than a marketing site, which could represent a significant missed opportunity for your business."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-29T09:42:25.584Z"
 }
