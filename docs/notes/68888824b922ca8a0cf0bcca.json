@@ -7,19 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": " Java is a widely-used, high-level programming language that was first released by Sun Microsystems in 1995. It is designed to be platform-independent, which means that Java applications can run on any device that has the Java Virtual Mach"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "ine (JVM) installed. This is often summarized by the phrase \"write once, run anywhere\" (WORA)."
+            "text": " Java is a widely-used, high-level programming language that was first released by Sun Microsystems in 1995. It is designed to be platform-independent, which means that Java applications can run on any device that has the Java Virtual Machine (JVM) installed. This is often summarized by the phrase \"write once, run anywhere\" (WORA)."
           }
         ]
       },
@@ -60,7 +48,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": Java is built on the principles of object-oriented programming (OOP), which promotes code reuse and modularity through concepts like classes, objects, inheritance, and polymorphism."
+                    "text": ": Java is built on the principles of object-oriented programming (OOP), which promotes code reuse and modularity through concepts like classes, objects, inheritance, and polymorphism. "
                   }
                 ]
               }
@@ -350,5 +338,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T12:02:33.586Z"
+  "online_content_time": "2025-07-29T12:03:02.274Z"
 }
