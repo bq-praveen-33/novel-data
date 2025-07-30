@@ -155,23 +155,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": AR and VR technologies are transforming entertainment, education, and training. "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#EAB308"
-                        }
-                      }
-                    ],
-                    "text": "These"
-                  },
-                  {
-                    "type": "text",
-                    "text": " immersive experiences are enhancing learning environments and providing innovative ways to engage with digital content, from virtual classrooms to interactive gaming."
+                    "text": ": AR and VR technologies are transforming entertainment, education, and training. These immersive experiences are enhancing learning environments and providing innovative ways to engage with digital content, from virtual classrooms to interactive gaming."
                   }
                 ]
               }
@@ -253,70 +237,11 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "highlight",
-                "attrs": {
-                  "color": "var(--novel-highlight-red)"
-                }
-              }
-            ],
             "text": "These emerging technologies are interconnected, often amplifying each other's potential. As they continue to evolve, they promise to drive significant changes across all aspects of life, from how we work and communicate to how we address global challenges. The future is poised to be shaped by these innovations, heralding a new era of possibilities."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "#FFA500"
-                }
-              }
-            ],
-            "text": "mvjvkh"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "#A8A29E"
-                }
-              }
-            ],
-            "text": "vbvnb"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "#2563EB"
-                }
-              }
-            ],
-            "text": "vmnv"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:38:38.902Z"
+  "online_content_time": "2025-07-30T07:39:11.418Z"
 }
