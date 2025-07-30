@@ -1,12 +1,28 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "Betaque Indore is a prominent technological and innovation hub located in Indore, India. It serves as a center for startups and entrepreneurs, providing them with resources, mentorship, and networking opportunities. The organization focuses on fostering a culture of entrepreneurship and supports various sectors, including information technology, manufacturing, and services. Betaque Indore often hosts workshops, events, and competitions to encourage collaboration and skill development among aspiring business leaders. Its aim is to enhance the startup ecosystem in the region, making it a vital player in India's growing entrepreneurial landscape."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-30T10:50:44.456Z"
 }
