@@ -3,758 +3,14 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": " ] ----------------------enhancedResults5"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: Printing the result from the chatActionResult {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   success: true,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   message: 'Found 1 notes',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   data: ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       noteId: '6888a8b144bdf5c250d87498',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       title: 'Github vs gitLab',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       score: 0.599839747,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       preview: 'No preview available',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       url: '/notes/6888a8b144bdf5c250d87498'"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: RESULT DATA: ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"success\": true,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"message\": \"Found 4 notes\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"data\": ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"noteId\": \"6888a8b144bdf5c250d87498\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"title\": \"Github vs gitLab\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"score\": 0.224786952,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"preview\": \"No preview available\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"url\": \"/notes/6888a8b144bdf5c250d87498\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"noteId\": \"63cb20bf1fb143edb8538442\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"title\": \"Emerging Technologies\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"score\": 0.188256159,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"preview\": \"No preview available\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"url\": \"/notes/63cb20bf1fb143edb8538442\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"noteId\": \"faeecf96c94642d5b3547641\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"title\": \"Ai benifits\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"score\": 0.187229559,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"preview\": \"No preview available\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"url\": \"/notes/faeecf96c94642d5b3547641\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"noteId\": \"68889885d9d91edd5ea2a506\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"title\": \"ML\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"score\": 0.164601,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"preview\": \"No preview available\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"url\": \"/notes/68889885d9d91edd5ea2a506\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"success\": true,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"message\": \"Found 1 notes\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     \"data\": ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"noteId\": \"6888a8b144bdf5c250d87498\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"title\": \"Github vs gitLab\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"score\": 0.599839747,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"preview\": \"No preview available\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:         \"url\": \"/notes/6888a8b144bdf5c250d87498\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: Printing the results -----> ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     success: true,"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     message: 'Found 4 notes',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     data: [ [Object], [Object], [Object], [Object] ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   { success: true, message: 'Found 1 notes', data: [ [Object] ] }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: 4444444444444444"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: Printing the summary -------> Action 1: Found 4 notes"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: • Github vs gitLab (URL: /notes/6888a8b144bdf5c250d87498)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: • Emerging Technologies (URL: /notes/63cb20bf1fb143edb8538442)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: • Ai benifits (URL: /notes/faeecf96c94642d5b3547641)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: • ML (URL: /notes/68889885d9d91edd5ea2a506)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: Action 2: Found 1 notes"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: • Github vs gitLab (URL: /notes/6888a8b144bdf5c250d87498)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: ["
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     role: 'system',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     content: 'You are a precise AI assistant for a note-taking application.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
         "content": [
           {
             "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
+            "text": "📏 What is the 20-20-20 rule?"
           }
         ]
       },
@@ -763,7 +19,7 @@
         "content": [
           {
             "type": "text",
-            "text": "novel-next-app:dev:       '    📌 "
+            "text": "Every "
           },
           {
             "type": "text",
@@ -772,123 +28,11 @@
                 "type": "bold"
               }
             ],
-            "text": "STRICT RULES"
+            "text": "20 minutes"
           },
           {
             "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - The ACTION RESULTS below are the single source of truth.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - These actions have ALREADY BEEN PERFORMED. Do not say you are going to do them.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - Never promise future actions.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "    - Never say \"Let's perform\" or \"I will now do it\". It's done.\\n"
-          },
-          {
-            "type": "text",
-            "text": " +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - Report the outcome exactly as given.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - You may rewrite for tone and clarity but never change facts.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - If multiple actions were performed, list each in order.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - Use clear checkmarks (✅) to show success, or clear messages for failures.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - If any action failed, mention the reason exactly as given.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    ✅ "
+            "text": ", take a "
           },
           {
             "type": "text",
@@ -897,38 +41,11 @@
                 "type": "bold"
               }
             ],
-            "text": "CURRENT USER CONTEXT"
+            "text": "20-second break"
           },
           {
             "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    - User: Atharv Mahajan\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    ✅ "
+            "text": ", and look at something "
           },
           {
             "type": "text",
@@ -937,549 +54,11 @@
                 "type": "bold"
               }
             ],
-            "text": "USER PERMISSIONS"
+            "text": "20 feet away"
           },
           {
             "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    Access Level: viewer\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       'Permissions: view only\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    ✅ "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "ACTION RESULTS (SOURCE OF TRUTH)"
-          },
-          {
-            "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    Action 1: Found 4 notes\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '• Github vs gitLab (URL: /notes/6888a8b144bdf5c250d87498)\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '• Emerging Technologies (URL: /notes/63cb20bf1fb143edb8538442)\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '• Ai benifits (URL: /notes/faeecf96c94642d5b3547641)\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '• ML (URL: /notes/68889885d9d91edd5ea2a506)\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       'Action 2: Found 1 notes\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '• Github vs gitLab (URL: /notes/6888a8b144bdf5c250d87498)\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    ✅ "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "CONTEXTUAL INFORMATION"
-          },
-          {
-            "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    User name: Atharv Mahajan\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       'User is currently viewing note: 20-20-20 rule\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       'Current path: /20-20-20 rule\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    🎯 "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "RESPONSE RULES"
-          },
-          {
-            "type": "text",
-            "text": ":\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    1. Confirm each action result in order. Example: \"Action 1 ✅: Created note ...\", \"Action 2 ✅: Shared note ...\".\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    2. Do not change the meaning or result.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    3. Do not imply the actions are pending.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       \"    4. Acknowledge the user's location if relevant.\\n\" +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    5. Mention permissions if they explain success or failure.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    6. Add a warm tone if appropriate: e.g., \"Nice work, [UserName]!\" — but facts first.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    7. Do not guess extra steps. Only what the results say.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    8. If all actions succeeded, say so clearly.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    9. If some failed, say exactly which and why — do not add reasons not given.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    10. Never contradict the ACTION RESULTS.\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '    🔒 "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "STRICT:"
-          },
-          {
-            "type": "text",
-            "text": " Any violation of these facts is unacceptable. Rewrite for tone only. Never for content.'"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     role: 'assistant',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     content: \"Hi! I'm your notes assistant. How can I help you today?\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     role: 'user',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     content: 'can u search 20-20-20 rule and Github vs gitLab'"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     role: 'assistant',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     content: 'Action 1 ✅: I found 1 note titled \"20-20-20 rule\". You can view it [here](/notes/6888ac6e3970f9cac00843de).\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       'Action 2 ✅: I found 2 notes. The first one is \"Github vs gitLab\" which you can view [here](/notes/6888a8b144bdf5c250d87498), and the second one is the \"20-20-20 rule\" which you are currently viewing. \\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       '\\n' +"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:       \"Please remember, Atharv, your current access level is 'viewer', which means you have permission to view these notes only.\","
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     action: 'search_results',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     data: [ [Object] ]"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   },"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     role: 'user',"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:     content: 'can u search 20-20-20 rule and Github vs gitLab'"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev:   }"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "novel-next-app:dev: ] this is the messages"
+            "text": "."
           }
         ]
       },
@@ -1487,30 +66,514 @@
         "type": "horizontalRule"
       },
       {
-        "type": "horizontalRule"
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 Why it works:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "👀 "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Relaxes eye muscles"
+                  },
+                  {
+                    "type": "text",
+                    "text": " that get strained from focusing on close objects (screens) for too long."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "💧 "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Encourages blinking"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", which keeps your eyes moist (staring at screens reduces blink rate)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "🧍‍♂️ Promotes "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "better posture"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and reminds you to move, helping with neck/back tension."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "horizontalRule"
       },
       {
-        "type": "horizontalRule"
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "✅ Who should use it:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Students 📚"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Office workers 👨‍💻"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gamers 🎮"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Anyone using screens for extended periods"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "horizontalRule"
       },
       {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📌 Bonus tips to boost the effect:"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Tip 💡"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "How it helps 🛠️"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Use blue light filters"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Reduces eye strain and may help sleep"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Adjust screen brightness"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Matches lighting and reduces glare"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Sit at proper distance"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "About 20–28 inches from the screen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Use artificial tears"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Helps with dryness if you stare too long"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Blink intentionally"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Keeps eyes hydrated"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔄 Summary:"
+          }
+        ]
       },
       {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "--"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Yes, the 20-20-20 rule works"
+          },
+          {
+            "type": "text",
+            "text": ", especially as part of a broader effort to protect your eyes. It's simple, quick, and can make a big difference over time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "hiiii"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-29T14:03:30.510Z"
+  "online_content_time": "2025-07-30T09:47:48.840Z"
 }
