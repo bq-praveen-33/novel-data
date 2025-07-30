@@ -63,19 +63,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": AI continues to advance rapidly, with applications in natural language"
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#9333EA"
-                        }
-                      }
-                    ],
-                    "text": " processing, computer vision, and predictive analytics. Machine learning algorithms are being used to improve everything from healthcare diagnostics to personalized marketing strategies."
+                    "text": ": AI continues to advance rapidly, with applications in natural language processing, computer vision, and predictive analytics. Machine learning algorithms are being used to improve everything from healthcare diagnostics to personalized marketing strategies."
                   }
                 ]
               }
@@ -121,7 +109,23 @@
                   },
                   {
                     "type": "text",
-                    "text": ": Beyond cryptocurrencies, blockchain technology is being explored for various applications, including supply chain transparency, secure voting systems, and digital identity verification. DeFi platforms are democratizing access to financial services, allowing users to lend, borrow, and trade without traditional intermediaries."
+                    "text": ": Beyond "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "#FFA500"
+                        }
+                      }
+                    ],
+                    "text": "cryptocurrencies"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", blockchain technology is being explored for various applications, including supply chain transparency, secure voting systems, and digital identity verification. DeFi platforms are democratizing access to financial services, allowing users to lend, borrow, and trade without traditional intermediaries."
                   }
                 ]
               }
@@ -255,5 +259,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:37:13.814Z"
+  "online_content_time": "2025-07-30T07:37:29.373Z"
 }
