@@ -79,12 +79,6 @@
                     "type": "text",
                     "marks": [
                       {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#2563EB"
-                        }
-                      },
-                      {
                         "type": "bold"
                       }
                     ],
@@ -92,19 +86,7 @@
                   },
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#2563EB"
-                        }
-                      }
-                    ],
-                    "text": ": "
-                  },
-                  {
-                    "type": "text",
-                    "text": "The rollout of 5G networks is revolutionizing connectivity. With faster speeds and lower latency, 5G enables advancements in IoT (Internet of Things), smart cities, and autonomous vehicles, facilitating real-time data exchange and enhancing user experiences."
+                    "text": ": The rollout of 5G networks is revolutionizing connectivity. With faster speeds and lower latency, 5G enables advancements in IoT (Internet of Things), smart cities, and autonomous vehicles, facilitating real-time data exchange and enhancing user experiences."
                   }
                 ]
               }
@@ -189,6 +171,12 @@
                     "type": "text",
                     "marks": [
                       {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "#2563EB"
+                        }
+                      },
+                      {
                         "type": "bold"
                       }
                     ],
@@ -196,7 +184,19 @@
                   },
                   {
                     "type": "text",
-                    "text": ": Advances in CRISPR and gene editing are paving the way for new treatments and therapies. Personalized medicine, which tailors healthcare based on individual genetic profiles, is becoming more feasible, promising improved outcomes for various diseases."
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "#2563EB"
+                        }
+                      }
+                    ],
+                    "text": ":"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Advances in CRISPR and gene editing are paving the way for new treatments and therapies. Personalized medicine, which tailors healthcare based on individual genetic profiles, is becoming more feasible, promising improved outcomes for various diseases."
                   }
                 ]
               }
@@ -261,5 +261,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:12:33.784Z"
+  "online_content_time": "2025-07-30T07:24:57.625Z"
 }
