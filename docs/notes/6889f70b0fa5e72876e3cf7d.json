@@ -3,9 +3,796 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Introduction to React"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "React is a popular JavaScript library developed by Facebook for building user interfaces, particularly for single-page applications where a seamless user experience is paramount. Launched in 2013, it has since gained immense traction due to its component-based architecture, virtual DOM, and efficient rendering capabilities. React allows developers to create large web applications that can change data without reloading the page, enhancing performance and user engagement."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Core Concepts of React"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Components"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nAt the heart of React is the concept of components. A component is a self-contained piece of UI that can be reused throughout an application. Components can be either class-based or functional."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Class Components"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": These are ES6 classes that extend from "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "code"
+                              }
+                            ],
+                            "text": "React.Component"
+                          },
+                          {
+                            "type": "text",
+                            "text": ". They have lifecycle methods and can hold local state."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Functional Components"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": These are simpler, stateless functions that return JSX. With the introduction of Hooks in React 16.8, functional components can also manage state and side effects."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "JSX (JavaScript XML)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nJSX is a syntax extension that allows developers to write HTML-like code within JavaScript. It makes the code more readable and expressive. Under the hood, JSX is transformed into JavaScript function calls that create React elements."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "State and Props"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "State"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": State is a built-in object that allows components to create and manage their own data. When the state changes, React re-renders the component to reflect the updates."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Props"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Short for properties, props are used to pass data from parent components to child components. They are immutable and allow for component reusability."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Lifecycle Methods"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nClass components have lifecycle methods that allow developers to hook into different phases of a component's lifecycle, such as mounting, updating, and unmounting. Common lifecycle methods include "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "componentDidMount"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "componentDidUpdate"
+                  },
+                  {
+                    "type": "text",
+                    "text": ", and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "componentWillUnmount"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Functional components can achieve similar functionality using Hooks like "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "useEffect"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Hooks"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nIntroduced in React 16.8, Hooks allow developers to use state and other React features in functional components. Some of the most commonly used Hooks include:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "code"
+                              }
+                            ],
+                            "text": "useState"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": For managing state in functional components."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "code"
+                              }
+                            ],
+                            "text": "useEffect"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": For performing side effects, such as data fetching or subscriptions."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "code"
+                              }
+                            ],
+                            "text": "useContext"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": For accessing context data without explicitly passing props."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "React Ecosystem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "React is not just a library; it is part of a larger ecosystem that includes various tools and libraries that enhance its capabilities:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "React Router"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nReact Router is a popular library for handling routing in React applications. It allows developers to create dynamic routing and navigation, enabling multi-page experiences in single-page applications."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "State Management Libraries"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nManaging state in complex applications can become cumbersome. Libraries like Redux, MobX, and Zustand are commonly used to manage application state globally and facilitate state sharing among components."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Context API"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nThe Context API is built into React and enables components to share data without passing props through every level of the component tree. It is especially useful for global state management, such as user authentication and theme settings."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Styled Components and CSS-in-JS"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nStyling in React can be managed in various ways. Styled-components is a library that allows developers to write CSS within JavaScript files, enabling scoped styles and dynamic styling based on props."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Testing Libraries"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nTesting is crucial for maintaining code quality. Libraries such as Jest, React Testing Library, and Enzyme are widely used for unit and integration testing of React components."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Building a React Application"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To build a React application, developers typically follow these steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Setting Up the Environment"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nCreate a new React application using tools like Create React App (CRA) or Vite, which provide a boilerplate with essential configurations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Folder Structure"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nOrganizing the project structure is vital for maintainability. A common structure includes directories for components, assets, styles, and tests."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Creating Components"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nDevelop reusable components, leveraging state and props. Using functional components with Hooks is recommended for new applications."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Implementing Routing"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nUse React Router to set up routing between different views or pages of the application."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Managing State"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nChoose an appropriate state management solution based on the application’s complexity. For simpler apps, the built-in state and Context API can suffice, while larger apps may benefit from Redux or MobX."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Styling"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nDecide on a styling approach—CSS Modules, Styled Components, or traditional CSS—and implement styles for components."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Testing"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nWrite tests to ensure components render correctly and behave as expected. Utilize Jest and React Testing Library for effective testing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Deployment"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\nOnce the application is ready, it can be built and deployed using platforms like Vercel, Netlify, or traditional web servers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conclusion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "React has transformed the way developers build user interfaces, providing a powerful, flexible, and efficient approach to web development. Its component-based architecture, coupled with an extensive ecosystem of tools and libraries, empowers developers to create high-performance applications that deliver exceptional user experiences. As the web continues to evolve, React's community and ecosystem are likely to grow, ensuring it remains a vital tool in the developer's toolkit."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T10:44:28.933Z"
+  "online_content_time": "2025-07-30T10:47:26.441Z"
 }
