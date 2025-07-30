@@ -7,23 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": " Ja"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "va is a widely-used, high-level programming language that was first released by Sun Microsyste"
-          },
-          {
-            "type": "text",
-            "text": "ms in 1995. It is designed to be platform-independent, which means that Java applications can run oode reuse and modularity through concepts like classes, objects, iinheritance, and polymorphismnheritance, and polymorphism."
+            "text": " Java is a widely-used, high-level programming language that was first released by Sun Microsystems in 1995. It is designed to be platform-independent, which means that Java applications can run oode reuse andz- modularity through concepts like classes, objects, iinheritance, and polymorphismnheritance, and polymorphism."
           }
         ]
       },
@@ -32,9 +16,12 @@
         "content": [
           {
             "type": "text",
-            "text": "n any device that has the Java Virtual Machine (JVM) installed. This is often summarized by the phrase \"write once, run anywhere\" (WORA)."
+            "text": "n any device that has the Java Virtual Machine (JVM) installed. This is often summarized by the phrase \"write once, run anywhere\" (WORA)./"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "heading",
@@ -363,5 +350,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-29T12:04:47.895Z"
+  "online_content_time": "2025-07-30T06:26:11.987Z"
 }
