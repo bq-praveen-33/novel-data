@@ -63,7 +63,19 @@
                   },
                   {
                     "type": "text",
-                    "text": ": AI continues to advance rapidly, with applications in natural language processing, computer vision, and predictive analytics. Machine learning algorithms are being used to improve everything from healthcare diagnostics to personalized marketing strategies."
+                    "text": ": AI continues to advance rapidly, with applications in natural language"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "#9333EA"
+                        }
+                      }
+                    ],
+                    "text": " processing, computer vision, and predictive analytics. Machine learning algorithms are being used to improve everything from healthcare diagnostics to personalized marketing strategies."
                   }
                 ]
               }
@@ -171,12 +183,6 @@
                     "type": "text",
                     "marks": [
                       {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#2563EB"
-                        }
-                      },
-                      {
                         "type": "bold"
                       }
                     ],
@@ -184,19 +190,7 @@
                   },
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": "#2563EB"
-                        }
-                      }
-                    ],
-                    "text": ":"
-                  },
-                  {
-                    "type": "text",
-                    "text": " Advances in CRISPR and gene editing are paving the way for new treatments and therapies. Personalized medicine, which tailors healthcare based on individual genetic profiles, is becoming more feasible, promising improved outcomes for various diseases."
+                    "text": ": Advances in CRISPR and gene editing are paving the way for new treatments and therapies. Personalized medicine, which tailors healthcare based on individual genetic profiles, is becoming more feasible, promising improved outcomes for various diseases."
                   }
                 ]
               }
@@ -261,5 +255,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:25:13.174Z"
+  "online_content_time": "2025-07-30T07:37:13.814Z"
 }
