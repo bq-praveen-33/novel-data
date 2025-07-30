@@ -10,7 +10,7 @@
         "content": [
           {
             "type": "text",
-            "text": "🥭 About Fruits"
+            "text": "💻 About C++ Language"
           }
         ]
       },
@@ -19,7 +19,16 @@
         "content": [
           {
             "type": "text",
-            "text": "Fruits are the "
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "C++"
+          },
+          {
+            "type": "text",
+            "text": " is a powerful, high-performance programming language developed by "
           },
           {
             "type": "text",
@@ -28,11 +37,11 @@
                 "type": "bold"
               }
             ],
-            "text": "edible, seed-bearing parts of plants"
+            "text": "Bjarne Stroustrup"
           },
           {
             "type": "text",
-            "text": ", often sweet or sour in taste. They are an essential part of the human diet, rich in "
+            "text": " in the early 1980s as an extension of the C language. It adds "
           },
           {
             "type": "text",
@@ -41,11 +50,26 @@
                 "type": "bold"
               }
             ],
-            "text": "vitamins, fiber, and antioxidants"
+            "text": "object-oriented programming"
           },
           {
             "type": "text",
-            "text": ". Common types of fruits include:"
+            "text": " features to C, making it suitable for both low-level systems and high-level application development."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 Key Features of C++"
           }
         ]
       },
@@ -68,11 +92,11 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Citrus Fruits"
+                    "text": "Compiled Language"
                   },
                   {
                     "type": "text",
-                    "text": ": Oranges, lemons, limes"
+                    "text": ": Converts code to machine code for fast execution."
                   }
                 ]
               }
@@ -91,11 +115,11 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Berries"
+                    "text": "Object-Oriented"
                   },
                   {
                     "type": "text",
-                    "text": ": Strawberries, blueberries, raspberries"
+                    "text": ": Supports classes, objects, inheritance, polymorphism, etc."
                   }
                 ]
               }
@@ -114,11 +138,11 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Stone Fruits"
+                    "text": "Low-Level Access"
                   },
                   {
                     "type": "text",
-                    "text": ": Mangoes, peaches, plums"
+                    "text": ": Offers direct memory manipulation using pointers."
                   }
                 ]
               }
@@ -137,11 +161,11 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Tropical Fruits"
+                    "text": "Standard Template Library (STL)"
                   },
                   {
                     "type": "text",
-                    "text": ": Pineapples, bananas, papayas"
+                    "text": ": Provides ready-to-use templates like vectors, stacks, queues, etc."
                   }
                 ]
               }
@@ -160,11 +184,11 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Pomes"
+                    "text": "Multi-Paradigm"
                   },
                   {
                     "type": "text",
-                    "text": ": Apples, pears"
+                    "text": ": Supports procedural, object-oriented, and generic programming."
                   }
                 ]
               }
@@ -183,28 +207,19 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Melons"
+                    "text": "Performance"
                   },
                   {
                     "type": "text",
-                    "text": ": Watermelons, cantaloupes"
+                    "text": ": Used where speed and efficiency are critical, like game engines and operating systems."
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Eating a variety of fruits daily is recommended for good health."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T14:19:58.830Z"
+  "online_content_time": "2025-07-30T14:22:42.180Z"
 }
