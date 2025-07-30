@@ -38,10 +38,80 @@
           {
             "type": "text",
             "text": "novel-next-app:dev: ]"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Printing the results and the context -----> ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     success: true,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     message: 'Found 2 notes',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     data: [ [Object], [Object] ]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: ]"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T06:28:53.510Z"
+  "online_content_time": "2025-07-30T07:34:48.917Z"
 }
