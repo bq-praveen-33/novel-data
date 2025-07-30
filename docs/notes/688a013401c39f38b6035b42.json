@@ -103,6 +103,100 @@
         ]
       },
       {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Title: The Help of a Friend"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once, there was a village where a sage lived. His name was Rama. Rama always lived a righteous life. His friend, Sujana, also resided in that village. One day, Rama went to the forest to gather fruits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Upon entering the forest, he saw a lion. Seeing it, Rama ran and sought the help of his friend."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sujana approached him and asked, \"Why are you afraid?\" Rama replied, \"A lion is near me; my life is in danger.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sujana, maintaining his courage, said, \"Do not be afraid; I will help you.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "After that, Sujana thought for a moment, and after locating the direction of the lion, he climbed a tree and shot an arrow in its path. The lion, wounded, fled."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Rama, feeling relieved, went to Sujana and said, \"Thank you, you are the protector of my life.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "From then on, Rama and Sujana became well-known friends throughout the village. In that village, righteousness and friendship became renowned everywhere."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The End."
+          }
+        ]
+      },
+      {
         "type": "paragraph",
         "content": [
           {
@@ -113,5 +207,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T11:26:18.639Z"
+  "online_content_time": "2025-07-30T11:30:20.644Z"
 }
