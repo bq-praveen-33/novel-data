@@ -519,10 +519,284 @@
           {
             "type": "text",
             "text": "novel-next-app:dev: ] "
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Printing the final results , action ----------------------> {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   response: \"Action 1 ✅: I found 1 note with the name 'AI'.\\n\" +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     \"Action 2 ✅: I found 1 note with the name 'ML'.\\n\" +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     '\\n' +"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     \"You're currently viewing the 'Deep Learning' note in the '/Deep Learning' path. If you need further assistance, Atharv, feel free to ask!\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   actions: ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     { success: true, message: 'Found 1 notes', data: [Array] },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     { success: true, message: 'Found 1 notes', data: [Array] }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   ]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: } {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   success: true,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   message: 'Found 1 notes',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   data: ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       noteId: '0dff64a166b14948a2d57e6d',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       title: 'AI',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       score: 0.490825653,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       preview: 'No preview available',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:       url: '/notes/0dff64a166b14948a2d57e6d'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   ]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: } ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     noteId: '0dff64a166b14948a2d57e6d',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     title: 'AI',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     score: 0.490825653,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     preview: 'No preview available',"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:     url: '/notes/0dff64a166b14948a2d57e6d'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: ]"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:45:56.870Z"
+  "online_content_time": "2025-07-30T07:46:43.732Z"
 }
