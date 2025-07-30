@@ -24,6 +24,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "Artificial Intelligence (AI) has taken the world by storm, and "
           },
           {
@@ -31,12 +39,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "ChatGPT"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": " is one of its most fascinating applications. But how does it actually work? In this blog, we’ll break down the technology behind ChatGPT, from its foundation in "
           },
           {
@@ -44,12 +66,26 @@
             "marks": [
               {
                 "type": "bold"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "Large Language Models (LLMs)"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": " to how it generates human-like responses."
           }
         ]
@@ -84,5 +120,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T06:54:04.470Z"
+  "online_content_time": "2025-07-30T06:56:20.759Z"
 }
