@@ -24,69 +24,33 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "Artificial Intelligence (AI) has taken the world by storm, and "
+            "text": "Artificial Intelligence (AI) has rapidly transformed various aspects of our lives, becoming an integral part of modern technology. Among its most intriguing applications is "
           },
           {
             "type": "text",
             "marks": [
               {
                 "type": "bold"
-              },
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
               }
             ],
             "text": "ChatGPT"
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": " is one of its most fascinating applications. But how does it actually work? In this blog, we’ll break down the technology behind ChatGPT, from its foundation in "
+            "text": ", a cutting-edge conversational agent that captivates users with its ability to generate coherent and contextually relevant responses. But what lies behind this remarkable technology? In this blog, we will delve into the intricate workings of ChatGPT, exploring its foundation in "
           },
           {
             "type": "text",
             "marks": [
               {
                 "type": "bold"
-              },
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
               }
             ],
             "text": "Large Language Models (LLMs)"
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": " to how it generates human-like responses."
+            "text": " and uncovering the sophisticated processes that enable it to produce human-like interactions. Join us as we unravel the marvels of AI and discover how ChatGPT is reshaping communication in the digital age."
           }
         ]
       },
@@ -120,5 +84,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T06:56:20.759Z"
+  "online_content_time": "2025-07-30T06:57:15.085Z"
 }
