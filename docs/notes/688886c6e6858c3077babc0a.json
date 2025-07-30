@@ -479,10 +479,50 @@
           {
             "type": "text",
             "text": "novel-next-app:dev: ]"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Printing the results and the context -----> ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   { success: true, message: 'Found 1 notes', data: [ [Object] ] },"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev:   { success: true, message: 'Found 1 notes', data: [ [Object] ] }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "novel-next-app:dev: ] "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T07:44:29.860Z"
+  "online_content_time": "2025-07-30T07:45:56.870Z"
 }
