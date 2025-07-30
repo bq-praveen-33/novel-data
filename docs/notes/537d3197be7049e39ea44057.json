@@ -6,13 +6,25 @@
         "type": "paragraph"
       },
       {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Today's Emerging Technologies"
+          }
+        ]
+      },
+      {
         "type": "image",
         "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/537d3197be7049e39ea44057/images/image.png-0f465299-1866-4f3b-8165-bf0f45599349",
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/537d3197be7049e39ea44057/images/image.png-d1d1661a-bc7c-4a72-b308-6e5e99bb1b41",
           "alt": null,
           "title": null,
-          "width": 768,
-          "height": 308.916
+          "width": 1231,
+          "height": 616.239
         }
       },
       {
@@ -275,5 +287,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T12:15:56.528Z"
+  "online_content_time": "2025-07-30T12:17:17.310Z"
 }
