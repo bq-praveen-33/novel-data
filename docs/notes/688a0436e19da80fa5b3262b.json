@@ -1,0 +1,211 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here is a short story in Sanskrit:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "कथा: मित्रस्य साहाय्यम्"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "एकः ग्रामः आसीत् यत्र एकः साधुः निवसति स्म। तस्य नाम रामः आसीत्। रामः सदा धर्मेण जीवति स्म। तस्य मित्रः सुजनः अपि तस्मिन् ग्रामे वसति स्म। एकदा, रामः वनं गत्वा तत्र फलानि सङ्ग्रहीतुम् उपगच्छति।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "अथ तस्मिन् वनं गत्वा, एकः सिंहः तस्मिन् दृष्टः। रामः तं दृष्ट्वा भागात् तस्य मित्रस्य साहाय्यं याचते।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "सुजनः तं गत्वा \"किमर्थं भयं?\" इति पृष्टवान्। रामः \"सिंहः मम समीपे अस्ति, तस्मिन् मम प्राणाः संकटे सन्ति\" इति उत्तरं ददाति।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "सुजनः धैर्यं धारयित्वा \"मा भैः, अहं तव साहाय्यं करिष्यामि\" इति वदति।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "तदनन्तरं, सुजनः किञ्चित् समयं चिन्तयित्वा, सिंहस्य दिशां प्राप्य, तस्मिन् एकं वृक्षं चित्त्वा तस्य मार्गे एकं बाणं प्रक्षिप्तवान्। सिंहः आहतः चालयन् भागति स्म।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "रामः सुखितः सः सुजनं गत्वा \"धन्यवादः, त्वं मम जीवनस्य रक्षकः\" इति वदति।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "तदा रामः च सुजनः च सखा सम्पूर्णं ग्रामे प्रसिद्धौ जातौ। तस्मिन् ग्रामे धर्मः, मित्रता च सर्वत्र प्रसिद्धाः अभवन्।"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "समाप्तम्।"
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Title: The Help of a Friend"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once, there was a village where a sage lived. His name was Rama. Rama always lived a righteous life. His friend, Sujana, also resided in that village. One day, Rama went to the forest to gather fruits."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Upon entering the forest, he saw a lion. Seeing it, Rama ran and sought the help of his friend."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sujana approached him and asked, \"Why are you afraid?\" Rama replied, \"A lion is near me; my life is in danger.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sujana, maintaining his courage, said, \"Do not be afraid; I will help you.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "After that, Sujana thought for a moment, and after locating the direction of the lion, he climbed a tree and shot an arrow in its path. The lion, wounded, fled."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Rama, feeling relieved, went to Sujana and said, \"Thank you, you are the protector of my life.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "From then on, Rama and Sujana became well-known friends throughout the village. In that village, righteousness and friendship became renowned everywhere."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The End."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This story tells of friendship and courage, showing how one friend helps another in a time of danger."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-30T11:30:58.229Z"
+}
