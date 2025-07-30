@@ -7,14 +7,26 @@
         "content": [
           {
             "type": "text",
-            "text": "यहाँ 30 शायरी प्रस्तुत की जा रही हैं:"
+            "text": "Sure! Here are some key concepts and formulas from algebra, trigonometry, and calculus:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Algebra"
           }
         ]
       },
       {
         "type": "orderedList",
         "attrs": {
-          "tight": true,
+          "tight": false,
           "start": 1,
           "type": null
         },
@@ -23,47 +35,67 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quadratic Formula"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": For a quadratic equation of the form ( ax^2 + bx + c = 0 ), the solutions for ( x ) can be found using:\n[\nx = \\frac{{-b \\pm \\sqrt{{b^2 - 4ac}}}}{{2a}}\n]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Factorization"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The difference of squares can be factored as:\n[\na^2 - b^2 = (a - b)(a + b)\n]"
+                  }
+                ]
               }
             ]
           }
         ]
       },
       {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
         "content": [
           {
             "type": "text",
-            "text": "तूने जो कहा वो सच है, "
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर पल अधूरा है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे साथ बिताए लम्हे,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "महसूस करूँ, ये दिल मेरा बेताब है।"
+            "text": "Trigonometry"
           }
         ]
       },
       {
         "type": "orderedList",
         "attrs": {
-          "tight": true,
-          "start": 2,
+          "tight": false,
+          "start": 1,
           "type": null
         },
         "content": [
@@ -71,47 +103,103 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Pythagorean Identity"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": In a right triangle, the relationship between the sides can be expressed as:\n[\n\\sin^2(\\theta) + \\cos^2(\\theta) = 1\n]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Sine and Cosine Addition Formulas"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "For sine:\n[\n\\sin(a + b) = \\sin(a)\\cos(b) + \\cos(a)\\sin(b)\n]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "For cosine:\n[\n\\cos(a + b) = \\cos(a)\\cos(b) - \\sin(a)\\sin(b)\n]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
         ]
       },
       {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
         "content": [
           {
             "type": "text",
-            "text": "तेरे ख्वाबों में खो जाता हूँ,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरी यादों में सो जाता हूँ।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू जो पास हो, तो ये दुनिया सुहानी,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर पल तन्हा सा लगता है।"
+            "text": "Calculus"
           }
         ]
       },
       {
         "type": "orderedList",
         "attrs": {
-          "tight": true,
-          "start": 3,
+          "tight": false,
+          "start": 1,
           "type": null
         },
         "content": [
@@ -119,55 +207,45 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Derivative of a Function"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The derivative of ( f(x) = x^n ) (where ( n ) is a constant) is given by:\n[\nf'(x) = nx^{n-1}\n]"
+                  }
+                ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे हँसने से खिल उठती है दुनिया,"
           },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर पल है वीराना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो सब कुछ है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना दिल मेरा है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 4,
-          "type": null
-        },
-        "content": [
           {
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Fundamental Theorem of Calculus"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": If ( F ) is an antiderivative of ( f ) on an interval ([a, b]), then:\n[\n\\int_a^b f(x) , dx = F(b) - F(a)\n]"
+                  }
+                ]
               }
             ]
           }
@@ -178,1289 +256,11 @@
         "content": [
           {
             "type": "text",
-            "text": "जब तू मुस्कुराती है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "दिल मेरा धड़कता है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरी हर बात में जादू है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो ये जहाँ खूबसूरत है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 5,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये रातें अधूरी हैं,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये खुशियाँ अधूरी हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सवेरा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर सुबह भी काली है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 6,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे प्यार की खुशबू में बसा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "दिल मेरा तेरा दीवाना है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये जीवन अधूरा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर सपना बेगाना है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 7,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तू मेरी ज़िन्दगी का साया है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर लम्हा माया है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरी यादों में खोया रहता हूँ,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा तन्हा है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 8,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे संग बिताए पल याद आते हैं,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये लम्हे अधूरे रह जाते हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही मेरी खुशी, तू ही मेरा ग़म,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है बेताब और चुप।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 9,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "जब तुम पास होती हो,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "हर ग़म भूल जाती हूँ।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "बस तन्हाई में खो जाता है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 10,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरी हँसी में छुपा है मेरा सारा जहां,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना यह जीवन लगता है वीरान।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो मेरा हर सपना सच है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर लम्हा है बेताब।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 11,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है वीरान,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी है एक फसाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 12,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरी यादों का साया है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "दिल में बस तेरा ही नज़ारा है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो ये सारा जहाँ है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ अधूरा सा लगता है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 13,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये चाँद भी सुना है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये तारे भी मुरझा गए हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो हर लम्हा खास है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा बेताब सा है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 14,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे साथ बिताए लम्हों की यादें,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "दिल में बसी हैं, जैसे बहार की नाजुक बातें।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरी दुनिया,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 15,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना इस दिल की धड़कन अधूरी है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी बस एक फसाना है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये जिंदगी है एक अंधेरा।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 16,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे नाम से ही शुरू होती है मेरी कहानी,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर लम्हा है बेगाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो सब कुछ है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा बेताब है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 17,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये सुबह भी काली है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये शाम भी वीरान है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो मेरा हर सपना सच है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है बेताब और चुप।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 18,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे हँसने से खिल उठती है दुनिया,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर पल है वीराना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो सब कुछ है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना दिल मेरा है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 19,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये लम्हे अधूरे हैं,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये खुशियाँ अधूरी हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सवेरा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर सुबह भी काली है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 20,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है वीरान,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी है एक फसाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 21,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये चाँद भी सुना है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये तारे भी मुरझा गए हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो हर लम्हा खास है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा बेताब सा है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 22,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये शाम भी वीरान है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये सुबह भी अधूरी है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो मेरा हर सपना सच है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है बेताब और चुप।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 23,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है वीरान,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी है एक फसाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 24,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे नाम से ही शुरू होती है मेरी कहानी,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर लम्हा है बेगाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो सब कुछ है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा बेताब है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 25,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये सुबह भी काली है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये शाम भी वीरान है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो मेरा हर सपना सच है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है बेताब और चुप।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 26,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये चाँद भी सुना है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये तारे भी मुरझा गए हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो हर लम्हा खास है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा बेताब सा है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 27,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है वीरान,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी है एक फसाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 28,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये शाम भी वीरान है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये सुबह भी अधूरी है।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू है तो मेरा हर सपना सच है,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है बेताब और चुप।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 29,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये रातें अधूरी हैं,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना ये खुशियाँ अधूरी हैं।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सवेरा,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर सुबह भी काली है।"
-          }
-        ]
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 30,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "तेरे बिना ये दिल मेरा है वीरान,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना हर खुशी है एक फसाना।"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तू ही है मेरा सुकून,"
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "text",
-            "text": "तेरे बिना सब कुछ है बेगाना।"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "उम्मीद है आपको ये शायरी पसंद आई होगी!"
+            "text": "If you have a specific topic or formula in mind within these areas, feel free to ask!"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-07-30T11:25:12.300Z"
+  "online_content_time": "2025-07-30T11:35:20.693Z"
 }
