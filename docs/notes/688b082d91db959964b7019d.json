@@ -21,15 +21,29 @@
         "type": "heading",
         "attrs": {
           "level": 3
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
         },
         "content": [
           {
             "type": "text",
-            "text": "Important Command: Write a Heading"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Essential Directive: Crafting an Effective Heading"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-31T06:22:48.367Z"
+  "online_content_time": "2025-07-31T06:25:09.495Z"
 }
