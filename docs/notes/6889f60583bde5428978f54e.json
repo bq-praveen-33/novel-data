@@ -19,7 +19,23 @@
         "content": [
           {
             "type": "text",
-            "text": "In today's rapidly evolving financial landscape, the concept of currency has undergone a significant transformation. Modern currencies are not just limited to physical cash; they now encompass a wide array of digital forms that reflect the advancements in technology and shifts in consumer behavior. In this blog, we will explore the various types of modern currencies, their implications, and what the future holds for money in our digital age."
+            "text": "In"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "text": "today's rapidly evolving financial landscape, the concept of currency has undergone a significant transformation. Modern currencies are not just limited to physical cash; they now encompass a wide array of digital forms that reflect the advancements in technology and shifts in consumer behavior. In this blog, we will explore the various types of modern currencies, their implications, and what the future holds for money in our digital age."
           }
         ]
       },
@@ -454,5 +470,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T10:52:29.309Z"
+  "online_content_time": "2025-07-31T05:45:43.817Z"
 }
