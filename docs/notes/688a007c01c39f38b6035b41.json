@@ -7,7 +7,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Sure! Here are some key concepts and formulas from algebra, trigonometry, and calculus: "
+            "text": "Sure! Here are some key concepts and formulas from algebra, trigonometry, and calculus"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": ":"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       },
@@ -271,5 +287,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T13:21:41.270Z"
+  "online_content_time": "2025-07-31T10:30:47.010Z"
 }
