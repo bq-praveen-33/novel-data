@@ -1,12 +1,644 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Blockchain: An Overview"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Introduction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Blockchain technology represents a revolutionary advancement in the way data is stored, managed, and shared. Originally developed as the underlying technology for cryptocurrencies like Bitcoin, its applications have expanded into various sectors, including finance, supply chain, healthcare, and more. This note provides a comprehensive overview of blockchain, its key features, applications, and future potential."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What is Blockchain?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At its core, blockchain is a distributed ledger technology (DLT) that records transactions across multiple computers in such a way that the registered transactions cannot be altered retroactively. This decentralization ensures transparency and security, making it an attractive solution for many industries."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Features of Blockchain"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Decentralization"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Unlike traditional databases, which are controlled by a central authority, blockchain operates on a peer-to-peer network. This reduces the risk of a single point of failure."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Transparency"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Transactions on a blockchain are visible to all participants in the network, fostering trust among users. Each participant can verify the history of transactions, thus enhancing accountability."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Immutability"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Once a transaction is recorded on the blockchain, it cannot be changed or deleted. This characteristic is crucial for maintaining the integrity of data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Security"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Blockchain employs cryptographic techniques to secure data, making it resistant to hacking and fraud. Each block contains a cryptographic hash of the previous block, creating a secure chain of data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Consensus Mechanisms"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Blockchain relies on various consensus algorithms (e.g., Proof of Work, Proof of Stake) to validate and confirm transactions, ensuring that all participants agree on the state of the ledger."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Applications of Blockchain"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Blockchain technology has found applications across various industries, including:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. Finance and Banking"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Cryptocurrencies"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Digital currencies like Bitcoin and Ethereum are built on blockchain technology, enabling peer-to-peer transactions without the need for intermediaries."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Smart Contracts"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Self-executing contracts with the terms of the agreement directly written into code. They automate processes, reduce costs, and increase efficiency."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. Supply Chain Management"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Traceability"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Blockchain allows for real-time tracking of products along the supply chain, enhancing transparency and reducing fraud."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Provenance"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Users can verify the origin and journey of goods, helping to ensure quality and authenticity."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. Healthcare"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Patient Records"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Blockchain can provide a secure and interoperable system for storing and sharing patient records, improving access to medical histories while protecting patient privacy."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Drug Traceability"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Ensures that pharmaceuticals are authentic and have not been tampered with, enhancing patient safety."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "4. Voting Systems"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Secure Voting"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Blockchain can be used to create tamper-proof voting systems, ensuring that every vote is counted accurately and transparently."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "5. Real Estate"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Property Transactions"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Simplifies the process of buying and selling property by securely recording ownership and transactions on a blockchain."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Challenges and Limitations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Despite its potential, blockchain technology faces several challenges:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Scalability"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Current blockchain solutions may struggle to handle a high volume of transactions compared to traditional systems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Regulatory Concerns"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Governments are still figuring out how to regulate blockchain and cryptocurrencies, which can lead to uncertainty."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Energy Consumption"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Some consensus mechanisms, especially Proof of Work, consume significant amounts of energy, raising environmental concerns."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Future of Blockchain"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The future of blockchain technology looks promising as it continues to evolve and gain mainstream acceptance. Innovations such as Layer 2 solutions, interoperability between different blockchains, and the integration of AI and IoT are likely to enhance its capabilities and applications."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conclusion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Blockchain technology has the potential to transform industries by providing a secure, transparent, and efficient way to manage data and transactions. As more organizations explore its capabilities, the impact of blockchain is expected to grow, leading to new business models and opportunities. Understanding blockchain is essential for anyone looking to stay ahead in an increasingly digital world."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-31T12:43:29.468Z"
 }
