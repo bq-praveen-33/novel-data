@@ -29,7 +29,23 @@
         "content": [
           {
             "type": "text",
-            "text": "Today's emerging technologies are reshaping various sectors, driving innovation, and influencing daily life. Here are some key areas of development:"
+            "text": "Today's emerging technologies are reshaping various sectors, driving innovation, and influencing daily life. Here a"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "re some key areas"
+          },
+          {
+            "type": "text",
+            "text": " of development:"
           }
         ]
       },
@@ -284,5 +300,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-30T14:44:57.528Z"
+  "online_content_time": "2025-07-31T05:34:03.673Z"
 }
