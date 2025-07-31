@@ -100,14 +100,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
             "text": "Trigonometry"
           }
         ]
@@ -131,26 +123,12 @@
                     "marks": [
                       {
                         "type": "bold"
-                      },
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
                       }
                     ],
                     "text": "Pythagorean Identity"
                   },
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
-                      }
-                    ],
                     "text": ": In a right triangle, the relationship between the sides can be expressed as:\n[\n\\sin^2(\\theta) + \\cos^2(\\theta) = 1\n]"
                   }
                 ]
@@ -168,26 +146,12 @@
                     "marks": [
                       {
                         "type": "bold"
-                      },
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
                       }
                     ],
                     "text": "Sine and Cosine Addition Formulas"
                   },
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
-                      }
-                    ],
                     "text": ":"
                   }
                 ]
@@ -206,14 +170,6 @@
                         "content": [
                           {
                             "type": "text",
-                            "marks": [
-                              {
-                                "type": "ai-highlight",
-                                "attrs": {
-                                  "color": "#c1ecf970"
-                                }
-                              }
-                            ],
                             "text": "For sine:\n[\n\\sin(a + b) = \\sin(a)\\cos(b) + \\cos(a)\\sin(b)\n]"
                           }
                         ]
@@ -228,14 +184,6 @@
                         "content": [
                           {
                             "type": "text",
-                            "marks": [
-                              {
-                                "type": "ai-highlight",
-                                "attrs": {
-                                  "color": "#c1ecf970"
-                                }
-                              }
-                            ],
                             "text": "For cosine:\n[\n\\cos(a + b) = \\cos(a)\\cos(b) - \\sin(a)\\sin(b)\n]"
                           }
                         ]
@@ -336,5 +284,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T13:40:42.709Z"
+  "online_content_time": "2025-07-31T13:41:54.619Z"
 }
