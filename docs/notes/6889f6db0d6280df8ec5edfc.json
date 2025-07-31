@@ -1,12 +1,47 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal, an architectural masterpiece located in Agra, India, is one of the most iconic symbols of love in the world. Built between 1632 and 1653 by the Mughal Emperor Shah Jahan, the mausoleum was constructed in memory of his beloved wife, Mumtaz Mahal, who died during childbirth."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal is renowned for its stunning white marble facade, which reflects hues of pink and orange during sunrise and sunset, creating a breathtaking visual experience. The intricate inlay work of precious stones, known as pietra dura, adorns the surfaces, showcasing the exquisite craftsmanship of the artisans of the time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The complex encompasses lush gardens, reflecting pools, and various other structures, all meticulously designed to enhance the beauty of the main mausoleum. The central dome, flanked by four minarets, rises to 73 meters and is a perfect example of Mughal architecture, combining elements of Persian, Islamic, and Indian styles."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Designated as a UNESCO World Heritage Site in 1983, the Taj Mahal attracts millions of visitors each year, making it one of the most visited tourist destinations in the world. Its enduring beauty and historical significance continue to captivate hearts, making it a timeless tribute to love and devotion."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-31T07:19:15.705Z"
 }
