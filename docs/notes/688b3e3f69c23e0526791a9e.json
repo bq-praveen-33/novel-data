@@ -6,6 +6,15 @@
         "type": "heading",
         "attrs": {
           "level": 1
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
         },
         "content": [
           {
@@ -36,6 +45,15 @@
         ]
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal was commissioned by Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died during childbirth. Construction began in 1632 and was completed in 1653, involving thousands of artisans, craftsmen, and laborers. The monument not only reflects the grandeur of the Mughal empire but also embodies the deep love Shah Jahan had for Mumtaz Mahal."
+          }
+        ]
+      },
+      {
         "type": "heading",
         "attrs": {
           "level": 2
@@ -44,15 +62,6 @@
           {
             "type": "text",
             "text": "Historical Background"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "The Taj Mahal was commissioned by Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died during childbirth. Construction began in 1632 and was completed in 1653, involving thousands of artisans, craftsmen, and laborers. The monument not only reflects the grandeur of the Mughal empire but also embodies the deep love Shah Jahan had for Mumtaz Mahal."
           }
         ]
       },
@@ -213,5 +222,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T13:09:44.606Z"
+  "online_content_time": "2025-07-31T13:14:31.444Z"
 }
