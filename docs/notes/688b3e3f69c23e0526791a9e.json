@@ -6,20 +6,173 @@
         "type": "heading",
         "attrs": {
           "level": 1
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 1
         },
         "content": [
           {
             "type": "text",
             "text": "The Taj Mahal: An Architectural Marvel"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Introduction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal, an iconic symbol of love, is one of the most remarkable structures in the world. Located in Agra, India, it is a UNESCO World Heritage Site and is renowned for its stunning beauty and intricate craftsmanship. Built in the 17th century, the Taj Mahal stands as a testament to the artistry of Mughal architecture and is a significant part of India's cultural heritage."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Historical Background"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal was commissioned by Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, who died during childbirth. Construction began in 1632 and was completed in 1653, involving thousands of artisans, craftsmen, and laborers. The monument not only reflects the grandeur of the Mughal empire but also embodies the deep love Shah Jahan had for Mumtaz Mahal."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Architectural Features"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Design and Layout"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal is a stunning example of Mughal architecture, which combines elements from Persian, Islamic, and Indian architectural styles. The main structure is a symmetrical building made of white marble, adorned with intricate carvings and inlaid gemstones. The layout of the Taj Mahal follows a classic Mughal garden design, featuring a vast reflecting pool that enhances its beauty."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The Dome"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The central dome of the Taj Mahal rises to a height of 35 meters and is surrounded by four smaller domes. The dome's unique design, with its graceful curves, symbolizes the heavens and serves as a focal point for the entire structure."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Decorative Elements"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The exterior and interior of the Taj Mahal are richly decorated with calligraphy, floral motifs, and geometric patterns. The use of semi-precious stones, such as lapis lazuli and jade, for inlay work further exemplifies the exquisite craftsmanship that went into its creation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cultural Significance"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal is not only a marvel of architecture but also a symbol of eternal love. It attracts millions of visitors each year, making it one of the most visited monuments in the world. It has inspired countless poems, songs, and films, reinforcing its status as a cultural icon."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Preservation Efforts"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In receThe Taj Mahal: An Architectural Marvel"
           }
         ]
       },
@@ -178,7 +331,7 @@
         "content": [
           {
             "type": "text",
-            "text": "In recent years, the Taj Mahal has faced challenges due to pollution and environmental factors. Efforts are ongoing to preserve its beauty and structural integrity, including initiatives to reduce air pollution in the Agra area and restore its marble façade."
+            "text": "In recent years, the Taj Mahal has faced challenges due to pollutionnt years, the Taj Mahal has faced challenges due to pollution and environmental factors. Efforts are ongoing to preserve its beauty and structural integrity, including initiatives to reduce air pollution in the Agra area and restore its marble façade."
           }
         ]
       },
@@ -222,5 +375,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T13:14:31.444Z"
+  "online_content_time": "2025-07-31T13:15:03.180Z"
 }
