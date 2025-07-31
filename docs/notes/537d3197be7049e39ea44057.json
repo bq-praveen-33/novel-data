@@ -104,19 +104,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": Although still in its infancy, quantum computing promises to r"
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
-                      }
-                    ],
-                    "text": "evolutionize problem-solving capabilities. It has the potential to transform fields such as cryptography, drug discovery, and complex system modeling by performing calculations at unprecedented speeds."
+                    "text": ": Although still in its infancy, quantum computing promises to revolutionize problem-solving capabilities. It has the potential to transform fields such as cryptography, drug discovery, and complex system modeling by performing calculations at unprecedented speeds."
                   }
                 ]
               }
@@ -293,8 +281,11 @@
             "text": "These technologies not only enhance productivity and efficiency but also raise ethical and societal questions that necessitate careful consideration as we move forward into an increasingly tech-driven future. "
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-07-31T06:14:25.338Z"
+  "online_content_time": "2025-07-31T07:00:34.414Z"
 }
