@@ -1,0 +1,40 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "text",
+        "attrs": { "level": 2 },
+        "content": [{ "type": "text", "text": "How to Use JavaScript for AI and ML" }]
+      },
+      {
+        "type": "text",
+        "attrs": { "level": 3 },
+        "content": [{ "type": "text", "text": "Introduction" }]
+      },
+      {
+        "type": "text",
+        "content": [{ "type": "text", "text": "JavaScript can be utilized in AI and ML through libraries and frameworks that enable data manipulation, model training, and visualization." }]
+      },
+      {
+        "type": "text",
+        "attrs": { "level": 3 },
+        "content": [{ "type": "text", "text": "Popular Libraries" }]
+      },
+      {
+        "type": "text",
+        "content": [{ "type": "text", "text": "1. TensorFlow.js: A library for training and deploying ML models in the browser using JavaScript.\n2. Brain.js: A library designed for neural networks in JavaScript for both Node.js and browser environments.\n3. Synaptic: A lightweight neural network library for building and training networks." }]
+      },
+      {
+        "type": "text",
+        "attrs": { "level": 3 },
+        "content": [{ "type": "text", "text": "Applications" }]
+      },
+      {
+        "type": "text",
+        "content": [{ "type": "text", "text": "JavaScript can be used for applications such as chatbots, image recognition, and data analysis in web applications." }]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-31T12:57:43.599Z"
+}
