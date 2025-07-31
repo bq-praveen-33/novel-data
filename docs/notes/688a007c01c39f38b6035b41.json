@@ -96,11 +96,25 @@
         "type": "heading",
         "attrs": {
           "level": 3
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
         },
         "content": [
           {
             "type": "text",
-            "text": "Trigonometry"
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "Calculus"
           }
         ]
       },
@@ -123,13 +137,27 @@
                     "marks": [
                       {
                         "type": "bold"
+                      },
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
                       }
                     ],
-                    "text": "Pythagorean Identity"
+                    "text": "Fundamental Theorem of Calculus"
                   },
                   {
                     "type": "text",
-                    "text": ": In a right triangle, the relationship between the sides can be expressed as:\n[\n\\sin^2(\\theta) + \\cos^2(\\theta) = 1\n]"
+                    "marks": [
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
+                      }
+                    ],
+                    "text": ": This theorem connects differentiation and integration, stating that:\n[\nF(b) - F(a) = \\int_{a}^{b} f(x) , dx\n]\nwhere (F) is an antiderivative of (f)."
                   }
                 ]
               }
@@ -146,12 +174,26 @@
                     "marks": [
                       {
                         "type": "bold"
+                      },
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
                       }
                     ],
-                    "text": "Sine and Cosine Addition Formulas"
+                    "text": "Product Rule and Quotient Rule"
                   },
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
+                      }
+                    ],
                     "text": ":"
                   }
                 ]
@@ -170,7 +212,15 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "For sine:\n[\n\\sin(a + b) = \\sin(a)\\cos(b) + \\cos(a)\\sin(b)\n]"
+                            "marks": [
+                              {
+                                "type": "ai-highlight",
+                                "attrs": {
+                                  "color": "#c1ecf970"
+                                }
+                              }
+                            ],
+                            "text": "For the product of two functions:\n[\n(uv)' = u'v + uv'\n]"
                           }
                         ]
                       }
@@ -184,7 +234,19 @@
                         "content": [
                           {
                             "type": "text",
-                            "text": "For cosine:\n[\n\\cos(a + b) = \\cos(a)\\cos(b) - \\sin(a)\\sin(b)\n]"
+                            "marks": [
+                              {
+                                "type": "ai-highlight",
+                                "attrs": {
+                                  "color": "#c1ecf970"
+                                }
+                              }
+                            ],
+                            "text": "For the quotient of two functions:\n[\n\\left(\\frac{u}{v}\\right)' = \\frac{u'v - uv'}{v^2}\n]"
+                          },
+                          {
+                            "type": "text",
+                            "text": "."
                           }
                         ]
                       }
@@ -284,5 +346,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T13:41:54.619Z"
+  "online_content_time": "2025-07-31T13:41:20.445Z"
 }
