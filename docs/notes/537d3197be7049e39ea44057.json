@@ -104,7 +104,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": Although still in its infancy, quantum computing promises to revolutionize problem-solving capabilities. It has the potential to transform fields such as cryptography, drug discovery, and complex system modeling by performing calculations at unprecedented s"
+                    "text": ": Although still in its infancy, quantum computing promises to r"
                   },
                   {
                     "type": "text",
@@ -116,7 +116,7 @@
                         }
                       }
                     ],
-                    "text": "peeds."
+                    "text": "evolutionize problem-solving capabilities. It has the potential to transform fields such as cryptography, drug discovery, and complex system modeling by performing calculations at unprecedented speeds."
                   }
                 ]
               }
@@ -133,31 +133,13 @@
                     "marks": [
                       {
                         "type": "bold"
-                      },
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
                       }
                     ],
                     "text": "5G and Next-Generation Connectivity"
                   },
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "ai-highlight",
-                        "attrs": {
-                          "color": "#c1ecf970"
-                        }
-                      }
-                    ],
-                    "text": ": The rollout of 5G networks is enhancing connectivity, enabling faster data transfer and supporting the proliferation of IoT devices. This technology is expected to drive advancements in s"
-                  },
-                  {
-                    "type": "text",
-                    "text": "mart cities, autonomous vehicles, and telemedicine."
+                    "text": ": The rollout of 5G networks is enhancing connectivity, enabling faster data transfer and supporting the proliferation of IoT devices. This technology is expected to drive advancements in smart cities, autonomous vehicles, and telemedicine."
                   }
                 ]
               }
@@ -314,5 +296,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T06:01:00.481Z"
+  "online_content_time": "2025-07-31T06:14:25.338Z"
 }
