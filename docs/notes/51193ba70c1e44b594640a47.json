@@ -1,12 +1,713 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Biotechnology and Genomics"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Introduction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Biotechnology and genomics are two interrelated fields that have revolutionized the life sciences, impacting medicine, agriculture, environmental science, and more. Biotechnology refers to the use of biological systems or organisms to develop or create products, while genomics is the study of the structure, function, evolution, and mapping of genomes. This note explores the fundamentals of biotechnology and genomics, their applications, and their implications for the future."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Key Concepts"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Biotechnology"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Definition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Biotechnology involves the manipulation of living organisms or their components to develop products and technologies that improve human life and the environment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Types of Biotechnology"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\n"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Medical Biotechnology"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Focuses on the development of pharmaceuticals, diagnostics, and therapies using biological systems."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Agricultural Biotechnology"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Involves genetically modifying crops to enhance yield, pest resistance, and nutritional value."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Industrial Biotechnology"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Utilizes enzymes and microorganisms in manufacturing processes to produce biofuels, bioplastics, and other materials."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Genomics"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Definition"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Genomics encompasses the study of genomes, the complete set of DNA within an organism, including its genes and their functions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Key Techniques"
+                  },
+                  {
+                    "type": "text",
+                    "text": ":\n"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "DNA Sequencing"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": The process of determining the nucleotide sequence of DNA, which allows researchers to identify genetic variations and mutations."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Gene Editing"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": Techniques such as CRISPR-Cas9 enable precise modifications of DNA, allowing for targeted changes in an organism's genome."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Bioinformatics"
+                          },
+                          {
+                            "type": "text",
+                            "text": ": The use of computational tools to manage and analyze genomic data, facilitating the interpretation of complex biological information."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Applications"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "1. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Healthcare"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Personalized Medicine"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Genomics plays a crucial role in tailoring medical treatments based on an individual's genetic makeup, leading to more effective therapies with fewer side effects."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Gene Therapy"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Biotechnology enables the development of treatments that can correct genetic disorders by introducing, removing, or altering genetic material within a patient's cells."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "2. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Agriculture"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Genetically Modified Organisms (GMOs)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Biotechnology allows for the creation of crops that are resistant to pests, diseases, and environmental stresses, thereby increasing food security and reducing the need for chemical pesticides."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Sustainable Practices"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Genomics aids in the identification of traits that can enhance crop resilience and nutritional quality, promoting sustainable agricultural practices."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "3. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Environmental Science"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Bioremediation"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Biotechnology utilizes microorganisms to clean up contaminated environments, such as oil spills or heavy metal pollution, contributing to ecosystem restoration."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Conservation Genomics"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The application of genomic techniques assists in the conservation of endangered species by studying their genetic diversity and health."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ethical Considerations"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The rapid advancement of biotechnology and genomics raises important ethical questions. Concerns include:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Genetic Privacy"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The potential misuse of genetic information poses threats to individual privacy and discrimination."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Biodiversity Impact"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The introduction of GMOs may have unforeseen effects on ecosystems and biodiversity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Access and Equity"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Ensuring equitable access to biotechnological advancements is essential to prevent widening health disparities."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Conclusion"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Biotechnology and genomics are at the forefront of scientific innovation, offering transformative solutions across various sectors. As these fields continue to evolve, it is crucial to address ethical challenges while harnessing their potential to improve human health and the environment. The integration of biotechnological and genomic approaches will pave the way for a more sustainable and healthier future."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-31T12:57:20.163Z"
 }
