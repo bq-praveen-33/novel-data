@@ -1,0 +1,197 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and implement network protocols in seven distinct layers. Each layer serves a specific function in the data communication process, facilitating interoperability between different systems and technologies. Here’s an overview of the seven layers of the OSI model:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Physical Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": This is the lowest layer of the OSI model and is responsible for the actual transmission of raw data over a physical medium. It deals with hardware aspects such as cables, switches, and electrical signals, as well as defining the specifications for the physical connection between devices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Data Link Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The second layer is responsible for node-to-node data transfer and error detection and correction. It ensures that data packets are transferred reliably over the physical layer. This layer is divided into two sublayers: the Logical Link Control (LLC) and the Media Access Control (MAC), which manage how data packets are placed on the network."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Network Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": This layer handles the routing of data packets across different networks. It determines how data is sent from the source to the destination, including addressing and packet forwarding. The Internet Protocol (IP) operates at this layer, managing logical addressing and routing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Transport Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The transport layer ensures reliable data transfer between two devices, providing error recovery and flow control. It segments data into smaller packets for transmission and guarantees that data is delivered in order and without duplication. Key protocols at this layer include Transmission Control Protocol (TCP) and User Datagram Protocol (UDP)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Session Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": This layer manages sessions between applications. It establishes, maintains, and terminates communication sessions, allowing applications on different devices to communicate effectively. It also handles session recovery and synchronization, ensuring that data exchange is organized and orderly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Presentation Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The presentation layer is responsible for translating data between the application layer and the network. It formats and encrypts data, ensuring that it is in a usable format for the application layer. This layer handles data compression and character encoding, catering to the diverse data formats used by different systems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Application Layer"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The topmost layer of the OSI model, the application layer provides network services directly to end-user applications. It facilitates user interactions with the network and supports application-level protocols like HTTP, FTP, SMTP, and DNS. This layer serves as the interface between the user and the network, ensuring that applications can communicate effectively."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In summary, the OSI model provides a structured approach to networking by dividing the communication process into seven layers, each with its own specific role, thereby enhancing compatibility and standardization across diverse network technologies."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-07-31T08:29:51.345Z"
+}
