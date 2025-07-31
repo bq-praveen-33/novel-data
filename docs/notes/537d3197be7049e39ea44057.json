@@ -29,23 +29,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Today's emerging technologies are reshaping various sectors, driving innovation, and influencing daily life. Here a"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
-            "text": "re some key areas"
-          },
-          {
-            "type": "text",
-            "text": " of development:"
+            "text": "Today's emerging technologies are reshaping various sectors, driving innovation, and influencing daily life. Here are some key areas of development:"
           }
         ]
       },
@@ -68,9 +52,24 @@
                     "marks": [
                       {
                         "type": "bold"
+                      },
+                      {
+                        "type": "ai-highlight",
+                        "attrs": {
+                          "color": "#c1ecf970"
+                        }
                       }
                     ],
-                    "text": "Artificial Intelligence (AI) and Machine Learning (ML)"
+                    "text": "Artificial Intelligence (AI) and Machine"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " Learning (ML)"
                   },
                   {
                     "type": "text",
@@ -300,5 +299,5 @@
       }
     ]
   },
-  "online_content_time": "2025-07-31T05:34:03.673Z"
+  "online_content_time": "2025-07-31T05:48:14.613Z"
 }
