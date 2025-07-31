@@ -13,8 +13,20 @@
       },
       {
         "type": "paragraph"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Important Command: Write a Heading"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-07-31T06:08:34.245Z"
+  "online_content_time": "2025-07-31T06:13:43.539Z"
 }
