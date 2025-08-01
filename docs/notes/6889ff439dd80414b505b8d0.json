@@ -33,6 +33,12 @@
             "marks": [
               {
                 "type": "italic"
+              },
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
               }
             ],
             "text": "\"Embrace each day as a fresh canvas; with every sunrise comes the opportunity to create something beautiful.\""
@@ -416,5 +422,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T10:23:59.390Z"
+  "online_content_time": "2025-08-01T10:24:10.044Z"
 }
