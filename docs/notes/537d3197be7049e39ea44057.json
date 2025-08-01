@@ -8,6 +8,21 @@
           {
             "type": "text",
             "text": "ghvhj"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(255, 255, 255)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Emerging TechnologiesEmerging TechnologiesEmerging Technologies"
           }
         ]
       },
@@ -16,5 +31,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T08:34:47.134Z"
+  "online_content_time": "2025-08-01T08:48:42.412Z"
 }
