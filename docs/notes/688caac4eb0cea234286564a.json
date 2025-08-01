@@ -286,13 +286,7 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "CopyEdit"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -579,5 +573,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T11:54:55.405Z"
+  "online_content_time": "2025-08-01T11:55:12.764Z"
 }
