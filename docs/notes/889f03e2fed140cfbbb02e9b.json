@@ -299,7 +299,7 @@
                   },
                   {
                     "type": "text",
-                    "text": ": The transaction is confirmed and permanently recorded, ensuring all parties have access to the same information."
+                    "text": ": The transaction is confirmed and permanently recorded, ensuring all parties have access to the same information. "
                   }
                 ]
               }
@@ -545,5 +545,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T09:55:40.516Z"
+  "online_content_time": "2025-08-01T11:33:33.911Z"
 }
