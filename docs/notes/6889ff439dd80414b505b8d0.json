@@ -21,6 +21,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "As we navigate through the fast-paced world of news, it's essential to stay informed about the unfolding events that shape our lives. Today, we bring you a up of significant headlines that are making waves both locally and globally."
           }
         ]
@@ -207,5 +215,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T09:25:21.622Z"
+  "online_content_time": "2025-08-01T09:30:02.576Z"
 }
