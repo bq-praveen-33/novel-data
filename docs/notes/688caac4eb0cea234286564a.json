@@ -210,29 +210,6 @@
         "content": [
           {
             "type": "text",
-            "text": "jsx"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "CopyEdit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
             "text": "function Child({ name }) {   return <p>Hello, {name}!</p>; }  function Parent() {   return <Child name=\"React Learner\" />; } "
           }
         ]
@@ -430,30 +407,7 @@
         "content": [
           {
             "type": "text",
-            "text": "jsx"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "CopyEdit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "function Child({ sendData }) {   return <button onClick={() => sendData(\"Hello from child!\")}>Send</button>; }  function Parent() {   const handleData = (data) => {     console.log(data);   };    return <Child sendData={handleData} />; } "
+            "text": "function Child({ sendData }) {   return <button onClick={() => sendData(\"Hello from child!\")}>Send</button>; }  function Parent() {   const handleData = (data) => {     console.log(data);   };    return <Child sendData={handleData} />; }"
           }
         ]
       },
@@ -625,5 +579,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T11:54:25.102Z"
+  "online_content_time": "2025-08-01T11:54:55.405Z"
 }
