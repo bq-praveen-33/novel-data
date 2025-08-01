@@ -49,7 +49,13 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If we are changing title in editor it should reflect in bug fixes."
+                  }
+                ]
               }
             ]
           }
@@ -57,5 +63,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T10:47:35.953Z"
+  "online_content_time": "2025-08-01T10:56:58.079Z"
 }
