@@ -47,6 +47,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "The Vital Role of News: Shaping Society and Informing Minds"
           }
         ]
@@ -416,5 +424,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T10:31:01.294Z"
+  "online_content_time": "2025-08-01T10:31:12.684Z"
 }
