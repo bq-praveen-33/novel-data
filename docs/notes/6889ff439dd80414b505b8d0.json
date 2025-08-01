@@ -26,7 +26,21 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "\"Embrace each day as a fresh canvas; with every sunrise comes the opportunity to create something beautiful.\""
+          }
+        ]
       },
       {
         "type": "heading",
@@ -405,5 +419,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T09:57:24.245Z"
+  "online_content_time": "2025-08-01T09:57:57.041Z"
 }
