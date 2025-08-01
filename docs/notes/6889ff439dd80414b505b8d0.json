@@ -33,12 +33,6 @@
             "marks": [
               {
                 "type": "italic"
-              },
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
               }
             ],
             "text": "\"Embrace each day as a fresh canvas; with every sunrise comes the opportunity to create something beautiful.\""
@@ -53,6 +47,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "The Role of News in Society"
           }
         ]
@@ -62,6 +64,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
             "text": "News serves as a vital link between citizens and the world around them. It informs the public on critical matters ranging from politics and economics to health and the environment. A well-informed populace is essential for a functioning democracy, as it fosters engaged citizens who can hold their leaders accountable and contribute to societal progress."
           }
         ]
@@ -422,5 +432,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T10:24:10.044Z"
+  "online_content_time": "2025-08-01T10:25:01.706Z"
 }
