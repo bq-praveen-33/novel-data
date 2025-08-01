@@ -1,12 +1,629 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The term "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "\"child\" in React"
+          },
+          {
+            "type": "text",
+            "text": " usually refers to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "child components"
+          },
+          {
+            "type": "text",
+            "text": "—components that are nested inside other components (called "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "parent components"
+          },
+          {
+            "type": "text",
+            "text": "). React’s component-based architecture naturally forms a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "tree structure"
+          },
+          {
+            "type": "text",
+            "text": ", where data and UI flow from parent to child."
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🌿 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What is a Child Component in React?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "child component"
+          },
+          {
+            "type": "text",
+            "text": " is simply a component that is used (or rendered) inside another component."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Example:"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "jsx"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function Child() {   return <p>I am the child component!</p>; }  function Parent() {   return (     <div>       <h1>I am the parent component</h1>       <Child /> {/* Child component is used here */}     </div>   ); } "
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔁 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Passing Data to Child Components (Props)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Parents can pass data to children using "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "props"
+          },
+          {
+            "type": "text",
+            "text": " (short for properties)."
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "jsx"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function Child({ name }) {   return <p>Hello, {name}!</p>; }  function Parent() {   return <Child name=\"React Learner\" />; } "
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📤 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Children Prop"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sometimes, instead of explicitly passing content through props, React offers a special "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "children"
+          },
+          {
+            "type": "text",
+            "text": " prop to pass "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "nested JSX"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "jsx"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function Card({ children }) {   return <div className=\"card\">{children}</div>; }  function App() {   return (     <Card>       <h2>This is passed as children</h2>       <p>And this paragraph too!</p>     </Card>   ); } "
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🔄 "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Parent-Child Communication"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Parent to Child"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Use "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "props"
+                  },
+                  {
+                    "type": "text",
+                    "text": " to pass data or functions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Child to Parent"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Pass a function from the parent to the child via props, and call it in the child when needed."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "jsx"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "CopyEdit"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "function Child({ sendData }) {   return <button onClick={() => sendData(\"Hello from child!\")}>Send</button>; }  function Parent() {   const handleData = (data) => {     console.log(data);   };    return <Child sendData={handleData} />; } "
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "🧠 Summary"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "React UIs are made up of "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "parent and child components"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Data typically flows "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "from parent to child"
+                  },
+                  {
+                    "type": "text",
+                    "text": " via "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "props"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "children"
+                  },
+                  {
+                    "type": "text",
+                    "text": " prop allows for flexible component composition."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Child components can "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "communicate back"
+                  },
+                  {
+                    "type": "text",
+                    "text": " to parents using callback functions."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Let me know if you want examples with hooks or more advanced patterns like lifting state or using "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "useContext"
+          },
+          {
+            "type": "text",
+            "text": " between components."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-01T11:54:25.102Z"
 }
