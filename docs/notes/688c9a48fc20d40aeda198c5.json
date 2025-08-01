@@ -25,9 +25,31 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Delete Page"
+                    "text": "Delete Public page need to be disabled"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Content rendering issues"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
               }
             ]
           }
@@ -35,5 +57,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-01T10:43:52.296Z"
+  "online_content_time": "2025-08-01T10:44:13.580Z"
 }
