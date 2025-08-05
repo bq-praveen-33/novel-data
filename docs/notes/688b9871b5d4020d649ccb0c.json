@@ -3,9 +3,132 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Taj Mahal Note"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Taj Mahal, located in Agra, India, is a UNESCO World Heritage Site and one of the most iconic symbols of love in the world. Commissioned by Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal, the construction of this magnificent mausoleum began in 1632 and was completed in 1653, taking around 22 years to finish."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Architectural Features:"
+          },
+          {
+            "type": "text",
+            "text": "The Taj Mahal is renowned for its stunning Mughal architecture, which combines elements from Persian, Islamic, and Indian architectural styles. The main structure is made of white marble that reflects different shades of light throughout the day, creating a breathtaking visual effect. The intricate inlay work, known as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "pietra dura"
+          },
+          {
+            "type": "text",
+            "text": ", features semi-precious stones like lapis lazuli, jasper, and turquoise, forming exquisite floral and geometric designs. The dome of the Taj Mahal rises to about 35 meters and is surrounded by four smaller domes, creating a harmonious and balanced appearance. The minarets, standing at about 40 meters, are slightly tilted outward to provide an optical illusion of greater height."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Gardens and Layout:"
+          },
+          {
+            "type": "text",
+            "text": "Surrounding the Taj Mahal is a beautifully landscaped garden, which is designed in the Persian style, symbolizing paradise. The garden is divided into four quadrants by water channels, representing the four rivers of paradise as described in the Quran. The overall layout follows a symmetrical pattern, contributing to the tranquil atmosphere of the site. The reflecting pool in front of the mausoleum enhances its beauty, providing a stunning mirror image of the monument. The pathways are lined with flowering trees and plants, adding seasonal colors to the landscape."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Cultural Significance:"
+          },
+          {
+            "type": "text",
+            "text": "The Taj Mahal is not only a mausoleum but also a symbol of the enduring love between Shah Jahan and Mumtaz Mahal. It attracts millions of visitors each year, making it one of the most visited tourist attractions in India. The site also plays a significant role in Indian culture and heritage, often being featured in literature, films, and art. It has inspired countless poets, artists, and musicians, further cementing its status as a global icon of romance. Additionally, the Taj Mahal is a site of pilgrimage for lovers and couples, who come to pay tribute to the love story it represents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Preservation Efforts:"
+          },
+          {
+            "type": "text",
+            "text": "In recent years, the Taj Mahal has faced challenges due to pollution and environmental factors, leading to discoloration of the marble. Various preservation efforts have been initiated by the Indian government and cultural organizations to ensure the protection and maintenance of this historical monument for future generations. These efforts include cleaning the marble, regulating pollution in the surrounding area, and promoting sustainable tourism practices. The introduction of electric vehicles in the vicinity has helped reduce air pollution, contributing to the preservation of the site."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Visiting the Taj Mahal:"
+          },
+          {
+            "type": "text",
+            "text": "Visitors to the Taj Mahal can explore not only the mausoleum itself but also the surrounding gardens, the mosque, and the guest house. The best time to visit is during the early morning or late afternoon when the light casts enchanting shadows and colors on the marble. Nighttime viewings during the full moon are also popular, offering a magical atmosphere as the monument glows under the moonlight. It is advisable for visitors to book tickets in advance and consider guided tours to fully appreciate the historical context and architectural details of this magnificent site."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-05T06:29:46.996Z"
+  "online_content_time": "2025-08-05T06:30:38.083Z"
 }
