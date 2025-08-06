@@ -3,33 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "ghvhj"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(255, 255, 255)"
-                }
-              },
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Emerging TechnologiesEmerging TechnologiesEmerging Technologies"
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-01T08:48:42.412Z"
+  "online_content_time": "2025-08-06T13:00:03.195Z"
 }
