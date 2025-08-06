@@ -3,9 +3,13 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "text",
+        "attrs": {
+          "level": 2
+        },
+        "content": []
       }
     ]
   },
-  "online_content_time": "2025-08-06T12:09:10.334Z"
+  "online_content_time": "2025-08-06T12:09:13.280Z"
 }
