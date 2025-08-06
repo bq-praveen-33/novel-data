@@ -1,0 +1,240 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Notion's page load and navigation times just got faster"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F5pTyCZuVMVrk23W7x1yVyj%2F1536944fb24e9ac6029acf74cec17913%2FMatt.png&w=96&q=80",
+          "alt": "",
+          "title": null,
+          "width": 48,
+          "height": 48
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "By Matt DuVall  "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Engineering 2 min read"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgba(0, 0, 0, 0.59)"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Share this post"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "One of Notion’s core values is that feedback is a gift. Lately, the #1 piece of feedback we've heard from users has been unambiguous: Notion feels slow."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We now have a dedicated group of engineers delivering meaningful changes to this user experience. This team’s first task was to make Notion pages load faster and reduce the time it takes to navigate between pages."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Our first step was to add SQLite support to our applications, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "which resulted in initial page loads that are 50% faster for most users. On top of that, navigating between pages is also 50% faster."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Loading pages and navigating between them is only part of the the equation that will make Notion feel more performant. So the team's next focus includes search and database performance. Search in particular will impact many facets of Notion even beyond "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "Quick Find"
+          },
+          {
+            "type": "text",
+            "text": ", reducing the time it takes to look up relations and rollups, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "@"
+          },
+          {
+            "type": "text",
+            "text": " mentions, and linking between pages."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F2JylYHW7pKDSNB78hipq42%2F542b98eaa090cd9b8dfaef8f7420bed2%2Fnotion-performance-april-2021.png&w=3840&q=75",
+          "alt": "Page navigation speeds experienced by most Notion users in the desktop apps over the last 30 days.",
+          "title": null,
+          "width": 1400,
+          "height": 500
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Page navigation speeds experienced by most Notion users in the desktop apps over the last 30 days."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Until then, here’s how we approached the challenge of reducing Notion’s page load times."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Technical changes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It’s been a holistic effort to increase page load and navigation speeds by 50%."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To start, we considered the top-to-bottom latency of our system, optimizing every part of our stack. For example, we split large bundles of code in our JavaScript application, allowing core pieces of the application to load first, then deferring non-critical pieces for later (this is called code splitting). We also improved our general caching infrastructure on both the client and server, which means that we can retrieve page content much more efficiently. Together, these and other technical changes contribute to faster load times."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This should all be felt in the product as you navigate between pages, especially in Notion's Mac and Windows applications. We decided to migrate our desktop apps to SQLite because it's a hardened storage solution that's shown marked performance improvements on our mobile applications for the past year."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before SQLite, we relied on IndexedDB for client-side storage. But we encountered storage quotas, a number of bugs, and performance concerns on Windows machines in particular, which meant IndexedDB wouldn’t scale with Notion’s growing user base."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now, using SQLite as our storage layer enables us to circumvent the browser’s storage altogether — avoiding storage limits, nuanced differences between operating systems, etc. — setting a solid foundation for future growth."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-06T13:08:58.133Z"
+}
