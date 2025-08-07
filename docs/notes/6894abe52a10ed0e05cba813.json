@@ -669,24 +669,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.crunchydata.com/developers/playground/basics-of-jsonb",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -821,24 +804,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://blog.logto.io/mastering-postgresql-jsonb",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -981,24 +947,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://neon.com/postgresql/postgresql-json-functions/postgresql-jsonb-operators",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -1767,24 +1716,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.geeksforgeeks.org/postgresql/what-is-jsonb-in-postgresql/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -1927,24 +1859,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.postgresql.org/docs/current/functions-json.html",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -2079,24 +1994,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://www.postgresql.org/docs/current/datatype-json.html",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -2268,24 +2166,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://scalegrid.io/blog/using-jsonb-in-postgresql-how-to-effectively-store-index-json-data-in-postgresql/",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -2420,24 +2301,7 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://medium.com/@suffyan.asad1/an-introduction-to-working-with-json-data-in-postgresql-730aa889c5d3",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "zReHs"
-                }
-              },
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ]
+            "type": "hardBreak"
           }
         ]
       },
@@ -2959,5 +2823,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-07T13:50:28.254Z"
+  "online_content_time": "2025-08-07T13:51:01.465Z"
 }
