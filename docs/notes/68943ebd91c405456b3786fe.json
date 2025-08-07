@@ -109,15 +109,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "As machine learning continues to evolve, ethical considerations such as bias in algorithms, data privacy, and the impact of automation on jobs are gaining attention. Ensuring responsible development and deployment of machine learning systems is crucial for harnessing their potential benefits while addressing societal concerns."
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-07T05:50:36.161Z"
+  "online_content_time": "2025-08-07T06:01:09.097Z"
 }
