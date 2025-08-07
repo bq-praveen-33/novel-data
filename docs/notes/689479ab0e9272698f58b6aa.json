@@ -59,16 +59,6 @@
         }
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20250807113919263513/qwer.webp",
-          "alt": "qwer.webp",
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
         "type": "blockquote",
         "content": [
           {
@@ -220,7 +210,7 @@
                         "type": "bold"
                       }
                     ],
-                    "text": "Tight Coupling in Frameworks"
+                    "text": " Tight Coupling in Frameworks"
                   },
                   {
                     "type": "text",
@@ -3265,12 +3255,7 @@
                 "text": "Start exploring our free react exercises and take your skills to the next level "
               },
               {
-                "type": "hardBreak",
-                "marks": [
-                  {
-                    "type": "italic"
-                  }
-                ]
+                "type": "hardBreak"
               },
               {
                 "type": "text",
@@ -5444,5 +5429,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-07T09:59:24.405Z"
+  "online_content_time": "2025-08-07T10:19:37.122Z"
 }
