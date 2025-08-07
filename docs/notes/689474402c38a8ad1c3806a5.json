@@ -7,11 +7,17 @@
         "content": [
           {
             "type": "text",
-            "text": "content"
+            "text": "content to publish"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-07T09:58:32.864Z"
+  "online_content_time": "2025-08-07T10:12:33.042Z"
 }
