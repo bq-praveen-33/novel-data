@@ -7,7 +7,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Machine learning is a subset of artificial intelligence that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of relying on hard-coded rules, machine learning allows systems to learn from and make predictions or decisions based on data."
+            "text": "Machine learning is a subset of artificial intelligence that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead of relying on hard-coded rules, machine learning allows systems to learn from and make predictions or decisions based on data"
           }
         ]
       },
@@ -125,5 +125,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-07T12:29:13.735Z"
+  "online_content_time": "2025-08-07T13:17:54.522Z"
 }
