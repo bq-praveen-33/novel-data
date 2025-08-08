@@ -1,12 +1,641 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "– Building the Editor (Novel + Tiptap, Notion-like)"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\"Build a complete, Notion-style rich text editor in Next.js using the Novel editor package with Tiptap. Include features for headings (H1–H6), paragraphs, bold, italic, underline, strikethrough, bullet lists, numbered lists, block quotes, code blocks, inline code, checklists, tables, images with captions, and slash commands for quick insertion. Integrate Novel’s AI autocompletion for writing assistance. Use Tailwind CSS for styling and ensure the editor is fully responsive. The code must be modular, extensible, and maintainable, following best practices for scalability in a future full-featured notes and documentation app."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " Frontend Architecture & Design (Next.js)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "*\"Design the frontend architecture for a scalable Notion-like notes and documentation web application using Next.js. The architecture must follow a modular, component-driven structure with small, reusable, and self-contained UI components. Use the Context API (or lightweight state management) for global state handling, ensuring easy communication and synchronization between components."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Follow a user-first approach — any user action (create, update, delete, reorder, share, etc.) should reflect instantly across the UI via optimistic updates before the API response. Ensure global state is updated in real-time to keep all components in sync without unnecessary re-renders."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Implement caching strategies:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Metadata caching in memory for fast rendering of page trees and lists."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Notes content caching in IndexedDB for offline-first capability and reduced API calls."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Auto-sync cached data with backend when online."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Key requirements:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Clear folder structure: components/, contexts/, hooks/, pages/, services/, utils/"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Context API for authentication, pages metadata, and editor state."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Custom hooks for data fetching, caching, and optimistic updates."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Error boundaries for robust error handling."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Fully responsive UI with minimal re-renders using memoization."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Scalable and maintainable codebase, ready for adding future modules without major refactors."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ensure the architecture promotes high performance, maintainability, and a seamless user experience with instant UI feedback and efficient data flow between components. – Designing the UI Theme (Premium Apple-like Feel)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Design a Next.js notes and documentation web app with a Novel + Tiptap editor UI that is as premium and refined as Apple products. Focus on minimal elegance, clean typography, balanced white-space, and smooth micro-animations. Use the gradient from the provided logo (soft pink → soft blue) as subtle accents, combined with a neutral base palette (white, off-white, very light gray). All buttons, modals, and toolbars should have rounded corners, subtle drop shadows, and a consistent hierarchy. Apply responsive grid layouts, accessible color contrast, modern iconography, and smooth transitions. The design should feel trustworthy, creative, and professional — a top-tier product for note-taking, documentation, and idea management."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\"Design a single-page Next.js notes editor with a customizable sidebar, a functional header, and an integrated Novel + Tiptap editor. The header should include: theme toggle (light/dark), editable page title with icon change, note status (pending approval, approved, rejected), publish button, and save status indicators (saved, unsaved, save failed). The main editor section uses Novel + Tiptap for rich text editing. The sidebar should be resizable by the user and support adding, deleting, renaming, sharing, and toggling notes between public/private. Include a floating AI assistant button at the bottom-left corner; clicking it opens the AI assistant panel for writing help. Ensure a clean, responsive, and professional UI.\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "– Functionalities & Requirements (Point-Wise)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "*\"Create a detailed functional specification document for a Notion-like notes and documentation web application. List all functionalities and requirements in clear, numbered points in order of priority. The app should follow a user-first approach where every user action reflects instantly on the UI before the API response (optimistic updates)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Include the following requirements:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Page creation – POST /pages to create a root or child page. If parentId exists, it’s a child page; if not, it’s a root page. Pages can be Public (read/write based on permissions) or Private."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hierarchical structure – Infinite parent-child nesting like Notion, with each page storing only its next-level children’s metadata for performance."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Page deletion – DELETE /pages/:id where the owner can delete; if shared, the user can remove themselves from the share list. Deletion must cascade to all children and associated data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Publishing workflow – Only owners can submit a page for publishing (POST /page-approvable/:id). Admins can approve/reject. Approval creates a Published Page (read-only). Each new approval request creates a new copy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Page categories – Public pages, Private pages, Shared pages, For Approval (admin-only), Published pages (admin-approved, read-only)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Page retrieval – GET /pages/:id with optional content=true to return metadata + content. GET /pages to fetch top-level pages, filterable by category. Clicking on a page in the UI loads its children dynamically."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Reordering – PATCH /pages/reorder for user-specific order of pages."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sharing – Owners can share a page with others by email (POST /pages/:id/share)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Permission management – Admins/owners can grant or revoke edit/view rights."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Public vs Published distinction – Public = editable/readable based on permission; Published = admin-approved read-only copy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Media uploads – POST /media triggered when a user pastes/adds a file; stores media and returns a URL."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Content autosave – PATCH /pages/:id/content triggered 5 seconds after losing focus, or immediately when navigating away from a page with changes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Rename page – Only owner can rename a page."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Frontend behavior – User actions should be reflected in FE immediately, with API updates sent in the background. Metadata caching for quick rendering; note content stored in IndexedDB for offline use and faster loading."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Scalable architecture – Efficient APIs, minimal payloads, category filtering, child metadata fetching on demand, cascading delete operations.\"*"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "– API Documentation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "*\"Create a complete API documentation for the above web app. For each endpoint, include:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Endpoint URL"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "HTTP Method (GET, POST, PATCH, DELETE)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Description"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Request Parameters / Body Payload (with example JSON)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sample Success Response JSON"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sample Error Response JSON"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Special Notes (permissions, cascading deletes, triggers, etc.)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The APIs to document include:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "POST /pages – Create page (root or child)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "DELETE /pages/:id – Delete page (owner) or remove share access."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "POST /page-approvable/:id – Submit page for approval (publish request)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "PATCH /page-permissions/:id – Grant/revoke page permissions."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "GET /pages/:id – Fetch page metadata and optional content."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "GET /pages – Fetch top-level pages with category filtering."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "GET /pages/:id/children – Fetch child metadata of a page."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "PATCH /pages/reorder – Reorder pages for user."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "POST /pages/:id/share – Share page by email."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "POST /media – Upload media and return URL."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "PATCH /pages/:id/content – Save page content (autosave)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "PATCH /pages/:id/rename – Rename page."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Ensure the API design is RESTful, scalable, and efficient, and supports the infinite parent-child hierarchy with optimal payload sizes.\"*"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "give the single mangable doc for this promt where backent is ready only need front with api call at all "
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-08T20:15:20.813Z"
 }
