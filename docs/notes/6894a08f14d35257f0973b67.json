@@ -27,7 +27,7 @@
                 }
               }
             ],
-            "text": "Last Updated : 23 Jul, 2025"
+            "text": "Last Updated : 23 Jul, 2025 "
           }
         ]
       },
@@ -64,6 +64,10 @@
           "level": 3
         },
         "content": [
+          {
+            "type": "text",
+            "text": "We've covered the AI tutuorial which is important for developing intelligent systems and helps in making the perfect balance of simplicity and capability."
+          },
           {
             "type": "text",
             "marks": [
@@ -4526,59 +4530,16 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "link",
-                        "attrs": {
-                          "href": "https://www.geeksforgeeks.org/machine-learning/stylegan-style-generative-adversarial-networks/",
-                          "target": "_blank",
-                          "rel": "noreferrer noopener",
-                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                        }
-                      },
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      },
-                      {
-                        "type": "bold"
-                      },
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "Style GANs"
-                  }
-                ]
+                "type": "paragraph"
               }
             ]
           }
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "We've covered the AI tutuorial which is important for developing intelligent systems and helps in making the perfect balance of simplicity and capability."
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-08T06:49:23.136Z"
+  "online_content_time": "2025-08-08T06:53:26.811Z"
 }
