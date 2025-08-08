@@ -19,7 +19,7 @@
         "content": [
           {
             "type": "text",
-            "text": "React is a JavaScript library for building user interfaces, particularly single-page applications. It was developed and is maintained by Facebook (now Meta) and a community of individual developers and companies. React was first deployed on Facebook's newsfeed in 2011 and later open-sourced in May 2013 concurrent. "
+            "text": "React is a JavaScript library for building user interfaces, particularly single-page applications. It was developed and is maintained by Facebook (now Meta) and a community of individual developers and companies. React was first deployed on Facebook's newsfeed in 2011 and later open-sourced in May 2013 concurrent."
           }
         ]
       },
@@ -725,11 +725,11 @@
         "content": [
           {
             "type": "text",
-            "text": "React has revolutionized the way developers build user interfaces on the web. Its component-based architecture, virtual DOM, and unidirectional data flow have set standards for modern web development. Whether you're building a simple widget or a complex single-page application, React provides the tools and patterns to create efficient, maintainable, and scalable user interfaces. "
+            "text": "React has revolutionized the way developers build user interfaces on the web. Its component-based architecture, virtual DOM, and unidirectional data flow have set standards for modern web development. Whether you're building a simple widget or a complex single-page application, React provides the tools and patterns to create efficient, maintainable, and scalable user interfaces."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-07T15:23:26.540Z"
+  "online_content_time": "2025-08-08T11:12:04.501Z"
 }
