@@ -254,7 +254,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Page categories – Public pages, Private pages, Shared pages, For Approval (admin-only), Published pages (admin-approved, read-only)."
+            "text": "Page categories – Public pages, Private pages, Shared pages, For Approval (admin-only), Published pages (admin-approved, read-only) in side bar we have these all four section like public contian all public page , private content all private one etc ."
           }
         ]
       },
@@ -295,21 +295,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -317,9 +302,6 @@
             "text": "Public vs Published distinction – Public = editable/readable based on permission; Published = admin-approved read-only copy."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -331,9 +313,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -341,6 +320,15 @@
             "text": "Content autosave – PATCH /pages/:id/content triggered 5 seconds after losing focus, or immediately when navigating away from a page with changes."
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -626,8 +614,20 @@
             "text": "give the single mangable doc for this promt where backent is ready only need front with api call at all "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:18:05.632Z"
+  "online_content_time": "2025-08-08T20:19:36.430Z"
 }
