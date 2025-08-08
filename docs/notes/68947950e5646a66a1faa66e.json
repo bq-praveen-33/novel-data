@@ -400,33 +400,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -434,9 +407,6 @@
             "text": "Request Parameters / Body Payload (with example JSON)"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -448,9 +418,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -458,9 +425,6 @@
             "text": "Sample Error Response JSON"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -472,9 +436,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -482,9 +443,6 @@
             "text": "The APIs to document include:"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -530,6 +488,48 @@
             "text": "GET /pages/:id – Fetch page metadata and optional content."
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -629,5 +629,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:22:06.762Z"
+  "online_content_time": "2025-08-08T20:22:51.166Z"
 }
