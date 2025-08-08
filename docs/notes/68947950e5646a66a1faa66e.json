@@ -193,25 +193,16 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "– Functionalities & Requirements (Point-Wise)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "*\"Create a detailed functional specification document for a Notion-like notes and documentation web application. List all functionalities and requirements in clear, numbered points in order of priority. The app should follow a user-first approach where every user action reflects instantly on the UI before the API response (optimistic updates)."
-          }
-        ]
-      },
-      {
         "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "– Functionalities & Requirements (Point-Wise)Create a detailed functional specification document for a Notion-like notes and documentation web application. List all functionalities and requirements in clear, numbered points in order of priority. The app should follow a user-first approach where every user action reflects instantly on the UI before the API response (optimistic updates)."
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -223,9 +214,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -233,9 +221,6 @@
             "text": "Page creation – POST /pages to create a root or child page. If parentId exists, it’s a child page; if not, it’s a root page. Pages can be Public (read/write based on permissions) or Private."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -247,9 +232,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -257,9 +239,6 @@
             "text": "Page deletion – DELETE /pages/:id where the owner can delete; if shared, the user can remove themselves from the share list. Deletion must cascade to all children and associated data."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -271,9 +250,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -281,9 +257,6 @@
             "text": "Page categories – Public pages, Private pages, Shared pages, For Approval (admin-only), Published pages (admin-approved, read-only)."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -295,9 +268,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -305,9 +275,6 @@
             "text": "Reordering – PATCH /pages/reorder for user-specific order of pages."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -319,9 +286,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -329,6 +293,18 @@
             "text": "Permission management – Admins/owners can grant or revoke edit/view rights."
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -653,5 +629,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:17:08.371Z"
+  "online_content_time": "2025-08-08T20:18:05.632Z"
 }
