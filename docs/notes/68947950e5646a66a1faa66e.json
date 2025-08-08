@@ -188,7 +188,7 @@
           },
           {
             "type": "text",
-            "text": "Design a single-page Next.js notes editor with a customizable sidebar, a functional header, and an integrated Novel + Tiptap editor. The header should include: user icon and setting->onlick->popup , three dot ->onclick popup -> theme toggle (light/dark) .   the top of editor page editable page-title with icon change are there,should top the page-title status smally header with note status (pending approval, approved, rejected), publish button, and save status indicators (saved, unsaved, save failed) like notion UI. The main editor section uses Novel + Tiptap for rich text editing. The sidebar should be resizable by the user and support adding, deleting, renaming, sharing and toggling notes between public/private these all buttton point to popup for opration or action . Include a floating AI assistant button at the bottom-right corner; clicking it opens the AI assistant panel for writing help. Ensure a clean, responsive, and professional UI."
+            "text": "Design a single-page Next.js notes editor with a customizable sidebar, a functional header, and an integrated Novel + Tiptap editor. The header should include: user icon and setting->onlick->popup , three dot ->onclick popup -> theme toggle (light/dark) .   the top of editor page editable page-title with icon change are there,should top the page-title status smally header with note status (pending approval, approved, rejected), publish button, and save status indicators (saved, unsaved, save failed) like notion UI. The main editor section uses Novel + Tiptap for rich text editing. The sidebar should be resizable by the user and support adding, deleting, renaming, sharing and toggling notes between public/private these all buttton point to popup for opration or action . Include a floating AI assistant button at the bottom-right followed by our theam which give the ai feel to user by animatic border when processing querry and its opning time  corner , clicking it opens the AI assistant panel for writing help. Ensure a clean, responsive, and professional UI."
           }
         ]
       },
@@ -629,5 +629,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:30:09.820Z"
+  "online_content_time": "2025-08-08T20:31:53.647Z"
 }
