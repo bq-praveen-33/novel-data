@@ -322,28 +322,13 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "Rename page – Only owner can rename a page."
+            "text": "Rename or deletion page – Only owner can rename or deletion a page alltho if  use got page by other user by share then they can use remove for this acess from her self for these note ."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -355,9 +340,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -365,6 +347,9 @@
             "text": "Scalable architecture – Efficient APIs, minimal payloads, category filtering, child metadata fetching on demand, cascading delete operations.\"*"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -388,9 +373,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -398,9 +380,6 @@
             "text": "Endpoint URL"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -412,9 +391,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -422,6 +398,30 @@
             "text": "Description"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -629,5 +629,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:19:36.430Z"
+  "online_content_time": "2025-08-08T20:22:06.762Z"
 }
