@@ -32,38 +32,6 @@
         ]
       },
       {
-        "type": "bulletList",
-        "attrs": {
-          "tight": true
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -5045,5 +5013,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T12:42:19.190Z"
+  "online_content_time": "2025-08-08T12:43:34.794Z"
 }
