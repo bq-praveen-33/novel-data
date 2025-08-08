@@ -560,7 +560,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Reordering – PATCH /pages/reorder for user-specific order of pages."
+            "text": "Reordering – PATCH /pages/reorder for user-specific order of pages. ,user can drop and drop notes but not on other typr like private not drop from public vis versa"
           }
         ]
       },
@@ -917,5 +917,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T21:17:24.877Z"
+  "online_content_time": "2025-08-08T21:18:41.290Z"
 }
