@@ -154,7 +154,20 @@
         "content": [
           {
             "type": "text",
-            "text": "Ensure the architecture promotes high performance, maintainability, and a seamless user experience with instant UI feedback and efficient data flow between components. – Designing the UI Theme (Premium Apple-like Feel)"
+            "text": "Ensure the architecture promotes high performance, maintainability, and a seamless user experience with instant UI feedback and efficient data flow between components."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": " – Designing the UI Theme (Premium google-like Feel)"
           }
         ]
       },
@@ -163,7 +176,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Design a Next.js notes and documentation web app with a Novel + Tiptap editor UI that is as premium and refined as Apple products. Focus on minimal elegance, clean typography, balanced white-space, and smooth micro-animations. Use the gradient from the provided logo (soft pink → soft blue) as subtle accents, combined with a neutral base palette (white, off-white, very light gray). All buttons, modals, and toolbars should have rounded corners, subtle drop shadows, and a consistent hierarchy. Apply responsive grid layouts, accessible color contrast, modern iconography, and smooth transitions. The design should feel trustworthy, creative, and professional — a top-tier product for note-taking, documentation, and idea management."
+            "text": "Design a Next.js notes and documentation web app with a Novel + Tiptap editor UI that is as premium and refined as google products. Focus on minimal elegance, clean typography, balanced white-space, and smooth micro-animations. Use the gradient from the provided logo (soft pink → soft blue) as subtle accents, combined with a neutral base palette (white, off-white, very light gray). All buttons, modals, and toolbars should have rounded corners, subtle drop shadows, and a consistent hierarchy. Apply responsive grid layouts, accessible color contrast, modern iconography, and smooth transitions. The design should feel trustworthy, creative, and professional — a top-tier product for note-taking, documentation, and idea management."
           }
         ]
       },
@@ -637,5 +650,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:15:20.813Z"
+  "online_content_time": "2025-08-08T20:16:21.794Z"
 }
