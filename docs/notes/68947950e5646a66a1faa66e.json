@@ -188,7 +188,7 @@
           },
           {
             "type": "text",
-            "text": "Design a single-page Next.js notes editor with a customizable sidebar, a functional header, and an integrated Novel + Tiptap editor. The header should include: user icon and setting->onlick->popup , three dot ->onclick popup -> theme toggle (light/dark) , editable page title with icon change, note status (pending approval, approved, rejected), publish button, and save status indicators (saved, unsaved, save failed). The main editor section uses Novel + Tiptap for rich text editing. The sidebar should be resizable by the user and support adding, deleting, renaming, sharing, and toggling notes between public/private. Include a floating AI assistant button at the bottom-left corner; clicking it opens the AI assistant panel for writing help. Ensure a clean, responsive, and professional UI."
+            "text": "Design a single-page Next.js notes editor with a customizable sidebar, a functional header, and an integrated Novel + Tiptap editor. The header should include: user icon and setting->onlick->popup , three dot ->onclick popup -> theme toggle (light/dark) ,at the top of ediot page editable page-title with icon change are there, note status (pending approval, approved, rejected), publish button, and save status indicators (saved, unsaved, save failed). The main editor section uses Novel + Tiptap for rich text editing. The sidebar should be resizable by the user and support adding, deleting, renaming, sharing, and toggling notes between public/private. Include a floating AI assistant button at the bottom-left corner; clicking it opens the AI assistant panel for writing help. Ensure a clean, responsive, and professional UI."
           }
         ]
       },
@@ -629,5 +629,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-08T20:25:35.361Z"
+  "online_content_time": "2025-08-08T20:26:22.465Z"
 }
