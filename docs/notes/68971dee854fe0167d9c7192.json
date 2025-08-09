@@ -1397,6 +1397,1684 @@
                             "type": "hardBreak"
                           }
                         ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Based on what you asked — you want "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "only the functional requirements documented in a structured way"
+                          },
+                          {
+                            "type": "text",
+                            "text": ", focusing on the "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "API list with endpoints and their core functions"
+                          },
+                          {
+                            "type": "text",
+                            "text": ", without going into full payload/response details."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Here’s the "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "structured functional requirements + API list"
+                          },
+                          {
+                            "type": "text",
+                            "text": " matching your Notion-style app spec:"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 2
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Functional Requirements – Notion-Style Notes App"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 3
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Page Management"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "orderedList",
+                        "attrs": {
+                          "tight": false,
+                          "start": 1,
+                          "type": null
+                        },
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Create Page"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "POST /pages"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Create a root or child page."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "If "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "code"
+                                                      }
+                                                    ],
+                                                    "text": "parentId"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": " provided → create as child page."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "If "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "code"
+                                                      }
+                                                    ],
+                                                    "text": "parentId"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": " missing → create as root page."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Page can be "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "bold"
+                                                      }
+                                                    ],
+                                                    "text": "Public"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": " (with read/write permissions) or "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "bold"
+                                                      }
+                                                    ],
+                                                    "text": "Private"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": "."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "After creation → redirect user to new page."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Delete Page"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "DELETE /pages/:id"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Owner deletes page and all its children (cascading delete)."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "If shared → user can remove themselves from the share list instead."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Rename Page"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "PATCH /pages/:id/rename"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Owner can rename page."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Shared users cannot rename; can only remove their access."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Reorder Pages"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "PATCH /pages/reorder"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " User-specific drag-and-drop ordering."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Cannot reorder between different categories (Public → Private, etc.)."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Retrieve Page"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "GET /pages/:id"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Fetch page metadata."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Optional "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "code"
+                                                      }
+                                                    ],
+                                                    "text": "?content=true"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": " returns metadata + content."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "List Pages by Category"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "GET /pages"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Fetch top-level pages, filterable by category (Public, Private, Shared, For Approval, Published)."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Get Page Children"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "GET /pages/:id/children"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Fetch "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "only next-level child metadata"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " (for performance)."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 3
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Publishing Workflow"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "orderedList",
+                        "attrs": {
+                          "tight": false,
+                          "start": 8,
+                          "type": null
+                        },
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Submit Page for Approval"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "POST /page-approvable/:id"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Owner requests admin approval for publishing."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Approve/Reject Page (Admin)"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "(Same Endpoint or Separate)"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Admin approves/rejects."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Approval creates a "
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "marks": [
+                                                      {
+                                                        "type": "bold"
+                                                      }
+                                                    ],
+                                                    "text": "Published Page"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": " (read-only copy)."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 3
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Permissions & Sharing"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "orderedList",
+                        "attrs": {
+                          "tight": false,
+                          "start": 10,
+                          "type": null
+                        },
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Share Page by Email"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "POST /pages/:id/share"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Owner shares page with specific users."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Manage Permissions"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "PATCH /page-permissions/:id"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Admin/owner grants or revokes edit/view rights."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 3
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Content & Media"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "orderedList",
+                        "attrs": {
+                          "tight": false,
+                          "start": 12,
+                          "type": null
+                        },
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Save Page Content (Autosave)"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "PATCH /pages/:id/content"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Autosave triggered:"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "bulletList",
+                                        "attrs": {
+                                          "tight": false
+                                        },
+                                        "content": [
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "5s after losing focus, OR"
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "type": "listItem",
+                                            "content": [
+                                              {
+                                                "type": "paragraph",
+                                                "content": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "Immediately on navigation away."
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Upload Media"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "bulletList",
+                                "attrs": {
+                                  "tight": false
+                                },
+                                "content": [
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Endpoint:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " "
+                                          },
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "code"
+                                              }
+                                            ],
+                                            "text": "POST /media"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "listItem",
+                                    "content": [
+                                      {
+                                        "type": "paragraph",
+                                        "content": [
+                                          {
+                                            "type": "text",
+                                            "marks": [
+                                              {
+                                                "type": "bold"
+                                              }
+                                            ],
+                                            "text": "Function:"
+                                          },
+                                          {
+                                            "type": "text",
+                                            "text": " Stores uploaded/pasted files and returns a media URL."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "heading",
+                        "attrs": {
+                          "level": 3
+                        },
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "Page Categories in Sidebar"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "bulletList",
+                        "attrs": {
+                          "tight": false
+                        },
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Private Pages"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " – User-owned, fully editable."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Public Pages"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " – Editable/readable based on permissions."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Shared Pages"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " – Pages shared with the user (view/edit based on rights)."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "For Approval"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " – Visible only to admins for review."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "marks": [
+                                      {
+                                        "type": "bold"
+                                      }
+                                    ],
+                                    "text": "Published Pages"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " – Admin-approved, read-only public copies."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "horizontalRule"
+                      },
+                      {
+                        "type": "paragraph"
                       }
                     ]
                   }
@@ -1405,368 +3083,8 @@
             ]
           }
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Include the following requirements:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Page creation – POST /pages to create a root or child page. If parentId exists, it’s a child page; if not, it’s a root page. Pages can be Public (read/write based on permissions) or Private. after creating of note user redirect on that page"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Hierarchical structure – Infinite parent-child nesting like Notion, with each page storing only its next-level children’s metadata for performance."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Page deletion – DELETE /pages/:id where the owner can delete; if shared, the user can remove themselves from the share list. Deletion must cascade to all children and associated data."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Publishing workflow – Only owners can submit a page for publishing (POST /page-approvable/:id). Admins can approve/reject. Approval creates a Published Page (read-only). Each new approval request creates a new copy."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Page categories – Public pages, Private pages, Shared pages, For Approval (admin-only), Published pages (admin-approved, read-only) in side bar we have these all four section like public contian all public page , private content all private one etc . private lable has note add icon when user click pivate note is crate , same for public but befor create we should conforre it select option with read acces , write access and public note is create"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Page retrieval – GET /pages/:id with optional content=true to return metadata + content. GET /pages to fetch top-level pages, filterable by category. Clicking on a page in the UI loads its children dynamically."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Reordering – PATCH /pages/reorder for user-specific order of pages. ,user can drop and drop notes but not on other typr like private not drop from public vis versa"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Sharing – Owners can share a page with others by email (POST /pages/:id/share)."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Permission management – Admins/owners can grant or revoke edit/view rights."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Public vs Published distinction – Public = editable/readable based on permission; Published = admin-approved read-only copy."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Media uploads – POST /media triggered when a user pastes/adds a file; stores media and returns a URL."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Content autosave – PATCH /pages/:id/content triggered 5 seconds after losing focus, or immediately when navigating away from a page with changes."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Rename or deletion page – Only owner can rename or deletion a page alltho if  use got page by other user by share then they can use remove for this acess from her self for these note ."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Frontend behavior – User actions should be reflected in FE immediately, with API updates sent in the background. Metadata caching for quick rendering; note content stored in IndexedDB for offline use and faster loading."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Scalable architecture – Efficient APIs, minimal payloads, category filtering, child metadata fetching on demand, cascading delete operations.\"*"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "– API Documentation"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "*\"Create a complete API documentation for the above web app. For each endpoint, include:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Endpoint URL"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "HTTP Method (GET, POST, PATCH, DELETE)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Description"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Request Parameters / Body Payload (with example JSON)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Sample Success Response JSON"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Sample Error Response JSON"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Special Notes (permissions, cascading deletes, triggers, etc.)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "The APIs to document include:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "POST /pages – Create page (root or child)."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "DELETE /pages/:id – Delete page (owner) or remove share access."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "POST /page-approvable/:id – Submit page for approval (publish request)."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "PATCH /page-permissions/:id – Grant/revoke page permissions."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "GET /pages/:id – Fetch page metadata and optional content."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "GET /pages – Fetch top-level pages with category filtering."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "GET /pages/:id/children – Fetch child metadata of a page."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "PATCH /pages/reorder – Reorder pages for user."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "POST /pages/:id/share – Share page by email."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "POST /media – Upload media and return URL."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "PATCH /pages/:id/content – Save page content (autosave)"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "PATCH /pages/:id/rename – Rename page."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Ensure the API design is RESTful, scalable, and efficient, and supports the infinite parent-child hierarchy with optimal payload sizes.\"*"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:20:34.337Z"
+  "online_content_time": "2025-08-09T10:27:31.001Z"
 }
