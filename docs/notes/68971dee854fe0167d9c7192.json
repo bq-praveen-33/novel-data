@@ -1386,6 +1386,15 @@
                           {
                             "type": "text",
                             "text": "."
+                          },
+                          {
+                            "type": "hardBreak"
+                          },
+                          {
+                            "type": "hardBreak"
+                          },
+                          {
+                            "type": "hardBreak"
                           }
                         ]
                       }
@@ -1398,164 +1407,6 @@
         ]
       },
       {
-        "type": "horizontalRule"
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Theme & Styling"
-          }
-        ]
-      },
-      {
-        "type": "bulletList",
-        "attrs": {
-          "tight": false
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Colors:"
-                  },
-                  {
-                    "type": "text",
-                    "text": " White base, soft grays, muted accents."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Typography:"
-                  },
-                  {
-                    "type": "text",
-                    "text": " Sans-serif, airy spacing."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Interactions:"
-                  },
-                  {
-                    "type": "text",
-                    "text": " Smooth hover & focus states, no harsh borders."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Icons:"
-                  },
-                  {
-                    "type": "text",
-                    "text": " Minimal, subtle (Lucide or Heroicons)."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "Dark Mode:"
-                  },
-                  {
-                    "type": "text",
-                    "text": " Matches Notion’s calm gray/black palette."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "– Functionalities & Requirements (Point-Wise)Create a detailed functional specification document for a Notion-like notes and documentation web application. List all functionalities and requirements in clear, numbered points in order of priority. The app should follow a user-first approach where every user action reflects instantly on the UI before the API response (optimistic updates)."
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1563,9 +1414,6 @@
             "text": "Include the following requirements:"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1577,9 +1425,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1587,9 +1432,6 @@
             "text": "Hierarchical structure – Infinite parent-child nesting like Notion, with each page storing only its next-level children’s metadata for performance."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1601,9 +1443,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1611,9 +1450,6 @@
             "text": "Publishing workflow – Only owners can submit a page for publishing (POST /page-approvable/:id). Admins can approve/reject. Approval creates a Published Page (read-only). Each new approval request creates a new copy."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1625,9 +1461,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1635,9 +1468,6 @@
             "text": "Page retrieval – GET /pages/:id with optional content=true to return metadata + content. GET /pages to fetch top-level pages, filterable by category. Clicking on a page in the UI loads its children dynamically."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1649,9 +1479,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1659,9 +1486,6 @@
             "text": "Sharing – Owners can share a page with others by email (POST /pages/:id/share)."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1673,9 +1497,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1683,9 +1504,6 @@
             "text": "Public vs Published distinction – Public = editable/readable based on permission; Published = admin-approved read-only copy."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1697,9 +1515,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1707,9 +1522,6 @@
             "text": "Content autosave – PATCH /pages/:id/content triggered 5 seconds after losing focus, or immediately when navigating away from a page with changes."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1721,9 +1533,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1731,9 +1540,6 @@
             "text": "Frontend behavior – User actions should be reflected in FE immediately, with API updates sent in the background. Metadata caching for quick rendering; note content stored in IndexedDB for offline use and faster loading."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1745,9 +1551,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1755,9 +1558,6 @@
             "text": "– API Documentation"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1769,9 +1569,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1779,9 +1576,6 @@
             "text": "Endpoint URL"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1793,9 +1587,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1803,9 +1594,6 @@
             "text": "Description"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1817,9 +1605,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1827,9 +1612,6 @@
             "text": "Sample Success Response JSON"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1841,9 +1623,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1851,9 +1630,6 @@
             "text": "Special Notes (permissions, cascading deletes, triggers, etc.)"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1865,9 +1641,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1875,9 +1648,6 @@
             "text": "POST /pages – Create page (root or child)."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1889,9 +1659,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1899,9 +1666,6 @@
             "text": "POST /page-approvable/:id – Submit page for approval (publish request)."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1913,9 +1677,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1923,9 +1684,6 @@
             "text": "GET /pages/:id – Fetch page metadata and optional content."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1937,9 +1695,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1947,9 +1702,6 @@
             "text": "GET /pages/:id/children – Fetch child metadata of a page."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1961,9 +1713,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1971,9 +1720,6 @@
             "text": "POST /pages/:id/share – Share page by email."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -1985,9 +1731,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -1997,9 +1740,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -2007,9 +1747,6 @@
             "text": "PATCH /pages/:id/rename – Rename page."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -2031,5 +1768,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:18:47.065Z"
+  "online_content_time": "2025-08-09T10:20:34.337Z"
 }
