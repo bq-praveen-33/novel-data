@@ -168,96 +168,6 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "– UI Theme Design: Modern, Premium & AI-Inspired"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Create a Next.js notes & documentation web app powered by Novel + Tiptap editor, styled with the sleek, premium polish of modern Google AI interfaces. Aim for minimal elegance with crisp typography, generous white space, and buttery-smooth micro-interactions."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Use the gradient from the provided logo (soft pink → soft blue) as subtle accent highlights, layered over a neutral base of clean white, soft off-white, and ultra-light gray. All buttons, modals, and toolbars should have rounded edges, gentle shadows, and a clear visual hierarchy that feels effortless yet refined."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Incorporate:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Responsive grid layouts that adapt beautifully to all devices"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Accessible color contrast for clarity and inclusivity"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Modern, minimal iconography that blends with the flow"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Smooth transitions & hover effects that feel alive, not flashy"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "The final experience should feel trustworthy, creative, and forward-thinking — the kind of next-gen workspace young professionals would love: simple, stylish, and powered by a hint of AI magic."
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       },
       {
@@ -760,5 +670,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:12:09.637Z"
+  "online_content_time": "2025-08-09T10:12:47.427Z"
 }
