@@ -2056,6 +2056,9 @@
                                                   {
                                                     "type": "text",
                                                     "text": " returns metadata + content."
+                                                  },
+                                                  {
+                                                    "type": "hardBreak"
                                                   }
                                                 ]
                                               }
@@ -2993,6 +2996,9 @@
                                   {
                                     "type": "text",
                                     "text": " – Admin-approved, read-only public copies."
+                                  },
+                                  {
+                                    "type": "hardBreak"
                                   }
                                 ]
                               }
@@ -3010,5 +3016,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:35:12.382Z"
+  "online_content_time": "2025-08-09T11:07:31.056Z"
 }
