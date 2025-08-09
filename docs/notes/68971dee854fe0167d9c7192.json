@@ -33,9 +33,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -69,9 +66,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -79,9 +73,6 @@
             "text": "Metadata caching in memory for fast rendering of page trees and lists."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -93,9 +84,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -103,9 +91,6 @@
             "text": "Auto-sync cached data with backend when online."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -117,9 +102,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -129,19 +111,13 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "Context API for authentication, pages metadata, and editor state."
+            "text": "Context API for pages(each page has unique path differtiate by note id like page[id]) metadata, and editor state."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -153,9 +129,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -163,9 +136,6 @@
             "text": "Error boundaries for robust error handling."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -177,9 +147,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -189,9 +156,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -199,6 +163,27 @@
             "text": "Ensure the architecture promotes high performance, maintainability, and a seamless user experience with instant UI feedback and efficient data flow between components."
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -811,5 +796,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:08:36.591Z"
+  "online_content_time": "2025-08-09T10:11:23.911Z"
 }
