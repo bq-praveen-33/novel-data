@@ -2249,9 +2249,6 @@
                         ]
                       },
                       {
-                        "type": "horizontalRule"
-                      },
-                      {
                         "type": "heading",
                         "attrs": {
                           "level": 3
@@ -2446,9 +2443,6 @@
                         ]
                       },
                       {
-                        "type": "horizontalRule"
-                      },
-                      {
                         "type": "heading",
                         "attrs": {
                           "level": 3
@@ -2638,9 +2632,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "type": "horizontalRule"
                       },
                       {
                         "type": "heading",
@@ -2870,9 +2861,6 @@
                         ]
                       },
                       {
-                        "type": "horizontalRule"
-                      },
-                      {
                         "type": "heading",
                         "attrs": {
                           "level": 3
@@ -3011,12 +2999,6 @@
                             ]
                           }
                         ]
-                      },
-                      {
-                        "type": "horizontalRule"
-                      },
-                      {
-                        "type": "paragraph"
                       }
                     ]
                   }
@@ -3028,5 +3010,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:29:21.836Z"
+  "online_content_time": "2025-08-09T10:35:12.382Z"
 }
