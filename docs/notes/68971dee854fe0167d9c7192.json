@@ -168,27 +168,6 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -196,9 +175,6 @@
             "text": "– UI Theme Design: Modern, Premium & AI-Inspired"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -210,9 +186,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -220,9 +193,6 @@
             "text": "Use the gradient from the provided logo (soft pink → soft blue) as subtle accent highlights, layered over a neutral base of clean white, soft off-white, and ultra-light gray. All buttons, modals, and toolbars should have rounded edges, gentle shadows, and a clear visual hierarchy that feels effortless yet refined."
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -234,9 +204,6 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -244,9 +211,6 @@
             "text": "Responsive grid layouts that adapt beautifully to all devices"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -796,5 +760,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:11:23.911Z"
+  "online_content_time": "2025-08-09T10:12:09.637Z"
 }
