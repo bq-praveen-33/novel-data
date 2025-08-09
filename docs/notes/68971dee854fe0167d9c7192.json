@@ -1397,72 +1397,14 @@
                             "type": "hardBreak"
                           }
                         ]
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
                       {
                         "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "Based on what you asked — you want "
-                          },
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "only the functional requirements documented in a structured way"
-                          },
-                          {
-                            "type": "text",
-                            "text": ", focusing on the "
-                          },
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "API list with endpoints and their core functions"
-                          },
-                          {
-                            "type": "text",
-                            "text": ", without going into full payload/response details."
-                          }
-                        ]
-                      },
-                      {
-                        "type": "paragraph",
-                        "content": [
-                          {
-                            "type": "text",
-                            "text": "Here’s the "
-                          },
-                          {
-                            "type": "text",
-                            "marks": [
-                              {
-                                "type": "bold"
-                              }
-                            ],
-                            "text": "structured functional requirements + API list"
-                          },
-                          {
-                            "type": "text",
-                            "text": " matching your Notion-style app spec:"
-                          }
-                        ]
-                      },
-                      {
-                        "type": "horizontalRule"
-                      },
-                      {
-                        "type": "heading",
-                        "attrs": {
-                          "level": 2
-                        },
                         "content": [
                           {
                             "type": "text",
@@ -3086,5 +3028,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:27:31.001Z"
+  "online_content_time": "2025-08-09T10:27:46.205Z"
 }
