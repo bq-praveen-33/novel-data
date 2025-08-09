@@ -16,7 +16,7 @@
         "content": [
           {
             "type": "text",
-            "text": "\"Build a complete, Notion-style rich text editor in Next.js using the Novel editor package with Tiptap. Include features for headings (H1–H6), paragraphs, bold, italic, underline, strikethrough, bullet lists, numbered lists, block quotes, code blocks, inline code, checklists, tables, images with captions, and slash commands for quick insertion. Integrate Novel’s AI autocompletion for writing assistance. Use Tailwind CSS for styling and ensure the editor is fully responsive. The code must be modular, extensible, and maintainable, following best practices for scalability in a future full-featured notes and documentation app."
+            "text": "\"Build a complete, Notion-style rich text editor in Next.js using the Novel editor package with Tiptap. Include features for headings (H1–H6),ask ai ,  paragraphs, bold, italic, underline, strikethrough, bullet lists, numbered lists, block quotes, code blocks, inline code, checklists, tables, images with captions, and slash commands for quick insertion. Integrate Novel’s AI autocompletion for writing assistance. Use Tailwind CSS for styling and ensure the editor is fully responsive. The code must be modular, extensible, and maintainable, following best practices for scalability in a future full-featured notes and documentation app."
           }
         ]
       },
@@ -811,5 +811,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-09T10:08:15.850Z"
+  "online_content_time": "2025-08-09T10:08:36.591Z"
 }
