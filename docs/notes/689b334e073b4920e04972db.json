@@ -1,12 +1,4001 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Last Updated : 23 Jul, 2025"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Deep Learning is a subset of Artificial Intelligence (AI) that helps machines to learn from large datasets using multi-layered neural networks. It automatically finds patterns and makes predictions and eliminates the need for manual feature extraction. Deep Learning tutorial covers the basics to advanced topics making it perfect for beginners and those with experience."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20250702125756538577/_What-is-Deep-Learning_1.webp",
+          "alt": "_What-is-Deep-Learning_1.webp",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20250702125756538577/_What-is-Deep-Learning_1.webp",
+          "alt": "_What-is-Deep-Learning_1.webp",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Introduction to Neural Networks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Neural Networks are fundamentals of deep learning inspired by human brain. It consists of layers of interconnected nodes or \"neurons\" each designed to perform specific calculations. These nodes receive input data, process it through various mathematical functions and pass the output to subsequent layers."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/neural-networks-a-beginners-guide/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Neural Networks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/difference-between-ann-and-bnn/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Biological Neurons vs Artificial Neurons"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/python/single-layer-perceptron-in-tensorflow/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Single Layer Perceptron"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/multi-layer-perceptron-learning-in-tensorflow/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Multi-Layer Perceptron"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/artificial-intelligence/artificial-neural-networks-and-its-applications/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Artificial Neural Networks (ANNs)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/types-of-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Types of Neural Networks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-architecture-and-learning-process-in-neural-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Architecture and Learning process in neural network"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Basic Components of Neural Networks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "The basic components of neural network are:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/layers-in-artificial-neural-networks-ann/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Layers in Neural Networks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/the-role-of-weights-and-bias-in-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Weights and Biases"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/what-is-forward-propagation-in-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Forward Propagation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/activation-functions-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Activation Functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/loss-functions-in-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Loss Functions"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/backpropagation-in-neural-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Backpropagation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/impact-of-learning-rate-on-a-model/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Learning Rate"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Optimization Algorithm in Deep Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Optimization algorithms in deep learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "are used to minimize the loss function by adjusting the weights and biases of the model. The most common ones are:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/optimization-algorithms-in-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Optimization algorithms in deep learning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/gradient-descent-algorithm-and-its-variants/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Gradient Descent"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-stochastic-gradient-descent-sgd/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Stochastic Gradient Descent (SGD)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/what-is-batch-normalization-in-cnn/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Batch Normalization"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-mini-batch-gradient-descent-with-python/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Mini-batch Gradient Descent"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/adam-optimizer/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Adam (Adaptive Moment Estimation)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-momentum-based-gradient-optimizer-introduction/",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Momentum-based Gradient Optimizer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/intuition-behind-adagrad-optimizer/",
+                          "target": "_blank",
+                          "rel": "",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Adagrad Optimizer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/rmsprop-optimizer-in-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "RMSProp Optimizer"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "A deep learning framework provides tools and APIs for building and training models. Popular frameworks like TensorFlow, PyTorch and Keras simplify model creation and deployment."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "For more details you can refer to: "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.geeksforgeeks.org/deep-learning/deep-learning-frameworks/",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                    }
+                  },
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "What is a Deep Learning Framework?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Types of Deep Learning Models"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Lets see various types of Deep Learning Models:"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "1. Convolutional Neural Networks (CNNs)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Convolutional Neural Networks (CNNs)"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "are a class of deep neural networks that are designed for processing grid-like data such as images. They use convolutional layers to automatically detect patterns like edges, textures and shapes in the data."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/top-deep-learning-algorithms/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Deep Learning Algorithms"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/introduction-convolution-neural-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Convolutional Neural Networks (CNNs)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-graphics/digital-image-processing-basics/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Basics of Digital Image Processing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/importance-of-convolutional-neural-network-ml/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Importance for CNN"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/cnn-introduction-to-padding/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Padding"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/what-are-convolution-layers/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Convolutional Layers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/cnn-introduction-to-pooling-layer/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Pooling Layers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/what-is-fully-connected-layer-in-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Fully Connected Layers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/backpropagation-in-convolutional-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Backpropagation in CNNs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/implementation-of-a-cnn-based-image-classifier-using-pytorch/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "CNN based Image Classification using PyTorch"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/cat-dog-classification-using-convolutional-neural-network-in-python/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "CNN based Images Classification using TensorFlow"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "CNN Based Architectures:"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " There are various architectures in CNNs that have been developed for specific kinds of problems such as:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/convolutional-neural-network-cnn-architectures/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Convolutional Neural Network (CNN) Architectures"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/lenet-5-architecture/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "LeNet-5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-getting-started-with-alexnet/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "AlexNet"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/vgg-net-architecture-explained/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "VGGnet"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/vgg-16-cnn-model/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "VGG-16 Network"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/understanding-googlenet-model-cnn-architecture/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "GoogLeNet/Inception"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/residual-networks-resnet-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "ResNet (Residual Network)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/computer-vision/mobilenet-v2-architecture-in-computer-vision/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "MobileNet"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "2. Recurrent Neural Networks (RNNs)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Recurrent Neural Networks (RNNs) are a class of neural networks that are used for modeling sequence data such as time series or natural language."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/introduction-to-recurrent-neural-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Recurrent Neural Networks (RNNs)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/data-analysis/difference-between-feed-forward-neural-networks-and-recurrent-neural-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "How RNN Differs from Feedforward Neural Networks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-back-propagation-through-time/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Backpropagation Through Time (BPTT)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/vanishing-and-exploding-gradients-problems-in-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Vanishing Gradient and Exploding Gradient Problem"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/training-of-recurrent-neural-networks-rnn-in-tensorflow/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Training of RNN in TensorFlow"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/python/sentiment-analysis-with-an-recurrent-neural-networks-rnn/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Sentiment Analysis with RNN"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Types of Recurrent Neural Networks:"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " There are various types of RNN which are as follows:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/types-of-recurrent-neural-networks-rnn-in-tensorflow/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Types of Recurrent Neural Networks"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/bidirectional-recurrent-neural-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Bidirectional RNNs"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/deep-learning-introduction-to-long-short-term-memory/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Long Short-Term Memory (LSTM)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/nlp/bidirectional-lstm-in-nlp/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Bidirectional Long Short-Term Memory (Bi-LSTM)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/gated-recurrent-unit-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Gated Recurrent Units (GRU)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "3. Generative Models in Deep Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Generative models generate new data that resembles the training data. The key types of generative models include:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/generative-adversarial-network-gan/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Generative Adversarial Networks (GANs)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/auto-encoders/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Autoencoders"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/artificial-intelligence/gan-vs-transformer-models/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "GAN vs. Transformer Models"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Types of Generative Adversarial Networks (GANs):"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " GANs consist of two neural networks, the generator and the discriminator that compete with each other. Variants of GANs include:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/deep-convolutional-gan-with-keras/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Deep Convolutional GAN (DCGAN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/conditional-generative-adversarial-network/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Conditional GAN (cGAN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/cycle-generative-adversarial-network-cyclegan-2/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Cycle-Consistent GAN (CycleGAN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/super-resolution-gan-srgan/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Super-Resolution GAN (SRGAN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/stylegan-style-generative-adversarial-networks/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "StyleGAN"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Types of Autoencoders:"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " Autoencoders are neural networks used for unsupervised learning that learns to compress and reconstruct data. Various types of Autoencoders include:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/numpy/types-of-autoencoders/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Types of Autoencoders"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/sparse-autoencoders-in-deep-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Sparse Autoencoder"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/denoising-autoencoders-in-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Denoising Autoencoder"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/implement-convolutional-autoencoder-in-pytorch-with-cuda/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Convolutional Autoencoder"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/variational-autoencoders/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Variational Autoencoder"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "4. Deep Reinforcement Learning (DRL)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Deep Reinforcement Learning combines the representation learning power of deep learning with the decision-making ability of reinforcement learning. It helps agents to learn optimal behaviors in complex environments through trial and error using high-dimensional sensory inputs."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/artificial-intelligence/a-beginners-guide-to-deep-reinforcement-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Deep Reinforcement Learning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Reinforcement Learning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/markov-decision-process/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Markov Decision Processes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Key Algorithms in Deep Reinforcement Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/deep-q-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Deep Q-Networks (DQN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/reinforce-algorithm/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "REINFORCE"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/actor-critic-algorithm-in-reinforcement-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Actor-Critic Methods"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/a-brief-introduction-to-proximal-policy-optimization/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Proximal Policy Optimization (PPO)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Advantages and Disadvantages of Deep Learning"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Advantages:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "High accuracy and automation in complex tasks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Automatic feature extraction from data."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Disadvantages:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Needs large datasets and computational power."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Complex architecture and training process."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "For more details you can refer to: "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.geeksforgeeks.org/deep-learning/advantages-and-disadvantages-of-deep-learning/",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                    }
+                  },
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Advantages and disadvantages of Deep Learning"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Challenges in Deep Learning"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Data Requirements: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Requires large datasets for training."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Computational Resources:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Needs powerful hardware."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Interpretability:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Models are hard to interpret."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Overfitting:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Risk of poor generalization to new data."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "For more details you can refer to: "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.geeksforgeeks.org/deep-learning/challenges-in-deep-learning/",
+                      "target": "_blank",
+                      "rel": "noopener",
+                      "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                    }
+                  },
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Challenges in Deep Learning"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Practical Applications of Deep Learning"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Self-Driving Cars: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Recognize objects and navigate roads."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Medical Diagnostics:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Analyze medical images for disease detection."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Speech Recognition:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Power virtual assistants like Siri and Alexa."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Facial Recognition:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Identify individuals in images/videos."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Recommendation Systems: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Suggest personalized content (Netflix, Amazon)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-12T12:28:25.525Z"
 }
