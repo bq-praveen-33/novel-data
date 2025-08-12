@@ -7,11 +7,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/pa"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/689af36c43f2dc41bee82d94",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "blog3.1"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-12T07:55:21.446Z"
+  "online_content_time": "2025-08-12T08:00:21.981Z"
 }
