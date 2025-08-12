@@ -1,0 +1,27 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "some text here"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/689b0e66c4defd082c437d51/images/download%20(1).jpeg-f18b54fa-5ec8-4475-9497-db8f0287e28b",
+          "alt": null,
+          "title": null,
+          "width": 272,
+          "height": 152.661
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-08-12T09:55:13.176Z"
+}
