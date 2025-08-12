@@ -4550,23 +4550,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "We've covered the AI tutuorial which is important for developing intelligent systems and helps in making the perfect balance of simplicity and capability."
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:10:28.644Z"
+  "online_content_time": "2025-08-12T12:15:27.576Z"
 }
