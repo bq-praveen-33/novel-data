@@ -7,14 +7,21 @@
         "content": [
           {
             "type": "text",
-            "text": "jdbcjihfdpicjfdkl"
+            "text": "hbvjdbcjk cd  "
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/689b0e66c4defd082c437d51/images/image.png-c7f34c11-8771-4f40-80a1-db62e6549dfb",
+          "alt": null,
+          "title": null,
+          "width": 502,
+          "height": 420.67
+        }
       }
     ]
   },
-  "online_content_time": "2025-08-12T09:51:03.589Z"
+  "online_content_time": "2025-08-12T09:51:40.765Z"
 }
