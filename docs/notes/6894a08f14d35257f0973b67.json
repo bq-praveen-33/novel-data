@@ -3,26 +3,19 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "const [initialContent, setInitialContent] = useState<JSONContent | null>("
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": ");"
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Growth in the industrial sector is one of the vital figures that affect the Gross Domestic Product (GDP) in India. This section provides information about the initiatives taken by the Union and state Governments to facilitate the industrial growth in the country. Details of industries like insurance, Micro, Small and Medium Enterprises, chemical, fertilizer, defence products, cottage, retail textile, pharmaceutical, manufacturing, etc. are provided for the users. The section also highlights schemes, documents, forms, acts, rules, policies, reports related to various industries and corporate governance."
           }
         ]
       },
@@ -31,209 +24,19 @@
         "content": [
           {
             "type": "text",
-            "text": "If we have cached content for that note ID, it’s instantly shown (no API/localStorage wait)."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "If not, it behaves like before — waits for fetch."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "4. Keeping the cache updated"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "We wrap setInitialContent in a helper:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "ts"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Copy"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Edit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "const updateContent = (content: JSONContent) => {"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "  setInitialContent(content);             // update UI now"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "  noteContentCache.set(editorKey, content); // store for next time"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "};"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "So every time your code would call setInitialContent(...), it instead calls:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "ts"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Copy"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Edit"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "updateContent(newContent);"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "That way, the cache always has the latest note content."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "5. What happens when you switch back to a note"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "React mounts <TailwindAdvancedEditor> again."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "useState reads from noteContentCache and instantly fills initialContent."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "No delay, no flicker — because we never hit null in that situation."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "If you want, I can rewrite your file so it replaces setInitialContent calls with updateContent and adds the cache in the right place. That would make the fix a copy-paste solution without breaking your current logic."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Do you want me to do that?"
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Growth in the industrial sector is one of the vital figures that affect the Gross Domestic Product (GDP) in India. This section provides information about the initiatives taken by the Union and state Governments to facilitate the industrial growth in the country. Details of industries like insurance, Micro, Small and Medium Enterprises, chemical, fertilizer, defence products, cottage, retail textile, pharmaceutical, manufacturing, etc. are provided for the users. The section also highlights schemes, documents, forms, acts, rules, policies, reports related to various industries and corporate governance."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-11T14:55:42.407Z"
+  "online_content_time": "2025-08-12T06:07:26.094Z"
 }
