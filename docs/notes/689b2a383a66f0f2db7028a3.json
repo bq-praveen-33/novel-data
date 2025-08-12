@@ -10,7 +10,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Introduction to React"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Editing Tests"
           }
         ]
       },
@@ -19,7 +24,49 @@
         "content": [
           {
             "type": "text",
-            "text": "React is a JavaScript library for building user interfaces, particularly single-page applications. It was developed and is maintained by Facebook (now Meta) and a community of individual developers and companies. React was first deployed on Facebook's newsfeed in 2011 and later open-sourced in May 2013 concurrent."
+            "text": "Learn how to edit an existing test - Add new steps, copy & paste, delete steps and modify steps."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://help.testim.io/edit/editing-your-tests",
+                  "target": "_blank",
+                  "rel": "nofollow",
+                  "class": "suggestEdits"
+                }
+              }
+            ],
+            "text": "Suggest Edits"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "After a test is created, you can edit it by adding or deleting new steps at any location within the test. You can also modify existing steps by editing the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Properties "
+          },
+          {
+            "type": "text",
+            "text": "panel."
           }
         ]
       },
@@ -31,19 +78,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Advanced CapabilitiesKey Features"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Declarative ProgrammingComponent-Based Architecture"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Adding/Removing Steps"
           }
         ]
       },
@@ -52,115 +92,7 @@
         "content": [
           {
             "type": "text",
-            "text": "React uses a declarative paradigm that makes it easier to reason about your application. Simply describe how your app should look at any given point in time, and React efficiently updates and renders the right components when your data changes. This approach leads to more predictable code that's easier to debug concurrent.React is built around the concept of reusable components. Components are isolated pieces of code that can manage their own state and render UI elements. This modular approach makes code more maintainable and encourages reusability."
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": "jsx"
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "// Declarative approach in React\nfunction TemperatureDisplay({ temperature }) {\n  return (\n    <div>\n      {temperature > 30 ? \n        <p>It's hot outside!</p> : \n        <p>The weather is pleasant.</p>\n      }\n    </div>\n  );\n}// A simple React component\nfunction Welcome(props) {\n  return <h1>Hello, {props.name}</h1>;\n}\n\n// Using the component\nfunction App() {\n  return (\n    <div>\n      <Welcome name=\"Sara\" />\n      <Welcome name=\"Cahal\" />\n      <Welcome name=\"Edite\" />\n    </div>\n  );\n}\n\n"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "React FiberVirtual DOM"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "React Fiber is the reimplementation of React's core algorithm. It enables incremental rendering, splitting rendering work into chunks and spreading it out over multiple frames. This allows React to pause, abort, or reuse work as new updates come in, significantly improving responsiveness for complex user interfaces.React implements a virtual DOM, which is a lightweight representation of the real DOM. When state changes occur, React first updates the virtual DOM, compares it with the previous version (a process called \"diffing\"), and then efficiently updates only the necessary parts of the real DOM. This approach significantly improves performance."
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Server ComponentsJSX"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "React Server Components represent a new paradigm that allows components to render directly on the server, reducing the JavaScript sent to the client. This improves performance, especially for data-heavy applications, while maintaining React's component model.JSX is a syntax extension for JavaScript that resembles HTML. It allows you to write HTML-like code in your JavaScript files, making the structure of UI components more readable and intuitive."
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": "jsx"
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "// Server component example\n// Note: This is a simplified example\n'use server';\n\nasync function ProductDetails({ id }) {\n  const product = await fetchProductFromDatabase(id);\n  return <div>{product.name} - ${product.price}</div>;\n}const element = <h1>Hello, world!</h1>;\n\n"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Concurrent Features asdfg Unidirectional Data Flow"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "React's concurrent mode allows rendering to be interruptible, enabling better user experiences. Features like Suspense for data fetching, transitions, and deferred values help create smoother interfaces that remain responsive even during intensive operations.React follows a one-way data binding model. Data flows down from parent components to child components via props. This makes the code more predictable and easier to debug."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Introduced in React 16.8, Hooks allow you to use state and other React features without writing a class. This was a revolutionary addition that simplified many aspects of React development."
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 3
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "Common Hooks"
+            "text": "You can add new steps to an existing test either at the end of the test, or at a specific location between steps. The new steps can be added in the following ways:"
           }
         ]
       },
@@ -178,16 +110,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "useState"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Allows functional components to manage state"
+                    "text": "By recording them in the AUT (Application Under Test)"
                   }
                 ]
               }
@@ -201,16 +124,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "useEffect"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Handles side effects in functional components"
+                    "text": "By manually creating them"
                   }
                 ]
               }
@@ -224,411 +138,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "useContext"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Accesses context values"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "useReducer"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": An alternative to useState for complex state logic"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "useRef"
-                  },
-                  {
-                    "type": "text",
-                    "text": ": Creates a mutable reference that persists across renders"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": "jsx"
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "import React, { useState, useEffect } from 'react';\n\nfunction Example() {\n  // Declare a new state variable, which we'll call \"count\"\n  const [count, setCount] = useState(0);\n\n  // Similar to componentDidMount and componentDidUpdate\n  useEffect(() => {\n    document.title = `You clicked ${count} times`;\n  });\n\n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}import React, { useState, useEffect } from 'react';\n\nfunction Example() {\n  // Declare a new state variable, which we'll call \"count\"\n  const [count, setCount] = useState(0);\n\n  // Similar to componentDidMount and componentDidUpdate\n  useEffect(() => {\n    document.title = `You clicked ${count} times`;\n  });\n\n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}\n\n"
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 2
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "React Ecosystem"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "React has a rich ecosystem of libraries and tools that enhance its capabilities:"
-          }
-        ]
-      },
-      {
-        "type": "table",
-        "content": [
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "marks": [
-                          {
-                            "type": "bold"
-                          }
-                        ],
-                        "text": "Library/Tool"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableHeader",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "marks": [
-                          {
-                            "type": "bold"
-                          }
-                        ],
-                        "text": "Purpose"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "React Router"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Handles routing in single-page applications"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Redux"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "State management library"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Next.js"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Framework for server-rendered React applications"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Create React App"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Tool to set up a new React project with zero configuration"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "React Native"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Framework for building native mobile apps using React"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "tableRow",
-            "content": [
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Material-UI"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "tableCell",
-                "attrs": {
-                  "colspan": 1,
-                  "rowspan": 1,
-                  "colwidth": null
-                },
-                "content": [
-                  {
-                    "type": "paragraph",
-                    "content": [
-                      {
-                        "type": "text",
-                        "text": "Component library implementing Google's Material Design"
-                      }
-                    ]
+                    "text": "By copying & pasting them from somewhere else"
                   }
                 ]
               }
@@ -644,7 +154,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Setting Up a React Project"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Record Additional Steps"
           }
         ]
       },
@@ -653,19 +168,24 @@
         "content": [
           {
             "type": "text",
-            "text": "The easiest way to start a new React project is with Create React App:"
+            "text": "You can add additional steps to the end of your test or between current steps by recording them in the AUT browser."
           }
         ]
       },
       {
-        "type": "codeBlock",
+        "type": "heading",
         "attrs": {
-          "language": "bash"
+          "level": 3
         },
         "content": [
           {
             "type": "text",
-            "text": "npx create-react-app my-app\ncd my-app\nnpm startnpx create-react-app my-app\ncd my-app\nnpm start\n\n"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Recording additional steps at the end"
           }
         ]
       },
@@ -674,7 +194,442 @@
         "content": [
           {
             "type": "text",
-            "text": "This creates a new React application with a development server, webpack configuration, and basic project structure."
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To record additional steps at the end of your current test:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Toggle Recording"
+                  },
+                  {
+                    "type": "text",
+                    "text": " icon (in the top bar) to start recording."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/ee755a1-Screen_Shot_2021-03-13_at_8.31.14.png",
+          "alt": 3346,
+          "title": "Screen Shot 2021-03-13 at 8.31.14.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The AUT browser opens with a message that your test is being recorded."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/934bfe8-Testim_Editing_Tests_002.png",
+          "alt": 2545,
+          "title": "Testim Editing Tests 002.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Record the new steps in your test just as you would if you were recording a new test. See "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://help.testim.io/docs/how-to-record-a-test#step-4---recording-the-test",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Recording the test"
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "How to Record a Test"
+                  },
+                  {
+                    "type": "text",
+                    "text": " page."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Stop Recording"
+                  },
+                  {
+                    "type": "text",
+                    "text": " button when you have completed recording your new steps."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/b363dcb-Testim_Editing_Tests_002a.png",
+          "alt": 2545,
+          "title": "Testim Editing Tests 002a.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are redirected to the Editor, and the new steps are appended to the end of your test."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Recording additional steps between existing steps"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To record additional steps between two currently existing steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hover over the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "> (arrow symbol)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " between the two steps."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/21b115d-Screen_Shot_2021-03-13_at_8.33.46.png",
+          "alt": "",
+          "title": "Screen Shot 2021-03-13 at 8.33.46.png",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The action options are displayed."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/7f67500-Testim_063a_r.png",
+          "alt": 300,
+          "title": "Testim 063a_r.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "red circle"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Record actions here)."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "The AUT browser opens with a message that your test is being recorded."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/804671e-Testim_Editing_Tests_002.png",
+          "alt": 2545,
+          "title": "Testim Editing Tests 002.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 3,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Record the new steps in your test just as you would if you were recording a new test. See "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://help.testim.io/docs/how-to-record-a-test#step-4---recording-the-test",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Recording the test"
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "How to Record a Test"
+                  },
+                  {
+                    "type": "text",
+                    "text": " page."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Stop Recording"
+                  },
+                  {
+                    "type": "text",
+                    "text": " button when you have completed recording your new steps."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/b8334cb-Testim_Editing_Tests_002a.png",
+          "alt": 2545,
+          "title": "Testim Editing Tests 002a.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are redirected to the Editor, and the new steps are inserted between the two steps you selected."
           }
         ]
       },
@@ -686,7 +641,12 @@
         "content": [
           {
             "type": "text",
-            "text": "React's Popularity and Future"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Copy & Paste Steps"
           }
         ]
       },
@@ -695,7 +655,24 @@
         "content": [
           {
             "type": "text",
-            "text": "React continues to be one of the most popular front-end libraries, with a strong community and regular updates. Its component-based architecture has influenced many other frameworks and libraries in the JavaScript ecosystem."
+            "text": "Any step, group of steps, or group step can be copied and pasted to any location in your test or another test."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Copying a step"
           }
         ]
       },
@@ -704,7 +681,513 @@
         "content": [
           {
             "type": "text",
-            "text": "Future directions for React include improvements to concurrent rendering, server components, and better integration with emerging web standards."
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To copy a step, group of steps, or group step to the clipboard:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Select the step(s) you would like to copy by clicking and dragging around the step(s), or by holding down the CTRL/CMD key and clicking on each step you would like to copy. The selected steps are highlighted in blue."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/0a39c28-Screen_Shot_2021-03-13_at_8.35.15.png",
+          "alt": 3356,
+          "title": "Screen Shot 2021-03-13 at 8.35.15.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Note: after you drag and drop a step in the editor, you will be able to undo, by clicking on the toast message."
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/d49ea2e-Jun-22-2021_12-49-24.gif",
+          "alt": "",
+          "title": "Jun-22-2021 12-49-24.gif",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "While the steps are selected, click the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Copy"
+                  },
+                  {
+                    "type": "text",
+                    "text": " icon (in the top bar)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/20492f6-Screen_Shot_2021-03-13_at_8.35.15.png",
+          "alt": 3356,
+          "title": "Screen Shot 2021-03-13 at 8.35.15.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The step, group of steps, or group step is copied to the clipboard. To paste your copied step(s), see the procedure below."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Cutting a Step"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To copy one or more steps or a group step:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Select one or more steps by holding the CTRL/CMD key on your keyboard and clicking the steps in your test."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/6c1bb09-selectsteps.jpg",
+          "alt": "",
+          "title": "selectsteps.jpg",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Cut"
+                  },
+                  {
+                    "type": "text",
+                    "text": " button in the action menu or CTRL/CMD + X on the keyboard."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/77bcbbb-cut.jpg",
+          "alt": "",
+          "title": "cut.jpg",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": "inherit"
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "📘"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Note:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You are only able to cut and paste a step within the same test."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Pasting a step"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To paste a step, group of steps, or group step:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "After copying or cutting the desired step(s) to the clipboard, hover over the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "> (arrow symbol)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " between the two steps where you want to paste your steps."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/94b6988-Screen_Shot_2021-03-13_at_8.33.46.png",
+          "alt": "",
+          "title": "Screen Shot 2021-03-13 at 8.33.46.png",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The action options are displayed."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/86a1156-Testim_065a_r.png",
+          "alt": 300,
+          "title": "Testim 065a_r.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Paste copied steps"
+                  },
+                  {
+                    "type": "text",
+                    "text": " icon."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/3da2ad6-Testim_066.png",
+          "alt": "",
+          "title": "Testim 066.png",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The step(s) are moved from their original location and pasted into the Editor at the location you specified."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/340d1b6-Screen_Shot_2021-03-13_at_8.37.37.png",
+          "alt": 3340,
+          "title": "Screen Shot 2021-03-13 at 8.37.37.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "heading",
+            "attrs": {
+              "level": 2
+            },
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": "inherit"
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "📘"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ],
+                "text": "Note:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "If you click the paste button in the action menu without selecting a location, the step will be pasted to the end of the test."
+              }
+            ]
           }
         ]
       },
@@ -716,7 +1199,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Conclusion"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Manually Create Additional Steps"
           }
         ]
       },
@@ -725,11 +1213,333 @@
         "content": [
           {
             "type": "text",
-            "text": "React has revolutionized the way developers build user interfaces on the web. Its component-based architecture, virtual DOM, and unidirectional data flow have set standards for modern web development. Whether you're building a simple widget or a complex single-page application, React provides the tools and patterns to create efficient, maintainable, and scalable user interfaces."
+            "text": "There are many types of steps that can be manually created. For more information, see additional articles under "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Editing Tests"
+          },
+          {
+            "type": "text",
+            "text": " and under "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Advanced Editing"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Creating a step manually"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To manually create a step:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hover over the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "> (arrow symbol)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " where you want to add your step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/0d951e6-Screen_Shot_2021-03-13_at_8.33.46.png",
+          "alt": "",
+          "title": "Screen Shot 2021-03-13 at 8.33.46.png",
+          "width": "auto",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The action options are displayed."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/64048e3-Testim_063a_r.png",
+          "alt": 300,
+          "title": "Testim 063a_r.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "\"M\""
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Testim predefined steps) or the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "folder "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(Shared steps)."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Predefined steps"
+                  },
+                  {
+                    "type": "text",
+                    "text": " menu or "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Shared steps"
+                  },
+                  {
+                    "type": "text",
+                    "text": " menu opens."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://files.readme.io/ab56d53-Testim_034_r.png",
+          "alt": 300,
+          "title": "Testim 034_r.png",
+          "width": "smart",
+          "height": "auto"
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 2,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Choose one of the many options from the menus to create your desired step, and edit the step as described elsewhere in the documentation. For example, to add a custom action, see "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://help.testim.io/docs/custom-validations-and-actions#creating-a-custom-action",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Creating a Custom Action"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Deleting Steps"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You have the option of deleting individual steps or multiple steps at once."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Deleting an individual step"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "To delete an individual step:"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:20:28.670Z"
+  "online_content_time": "2025-08-12T12:20:48.964Z"
 }
