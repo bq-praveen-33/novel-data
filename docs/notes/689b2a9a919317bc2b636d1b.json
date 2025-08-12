@@ -10,6 +10,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "What is Node.js?"
           }
         ]
@@ -24,11 +29,7 @@
                 "type": "bold"
               }
             ],
-            "text": "Node.js"
-          },
-          {
-            "type": "text",
-            "text": " is a free, open source tool that lets you run JavaScript outside the web browser."
+            "text": "Node.js is a free, open source tool that lets you run JavaScript outside the web browser."
           }
         ]
       },
@@ -37,6 +38,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "With Node.js, you can build fast and scalable applications like web servers, APIs, tools, and more."
           }
         ]
@@ -55,6 +61,9 @@
                   "rel": "noopener noreferrer nofollow",
                   "class": "w3-btn w3-margin-bottom"
                 }
+              },
+              {
+                "type": "bold"
               }
             ],
             "text": "Start learning Node.js now »"
@@ -72,6 +81,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "What Can You Build With Node.js?"
           }
         ]
@@ -81,33 +95,12 @@
         "content": [
           {
             "type": "text",
-            "text": "Node.js uses an "
-          },
-          {
-            "type": "text",
             "marks": [
               {
                 "type": "bold"
               }
             ],
-            "text": "event-driven"
-          },
-          {
-            "type": "text",
-            "text": ", "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "non-blocking"
-          },
-          {
-            "type": "text",
-            "text": " model."
+            "text": "Node.js uses an event-driven, non-blocking model."
           }
         ]
       },
@@ -116,6 +109,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "It can handle many connections at once without waiting for one to finish before starting another."
           }
         ]
@@ -125,6 +123,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "This makes it great for real-time apps and high-traffic websites."
           }
         ]
@@ -134,6 +137,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "Here are some examples of what you can build with Node.js:"
           }
         ]
@@ -152,6 +160,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "Web servers and websites"
                   }
                 ]
@@ -166,6 +179,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "REST APIs"
                   }
                 ]
@@ -180,6 +198,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "Real-time apps (like chat)"
                   }
                 ]
@@ -194,6 +217,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "Command-line tools"
                   }
                 ]
@@ -208,6 +236,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "Working with files and databases"
                   }
                 ]
@@ -222,6 +255,11 @@
                 "content": [
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
                     "text": "IoT and hardware control"
                   }
                 ]
@@ -232,5 +270,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:29:45.878Z"
+  "online_content_time": "2025-08-12T12:30:00.227Z"
 }
