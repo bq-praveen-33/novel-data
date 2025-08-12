@@ -24,12 +24,16 @@
         "content": [
           {
             "type": "text",
+            "text": "Node.js"
+          },
+          {
+            "type": "text",
             "marks": [
               {
                 "type": "bold"
               }
             ],
-            "text": "Node.js is a free, open source tool that lets you run JavaScript outside the web browser."
+            "text": " is a free, open source tool that lets you run JavaScript outside the web browser."
           }
         ]
       },
@@ -270,5 +274,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:30:00.227Z"
+  "online_content_time": "2025-08-12T12:30:11.358Z"
 }
