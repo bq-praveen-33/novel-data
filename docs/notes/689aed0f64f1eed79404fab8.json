@@ -7,11 +7,38 @@
         "content": [
           {
             "type": "text",
-            "text": "/P"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/689af3a40cc1e38757ce311a",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "new public page"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is public page "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-12T07:56:16.411Z"
+  "online_content_time": "2025-08-12T08:04:34.874Z"
 }
