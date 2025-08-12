@@ -4433,140 +4433,15 @@
                     "text": "T5 (Text-to-Text Transfer Transformer)"
                   }
                 ]
+              },
+              {
+                "type": "paragraph"
               }
             ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "link",
-                        "attrs": {
-                          "href": "https://www.geeksforgeeks.org/deep-learning/conditional-generative-adversarial-network/",
-                          "target": "_blank",
-                          "rel": "noreferrer noopener",
-                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                        }
-                      },
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      },
-                      {
-                        "type": "bold"
-                      },
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "Conditional GAN (cGAN)"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "link",
-                        "attrs": {
-                          "href": "https://www.geeksforgeeks.org/machine-learning/cycle-generative-adversarial-network-cyclegan-2/",
-                          "target": "_blank",
-                          "rel": "noreferrer noopener",
-                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                        }
-                      },
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      },
-                      {
-                        "type": "bold"
-                      },
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "CycleGAN"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "link",
-                        "attrs": {
-                          "href": "https://www.geeksforgeeks.org/machine-learning/stylegan-style-generative-adversarial-networks/",
-                          "target": "_blank",
-                          "rel": "noreferrer noopener",
-                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                        }
-                      },
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      },
-                      {
-                        "type": "bold"
-                      },
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "Style GANs"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
-            "text": "We've covered the AI tutuorial which is important for developing intelligent systems and helps in making the perfect balance of simplicity and capability."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:16:08.909Z"
+  "online_content_time": "2025-08-12T12:26:41.596Z"
 }
