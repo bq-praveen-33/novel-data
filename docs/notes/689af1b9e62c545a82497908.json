@@ -297,12 +297,7 @@
         },
         "content": [
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ]
+            "type": "hardBreak"
           },
           {
             "type": "text",
@@ -1593,20 +1588,10 @@
             "text": "3. Spark data processing setup"
           },
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ]
+            "type": "hardBreak"
           },
           {
-            "type": "hardBreak",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ]
+            "type": "hardBreak"
           },
           {
             "type": "text",
@@ -1856,5 +1841,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-12T07:49:36.370Z"
+  "online_content_time": "2025-08-12T07:50:18.243Z"
 }
