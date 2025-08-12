@@ -3,157 +3,25 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 2,
-          "type": null
-        },
+        "type": "paragraph",
         "content": [
           {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "Click on the "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "\"M\""
-                  },
-                  {
-                    "type": "text",
-                    "text": " (Testim predefined steps) or the "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "bold"
-                      }
-                    ],
-                    "text": "folder "
-                  },
-                  {
-                    "type": "text",
-                    "text": "(Shared steps)."
-                  },
-                  {
-                    "type": "hardBreak"
-                  },
-                  {
-                    "type": "text",
-                    "text": "The "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "italic"
-                      }
-                    ],
-                    "text": "Predefined steps"
-                  },
-                  {
-                    "type": "text",
-                    "text": " menu or "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "italic"
-                      }
-                    ],
-                    "text": "Shared steps"
-                  },
-                  {
-                    "type": "text",
-                    "text": " menu opens."
-                  }
-                ]
-              }
-            ]
+            "type": "text",
+            "text": "this is imag"
           }
         ]
       },
       {
         "type": "image",
         "attrs": {
-          "src": "https://files.readme.io/ab56d53-Testim_034_r.png",
-          "alt": 300,
-          "title": "Testim 034_r.png",
-          "width": "smart",
-          "height": "auto"
-        }
-      },
-      {
-        "type": "orderedList",
-        "attrs": {
-          "tight": true,
-          "start": 2,
-          "type": null
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "🤗Choose one of the many options from the menus to create your desired step, and edit the step as described elsewhere in the documentation. For example, to add a custom action, see "
-                  },
-                  {
-                    "type": "text",
-                    "marks": [
-                      {
-                        "type": "link",
-                        "attrs": {
-                          "href": "https://help.testim.io/docs/custom-validations-and-actions#creating-a-custom-action",
-                          "target": "_self",
-                          "rel": "noopener noreferrer nofollow",
-                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                        }
-                      },
-                      {
-                        "type": "underline"
-                      }
-                    ],
-                    "text": "Creating a Custom Action"
-                  },
-                  {
-                    "type": "text",
-                    "text": "."
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 2
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/689b32259fb97f3d66a48a13/images/Screenshot 2025-05-22 at 6.25.18 PM.png-e2abec8a-fc2c-4316-86bf-4ee0efff9711",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
         }
       }
     ]
   },
-  "online_content_time": "2025-08-12T12:25:23.512Z"
+  "online_content_time": "2025-08-12T12:26:19.316Z"
 }
