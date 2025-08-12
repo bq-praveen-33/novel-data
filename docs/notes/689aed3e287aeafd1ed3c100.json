@@ -10,8 +10,111 @@
             "text": "Tarun i"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Many industries depend on large-scale IT infrastructures to operate, such as telecom, insurance, airlines, shipping services, energy, pharma, e-commerce, and government. Some industries will have unique needs, like financial services' trading operations, where very low latency is important. Other "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(31, 31, 31)"
+                }
+              }
+            ],
+            "text": "industry"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " aspects share common needs, like financial services' risk operations and pharma's research operations that are very compute intensive. The ensemble concepts facilitate the necessary "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.sciencedirect.com/topics/computer-science/customisation",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "topic-link"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "customization"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " of the basic approach needed to meet performance as the industry measures it. This is significant, because by restricting how the digital supply chain is constructed, any industry can take advantage of the benefits of this Next Generation Datacenter design. This will be of particular interest to industries that are thinking of adopting a real-time enterprise-operating model or creating a sustainable competitive advantage through IT."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.sciencedirect.com/science/article/pii/B9780123749567000103",
+                  "target": "_blank",
+                  "rel": "noreferrer noopener",
+                  "class": "link-button column-width-in-sm-and-md  link-button-primary"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "View chapter"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-12T07:29:20.525Z"
+  "online_content_time": "2025-08-12T07:42:08.552Z"
 }
