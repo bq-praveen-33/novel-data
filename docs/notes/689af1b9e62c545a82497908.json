@@ -72,7 +72,7 @@
         "content": [
           {
             "type": "text",
-            "text": "In the past three years Notion’s data has expanded 10x due to user and content growth, with a doubling rate of 6-12 months. Managing this rapid growth while meeting the ever-increasing data demands of critical product and analytics use cases, especially our recent Notion AI features, meant building and scaling Notion’s data lake. Here’s how we did it."
+            "text": "In the past three years Notion’s data has expanded 10x due to user and content growth, with a doubling rate of 6-12 months. Managing this rapid growth while meeting the ever-increasing data demands of critical product and analytics use cases, especially our recent Notion AI features, meant building and scaling Notion’s data lake. Here’s how we did it. "
           }
         ]
       },
@@ -1856,5 +1856,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-12T07:49:13.392Z"
+  "online_content_time": "2025-08-12T07:49:36.370Z"
 }
