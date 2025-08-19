@@ -58,8 +58,58 @@
             "text": "This year's edition highlights how elevated inflation in many countries has undermined purchasing power and, especially among low-income populations, access to healthy diets. "
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(84, 84, 84)"
+                }
+              }
+            ],
+            "text": "While some progress and recovery have been made in recent years, the world is still above pre-COVID-19 pandemic levels and far from eradicating hunger and food insecurity by 2030 (SDG Target 2.1). Similarly, despite some progress in the global nutrition targets, the world is not on track to achieve SDG Target 2.2. Among other factors, persistent food price inflation has slowed this momentum.The State of Food Security and Nutrition in the World 2025 highlights how elevated inflation in many countries has undermined purchasing power and, especially among low-income populations, access to healthy diets. The report documents how high food price inflation is associated with increases in food insecurity and child malnutrition. Vulnerable groups, including low-income households, women, and rural communities, can be particularly affected by food price inflation, risking setbacks in the fight against hunger and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://malnutrition.In",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(84, 84, 84)"
+                }
+              }
+            ],
+            "text": "malnutrition.In"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(84, 84, 84)"
+                }
+              }
+            ],
+            "text": " response to these challenges and to prevent future price shocks, the report examines policy measures adopted by countries, and outlines what is necessary going forwards. It stresses the importance of coherent implementation of fiscal and monetary policies to stabilize markets, promote open and resilient trade, and protect vulnerable populations. Additionally, it calls for better data systems and sustained investment in resilient agrifood systems to build long-term food security and nutrition. These coordinated actions are vital to reignite progress towards ending hunger and malnutrition by 2030."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-19T13:26:22.349Z"
+  "online_content_time": "2025-08-19T13:27:13.349Z"
 }
