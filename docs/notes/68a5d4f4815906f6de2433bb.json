@@ -7,11 +7,35 @@
         "content": [
           {
             "type": "text",
-            "text": " @"
+            "text": " "
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "2",
+              "label": "Alice",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "1",
+              "label": "Atharv",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-20T14:55:17.773Z"
+  "online_content_time": "2025-08-20T14:59:22.767Z"
 }
