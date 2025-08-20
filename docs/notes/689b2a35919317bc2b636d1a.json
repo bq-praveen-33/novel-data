@@ -3,9 +3,112 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now I understand the issue completely. When the sidebar opens, the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "fixed"
+          },
+          {
+            "type": "text",
+            "text": " element with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "w-full"
+          },
+          {
+            "type": "text",
+            "text": " extends beyond the available content area and gets cut off on the right side. You want the header to adapt to the actual width of its parent container."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here are the best solutions:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Solution 1: Change to "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "sticky"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " positioning (Recommended)"
+          },
+          {
+            "type": "text",
+            "text": " Replace "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "fixed"
+          },
+          {
+            "type": "text",
+            "text": " with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "sticky"
+          },
+          {
+            "type": "text",
+            "text": ". This will make the header stick to the top but respect the parent's width constraints:"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-20T10:05:59.374Z"
+  "online_content_time": "2025-08-20T10:06:34.000Z"
 }
