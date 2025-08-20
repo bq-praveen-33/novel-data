@@ -113,9 +113,80 @@
         ]
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything in Notion is a block, and these blocks are made up of data. Lots and lots of data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "All this block data has been doubling every 6 to 12 months, driven by user activity and content creation. At the start of 2021 we had more than 20 billion block rows in Postgres, and this figure has since grown to more than two hundred billion blocks—a data volume of hundreds of terabytes, even when compressed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To manage this data growth while enhancing the user experience, we’ve strategically expanded our database infrastructure from one Postgres instance to a more complex sharded architecture. We began in 2021 by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/sharding-postgres-at-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "horizontally sharding our Postgres database into 32 physical instances, each comprising 15 logical shards"
+          },
+          {
+            "type": "text",
+            "text": ", and continued in 2023 by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/the-great-re-shard",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "increasing the number of physical instances to 96, with five logical shards per instance"
+          },
+          {
+            "type": "text",
+            "text": ". Thus we maintained a total of 480 logical shards while ensuring long-term scalable data management and retrieval capabilities."
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-20T11:27:18.247Z"
+  "online_content_time": "2025-08-20T11:27:32.590Z"
 }
