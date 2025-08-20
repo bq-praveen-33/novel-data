@@ -3,48 +3,17 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Now I understand the issue completely. When the sidebar opens, the "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " element with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "w-full"
-          },
-          {
-            "type": "text",
-            "text": " extends beyond the available content area and gets cut off on the right side. You want the header to adapt to the actual width of its parent container."
-          }
-        ]
+        "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Here are the best solutions:"
-          }
-        ]
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68a5ac6d77ef3f7bfa9fa1b4/images/image.png-66040036-0fe2-4731-8a5f-db7ea3928388",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
       },
       {
         "type": "paragraph",
@@ -116,5 +85,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-20T11:24:45.000Z"
+  "online_content_time": "2025-08-20T11:25:18.000Z"
 }
