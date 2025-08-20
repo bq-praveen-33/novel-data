@@ -3,17 +3,22 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "By XZ Tie, Nathan Louie, Thomas Chow, Darin Im, Abhishek Modi, Wendy Jiao"
+          }
+        ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68a5ac6d77ef3f7bfa9fa1b4/images/image.png-66040036-0fe2-4731-8a5f-db7ea3928388",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "12 min read"
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -22,68 +27,99 @@
             "type": "text",
             "marks": [
               {
-                "type": "bold"
-              }
-            ],
-            "text": "Solution 1: Change to "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "marks": [
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgba(0, 0, 0, 0.59)"
+                }
+              },
               {
                 "type": "bold"
               }
             ],
-            "text": " positioning (Recommended)"
-          },
-          {
-            "type": "text",
-            "text": " Replace "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "text": ". This will make the header stick to the top but respect the parent's width constraints:"
+            "text": "Share this post"
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the past three years Notion’s data has expanded 10x due to user and content growth, with a doubling rate of 6-12 months. Managing this rapid growth while meeting the ever-increasing data demands of critical product and analytics use cases, especially our recent Notion AI features, meant building and scaling Notion’s data lake. Here’s how we did it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Notion’s data model and growth"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything you see in Notion—texts, images, headings, lists, database rows, pages, etc—despite differing front-end representations and behaviors, is modeled as a \"block\" entity in the back end and stored in the Postgres database with a consistent structure, schema, and associated metadata (learn more about "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/data-model-behind-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Notion's data model"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F4rrziPDb4W1MWIJd9DU75F%2Fea42dabcf0bd96470958a47e4f80c1d2%2FData_Lake_0.png&w=3840&q=75",
+          "alt": "Data Lake initial image",
+          "title": null,
+          "width": 1488,
+          "height": 582
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything in Notion is a block, and these blocks are made up of data. Lots and lots of data."
+          }
+        ]
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-20T11:25:18.000Z"
+  "online_content_time": "2025-08-20T11:26:00.297Z"
 }
