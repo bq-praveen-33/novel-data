@@ -51,16 +51,6 @@
         ]
       },
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F4rrziPDb4W1MWIJd9DU75F%2Fea42dabcf0bd96470958a47e4f80c1d2%2FData_Lake_0.png&w=3840&q=75",
-          "alt": "Data Lake initial image",
-          "title": null,
-          "width": 1488,
-          "height": 582
-        }
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -145,5 +135,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-20T11:26:51.403Z"
+  "online_content_time": "2025-08-20T11:27:05.251Z"
 }
