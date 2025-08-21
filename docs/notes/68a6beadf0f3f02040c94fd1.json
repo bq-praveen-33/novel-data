@@ -59,10 +59,25 @@
           {
             "type": "text",
             "text": " "
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "0",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-21T11:17:01.961Z"
+  "online_content_time": "2025-08-21T11:21:44.568Z"
 }
