@@ -144,8 +144,25 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68a31f689c427ef48892f77f",
+              "label": "Nikita Rani",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-21T12:04:20.337Z"
+  "online_content_time": "2025-08-21T12:05:44.194Z"
 }
