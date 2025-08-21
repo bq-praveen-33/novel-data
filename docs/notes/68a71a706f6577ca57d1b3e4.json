@@ -3,9 +3,924 @@
     "type": "doc",
     "content": [
       {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Book time with Notion expert"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Connect with a certified Notion expert in a 30-minute session on us. Get personalized guidance to help you and your team make the most of Notion."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "FAQs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What is the format of the call?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Who will I be meeting with?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "How much does this session cost?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Can I invite other members of my team?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "English (US)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgba(0, 0, 0, 0.54)"
+                }
+              }
+            ],
+            "text": "Cookie settings"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgba(0, 0, 0, 0.54)"
+                }
+              }
+            ],
+            "text": "© 2025 Notion Labs, Inc."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Company"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/about",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "About us"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/careers",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Careers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/security",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Security"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion-status.com/",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Status"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Terms & privacy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.so/notion/Privacy-Policy-3468d120cf614d4c9014c09f6adc9091?source=copy_link#18e15495ac2643659c303cbe96358620",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Your privacy rights"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Download"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/mobile",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "iOS & Android"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/desktop",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Mac & Windows"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/product/calendar/download",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Calendar"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/web-clipper",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Web Clipper"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Resources"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/help",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Help center"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/pricing",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Pricing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/blog",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Blog"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/community",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Community"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/integrations",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Integrations"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/templates",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Templates"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/affiliates",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Affiliates"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Notion for"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/enterprise",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Enterprise"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/teams",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Small business"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/personal",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(49, 48, 46)"
+                        }
+                      }
+                    ],
+                    "text": "Personal"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.notion.com/explore",
+                          "target": "_self",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG InlineTextLink_underlineOnHover__J78xW"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Explore more→"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-21T13:15:41.136Z"
+  "online_content_time": "2025-08-21T13:16:21.582Z"
 }
