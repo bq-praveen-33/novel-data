@@ -6,20 +6,12 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "mention",
-            "attrs": {
-              "id": "0",
-              "label": "atharv.mahajan@betaque.com",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
             "type": "text",
-            "text": "  asasd"
+            "text": "@"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-21T06:23:37.761Z"
+  "online_content_time": "2025-08-21T06:32:23.730Z"
 }
