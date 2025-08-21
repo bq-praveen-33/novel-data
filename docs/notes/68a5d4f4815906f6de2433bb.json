@@ -8,34 +8,10 @@
           {
             "type": "text",
             "text": " "
-          },
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "2",
-              "label": "Alice",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          },
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "1",
-              "label": "Atharv",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-20T14:59:22.767Z"
+  "online_content_time": "2025-08-21T05:23:03.897Z"
 }
