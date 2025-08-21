@@ -3,51 +3,10 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Now I understand the issue completely. When the sidebar opens, the "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " element with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "w-full"
-          },
-          {
-            "type": "text",
-            "text": " extends beyond the available content area and gets cut off on the right side. You want the header to adapt to the actual width of its parent container."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Here are the best solutions:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
         "content": [
           {
             "type": "text",
@@ -56,55 +15,7 @@
                 "type": "bold"
               }
             ],
-            "text": "Solution 1: Change to "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": " positioning (Recommended)"
-          },
-          {
-            "type": "text",
-            "text": " Replace "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "text": ". This will make the header stick to the top but respect the parent's width constraints:"
+            "text": "Notion’s data model and growth"
           }
         ]
       },
@@ -113,7 +24,29 @@
         "content": [
           {
             "type": "text",
-            "text": "new content "
+            "text": "Everything you see in Notion—texts, images, headings, lists, database rows, pages, etc—despite differing front-end representations and behaviors, is modeled as a \"block\" entity in the back end and stored in the Postgres database with a consistent structure, schema, and associated metadata (learn more about "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/data-model-behind-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Notion's data model"
+          },
+          {
+            "type": "text",
+            "text": ")."
           }
         ]
       },
@@ -122,33 +55,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Now I understand the issue completely. When the sidebar opens, the "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " element with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "w-full"
-          },
-          {
-            "type": "text",
-            "text": " extends beyond the available content area and gets cut off on the right side. You want the header to adapt to the actual width of its parent container."
+            "text": "All this block data has been doubling every 6 to 12 months, driven by user activity and content creation. At the start of 2021 we had more than 20 billion block rows in Postgres, and this figure has since grown to more than two hundred billion blocks—a data volume of hundreds of terabytes, even when compressed."
           }
         ]
       },
@@ -157,7 +64,51 @@
         "content": [
           {
             "type": "text",
-            "text": "Here are the best solutions:"
+            "text": "To manage this data growth while enhancing the user experience, we’ve strategically expanded our database infrastructure from one Postgres instance to a more complex sharded architecture. We began in 2021 by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/sharding-postgres-at-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "horizontally sharding our Postgres database into 32 physical instances, each comprising 15 logical shards"
+          },
+          {
+            "type": "text",
+            "text": ", and continued in 2023 by "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/the-great-re-shard",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "increasing the number of physical instances to 96, with five logical shards per instance"
+          },
+          {
+            "type": "text",
+            "text": ". Thus we maintained a total of 480 logical shards while ensuring long-term scalable data management and retrieval capabilities."
           }
         ]
       },
@@ -166,60 +117,7 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Solution 1: Change to "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": " positioning (Recommended)"
-          },
-          {
-            "type": "text",
-            "text": " Replace "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "text": ". This will make the header stick to the top but respect the parent's width constraints:"
+            "text": "Everything in Notion is a block, and these blocks are made up of data. Lots and lots of data."
           }
         ]
       },
@@ -228,7 +126,7 @@
         "content": [
           {
             "type": "text",
-            "text": "new content "
+            "text": "All this block data has been doubling every 6 to 12 months, driven by user activity and content creation. At the start of 2021 we had more than 20 billion block rows in Postgres, and this figure has since grown to more than two hundred billion blocks—a data volume of hundreds of terabytes, even when compressed."
           }
         ]
       },
@@ -237,113 +135,51 @@
         "content": [
           {
             "type": "text",
-            "text": "Now I understand the issue completely. When the sidebar opens, the "
+            "text": "To manage this data growth while enhancing the user experience, we’ve strategically expanded our database infrastructure from one Postgres instance to a more complex sharded architecture. We began in 2021 by "
           },
           {
             "type": "text",
             "marks": [
               {
-                "type": "code"
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/sharding-postgres-at-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
               }
             ],
-            "text": "fixed"
+            "text": "horizontally sharding our Postgres database into 32 physical instances, each comprising 15 logical shards"
           },
           {
             "type": "text",
-            "text": " element with "
+            "text": ", and continued in 2023 by "
           },
           {
             "type": "text",
             "marks": [
               {
-                "type": "code"
-              }
-            ],
-            "text": "w-full"
-          },
-          {
-            "type": "text",
-            "text": " extends beyond the available content area and gets cut off on the right side. You want the header to adapt to the actual width of its parent container."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Here are the best solutions:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/the-great-re-shard",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
               {
-                "type": "bold"
+                "type": "underline"
               }
             ],
-            "text": "Solution 1: Change to "
+            "text": "increasing the number of physical instances to 96, with five logical shards per instance"
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": " positioning (Recommended)"
-          },
-          {
-            "type": "text",
-            "text": " Replace "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "fixed"
-          },
-          {
-            "type": "text",
-            "text": " with "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "code"
-              }
-            ],
-            "text": "sticky"
-          },
-          {
-            "type": "text",
-            "text": ". This will make the header stick to the top but respect the parent's width constraints:"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "new content "
+            "text": ". Thus we maintained a total of 480 logical shards while ensuring long-term scalable data management and retrieval capabilities."
           }
         ]
       },
@@ -352,5 +188,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-20T16:04:18.090Z"
+  "online_content_time": "2025-08-21T07:42:16.376Z"
 }
