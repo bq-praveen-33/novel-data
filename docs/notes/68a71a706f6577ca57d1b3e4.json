@@ -12,35 +12,7 @@
                 "type": "bold"
               }
             ],
-            "text": "What is the format of the call?"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "Who will I be meeting with?"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "How much does this session cost?"
+            "text": "What is How much does this session cost?"
           }
         ]
       },
@@ -912,5 +884,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-21T16:28:03.903Z"
+  "online_content_time": "2025-08-21T16:28:15.413Z"
 }
