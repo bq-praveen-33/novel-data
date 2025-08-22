@@ -101,18 +101,9 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "All this block data has been doubling every 6 to 12 months, driven by user activity and content creation. At the start of 2021 we had more than 20 billion block rows in Postgres, and this figure has since grown to more than two hundred billion blocks—a data volume of hundreds of terabytes, even when compressed."
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-22T07:29:11.127Z"
+  "online_content_time": "2025-08-22T07:29:22.489Z"
 }
