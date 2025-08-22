@@ -61,12 +61,40 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything you see in Notion—texts, images, headings, lists, database rows, pages, etc—despite differing front-end representations and behaviors, is modeled as a \"block\" entity in the back end and stored in the Postgres database with a consistent structure, schema, and associated metadata (learn more about "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.notion.so/blog/data-model-behind-notion",
+                  "target": "_self",
+                  "rel": "nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer InlineTextLink_inlineLink__oN8YM InlineTextLink_colorInherit__oGlTG"
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Notion's data model"
+          },
+          {
+            "type": "text",
+            "text": ")."
+          }
+        ]
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-22T12:04:04.605Z"
+  "online_content_time": "2025-08-22T12:18:58.429Z"
 }
