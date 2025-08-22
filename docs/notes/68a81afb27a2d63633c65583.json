@@ -42,8 +42,17 @@
           "width": null,
           "height": null
         }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Everything you see in Notion—texts, images, headings, lists, database rows, pages, etc—despite differing front-end representations and behaviors, is modeled as a \"block\" entity in the back end and stored in the Postgres database "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-22T07:33:08.314Z"
+  "online_content_time": "2025-08-22T07:33:46.998Z"
 }
