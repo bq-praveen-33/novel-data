@@ -66,12 +66,135 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The festival is a 5 days long affair. Each day has its own significance."
+          }
+        ]
       },
       {
-        "type": "paragraph"
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Dhanteras"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Naraka Chaturdashi or Choti Diwali"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Diwali or Deepawali"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Padwa, Balipratiprada"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "italic"
+                      }
+                    ],
+                    "text": "Bhai Dooj"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-25T11:42:34.759Z"
+  "online_content_time": "2025-08-25T11:43:13.166Z"
 }
