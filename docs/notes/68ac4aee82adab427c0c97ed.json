@@ -1,12 +1,61 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Deepawali"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              },
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Diwali"
+          },
+          {
+            "type": "text",
+            "text": " is one festival I wait for eagerly every single year. There is something about this day that makes me so high on energy, and happiness."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "This Hindu festival represents the victory of Good over evil, Light over Dark, Happy over sad."
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The energy, significance, and zeal of this festival is equivalent to Christmas in the celebrating countries. So you know how big the occasion is."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-25T11:41:16.248Z"
 }
