@@ -1,12 +1,34 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "content here"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68a813d69b63a8605ae3f96c",
+              "label": "Nikita Rani",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-26T09:10:57.359Z"
 }
