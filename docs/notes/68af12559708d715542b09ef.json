@@ -44,14 +44,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "rgb(33, 37, 41)"
-                }
-              }
-            ],
             "text": "Set up a new Azure App Registration (in the directory in which you want to read the application details for extracting the secret’s expiry date of all the other application registration) that will be used by the Runbook script. Be sure to grant the necessary permissions (such as Microsoft Graph API permissions) to enable access to App Registration details. Follow these steps:"
           }
         ]
@@ -2183,5 +2175,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-27T14:40:02.493Z"
+  "online_content_time": "2025-08-27T14:42:22.928Z"
 }
