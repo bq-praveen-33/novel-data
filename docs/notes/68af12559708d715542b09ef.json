@@ -7,11 +7,2181 @@
         "content": [
           {
             "type": "text",
-            "text": "t"
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Steps to setup Email Alerts for expiring client secrets in Azure"
           }
         ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create Azure Application Registration"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(33, 37, 41)"
+                }
+              }
+            ],
+            "text": "Set up a new Azure App Registration (in the directory in which you want to read the application details for extracting the secret’s expiry date of all the other application registration) that will be used by the Runbook script. Be sure to grant the necessary permissions (such as Microsoft Graph API permissions) to enable access to App Registration details. Follow these steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "In the App Registration you just created, navigate to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Manage"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " menu and select "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "API Permissions"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Click on "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Add a permission"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and, in the popup window, choose "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Microsoft Graph"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Under the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Application permissions"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " tab, add the following permissions:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": false
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "http://Mail.Read",
+                                  "target": "_blank",
+                                  "rel": "noopener noreferrer nofollow",
+                                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                                }
+                              },
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": "Mail.Read"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": "Mail.Send"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "http://Application.Read",
+                                  "target": "_blank",
+                                  "rel": "noopener noreferrer nofollow",
+                                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                                }
+                              },
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": "Application.Read"
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": ".All"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "http://Directory.Read",
+                                  "target": "_blank",
+                                  "rel": "noopener noreferrer nofollow",
+                                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                                }
+                              },
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": "Directory.Read"
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              }
+                            ],
+                            "text": ".All (Not Necessary)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfE4wE7yKDrHRLCF1nLJ2aE6umVFEZsWPIrLlCv8DqUZEOVJfPmjqo_rVWPibyFCvdtknm3T8jKiq1Z0e7Xs3R3RkiGX222PZZYKzUDL8C0lb9JBdjyLvSCRY7iTBtItr59Ri-Gvg?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 261
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 4,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Next, go to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Secrets"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " section and create a new client secret for this application registration and store it for future references."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create Email Communication Service"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Set up a new Email Communication Service resource in the directory in which all the resources are managed. Also create a new resource group for all the resources related to this email alert functionality. Follow the steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "In the Email Communication Service Resource you just created, navigate to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Provision Domain "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "section under "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Settings"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": " section."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Create a new custom domain under the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Add Domain"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": " section. "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Enter your domain name and add."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Add the required records in your domain for verification and proceed with verification."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Wait for the domain to get verified. For more information on domain verification visit "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/email/add-custom-verified-domains?pivots=platform-azp#configure-sender-authentication-for-custom-domain",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(17, 85, 204)"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "here"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2tAt0RhLvU4n1Vka-OSiupcTc7GWHEw-NKboZRLSEMO6FNRLauXXDfsCiBZLeUK85Q2KFqPM8BPjdcnjCzHHdc6zSfE90kITrizsnhJbWkN3P4HborTwvPNj1g0iBpR9BoztL?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 233
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create Communication Service"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create a new resource for Communication Service so that the domain created in the Email Communication Services can be linked to the Communication Service resource so that emails can be sent to the destination from the listed domain. Follow the steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Create the Communication Service resource with required configurations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "After the successful creation of the service resource, navigate to the Email section in the left menu."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Then further navigate to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Domain"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": " section."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Click on the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Connect domains"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": " and fill in the details of the previously created domain to connect to it."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXelHM4mx9M2RNNuZlGt3fmnEOBlvgv5IbNUlbqpIF-LMiYrtYYfqN9o4YYxF6yx6uJJCIbT1vzp4ZNdyPyHJ5J6piUdLgHdpfZnIzI4VByoh92NqrgzZeuY4QgKK_DoGrWiTAplWQ?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 228
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 5,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": "Then navigate to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Try Email"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(0, 0, 0)"
+                        }
+                      }
+                    ],
+                    "text": " section and copy the connection string from the code and use it in the runbook script."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create an Azure Automation Account"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(33, 37, 41)"
+                }
+              }
+            ],
+            "text": "Create an Azure Automation Account where the script will run. Follow the steps below:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Go to the Azure portal and navigate to "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Automation Accounts"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Click "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Create"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and fill in the required details (e.g., subscription, resource group, name, and region)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Click "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Review + Create"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and then Create to deploy the Automation Account."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "After successfully creating the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Automation Accounts, "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "navigate to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Shared Resources "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "and then to the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Python Packages"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Add the .whl file of the listed Python packages. Link to the python packages is "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://pypi.org/",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(17, 85, 204)"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "here"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": {
+                  "tight": false
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              },
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "azure_communication_email"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "textStyle",
+                                "attrs": {
+                                  "color": "rgb(33, 37, 41)"
+                                }
+                              },
+                              {
+                                "type": "bold"
+                              }
+                            ],
+                            "text": "azure_core"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0bEK3XGq_pXYOXhlLB9_DIIZ92bct8tAXNB0NIZHjpkxbbkYhwgPG_GXWnqV2U0II0bSioW_XSaOKeskCRVU61AWRtC33ZOdj3QaaMoMA5LGC0iLbG3S-4raBIJwbSoiPj0_uQA?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 236
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Create a Runbook"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(33, 37, 41)"
+                }
+              }
+            ],
+            "text": "After setting up the Automation Account, create a Runbook to run the script:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Go to your "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Automation Account"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and select "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Runbooks"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " from the left-hand menu."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Click "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Create"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " a Runbook and provide a name, select "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Python"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and select "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "3.8"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " as the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Runtime version"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " as the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Runbook type"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": ", and click "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Create"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Update and Add Script to Runbook and schedule task"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "This step is crucial for the runbook to get executed without any error and on the scheduled time. The script will check for the expiration date of the client secrets. The mail will be sent only if the client secrets are going to expire in 1,  7 or in 15 days. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(0, 0, 0)"
+                }
+              }
+            ],
+            "text": "Follow the steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Use the details from the App Registration (Client ID, Client Secret, Tenant ID) to update the Python script. The script can be found in "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://bitbucket.org/tradesun/email-alert-azure/src/master/",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(17, 85, 204)"
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "email-alert-azure"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " repo."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Add the Sender email address same as the sender email address in the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "MailFrom Addresses"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " section in  your domain."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdycy9JeXjkI0Rhwwd9nsgZ5gzQER8Qz03L5VKMHWleuP_BxX6b4gAueUVJgfnO--Mf39PnOoHDo4otWnstzi6h5i2SVwAUnWO5w5vvu-dh-hCbJOJ5bIriDWip-Ym_xo4DMj8BdA?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 243
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 3,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Then in your Automation Account, go to "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Schedules"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and click "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Add a Schedule"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Set the frequency (e.g., daily) and timing according to your preference."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Also select the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Run settings"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": " and then select "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Run on Azure."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhNV3FUYsMMXJ81mZiYM2Pt_U28nhJY1B2-Bu-C3eyP-ZHbzndnke7_8afZz-4uWWIB_3n-n3Yjcj_uHeEVweCjbfywzUWg0UAHQ-Wb4PEJR3qSoqsB6GORnrNg4hbTVLZRvwXfg?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 183
+        }
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 6,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": "rgb(33, 37, 41)"
+                        }
+                      }
+                    ],
+                    "text": "Then link the schedule to your Runbook so it executes automatically. At the scheduled time the mail will be sent. Here is the sample mail."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmvcoOTznGYT8fODhzEc-Jy0cvdacT_vGOpHr2JJVckir_-be_UmQHfpV6DxfNfPUHwGN8SbxoILMjhDM_-Qrxq8KwEtf-Jzf5VVZny4z1HiUbmmzE8F-pDQywQlkpLlSK7VBR_A?key=hGKus_I8o42LeJ2Vmyj_qg",
+          "alt": null,
+          "title": null,
+          "width": 602,
+          "height": 244
+        }
       }
     ]
   },
-  "online_content_time": "2025-08-27T14:39:45.447Z"
+  "online_content_time": "2025-08-27T14:40:02.493Z"
 }
