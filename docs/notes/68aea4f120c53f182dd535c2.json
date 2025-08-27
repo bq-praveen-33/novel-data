@@ -10,7 +10,7 @@
         "content": [
           {
             "type": "text",
-            "text": "List out all the bugs you find in this application here"
+            "text": "List out all the bugs you find in this platform here, our team will look onto it:"
           }
         ]
       },
@@ -32,5 +32,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-27T13:27:28.274Z"
+  "online_content_time": "2025-08-27T13:27:55.760Z"
 }
