@@ -1,12 +1,367 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "blog"
+          },
+          {
+            "type": "text",
+            "text": " (a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Clipping_(morphology)",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "truncation"
+          },
+          {
+            "type": "text",
+            "text": " of \""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "weblog"
+          },
+          {
+            "type": "text",
+            "text": "\")"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Blog#cite_note-1",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "["
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Blog#cite_note-1",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "1"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Blog#cite_note-1",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "]"
+          },
+          {
+            "type": "text",
+            "text": " is an informational website consisting of discrete, often informal diary-style text entries also known as posts. Posts are typically displayed in "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Reverse_chronology",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "reverse chronological order"
+          },
+          {
+            "type": "text",
+            "text": " so that the most recent post appears first, at the top of the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Web_page",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "web page"
+          },
+          {
+            "type": "text",
+            "text": ". In the 2000s, blogs were often the work of a single individual, occasionally of a small group, and often covered a single subject or topic. In the 2010s, multi-author blogs (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/News_media",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "media outlets"
+          },
+          {
+            "type": "text",
+            "text": ", universities, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Think_tank",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "think tanks"
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Advocacy_group",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "advocacy groups"
+          },
+          {
+            "type": "text",
+            "text": ", and similar institutions account for an increasing quantity of blog "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Web_traffic",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "traffic"
+          },
+          {
+            "type": "text",
+            "text": ". The rise of Twitter and other \""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Microblogging",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "microblogging"
+          },
+          {
+            "type": "text",
+            "text": "\" systems helps integrate MABs and single-author blogs into the news media. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Blog"
+          },
+          {
+            "type": "text",
+            "text": " can also be used as a verb, meaning "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "to maintain or add content to a blog"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/HTML",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "HTML"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Computer_programming",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "computer programming"
+          },
+          {
+            "type": "text",
+            "text": ". Previously, knowledge of such technologies as HTML and "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/File_Transfer_Protocol",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "File Transfer Protocol"
+          },
+          {
+            "type": "text",
+            "text": " had been required to publish content on the Web, and early Web users therefore tended to be hackers and computer enthusiasts. As of the 2010s, the majority are interactive "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://en.wikipedia.org/wiki/Web_2.0",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Web 2.0"
+          },
+          {
+            "type": "text",
+            "text": " websites, allowing visitors to leave online comments, and it is thi"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-27T14:43:28.542Z"
 }
