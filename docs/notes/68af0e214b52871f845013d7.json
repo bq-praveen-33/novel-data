@@ -1,12 +1,37 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "ghjjghj"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68af0e214b52871f845013d7/images/Ganesh Ji 4.jpg-8e506104-8107-42c9-b952-d44173ed6146",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68af0e214b52871f845013d7/images/IMG_0953.JPG-b70a3979-5d87-4316-9984-afdd6cf1677c",
+          "alt": null,
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-08-27T14:04:55.334Z"
 }
