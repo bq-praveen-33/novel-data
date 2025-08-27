@@ -1,12 +1,4904 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Types of Machine Learning"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Last Updated : 23 Jul, 2025"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Machine learning is the branch of"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": " Artificial Intelligence"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " that focuses on developing models and algorithms that let computers learn from data and improve from previous experience without being explicitly programmed for every "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://task.In",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "task.In"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " simple words, ML teaches the systems to think and understand like humans by learning from the data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "In this article, we will explore the various"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " types of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "machine learning algorithms "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "that are important for future requirements. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Machine learning "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "is generally a training system to learn from past experiences and improve performance over time."
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/ml-machine-learning/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": " Machine learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " helps to predict massive amounts of data. It helps to deliver fast and accurate results to get profitable opportunities."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Types of Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "There are several types of machine learning, each with special characteristics and applications. Some of the main types of machine learning algorithms are as follows:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Supervised Machine Learning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Unsupervised Machine Learning"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Reinforcement Learning"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Additionally, there is a more specific category called semi-supervised learning, which combines elements of both supervised and unsupervised learning."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20230913114022/Types-of-Machine-Leaning-(3).gif",
+          "alt": "Types-of-Machine Leaning-Geeksforgeesk",
+          "title": null,
+          "width": 1000,
+          "height": 470
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Types of Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "1. Supervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/supervised-machine-learning/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Supervised learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " is defined as when a model gets trained on a "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "\"Labelled Dataset\""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ". Labelled datasets have both input and output parameters. In "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Supervised Learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " algorithms learn to map points between inputs and correct outputs. It has both training and validation datasets labelled."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20231123085213/Supervised-learning.png",
+          "alt": "Supervised-learning",
+          "title": null,
+          "width": 1000,
+          "height": 603
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Supervised Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Let's understand it with the help of an example."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Example: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Consider a scenario where you have to build an image classifier to differentiate between cats and dogs. If you feed the datasets of dogs and cats labelled images to the algorithm, the machine will learn to classify between a dog or a cat from these labeled images. When we input new dog or cat images that it has never seen before, it will use the learned algorithms and predict whether it is a dog or a cat. This is how "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "supervised learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " works, and this is particularly an image classification."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "There are two main categories of supervised learning that are mentioned below:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Classification"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/types-of-regression-techniques/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Regression"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Classification"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/getting-started-with-classification/",
+                  "target": "_blank",
+                  "rel": "noreferrer noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Classification"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "deals with predicting "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "categorical"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " target variables, which represent discrete classes or labels. For instance, classifying emails as spam or not spam, or predicting whether a patient has a high risk of heart disease. Classification algorithms learn to map the input features to one of the predefined classes."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some classification algorithms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Logistic Regression"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/support-vector-machine-algorithm/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Support Vector Machine"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Random Forest"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/decision-tree/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Decision Tree"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "K-Nearest Neighbors (KNN)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Naive Bayes"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Regression"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/regression-in-machine-learning/",
+                  "target": "_blank",
+                  "rel": "noreferrer noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Regression"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", on the other hand, deals with predicting "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "continuous"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " target variables, which represent numerical values. For example, predicting the price of a house based on its size, location, and amenities, or forecasting the sales of a product. Regression algorithms learn to map the input features to a continuous numerical value."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some regression algorithms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-linear-regression/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Linear Regression"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/videos/polynomial-regression-algorithm-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Polynomial Regression"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/videos/lasso-ridge-regression-algorithm-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Ridge Regression"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/videos/lasso-ridge-regression-algorithm-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Lasso Regression"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/decision-tree-introduction-example/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Decision tree"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Random Forest"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Advantages of Supervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Supervised Learning"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " models can have high accuracy as they are trained on "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "labelled data"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "The process of decision-making in supervised learning models is often interpretable."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It can often be used in pre-trained models which saves time and resources when developing new models from scratch."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Disadvantages of Supervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It has limitations in knowing patterns and may struggle with unseen or unexpected patterns that are not present in the training data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It can be time-consuming and costly as it relies on"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " labeled "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "data only."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It may lead to poor generalizations based on new data."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Applications of Supervised Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Supervised learning is used in a wide variety of applications, including:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Image classification"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Identify objects, faces, and other features in images."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Natural language processing:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Extract information from text, such as sentiment, entities, and relationships."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Speech recognition"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Convert spoken language into text."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Recommendation systems"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Make personalized recommendations to users."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Predictive analytics"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Predict outcomes, such as sales, customer churn, and stock prices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Medical diagnosis"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Detect diseases and other medical conditions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Fraud detection"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Identify fraudulent transactions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Autonomous vehicles"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Recognize and respond to objects in the environment."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Email spam detection"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Classify emails as spam or not spam."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Quality control in manufacturing"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Inspect products for defects."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Credit scoring"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Assess the risk of a borrower defaulting on a loan."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Gaming"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Recognize characters, analyze player behavior, and create NPCs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Customer support"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Automate customer support tasks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Weather forecasting"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Make predictions for temperature, precipitation, and other meteorological parameters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Sports analytics"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Analyze player performance, make game predictions, and optimize strategies."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "2. Unsupervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/unsupervised-machine-learning-the-future-of-cybersecurity/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Unsupervised Learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " Unsupervised learning is a type of machine learning technique in which an algorithm discovers patterns and relationships using unlabeled data. Unlike supervised learning, unsupervised learning doesn't involve providing the algorithm with labeled target outputs. The primary goal of Unsupervised learning is often to discover hidden patterns, similarities, or clusters within the data, which can then be used for various purposes, such as data exploration, visualization, dimensionality reduction, and more."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20231123085148/Unsupervised-learning.png",
+          "alt": "Unsupervised-learning",
+          "title": null,
+          "width": 1000,
+          "height": 372
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Unsupervised Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Let's understand it with the help of an example."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Example: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Consider that you have a dataset that contains information about the purchases you made from the shop. Through clustering, the algorithm can group the same purchasing behavior among you and other customers, which reveals potential customers without predefined labels. This type of information can help businesses get target customers as well as identify outliers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "There are two main categories of unsupervised learning that are mentioned below:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/clustering-in-machine-learning/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Clustering"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/association-rule/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Association"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Clustering"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/clustering-in-machine-learning/",
+                  "target": "_blank",
+                  "rel": "noreferrer noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Clustering"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " is the process of grouping data points into clusters based on their similarity. This technique is useful for identifying patterns and relationships in data without the need for labeled examples."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some clustering algorithms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "K-Means Clustering algorithm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-mean-shift-clustering/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Mean-shift algorithm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "DBSCAN Algorithm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Principal Component Analysis"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-independent-component-analysis/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Independent Component Analysis"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Association"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/association-rule/",
+                  "target": "_blank",
+                  "rel": "noreferrer noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Association rule learn"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "ing is a technique for discovering relationships between items in a dataset. It identifies rules that indicate the presence of one item implies the presence of another item with a specific probability."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some association rule learning algorithms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Apriori Algorithm"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/ml-eclat-algorithm/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Eclat"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "FP-growth Algorithm"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Advantages of Unsupervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It helps to discover hidden patterns and various relationships between the data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Used for tasks such as"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " customer segmentation, anomaly detection, "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "data exploration"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It does not require labeled data and reduces the effort of data labeling."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Disadvantages of Unsupervised Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Without using labels, it may be difficult to predict the quality of the model's output."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Cluster Interpretability may not be clear and may not have meaningful interpretations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It has techniques such as"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/auto-encoders/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": " autoencoders"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/dimensionality-reduction/",
+                          "target": "_blank",
+                          "rel": "noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "dimensionality reduction"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " that can be used to extract meaningful features from raw data."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Applications of Unsupervised Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some common applications of unsupervised learning:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Clustering"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Group similar data points into clusters."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Anomaly detection"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Identify outliers or anomalies in data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Dimensionality reduction"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Reduce the dimensionality of data while preserving its essential information."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Recommendation systems"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Suggest products, movies, or content to users based on their historical behavior or preferences."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Topic modeling"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Discover latent topics within a collection of documents."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Density estimation"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Estimate the probability density function of data."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Image and video compression"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Reduce the amount of storage required for multimedia content."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Data preprocessing"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Help with data preprocessing tasks such as data cleaning, imputation of missing values, and data scaling."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Market basket analysis"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Discover associations between products."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Genomic data analysis"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Identify patterns or group genes with similar expression profiles."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Image segmentation"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Segment images into meaningful regions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Community detection in social networks"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Identify communities or groups of individuals with similar interests or connections."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Customer behavior analysis"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Uncover patterns and insights for better marketing and product recommendations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Content recommendation"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Classify and tag content to make it easier to recommend similar items to users."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Exploratory data analysis (EDA)"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": Explore data and gain insights before defining specific tasks."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "3. Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Reinforcement machine learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "algorithm is a learning method that interacts with the environment by producing actions and discovering errors. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Trial, error, and delay"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " are the most relevant characteristics of reinforcement learning. In this technique, the model keeps on increasing its performance using Reward Feedback to learn the behavior or pattern. These algorithms are specific to a particular problem e.g. Google Self Driving car, AlphaGo where a bot competes with humans and even itself to get better and better performers in Go Game. Each time we feed in data, they learn and add the data to their knowledge which is training data. So, the more it learns the better it gets trained and hence experienced. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some of most common reinforcement learning algorithms:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/q-learning-in-python/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Q-learning:"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Q-learning is a model-free RL algorithm that learns a Q-function, which maps states to actions. The Q-function estimates the expected reward of taking a particular action in a given state."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/machine-learning/sarsa-reinforcement-learning/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "SARSA (State-Action-Reward-State-Action):"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " SARSA is another model-free RL algorithm that learns a Q-function. However, unlike Q-learning, SARSA updates the Q-function for the action that was actually taken, rather than the optimal action."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.geeksforgeeks.org/deep-learning/deep-q-learning/",
+                          "target": "_blank",
+                          "rel": "noreferrer noopener",
+                          "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ],
+                    "text": "Deep Q-learning"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": ":"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " Deep Q-learning is a combination of Q-learning and deep learning. Deep Q-learning uses a neural network to represent the Q-function, which allows it to learn complex relationships between states and actions."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20231123085353/1-(2).png",
+          "alt": "1-(2)",
+          "title": null,
+          "width": 1000,
+          "height": 470
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Let's understand it with the help of examples."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Example: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Consider that you are training an "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "AI"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " agent to play a game like chess. The agent explores different moves and receives positive or negative feedback based on the outcome. Reinforcement Learning also finds applications in which they learn to perform tasks by interacting with their surroundings."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Types of Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "There are two main types of reinforcement learning:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Positive reinforcement"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Rewards the agent for taking a desired action."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Encourages the agent to repeat the behavior."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Examples: Giving a treat to a dog for sitting, providing a point in a game for a correct answer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Negative reinforcement"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Removes an undesirable stimulus to encourage a desired behavior."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Discourages the agent from repeating the behavior."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Examples: Turning off a loud buzzer when a lever is pressed, avoiding a penalty by completing a task."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Advantages of Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It has autonomous decision-making that is well-suited for tasks and that can learn to make a sequence of decisions, like robotics and game-playing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "This technique is preferred to achieve long-term results that are very difficult to achieve."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It is used to solve a complex problems that cannot be solved by conventional techniques."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Disadvantages of Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Training Reinforcement Learning agents can be computationally expensive and time-consuming."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Reinforcement learning is not preferable to solving simple problems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "It needs a lot of data and a lot of computation, which makes it impractical and costly."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Applications of Reinforcement Machine Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Here are some applications of reinforcement learning:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Game Playing"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can teach agents to play games, even complex ones."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Robotics"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can teach robots to perform tasks autonomously."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Autonomous Vehicles"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can help self-driving cars navigate and make decisions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Recommendation Systems"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can enhance recommendation algorithms by learning user preferences."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Healthcare"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to optimize treatment plans and drug discovery."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Natural Language Processing (NLP)"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used in dialogue systems and chatbots."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Finance and Trading"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used for algorithmic trading."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Supply Chain and Inventory Management"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to optimize supply chain operations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Energy Management"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to optimize energy consumption."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Game AI"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to create more intelligent and adaptive NPCs in video games."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Adaptive Personal Assistants"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to improve personal assistants."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Virtual Reality (VR) and Augmented Reality (AR):"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " RL can be used to create immersive and interactive experiences."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Industrial Control"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to optimize industrial processes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Education"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to create adaptive learning systems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Agriculture"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": ": RL can be used to optimize agricultural operations."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Semi-Supervised Learning: Supervised + Unsupervised Learning"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.geeksforgeeks.org/machine-learning/ml-semi-supervised-learning/",
+                  "target": "_blank",
+                  "rel": "noopener",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              },
+              {
+                "type": "underline"
+              }
+            ],
+            "text": "Semi-Supervised learning"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "is a machine learning algorithm that works between the supervised and unsupervised learning so it uses both "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "labelled and unlabelled"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " data. It's particularly useful when obtaining labeled data is costly, time-consuming, or resource-intensive. This approach is useful when the dataset is expensive and time-consuming. Semi-supervised learning is chosen when labeled data requires skills and relevant resources in order to train or learn from it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "We use these techniques when we are dealing with data that is a little bit labeled and the rest large portion of it is unlabeled. We can use the unsupervised techniques to predict labels and then feed these labels to supervised techniques. This technique is mostly applicable in the case of image data sets where usually all images are not labeled. "
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://media.geeksforgeeks.org/wp-content/uploads/20231123085101/2.png",
+          "alt": 2,
+          "title": null,
+          "width": 1000,
+          "height": 470
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-08-27T08:49:08.764Z"
 }
