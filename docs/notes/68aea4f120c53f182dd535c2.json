@@ -13,50 +13,8 @@
             "text": "List out all the bugs you find in this platform here, our team will look onto it:"
           }
         ]
-      },
-      {
-        "type": "bulletList",
-        "attrs": {
-          "tight": true
-        },
-        "content": [
-          {
-            "type": "listItem",
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "mention",
-                    "attrs": {
-                      "id": "689b2a1d3435c680c81b1588",
-                      "label": "Nikita Rani",
-                      "mentionSuggestionChar": "@"
-                    }
-                  },
-                  {
-                    "type": "text",
-                    "text": " "
-                  },
-                  {
-                    "type": "mention",
-                    "attrs": {
-                      "id": "689b2a243435c680c81b1589",
-                      "label": "Tarun Dubey",
-                      "mentionSuggestionChar": "@"
-                    }
-                  },
-                  {
-                    "type": "text",
-                    "text": " "
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-08-27T13:29:08.056Z"
+  "online_content_time": "2025-08-27T13:29:38.254Z"
 }
