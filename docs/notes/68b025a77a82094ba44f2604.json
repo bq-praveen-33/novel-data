@@ -1,12 +1,352 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Potential issues with the new version"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "unregisterPlugin"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " usage"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "In Tiptap, plugins are usually registered once per editor instance and don’t require manual unregistering unless you hot-swap them."
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "editor.unregisterPlugin(...)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " isn’t a documented Tiptap API (ProseMirror does allow plugin removal, but Tiptap wraps it). This may throw errors unless your editor instance actually supports it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "👉 Safer: rely on destroying the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "ydoc"
+                  },
+                  {
+                    "type": "text",
+                    "text": " + disconnecting provider. That already removes plugin state."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Missing awareness cleanup"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "In the old cleanup you had:"
+                  }
+                ]
+              },
+              {
+                "type": "codeBlock",
+                "attrs": {
+                  "language": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "provider.awareness.setLocalState(null);\nprovider.awareness.off(\"update\", checkLeadership);\n"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "That’s important to prevent ghost users staying \"online\". In your new cleanup you forgot that."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Timeout cleanup"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "You still don’t clear the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "setTimeout"
+                  },
+                  {
+                    "type": "text",
+                    "text": " you created earlier for the sync fallback. That can leak."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "📝 Verdict"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your new cleanup is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "not worse"
+          },
+          {
+            "type": "text",
+            "text": ", but it’s not fully correct either:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✅ Good: listener cleanup, provider.destroy(), catch safety"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "⚠️ Missing: awareness cleanup ("
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "setLocalState(null)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "off(\"update\", …)"
+                  },
+                  {
+                    "type": "text",
+                    "text": "), timeout cleanup"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "⚠️ Risky: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "code"
+                      }
+                    ],
+                    "text": "editor.unregisterPlugin(...)"
+                  },
+                  {
+                    "type": "text",
+                    "text": " might not exist in Tiptap’s public API"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "👉 I’d recommend merging the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "best of both versions"
+          },
+          {
+            "type": "text",
+            "text": ":"
+          }
+        ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "return () => {\n  try {\n    // Clear timeout if still pending\n    clearTimeout(timeoutId);\n\n    // Remove event listeners\n    provider?.off(\"status\", handleStatus);\n    provider?.off(\"sync\", handleSync);\n    provider?.awareness?.off(\"update\", checkLeadership);\n\n    ydoc?.off(\"update\", handleUpdate);\n\n    // Reset awareness state\n    provider?.awareness?.setLocalState(null);\n\n    // Destroy connections\n    provider?.destroy(); // better than disconnect()\n    ydoc?.destroy();\n\n    // Reset state\n    setSocketConnected(false);\n    setInitialSyncDone(false);\n    syncedOnceRef.current = false;\n  } catch (e) {\n    console.error(\"Cleanup failed:\", e);\n  }\n};"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-28T09:47:47.311Z"
 }
