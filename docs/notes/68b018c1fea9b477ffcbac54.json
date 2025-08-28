@@ -7,19 +7,11 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "ai-highlight",
-                "attrs": {
-                  "color": "#c1ecf970"
-                }
-              }
-            ],
             "text": "@"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-28T09:52:26.557Z"
+  "online_content_time": "2025-08-28T09:53:16.633Z"
 }
