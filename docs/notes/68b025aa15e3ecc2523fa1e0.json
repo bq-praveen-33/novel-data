@@ -74,8 +74,20 @@
             ]
           }
         ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Issue 2: Memory Leaks in NoteContext.tsx\nProblem Analysis:\nThe NoteContext has several issues: infinite re-render loops, missing dependency arrays, and uncontrolled state updates that cause memory leaks.\nCurrent Problematic Code:  \n// In NoteContext.tsx - Lines 70-90\nuseEffect(() => {\n  setSidebarOpen(isSidebarOpen);\n},[isSidebarOpen]); // This creates infinite loop!\n\nuseEffect(() => {\n  const match = pathname.match(/^\\/notes\\/([^\\/\\?]+)/);\n  if (match && match[1]) {\n    const noteId = match[1];\n    previousNoteIdRef.current = noteId;\n  } else {\n    previousNoteIdRef.current = null;\n  }\n}, [pathname]); // Missing dependency on previousNoteIdRef. \nSolution - Fixed NoteContext Implementation:\nexport function NoteProvider({ children }: { children: ReactNode }) {\n  // ... existing state ...\n  \n  // Fix 1: Remove infinite loop\n  useEffect(() => {\n    // Only update if actually changed and not already set\n    if (sidebarOpen !== isSidebarOpen) {\n      setSidebarOpen(isSidebarOpen);\n    }\n  }, [isSidebarOpen]); // Remove sidebarOpen from dependencies\n  \n  // Fix 2: Proper pathname handling with cleanup\n  useEffect(() => {\n    const match = pathname.match(/^\\/notes\\/([^\\/\\?]+)/);\n    if (match && match[1]) {\n      const noteId = match[1];\n      previousNoteIdRef.current = noteId;\n    } else {\n      previousNoteIdRef.current = null;\n    }\n  }, [pathname]); // pathname is stable, no need for ref dependency\n  \n  // Fix 3: Memoize expensive operations\n  const memoizedNotes = useMemo(() => notes, [notes]);\n  const memoizedCachedChildNodes = useMemo(() => cachedChildNodes, [cachedChildNodes]);\n  \n  // Fix 4: Proper cleanup for socket connection\n  useEffect(() => {\n    return () => {\n      // Cleanup socket connection when context unmounts\n      setSocketConnected(false);\n    };\n  }, []);\n  \n  // Fix 5: Debounced state updates\n  const debouncedSetNotes = useCallback(\n    debounce((newNotes: Node[]) => {\n      setNotes(newNotes);\n    }, 100),\n    []\n  );\n  \n  // Fix 6: Proper dependency management for updateNote\n  const updateNote = useCallback(async (\n    id: string, \n    title: string, \n    parentId: string | null, \n    icon: string | null\n  ) => {\n    try {\n      const result = await UpdateNote(id, title, parentId, icon);\n      if (result) {\n        debouncedSetNotes(result);\n        return result;\n      }\n    } catch (error) {\n      console.error(\"Error updating note:\", error);\n    }\n    return null;\n  }, [UpdateNote, debouncedSetNotes]);\n  \n  // ... rest of the context ...\n}"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-28T10:32:40.440Z"
+  "online_content_time": "2025-08-28T10:52:07.183Z"
 }
