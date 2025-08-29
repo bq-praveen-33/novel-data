@@ -44,9 +44,18 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "codeBlock",
+        "attrs": {
+          "language": "typescript"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\n\t/**\n * Create http headers object\n * @mockapi boolean If true, then dont add token since it fails\n * @returns {Headers}\n */\n\tstatic getHttpHeaders_httpClient(uploadFile: boolean = false, customHeaders: any = {}): HttpHeaders {\n\t\tlet headers = new HttpHeaders();\n\n\t\tif (!uploadFile) {\n\t\t\theaders = headers.set('Accept', 'application/json').set('Content-Type', 'application/json');\n\t\t}\n\n\t\tObject.entries(customHeaders).forEach(([key, value]) => {\n\t\t\theaders = headers.set(key, String(value));\n\t\t});\n\n\t\tlet token = localStorage.getItem('token') || localStorage.getItem('token_external');\n\n\t\tif (token) {\n\t\t\theaders = headers.set('Authorization', 'Bearer ' + token);\n\t\t} else {\n\t\t\tconst registerData = JSON.parse(localStorage.getItem('register_data') || '{}');\n\t\t\tif (registerData?.auth?.token) {\n\t\t\t\theaders = headers.set('Authorization', 'Bearer ' + registerData.auth.token);\n\t\t\t}\n\t\t}\n\n\t\treturn headers;\n\t}"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-29T10:44:52.828Z"
+  "online_content_time": "2025-08-29T10:45:06.834Z"
 }
