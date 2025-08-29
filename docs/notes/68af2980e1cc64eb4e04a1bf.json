@@ -15,53 +15,7 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af25fd9bbe348571c4a2c1",
-              "label": "Himanshu Bhutani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": "  himanshu "
-          },
-          {
-            "type": "hardBreak"
-          },
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af25fd9bbe348571c4a2c1",
-              "label": "Himanshu Bhutani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " hi"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68b1a40ea1222e4de83dc470",
-              "label": "Sarthak Gupta",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": "  hi"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -77,5 +31,5 @@
       }
     ]
   },
-  "online_content_time": "2025-08-29T13:03:15.085Z"
+  "online_content_time": "2025-08-29T13:04:07.418Z"
 }
