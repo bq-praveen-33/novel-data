@@ -1,12 +1,209 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "curl '"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://api.dev2.mtm.video/api/mediaAnnotations/3ee30984-f277-47e5-acb4-0cb424ba6008/edb36f6d-1309-415c-8b75-9b02a3785c91/e5d9a64b-ca17-4fdc-a5c5-5275b81dc3e9/dbd7ade5-0c32-4717-8e5b-19e244960578/386ade36-c407-4379-a2a4-718f9e3ae329",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "https://api.dev2.mtm.video/api/mediaAnnotations/3ee30984-f277-47e5-acb4-0cb424ba6008/edb36f6d-1309-415c-8b75-9b02a3785c91/e5d9a64b-ca17-4fdc-a5c5-5275b81dc3e9/dbd7ade5-0c32-4717-8e5b-19e244960578/386ade36-c407-4379-a2a4-718f9e3ae329"
+          },
+          {
+            "type": "text",
+            "text": "' \\"
+          }
+        ]
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'accept: application/json' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYWRnaS5kYWZ0YXJpLmxvcmVhbGNwZEBtdG0udmlkZW8iLCJleHAiOjE3NTY2MzU0MTV9.sxGidb92YiItHjSjxAaY69CleAQFD0H_rYAzravrmNY' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'content-type: application/json' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'origin: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://localhost:8880",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "http://localhost:8880"
+          },
+          {
+            "type": "text",
+            "text": "' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'priority: u=1, i' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'referer: "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://localhost:8880/",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "http://localhost:8880/"
+          },
+          {
+            "type": "text",
+            "text": "' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-ch-ua: \"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-ch-ua-mobile: ?0' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-ch-ua-platform: \"macOS\"' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-fetch-dest: empty' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-fetch-mode: cors' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-fetch-site: cross-site' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'sec-fetch-storage-access: active' \\"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36'"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-29T10:48:05.439Z"
 }
