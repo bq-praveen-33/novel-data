@@ -3,9 +3,118 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "*\"Please review the following code thoroughly. I want you to check for:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": false,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Possible memory leaks (e.g., event listeners, intervals, async calls, unclosed resources)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Security vulnerabilities (e.g., XSS, SQL injection, unsafe API usage, leaking secrets)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Performance issues (e.g., redundant re-renders, heavy computations in render, unnecessary loops)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Redundant or unused code (imports, variables, functions, dead branches)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Code smells and best practices violations (improper error handling, tight coupling, unclear naming)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Any potential runtime issues (e.g., null/undefined risks, race conditions)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Please provide a detailed explanation for each issue you find, along with suggested fixes or improvements.\"*"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-29T07:05:27.802Z"
+  "online_content_time": "2025-08-29T08:12:11.762Z"
 }
