@@ -45,14 +45,12 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "hardBreak"
-          }
-        ]
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-08-29T09:51:57.537Z"
+  "online_content_time": "2025-08-29T10:07:57.846Z"
 }
