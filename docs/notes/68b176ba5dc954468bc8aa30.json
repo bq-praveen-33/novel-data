@@ -1,12 +1,20 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "{\n    \"headers\": {\n        \"Accept\": [\n            \"application/json\"\n        ],\n        \"Content-Type\": [\n            \"application/json\"\n        ],\n        \"Authorization\": [\n            \"Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYWRnaS5kYWZ0YXJpLmxvcmVhbGNwZEBtdG0udmlkZW8iLCJleHAiOjE3NTY2MzMwNTB9.QVXdVoZ_rYKRIjCz8_TWWp0KbT-go3Edf2Isj6s5RHQ\"\n        ]\n    },\n    \"withCredentials\": true\n}"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-29T09:46:22.886Z"
 }
