@@ -22,11 +22,37 @@
         "content": [
           {
             "type": "text",
-            "text": "{\n    \"headers\": {\n        \"Accept\": [\n            \"application/json\"\n        ],\n        \"Content-Type\": [\n            \"application/json\"\n        ],\n        \"Authorization\": [\n            \"Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYWRnaS5kYWZ0YXJpLmxvcmVhbGNwZEBtdG0udmlkZW8iLCJleHAiOjE3NTY2MzMwNTB9.QVXdVoZ_rYKRIjCz8_TWWp0KbT-go3Edf2Isj6s5RHQ\"\n        ]\n    },\n    \"withCredentials\": true\n}"
+            "text": "//http\n{\n    \"headers\": {\n        \"Accept\": [\n            \"application/json\"\n        ],\n        \"Content-Type\": [\n            \"application/json\"\n        ],\n        \"Authorization\": [\n            \"Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYWRnaS5kYWZ0YXJpLmxvcmVhbGNwZEBtdG0udmlkZW8iLCJleHAiOjE3NTY2MzMwNTB9.QVXdVoZ_rYKRIjCz8_TWWp0KbT-go3Edf2Isj6s5RHQ\"\n        ]\n    },\n    \"withCredentials\": true\n}"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "//http get curl-\n\ncurl 'https://api.dev2.mtm.video/api/users/sadgi.daftari.lorealcpd@mtm.video/profile-settings' \\\n  -H 'accept: application/json' \\\n  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \\\n  -H 'authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJzYWRnaS5kYWZ0YXJpLmxvcmVhbGNwZEBtdG0udmlkZW8iLCJleHAiOjE3NTY2MzMwNTB9.QVXdVoZ_rYKRIjCz8_TWWp0KbT-go3Edf2Isj6s5RHQ' \\\n  -H 'content-type: application/json' \\\n  -H 'origin: http://localhost:8880' \\\n  -H 'priority: u=1, i' \\\n  -H 'referer: http://localhost:8880/' \\\n  -H 'sec-ch-ua: \"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"' \\\n  -H 'sec-ch-ua-mobile: ?0' \\\n  -H 'sec-ch-ua-platform: \"macOS\"' \\\n  -H 'sec-fetch-dest: empty' \\\n  -H 'sec-fetch-mode: cors' \\\n  -H 'sec-fetch-site: cross-site' \\\n  -H 'sec-fetch-storage-access: active' \\\n  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36'"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-29T09:49:58.953Z"
+  "online_content_time": "2025-08-29T09:51:57.537Z"
 }
