@@ -163,8 +163,25 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68af04f1b4be742bca450a5a",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-29T05:52:37.212Z"
+  "online_content_time": "2025-08-29T05:56:36.687Z"
 }
