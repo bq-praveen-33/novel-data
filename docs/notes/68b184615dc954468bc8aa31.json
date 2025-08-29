@@ -1,12 +1,31 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(231, 226, 213)"
+                }
+              }
+            ],
+            "text": "/api/mediaAnnotations/"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-08-29T10:44:23.829Z"
 }
