@@ -24,8 +24,29 @@
             "type": "hardBreak"
           }
         ]
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": "typescript"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\n\thttpGet<T>(\n\t\tres: string,\n\t\tanalyticsApi: boolean = false,\n\t\tmockapi: boolean = false,\n\t\tcustomHeaders: any = {},\n\t\toptions: ApiRequestOptions = {}\n\t): Observable<T> {\n\t\tlet headers = HelperService.getHttpHeaders_httpClient(mockapi, customHeaders);\n\n\t\tlet baseUrl = mockapi\n\t\t\t? environment.api.mockapiUrl\n\t\t\t: analyticsApi\n\t\t\t\t? environment.api.analyticsUrl\n\t\t\t\t: environment.api.baseUrl;\n\n\t\tlet endpointUrl = baseUrl + res;\n\n\t\tlet requestOptions: any = {\n\t\t\theaders,\n\t\t\twithCredentials: true,\n\t\t\tresponseType: options.blobResponse ? 'blob' : 'json'\n\t\t};\n\n\t\treturn this.httpClient.get<T>(endpointUrl, requestOptions).pipe(\n\t\t\tcatchError((error: HttpErrorResponse) => {\n\t\t\t\tthis.healthCheck();\n\n\t\t\t\tif (res.endsWith('api/dashboards') || res.endsWith('api/selfTrainer')) {\n\t\t\t\t\treturn of({ menus: [] } as T);\n\t\t\t\t}\n\n\t\t\t\treturn this.handleError({\n\t\t\t\t\terror,\n\t\t\t\t\toptions,\n\t\t\t\t\turl: endpointUrl,\n\t\t\t\t\tmethod: 'GET'\n\t\t\t\t});\n\t\t\t})\n\t\t);\n\t}"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-08-29T10:44:23.829Z"
+  "online_content_time": "2025-08-29T10:44:52.828Z"
 }
