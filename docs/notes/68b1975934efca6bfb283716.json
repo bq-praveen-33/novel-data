@@ -70,90 +70,10 @@
           {
             "type": "text",
             "text": " "
-          },
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68b14ad501f989f10ba4f454",
-              "label": "Atharv Mahajan",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68b14ad501f989f10ba4f454",
-              "label": "Atharv Mahajan",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-08-30T21:15:52.450Z"
+  "online_content_time": "2025-08-30T21:16:16.364Z"
 }
