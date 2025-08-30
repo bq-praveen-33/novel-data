@@ -88,9 +88,23 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68af0c105c8bb6af2f1d4f7f",
+              "label": "Nikita Rani",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-08-30T19:44:39.523Z"
+  "online_content_time": "2025-08-30T19:45:57.619Z"
 }
