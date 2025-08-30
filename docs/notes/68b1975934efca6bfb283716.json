@@ -18,42 +18,8 @@
             "text": " "
           }
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-08-30T21:36:37.054Z"
+  "online_content_time": "2025-08-30T21:37:13.362Z"
 }
