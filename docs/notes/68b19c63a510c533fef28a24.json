@@ -83,14 +83,19 @@
               "label": "Atharv Mahajan",
               "mentionSuggestionChar": "@"
             }
-          },
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
           {
             "type": "text",
-            "text": " "
+            "text": "@"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-01T09:54:04.363Z"
+  "online_content_time": "2025-09-01T10:04:54.229Z"
 }
