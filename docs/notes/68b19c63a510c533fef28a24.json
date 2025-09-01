@@ -11,6 +11,23 @@
           {
             "type": "mention",
             "attrs": {
+              "id": "68b14ad501f989f10ba4f454",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
               "id": "68af0c105c8bb6af2f1d4f7f",
               "label": "Nikita Rani",
               "mentionSuggestionChar": "@"
@@ -114,5 +131,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-01T10:06:51.326Z"
+  "online_content_time": "2025-09-01T12:06:41.265Z"
 }
