@@ -1,12 +1,20 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "function reverseWordsInSentence(sentence) {\n  return sentence\n    .split(\" \") // split by whitespace but preserve it\n    .map(word => {\n      // check if word has punctuation at the end (.,!?)\n      const match = word.match(/^(\\w+)([.,!?])$/);\n      if (match) {\n        // reverse the word part, keep the punctuation at end\n        return match[1].split('').reverse().join('') + match[2];\n      } else {\n        return word.split('').reverse().join('');\n      }\n    })\n    .join('');\n}\n\n// Example usage\nconst input = \"Hi Shyam, How are you? I am good.\";\nconst output = reverseWordsInSentence(input);\nconsole.log(output);"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-01T06:00:28.057Z"
 }
