@@ -50,6 +50,18 @@
           {
             "type": "text",
             "text": " "
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68b14ad501f989f10ba4f454",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       },
@@ -234,5 +246,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-01T08:04:26.433Z"
+  "online_content_time": "2025-09-01T08:05:51.160Z"
 }
