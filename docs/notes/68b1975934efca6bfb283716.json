@@ -92,18 +92,12 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "@"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-01T09:44:40.683Z"
+  "online_content_time": "2025-09-01T09:45:44.100Z"
 }
