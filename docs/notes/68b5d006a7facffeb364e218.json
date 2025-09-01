@@ -1,0 +1,163 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Learn Data Structures and Algorithms"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Data Structures and Algorithms (DSA) is a fundamental part of Computer Science that teaches you how to think and solve complex problems systematically."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Using the right data structure and algorithm makes your program run faster, especially when working with lots of data."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Knowing DSA can help you perform better in job interviews and land great jobs in tech companies."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.w3schools.com/dsa/dsa_intro.php",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "w3-btn w3-margin-bottom"
+                }
+              }
+            ],
+            "text": "Start learning DSA now »"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://profile.w3schools.com/signup",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "ga-featured ga-dsadefaultsignup"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "🏁"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Tip:"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://profile.w3schools.com/signup",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "ga-featured ga-dsadefaultsignup"
+                }
+              }
+            ],
+            "text": "Sign in"
+          },
+          {
+            "type": "text",
+            "text": " to track your progress - it's free."
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "This Tutorial"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This tutorial is made to help you learn Data Structures and Algorithms (DSA) fast and easy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Animations, like the one below, are used to explain ideas along the way.  hgkjhk,jhk,j"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-01T16:54:47.444Z"
+}
