@@ -40,18 +40,18 @@
         "type": "paragraph"
       },
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph",
         "content": [
           {
             "type": "hardBreak"
           }
         ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "component": "board"
-        }
       },
       {
         "type": "paragraph"
@@ -92,5 +92,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-03T11:33:18.831Z"
+  "online_content_time": "2025-09-03T11:34:01.575Z"
 }
