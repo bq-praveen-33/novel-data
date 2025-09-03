@@ -1,12 +1,930 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68b81ef2ab90b2d492cdf8d1/images/image.png-60fa1f92-5b7b-4a5b-87bb-76159d55767d",
+          "alt": null,
+          "title": null,
+          "width": 1377,
+          "height": 550.8
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Growing business opportunities in India are concentrated in high-growth sectors like . Smaller businesses can also find success with ideas like cloud kitchens, dropshipping, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=digital+marketing+services&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIAxAB&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "DTlJ6d"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "digital marketing services"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ","
+          },
+          {
+            "type": "text",
+            "text": " and home-based businesses such as bakeries or offering "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=specialized+food+products&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIAxAC&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "DTlJ6d"
+                }
+              },
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "specialized food products"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "."
+          },
+          {
+            "type": "text",
+            "text": " Key drivers for this growth include a large population, increasing digital penetration, government initiatives, and evolving consumer preferences."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This video discusses the fast-growing sectors in India and how to identify them:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=_lYNCCGH9nk&t=0",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "49s"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=_lYNCCGH9nk&t=0",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "The Core"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=_lYNCCGH9nk&t=0",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "YouTube · 5 Jul 2025"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "High-Growth Sectors for Businesses"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Information Technology (IT) & Digital Services:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A major contributor to India's GDP, with growth driven by demand for cloud computing, cybersecurity, AI, and automation."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Green Energy & Renewables:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A rapidly expanding sector with strong government support and increasing consumer awareness for sustainable solutions."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Healthcare & Pharmaceuticals:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Characterized by rising demand for advanced care, medical devices, and research, positioning India as a major player in the global market."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Electric Vehicles (EVs) & Mobility:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Driven by government policies, increasing consumer interest, and the growth of charging infrastructure."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Fintech & Digital Payments:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Revolutionizing financial services through digital lending, blockchain, and platforms like UPI, with high growth potential."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "E-commerce & Online Retail:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Fueled by increasing internet and smartphone penetration, especially in tier-2 and tier-3 cities."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Profitable Small Business Ideas"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=Cloud+Kitchens&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIUxAB&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "DTlJ6d"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Cloud Kitchens"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": ":"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A popular model offering food without the need for a traditional restaurant."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Dropshipping:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "An e-commerce model where you sell products online without holding any inventory yourself."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Digital Marketing Services:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "High demand for services such as SEO, social media marketing, and content creation for other businesses."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Home-Based Businesses:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ideas like home bakeries, making and selling ethnic items like incense sticks or spice mixes, or crafting fashion jewelry."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Online Services:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Businesses offering services like website design, travel planning, and pet care."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=Agri-Tech&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIVxAB&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                          "target": "_blank",
+                          "rel": "noopener noreferrer nofollow",
+                          "class": "DTlJ6d"
+                        }
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Agri-Tech"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " & Food Processing:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Innovations in smart farming and food processing can modernize this essential sector."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Factors Driving Business Growth"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Government Initiatives:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Policies and incentives are supporting key industries like manufacturing, renewables, and electronics."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Digital Transformation:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "High internet penetration and the widespread use of smartphones are creating new avenues for digital businesses."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Changing Consumer Behavior:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A growing demand for convenience, sustainability, and specialized products is fueling growth in various sectors."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Large Population & Urbanization:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "India's large population and ongoing urbanization are creating massive consumer markets."
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-03T10:59:12.839Z"
 }
