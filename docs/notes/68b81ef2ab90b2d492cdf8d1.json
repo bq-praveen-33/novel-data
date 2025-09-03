@@ -115,7 +115,61 @@
         "content": [
           {
             "type": "text",
-            "text": "This video discusses the fast-growing sectors in India and how to identify them:"
+            "text": "This video discusses the fast-growing sectors in India and how to identify them:Growing business opportunities in India are concentrated in high-growth sectors like . Smaller businesses can also find success with ideas like cloud kitchens, dropshipping, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=digital+marketing+services&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIAxAB&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer DTlJ6d"
+                }
+              }
+            ],
+            "text": "digital marketing services"
+          },
+          {
+            "type": "text",
+            "text": ", and home-based businesses such as bakeries or offering "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&cs=0&q=specialized+food+products&sa=X&ved=2ahUKEwjJw_Dot7yPAxVkd2wGHRDcChwQxccNegQIAxAC&mstk=AUtExfBlp37QOK1Dqn3E0kmxR6ss-5MkLbu0U-rdAkow65Nf8ICYTA9FqLQNMVFvBkvLCRCTKMODL0qk356h-x9Upuoky-pY2ze7rZvDopGrWzM_BFMi8JyfxIjSEFpbOxJq2qMp1knCVp2wOSwsJyTZktSPEBhEqFNhVvLZXbqEMgHSSjUcQw5cQk0ReYOdpdYYtn2EPfsY5InXfy92ZDIOA428fA&csui=3",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer DTlJ6d"
+                }
+              }
+            ],
+            "text": "specialized food products"
+          },
+          {
+            "type": "text",
+            "text": ". Key drivers for this growth include a large population, increasing digital penetration, government initiatives, and evolving consumer preferences."
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This video discusses the fast-growing sectors in India and how to identify th"
           }
         ]
       },
@@ -926,5 +980,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-03T10:59:12.839Z"
+  "online_content_time": "2025-09-03T10:59:26.342Z"
 }
