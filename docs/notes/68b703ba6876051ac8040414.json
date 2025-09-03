@@ -15,11 +15,29 @@
           },
           {
             "type": "text",
-            "text": " @"
+            "text": " "
+          },
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68b14ad501f989f10ba4f454",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-02T14:49:39.345Z"
+  "online_content_time": "2025-09-03T08:04:43.998Z"
 }
