@@ -1,12 +1,17 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At MK Foods, we believe in the power of fresh, wholesome food. Our pure vegetarian menu is a celebration of vibrant flavors and natural ingredients, all prepared with love. Join us for a truly nourishing dining experience."
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-03T08:03:31.148Z"
 }
