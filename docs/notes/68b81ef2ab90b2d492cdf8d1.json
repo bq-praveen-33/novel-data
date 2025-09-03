@@ -975,10 +975,24 @@
                 ]
               }
             ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "component": "board"
+                }
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-03T10:59:26.342Z"
+  "online_content_time": "2025-09-03T11:25:22.376Z"
 }
