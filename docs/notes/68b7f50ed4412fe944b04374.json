@@ -3,8 +3,32 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
         "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "#9333EA"
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Focus on Freshness"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
           {
             "type": "text",
             "text": "At MK Foods, we believe in the power of fresh, wholesome food. Our pure vegetarian menu is a celebration of vibrant flavors and natural ingredients, all prepared with love. Join us for a truly nourishing dining experience."
@@ -13,5 +37,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-03T08:03:31.148Z"
+  "online_content_time": "2025-09-03T08:04:09.305Z"
 }
