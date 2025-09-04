@@ -3,15 +3,3913 @@
     "type": "doc",
     "content": [
       {
+        "type": "image",
+        "attrs": {
+          "src": "https://www.bosscoderacademy.com/_next/image?url=https%3A%2F%2Fbosscoder-academy-2.ghost.io%2Fcontent%2Fimages%2F2025%2F02%2Fframe_255--1-.webp&w=3840&q=75",
+          "alt": "feature image",
+          "title": null,
+          "width": 1160,
+          "height": 600
+        }
+      },
+      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "this i"
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Contents"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": false
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Breaking into System Design"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Understanding HLD & LLD in System Design"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "System Design Roadmap: A Beginners Guide"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "System Design Best Practices"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Common Mistakes in System Design"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "Preparing for System Design at Interviews"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ],
+                    "text": "FAQs (Frequently Asked Questions)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Breaking into System Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Imagine trying to build a house without a blueprint—confusing, right? No matter how big or small the project, a well-structured plan is essential. The same principle applies to software development. Before building a website or an application, you need a clear, well-thought-out design to guide the process."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "System design"
+          },
+          {
+            "type": "text",
+            "text": " is like the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "architecture of the software"
+          },
+          {
+            "type": "text",
+            "text": ". It creates a map of how all the software development components would work as they grow to serve "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "millions of users"
+          },
+          {
+            "type": "text",
+            "text": ". Like construction architects prepare the layout of a house, systems architects prepare the layout to accommodate "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "big data, handling processes and users"
+          },
+          {
+            "type": "text",
+            "text": ". The structure enables smooth coordination, which maintains present system stability while ensuring continuous expansion."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Learning system design brings excellent career prospects to both "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "experienced developers and beginner tech professionals"
+          },
+          {
+            "type": "text",
+            "text": ". The experience is similar to developing the next major application which huge numbers of users employ daily, such as "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Uber"
+          },
+          {
+            "type": "text",
+            "text": " or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Netflix"
+          },
+          {
+            "type": "text",
+            "text": ". Each step of this guide includes simple instructions that will help you learn without complicated terminology. Let's start your tech journey!"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Understanding HLD & LLD in System Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before designing any system, you need to know 2 key concepts:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "HLD (High-Level Design) –"
+                  },
+                  {
+                    "type": "text",
+                    "text": " The big picture of the system. It is mainly based on the architecture, main parts, and how they are linked"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": " (databases, load balancer, cache)"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". To put it in simple terms, it can be compared to the framework of roads, bridges, and any construction in a city."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "LLD (Low-Level Design) – "
+                  },
+                  {
+                    "type": "text",
+                    "text": "This is the detailed breakdown of each component. It contains "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "database schema, APIs,"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "programming logic"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". Think about designing a particular building, where the rooms, wiring and plumbing will go, ensuring the internal structure is efficient and functional."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Both HLD and LLD are essential in system design. HLD ensures a scalable and well-structured architecture, while LLD ensures every component works efficiently at a granular level."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now that you understand these core concepts, let’s dive into the System Design Roadmap and explore the steps to mastering it"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "System Design Roadmap: A Beginners Guide"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you're new to System Design, the key is to start simple, build step by step, and apply what you learn through practical projects."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The following roadmap will not only help you master the fundamentals, and core components, but will also help you gain hands-on experience by building real-world projects, and scalable systems."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://bosscoder-academy-2.ghost.io/content/images/2025/02/System-Design-Path-2025-1.webp",
+          "alt": "System Design Roadmap",
+          "title": null,
+          "width": 749,
+          "height": 400
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Master the Basics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "When working on complex architectural designs, one needs to have a basic foundation of the foundational elements of system architecture."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Horizontal vs. Vertical Scaling"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Scaling is about making a system accommodate more of the user or other forms of data."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Horizontal Scaling (Scaling Out):"
+                  },
+                  {
+                    "type": "text",
+                    "text": " It involves adding more systems (machines/servers) to distribute loads. Consider using extra people in running a busy shop to serve more people."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Vertical Scaling (Scaling Up):"
+                  },
+                  {
+                    "type": "text",
+                    "text": " This refers to a process of increasing the power of the CPU, RAM, or storage of an already existing server for enhanced load handling. It is like moving from walking to using a bicycle for transport, as it is much more efficient."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. CAP Theorem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "According to the CAP theorem, a distributed computing system can satisfy only two of the three properties."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Consistency (C):"
+                  },
+                  {
+                    "type": "text",
+                    "text": " All the data made available to readers are of the latest information."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Availability (A):"
+                  },
+                  {
+                    "type": "text",
+                    "text": " All the received requests should be responded to, while some of the servers might not be operative."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Partition Tolerance (P):"
+                  },
+                  {
+                    "type": "text",
+                    "text": " It implies that components of the system will function properly even if the partitions of the network are not accessible."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "📌"
+          },
+          {
+            "type": "text",
+            "text": " For example, banking applications require high"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " Consistency"
+          },
+          {
+            "type": "text",
+            "text": " while neglecting "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Availability "
+          },
+          {
+            "type": "text",
+            "text": "during some hours, whereas social networks focus on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Availability"
+          },
+          {
+            "type": "text",
+            "text": " and ignore "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Consistency"
+          },
+          {
+            "type": "text",
+            "text": " to keep people engaged."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Thrashing and Threads"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Thrashing:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " This is a situation of wasted time in which a computer spends most of the time trying to secure resources instead of performing useful computations. In this case, imagine a chef who spends most of the time looking at the inventory instead of preparing food."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Threads:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " It assists a system in executing different operations "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "simultaneously"
+                  },
+                  {
+                    "type": "text",
+                    "text": ". It is the same as having a team of cooks in a restaurant preparing a different meal."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. Capacity Estimation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Load capacity testing makes sure that the system can accommodate the expected traffic level. We consider:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Space requirements"
+                  },
+                  {
+                    "type": "text",
+                    "text": " for storing the data to be stored"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Number of reads and writes per second"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (how many people will be writing data?)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Traffic distribution"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (how is traffic distributed during a period of high traffic such as a "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Black Friday sale"
+                  },
+                  {
+                    "type": "text",
+                    "text": "?)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. Understanding Key System Components"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Load Balancers"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The purpose of a load balancer is to minimize the load on one system and distribute the traffic that the system receives. For example, having many counters in a bank minimizes the time customers have to spend waiting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. DataStores (Databases)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Databases store and manage data. There are two main types:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "SQL (Structured Query Language) databases"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Organize data in tables with predefined relationships. Especially suitable for such fields as banking, for instance, any application that requires a high level of uniformity. Examples: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "MySQL, PostgreSQL"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "No-SQL databases:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " This is a database that stores data in an unstructured form and is highly scalable. This is applied in applications such as social media applications in which faster and more flexible handling is very important. Examples: "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "MongoDB, Cassandra."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Caching"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It can be described as a mechanism for storing information frequently accessed by a system enabling the avoidance of placing excessive demands on the main database. This is similar to storing your favorite applications on the home page of your phone instead of searching for them each time."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. Messaging Queues"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "There they act as a go-between that allows communication between different parts of a certain system. For instance, if one is ordering meals from a restaurant through an online platform. The process is a sequence of steps as follows:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Receiving the order -> preparing the food -> delivery"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Such approaches can be supported with the help of messaging queues which can be, for example, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Kafka or RabbitMQ"
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Solve Real-World Problems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Google Docs Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Challenges:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Working together on the same document in a collaborative way."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The problem of conflicts arises when two users simultaneously edit a part of a document."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Solution:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Employ "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "WebSockets "
+                  },
+                  {
+                    "type": "text",
+                    "text": "to get more in-depth integration and real-time communication."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It is necessary to employ "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "conflict-solving approaches"
+                  },
+                  {
+                    "type": "text",
+                    "text": " to merge changes seamlessly."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. File Sharing Service (Like Google Drive)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Challenges:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Large file uploads and downloads."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Efficiently storing and retrieving files."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Solution:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use chunking which is the process of dividing large files into smaller parts that can easily be transmitted."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Employ the use of the CDN to ensure that the files are downloaded faster from websites nearer to the users."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. URL Shortening (Like Bitly)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Challenges:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Generating unique short URLs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Handling billions of requests."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Solution:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hashing algorithms can also be applied to generate short URLs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Store the mappings in a NoSQL database to retrieve them quickly in large datasets."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. Hotel Booking System"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Challenges:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Ensuring rooms are booked correctly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Handling cancellations and refunds."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Solution:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To maintain availability, keep a copy of the database in another system using a distributed database."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Implement event-driven architecture for updates in real time."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. DevOps and Microservices"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Single Point of Failure (SPOF)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If one component fails and they all go down with it then it’s termed as a Single Point of Failure. To prevent this:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Server backup and failover are maintained."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make duplicates of the data to be stored."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. Cascading Effects"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This means that the failure in one part will lead to the failure of others, just as when you knock over the first domino, the others will fall too. Use:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Circuit breakers as methods needed to pause the flow of requests when failure is identified."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use of the graceful degradation technique in order to keep parts of the system available."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Microservices vs. Monoliths"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Monolithic Systems:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " It is designed in large blocks, single piece at one time (A large restaurant with a single kitchen)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Microservices:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " The system is divided into many independent services, working and maintained separately (like food delivery applications consisting of many mini kitchens specifically for different kinds of foods)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. Distributed Rate Limiting"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It is a technique that helps to prohibit users from flooding the system with numerous requests to avoid the slow performance of the system. For instance, some websites may have a policy of locking an account after only 5 wrong attempts at password entry."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "5. Migrating from Monolith to Microservices"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Steps:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Identify independent features."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gradually extract them into Microservices."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "API gateway for enabling the communication between the services."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "5. Security, Authentication & APIs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. OAuth"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "OAuth enables third-party users to sign in to the website or application using their account rather than using the new password."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. Token-Based Authentication"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "After the login stage, the user receives a token, which will be used in further requests."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Synchronous vs. Asynchronous APIs"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Synchronous APIs: "
+                  },
+                  {
+                    "type": "text",
+                    "text": "API response is only obtained after the client waits for its reply (similar to a phone call)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Asynchronous APIs:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " The client makes a request and goes on to perform some other operation and then waits for the response as in the case of texting a friend and waiting for the reply."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. API Gateways"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "API gateways handle the API requests and also bring in the security and monitoring features (for instance Amazon API gateway, Kong)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "6. Hands-On System Design Projects"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. Live-streaming app"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Real-time video sharing on the Internet refers to the broadcasting of live streaming platforms. The actual video stream delivery should also be equally fast and the buffer time as short as possible for effective use of the application. These must be able to work at different internet connections, with a considerable amount of data and multiple users at the same time."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Challenges:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " High-speed video delivery, minimal buffering."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Solution:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " CDN, compression of videos, and adaptive streaming."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For Resources - "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://github.com/soumanpaul/Video-streaming-web-app",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "https://github.com/soumanpaul/Video-streaming-web-app"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. WhatsApp System Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "WhatsApp is a real-time messaging application and used for sending and receiving text (messages) and voice, video communication to millions of users around the world. This means that it needs an efficient system providing instant messages with scalability and reliability."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Challenges:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Real-time messaging, scalability."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Solution:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Use event-driven architecture and NoSQL databases."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For Resources - "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://github.com/MalikHamzaSaleemi/WhatsApp-Design",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "https://github.com/MalikHamzaSaleemi/WhatsApp-Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. Uber System Design"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://bosscoder-academy-2.ghost.io/content/images/2025/02/frame_257-1.webp",
+          "alt": "Uber System Design",
+          "title": null,
+          "width": 748,
+          "height": 492
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Uber is a ride-hailing based on real-time based GPS tracking, matching riders and drivers, and payment processing. Thousands of ride requests per second must be processed with the maximum of efficiency the system."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Challenges:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " GPS tracking, ride-matching."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Solution:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Geo-spatial indexing and message queues could be utilized in a solution."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For Resources -"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://github.com/systemdesignfightclub/SDFC/tree/main/system-design/uber",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "https://github.com/systemdesignfightclub/SDFC/tree/main/system-design/uber"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. Netflix Video Pipeline"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://bosscoder-academy-2.ghost.io/content/images/2025/02/frame_260--1--1.webp",
+          "alt": "Netflix Video Pipeline",
+          "title": null,
+          "width": 748,
+          "height": 492
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Millions of users across the world demand on-demand video content from Netflix. Gigantic amounts of video data must be stored and streamed without interruption."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Challenges:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Huge video storage, and efficient streaming."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Solution:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Deploy microservices, distributed storage, and caching support."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " For Resources - "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://github.com/Netflix/suro",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "https://github.com/Netflix/suro"
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "The journey to your career change begins at Bosscoder Academy.Get advice from professionals, practical experience, as well as 1:1 Mentorship. "
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.bosscoderacademy.com/?Ref=Organic_Blog&ref=bosscoder-academy-2.ghost.io",
+                      "target": "_blank",
+                      "rel": "noreferrer",
+                      "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Book a call today"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "System Design Best Practices"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Mastering system design best practices is just the first step. To build scalable, reliable, and efficient systems, you must apply these principles effectively."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Design for Failure"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Anticipate failures and plan for them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Minimize Latency"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Optimize response time to customers to allow seamless use of the application."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Document Designs"
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Use of diagrams and clear documentation in conveying the complex systems."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Now that we know the best practices, let’s explore real-world case studies of companies like Uber and Netflix. See how they handle high traffic, ensure reliability, and optimize performance at scale."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Common Mistakes in System Design"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Many developers struggle with system design pitfalls. Here’s how to avoid common mistakes:"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "Mistake"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableHeader",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "How to Avoid It"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Overcomplicating the System"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Keep it simple and modular. Avoid over-engineering."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Ignoring Pros & Cons of Solutions"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Evaluate trade-offs before making decisions."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Lack of Testing"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Test for failures & scale before launching."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Hard to Scale"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Plan for future growth from the start."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Weak Security"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Implement encryption, authentication & firewalls."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Hard to Scale"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Plan for future growth from the start."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ No Backup & Disaster Recovery"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Have failover strategies & data backups."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Poor Data Organization"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Use indexing, sharding, and efficient queries."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Not Using Caching"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Use Redis/Memcached for faster data retrieval."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ Bad User Experience"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Optimize Ul & API response times."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "tableRow",
+            "content": [
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "❌ No Monitoring or Alerts"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "tableCell",
+                "attrs": {
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "colwidth": null
+                },
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "content": [
+                      {
+                        "type": "text",
+                        "text": "✅ Use logging & real-time monitoring tools."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "By avoiding these mistakes, you can build systems that are scalable, secure, and efficient."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Preparing for System Design at Interviews"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "How to prep specifically for system design interviews:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Structure Your Answers:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " When writing down the solution, it is always wise to do so in several sub-steps. First, collect requirements and then move on to the high level solution and then to discuss components and tradeoffs."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Use Diagrams:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Visual aids can help a lot in explaining your solution to your client, and in convincing him. Provide the architectural diagrams to represent your system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Focus on Scalability:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Explain the features of your design that will be well suited if there are more users, more data, or more demand."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "The Rapid Change of System Design Trends"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "System design is a rapidly evolving field, and staying current is key:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Emerging Technologies:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Explore the use of AI, blockchain, and edge computing in system design."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Microservices Evolution:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Understand how microservices are becoming more modular, scalable, and cost-efficient in modern systems."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "Cloud-Native Design:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Learn how companies are increasingly adopting cloud-first strategies, making cloud expertise a must for system designers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.bosscoderacademy.com/?Ref=Organic_Blog&ref=bosscoder-academy-2.ghost.io",
+                      "target": "_blank",
+                      "rel": "noreferrer",
+                      "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ],
+                "text": "Bosscoder Academy"
+              },
+              {
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "bold"
+                  },
+                  {
+                    "type": "italic"
+                  }
+                ],
+                "text": " will keep you up to date with latest system design skills. Are you ready to join us and kick start your path to becoming a master of large scale system design?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "FAQs (Frequently Asked Questions)"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1. What is System Design, and why is it important?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "System design represents the process that defines the architecture together with the components along with their interactions to fulfill specific requirements. The development of scalable software solutions depends heavily on system design which ensures both efficiency and maintainability. System design functions as a vital skill for software engineers because it enables high traffic management and failure prevention alongside smooth system performance."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2. How do I start learning System Design?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "One should begin system design education through core understanding of "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "scalability together with load balancing"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " and"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": " database management "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "and caching principles. You should first study theoretical approaches before examining practical case studies of YouTube and Uber system development. Through practice with mock interviews together with hands-on work, students can better grasp these concepts."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "3. What are some must-know System Design concepts?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "System design should be very good at certain topics like load balances for traffic split, database scaling techniques ("
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "SQL vs NoSQL"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "replication"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "sharding"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "), caching strategies (redis, CDN) and also architecture decisions (microservices vs monolithic). Another thing one must understand is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "CAP theorem"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": " and consistency models for designing a fault-tolerant distributed system."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "4. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What are some common System Design interview questions?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "Many system design interviews are practical. Many asked questions are - Design URL shortener like Bitly, Ride-sharing app like Uber, scalable chat system like WhatsApp or Video streaming service like YouTube etc. Applicants are anticipated to outline system elements, horizontal scaling tactics, and facts flow."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "5. "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "What are the best resources to prepare for System Design?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "As the best resources for system design practice would be books like Designing Data Intensive Applications and video courses structured for the online format by seasoned MAANG engineers. GitHub repositories, blogs and YouTube tutorials also contain a lot of information. Practice system design problems through mock interviews on a regular basis, and this will lead to improvement of problem-solving skills."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-04T16:29:23.922Z"
+  "online_content_time": "2025-09-04T16:32:35.625Z"
 }
