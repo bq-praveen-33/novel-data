@@ -25,23 +25,6 @@
           {
             "type": "mention",
             "attrs": {
-              "id": "68af15be72e3dd89dc7cf058",
-              "label": "Tarun Dubey",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
               "id": "68af0c105c8bb6af2f1d4f7f",
               "label": "Nikita Rani",
               "mentionSuggestionChar": "@"
@@ -50,14 +33,11 @@
           {
             "type": "text",
             "text": " "
+          },
+          {
+            "type": "hardBreak"
           }
         ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "component": "board"
-        }
       },
       {
         "type": "paragraph"
@@ -78,8 +58,31 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68af15be72e3dd89dc7cf058",
+              "label": "Tarun Dubey",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-03T11:54:09.872Z"
+  "online_content_time": "2025-09-04T13:56:12.177Z"
 }
