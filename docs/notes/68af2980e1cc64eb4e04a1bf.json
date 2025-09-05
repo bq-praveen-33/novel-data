@@ -12,12 +12,17 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "68bac6aad892679342c0a32b",
+          "slug": "temp",
+          "projectId": "temp"
+        }
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-05T11:16:14.507Z"
+  "online_content_time": "2025-09-05T11:17:08.506Z"
 }
