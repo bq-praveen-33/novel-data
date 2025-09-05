@@ -81,8 +81,14 @@
         "attrs": {
           "component": "board"
         }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-05T05:29:51.827Z"
+  "online_content_time": "2025-09-05T05:48:29.997Z"
 }
