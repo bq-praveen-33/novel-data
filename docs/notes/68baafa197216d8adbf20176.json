@@ -60,7 +60,11 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68badcd1ddcff139f020c52a",
+          "component": "board"
+        }
       },
       {
         "type": "paragraph",
@@ -82,5 +86,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-05T11:01:35.977Z"
+  "online_content_time": "2025-09-05T12:51:34.832Z"
 }
