@@ -70,8 +70,17 @@
             "text": "/board"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/boar"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-05T10:34:49.118Z"
+  "online_content_time": "2025-09-05T11:01:35.977Z"
 }
