@@ -42,6 +42,7 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
+          "viewId": null,
           "component": "board"
         }
       },
@@ -78,8 +79,20 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/bo"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-05T06:10:46.332Z"
+  "online_content_time": "2025-09-05T09:34:26.204Z"
 }
