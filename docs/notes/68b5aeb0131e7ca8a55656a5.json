@@ -88,15 +88,13 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/bo"
-          }
-        ]
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68bab88ee861d481150e9726",
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-05T10:14:29.795Z"
+  "online_content_time": "2025-09-05T10:16:56.244Z"
 }
