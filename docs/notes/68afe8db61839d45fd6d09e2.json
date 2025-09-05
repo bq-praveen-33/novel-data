@@ -8,12 +8,12 @@
           "contentId": "68bad05f741406ede79b4b71",
           "projectId": "68afe8db61839d45fd6d09e2",
           "slug": null,
-          "content": "",
+          "content": " editMilestone(milestone: CampaignMilestone) {\n    if (!this.canEdit) return;\n    if (this.editTimelineComponent || this.isRecap || this.IsDownload) return;\n    if (!!milestone.items && milestone.items.length > 0) return;\n\n    const modalRef = this.modalService.open(MilestoneStatusEditorComponent, {\n      size: TIMELINE_BLOCKS_CONSTANTS.UI.MODAL.SIZE,\n      modalDialogClass: TIMELINE_BLOCKS_CONSTANTS.UI.MODAL.CLASS,\n    });\n    modalRef.componentInstance.milestone = milestone;\n    modalRef.componentInstance.campaign = this.timeLineData;\n    modalRef.result.then(() => {\n      this.handleTimeline().then(() => { });\n    }).catch(() => { });\n  }\n\n  @HostBinding('class')\n  get classes(): Record<string, boolean> {\n    return {\n      'horizontal-timeline-parent': this.displayMode == TimelineDisplayMode.Horizontal,\n      'horizontal-multiline-parent': this.displayMode == TimelineDisplayMode.HorizontalMultiLine,\n      'vertical-list-parent': this.displayMode == TimelineDisplayMode.VerticalList,\n    };\n  }\n}",
           "lastSavedContent": "",
           "locale": "en-US"
         }
       }
     ]
   },
-  "online_content_time": "2025-09-05T11:58:33.366Z"
+  "online_content_time": "2025-09-05T12:00:28.192Z"
 }
