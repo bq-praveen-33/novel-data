@@ -83,6 +83,13 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
+          "viewId": "68bab9f0e861d481150e9727",
+          "component": "board"
+        }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
           "viewId": "68bab7fbe861d481150e9725",
           "component": "board"
         }
@@ -96,5 +103,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-05T10:16:56.244Z"
+  "online_content_time": "2025-09-05T10:22:51.050Z"
 }
