@@ -1,12 +1,19 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "68bad05f741406ede79b4b71",
+          "projectId": "68afe8db61839d45fd6d09e2",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US"
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-09-05T11:58:33.366Z"
 }
