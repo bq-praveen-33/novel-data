@@ -7,62 +7,28 @@
         "content": [
           {
             "type": "text",
-            "text": "/boa"
+            "text": " "
           }
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boar"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boar"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boa"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boar"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boar"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68badcd1ddcff139f020c52a",
+          "viewId": "68be844b3418f11ad5b88cb2",
+          "component": "board"
+        }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68be843f3418f11ad5b88cb0",
+          "component": "board"
+        }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68be7e7baab6dd20537f70bf",
           "component": "board"
         }
       },
@@ -71,20 +37,11 @@
         "content": [
           {
             "type": "text",
-            "text": "/board"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/boar"
+            "text": "thdfhfgdf"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-05T12:51:40.312Z"
+  "online_content_time": "2025-09-08T07:23:01.735Z"
 }
