@@ -12,14 +12,10 @@
         ]
       },
       {
-        "type": "cmsBlock",
+        "type": "reactComponentBlock",
         "attrs": {
-          "contentId": "68bb03ec9e1a4484c1ba815f",
-          "projectId": "68b5ae68131e7ca8a55656a3",
-          "slug": null,
-          "content": "somknjnjknhnjigjkhkjllkjlk jhgkjh\n",
-          "lastSavedContent": "somknjnjknhnjinkjnji\n",
-          "locale": "en-US"
+          "viewId": "68bee64d14351e2e0df2ede0",
+          "component": "board"
         }
       },
       {
@@ -30,19 +26,8 @@
             "text": "@"
           }
         ]
-      },
-      {
-        "type": "cmsBlock",
-        "attrs": {
-          "contentId": "68baee055b7dfccda93df466",
-          "projectId": "68b5ae68131e7ca8a55656a3",
-          "slug": null,
-          "content": "new content",
-          "lastSavedContent": "some content written in page",
-          "locale": "en-US"
-        }
       }
     ]
   },
-  "online_content_time": "2025-09-05T15:38:54.310Z"
+  "online_content_time": "2025-09-08T14:21:11.694Z"
 }
