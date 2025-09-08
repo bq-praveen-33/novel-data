@@ -8,6 +8,18 @@
       {
         "type": "cmsBlock",
         "attrs": {
+          "contentId": "cms_mfb35ut9_wg7f9em",
+          "projectId": "68bea0021807303dd094d375",
+          "slug": null,
+          "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68bea0021807303dd094d375/images/Mask group.png-0c7426f3-bf35-4259-8557-4586897486ff",
+          "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68bea0021807303dd094d375/images/Mask group.png-0c7426f3-bf35-4259-8557-4586897486ff",
+          "locale": "en-US",
+          "type": ""
+        }
+      },
+      {
+        "type": "cmsBlock",
+        "attrs": {
           "contentId": "cms_mfb2tqrw_efkwmlu",
           "projectId": "68bea0021807303dd094d375",
           "slug": null,
@@ -67,5 +79,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-08T12:07:30.810Z"
+  "online_content_time": "2025-09-08T12:17:47.372Z"
 }
