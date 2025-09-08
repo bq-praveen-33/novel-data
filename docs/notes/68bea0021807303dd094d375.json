@@ -1,12 +1,23 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfaxww64_ea1f4i2",
+          "projectId": "68bea0021807303dd094d375",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": "text"
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-09-08T09:49:40.581Z"
 }
