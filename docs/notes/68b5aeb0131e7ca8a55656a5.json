@@ -6,124 +6,12 @@
         "type": "paragraph",
         "content": [
           {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
             "type": "text",
-            "text": " "
+            "text": "/"
           }
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af0c105c8bb6af2f1d4f7f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68baba34e861d481150e9728",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "hardBreak"
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68baccf71c8bbb2b839023b9",
-          "component": "board"
-        }
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": null,
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af15be72e3dd89dc7cf058",
-              "label": "Tarun Dubey",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68af15be72e3dd89dc7cf058",
-              "label": "Tarun Dubey",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68bab9f0e861d481150e9727",
-          "component": "board"
-        }
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68bab7fbe861d481150e9725",
-          "component": "board"
-        }
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68bab88ee861d481150e9726",
-          "component": "board"
-        }
       }
     ]
   },
-  "online_content_time": "2025-09-05T11:44:01.618Z"
+  "online_content_time": "2025-09-08T10:55:23.948Z"
 }
