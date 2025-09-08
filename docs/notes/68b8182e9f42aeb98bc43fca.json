@@ -3,18 +3,403 @@
     "type": "doc",
     "content": [
       {
-        "type": "codeBlock",
+        "type": "reactComponentBlock",
         "attrs": {
-          "language": "html"
-        },
+          "viewId": "68bb04fd1c8bbb2b839023d1",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Notion Styled Page</title>\n  \n  <!-- Attached CSS files -->\n  <link rel=\"stylesheet\" href=\"https://www.notion.so/print.e2ba4c31.css\">\n  <link rel=\"stylesheet\" href=\"https://www.notion.so/_assets/app-221f33e0f8ea4639.css\">\n  \n</head>\n<body>\n  <div class=\"notion-page\">\n    <h1>Hello Notion!</h1>\n    <p>This page includes Notion’s print and app CSS.</p>\n    \n    <!-- Example content to show CSS effects -->\n    <div class=\"notion-text-block\">\n      <p>Styled text block example</p>\n    </div>\n    <div class=\"notion-board-view\" style=\"position: relative; margin-inline: 359.175px; float: inline-start;\"><div style=\"position: absolute; z-index: 999; width: 100%;\"></div><div style=\"height: 0px; margin-top: 0px; pointer-events: none;\"></div><div style=\"contain: layout;\"><div data-block-id=\"263bce34-b547-80de-8198-e5593b3d6708\" class=\"notion-selectable notion-collection_view-block\" style=\"display: flex; position: relative; flex-grow: 1; padding-bottom: 13.6406px; isolation: unset;\"><div style=\"height: 48px;\"><div style=\"overflow-x: initial; width: 100%;\"><div style=\"width: initial;\"><div><div style=\"position: relative;\"><div style=\"position: absolute; background: rgb(255, 255, 255); height: 48px; padding-top: 8px; z-index: 85; display: flex; box-shadow: calc(var(--direction, 1) * -3px) 0 0 rgba(255, 255, 255, 1); min-width: 100%;\"><div style=\"height: calc(100% + 17px); background: rgb(255, 255, 255); width: 20px; margin-inline-start: -20px; margin-top: -17px;\"></div><div style=\"display: inline-flex; margin: 0px;\"><div style=\"display: flex; flex-direction: row; cursor: grab;\"><div style=\"display: flex; align-items: center; font-size: 14px; width: 260px; padding-inline: 8px; margin-inline-end: 12px; margin-bottom: 0px; box-sizing: content-box; flex-shrink: 0; background-color: rgba(66, 35, 3, 0.03); border-start-start-radius: 10px; border-start-end-radius: 10px;\"><span style=\"font-weight: 500; line-height: normal; overflow: hidden; padding-inline-end: 6px;\"><div style=\"display: inline-flex; align-items: center; flex-shrink: 1; min-width: 0px; max-width: 100%; height: 20px; margin: 0px; border-radius: 10px; padding-inline: 7px 9px; line-height: 120%; font-size: 14px; color: rgb(73, 72, 70); background: rgba(28, 19, 1, 0.11);\"><div style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-flex; align-items: center; height: 20px; line-height: 20px;\"><div style=\"display: flex; align-items: center;\"><div style=\"margin-inline-end: 5px; border-radius: 99px; height: 8px; width: 8px; background-color: rgb(142, 139, 134); display: inline-flex; flex-shrink: 0;\"></div></div><span style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis;\">Not started</span></div></div></span><div data-popup-origin=\"true\" style=\"display: contents;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; padding-inline: 8px; border-radius: 4px; white-space: nowrap; font-size: 14px; flex-shrink: 0; min-width: 20px; color: rgb(142, 139, 134); font-weight: 400; padding: 0px 6px; min-height: 20px;\">3</div></div></div><div style=\"flex-grow: 1;\"></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-label=\"More group options\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(142, 139, 134); flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-label=\"New page\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(142, 139, 134); flex-shrink: 0;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg></div></div></div></div><div style=\"display: flex; flex-direction: row; cursor: grab;\"><div style=\"display: flex; align-items: center; font-size: 14px; width: 260px; padding-inline: 8px; margin-inline-end: 12px; margin-bottom: 0px; box-sizing: content-box; flex-shrink: 0; background-color: rgba(3, 118, 186, 0.043); border-start-start-radius: 10px; border-start-end-radius: 10px;\"><span style=\"font-weight: 500; line-height: normal; overflow: hidden; padding-inline-end: 6px;\"><div style=\"display: inline-flex; align-items: center; flex-shrink: 1; min-width: 0px; max-width: 100%; height: 20px; margin: 0px; border-radius: 10px; padding-inline: 7px 9px; line-height: 120%; font-size: 14px; color: rgb(38, 74, 114); background: rgba(0, 99, 174, 0.173);\"><div style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-flex; align-items: center; height: 20px; line-height: 20px;\"><div style=\"display: flex; align-items: center;\"><div style=\"margin-inline-end: 5px; border-radius: 99px; height: 8px; width: 8px; background-color: rgb(35, 131, 226); display: inline-flex; flex-shrink: 0;\"></div></div><span style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis;\">In progress</span></div></div></span><div data-popup-origin=\"true\" style=\"display: contents;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; padding-inline: 8px; border-radius: 4px; white-space: nowrap; font-size: 14px; flex-shrink: 0; min-width: 20px; color: rgb(35, 131, 226); font-weight: 400; padding: 0px 6px; min-height: 20px;\">0</div></div></div><div style=\"flex-grow: 1;\"></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-label=\"More group options\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(35, 131, 226); flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-label=\"New page\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(35, 131, 226); flex-shrink: 0;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg></div></div></div></div><div style=\"display: flex; flex-direction: row; cursor: grab;\"><div style=\"display: flex; align-items: center; font-size: 14px; width: 260px; padding-inline: 8px; margin-inline-end: 12px; margin-bottom: 0px; box-sizing: content-box; flex-shrink: 0; background-color: rgba(3, 87, 31, 0.035); border-start-start-radius: 10px; border-start-end-radius: 10px;\"><span style=\"font-weight: 500; line-height: normal; overflow: hidden; padding-inline-end: 6px;\"><div style=\"display: inline-flex; align-items: center; flex-shrink: 1; min-width: 0px; max-width: 100%; height: 20px; margin: 0px; border-radius: 10px; padding-inline: 7px 9px; line-height: 120%; font-size: 14px; color: rgb(42, 83, 60); background: rgba(0, 96, 38, 0.157);\"><div style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: inline-flex; align-items: center; height: 20px; line-height: 20px;\"><div style=\"display: flex; align-items: center;\"><div style=\"margin-inline-end: 5px; border-radius: 99px; height: 8px; width: 8px; background-color: rgb(85, 167, 124); display: inline-flex; flex-shrink: 0;\"></div></div><span style=\"white-space: nowrap; overflow: hidden; text-overflow: ellipsis;\">Done</span></div></div></span><div data-popup-origin=\"true\" style=\"display: contents;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; padding-inline: 8px; border-radius: 4px; white-space: nowrap; font-size: 14px; flex-shrink: 0; min-width: 20px; color: rgb(85, 167, 124); font-weight: 400; padding: 0px 6px; min-height: 20px;\">0</div></div></div><div style=\"flex-grow: 1;\"></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-expanded=\"false\" aria-label=\"More group options\" aria-haspopup=\"dialog\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(85, 167, 124); flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" aria-label=\"New page\" style=\"user-select: none; transition: opacity 100ms ease-in-out; cursor: pointer; opacity: 0; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; border-radius: 6px; height: 24px; width: 24px; padding: 0px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(85, 167, 124); flex-shrink: 0;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg></div></div></div></div></div></div></div></div></div></div></div><div style=\"display: flex; flex-direction: column; position: relative; margin-top: 48px;\"><div style=\"display: inline-flex; margin: 0px;\"><div class=\"notion-board-group\" style=\"flex: 0 0 auto; padding-inline: 8px; padding-bottom: 8px; margin-inline-end: 12px; margin-bottom: 16px; box-sizing: content-box; width: 260px; height: max-content; background-color: rgba(66, 35, 3, 0.03); border-end-start-radius: 10px; border-end-end-radius: 10px;\"><div style=\"height: 3px;\"><div data-block-id=\"263bce34-b547-80de-8198-e5593b3d6708\" class=\"notion-selectable notion-collection_view-block\"></div></div><div data-block-id=\"263bce34-b547-8033-bfa2-e7ce610c168c\" class=\"notion-selectable notion-page-block notion-collection-item\" style=\"\"><a href=\"/page-1-263bce34b5478033bfa2e7ce610c168c?pvs=25\" role=\"link\" rel=\"noopener noreferrer\" style=\"display: block; color: inherit; text-decoration: none; user-select: none; transition: background 100ms ease-out; cursor: pointer; border-radius: 10px; position: static; overflow: hidden; background: rgb(255, 255, 255); margin-bottom: 8px; box-shadow: rgba(25, 25, 25, 0.027) 0px 4px 12px 0px, rgba(25, 25, 25, 0.02) 0px 1px 2px 0px, rgba(42, 28, 0, 0.07) 0px 0px 0px 1px; height: 100%; min-height: 40px;\"><div style=\"position: relative; width: 100%; z-index: 1;\"><div style=\"width: 100%; cursor: inherit;\"></div><div style=\"color: rgb(115, 114, 110); fill: rgb(115, 114, 110); font-size: 12px; background: white; box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px -2px, rgba(84, 72, 49, 0.08) 0px 0px 0px 1px; display: flex; white-space: nowrap; border-radius: 4px; max-width: calc(100% - 16px); min-height: 24px; overflow: hidden; pointer-events: none; opacity: 0; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI Variable Display&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; position: absolute; inset-inline-end: 8px; z-index: 2; top: 8px; transition-duration: 200ms; transition-timing-function: ease; transition-property: opacity;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: 1px solid rgba(55, 53, 47, 0.09); font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"pencilLineSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M11.243 3.457a.803.803 0 0 0-1.13 0l-.554.552a.075.075 0 0 0 0 .106l1.03 1.03a.075.075 0 0 0 .107 0l.547-.546a.1.1 0 0 0 .019-.032.804.804 0 0 0-.02-1.11m-2.246 1.22a.075.075 0 0 0-.106 0l-6.336 6.326a1.1 1.1 0 0 0-.237.393l-.27.87v.002c-.062.232.153.466.389.383l.863-.267q.221-.061.397-.239l6.332-6.331a.075.075 0 0 0 0-.106zm-3.355 6.898a.08.08 0 0 0-.053.022l-1.1 1.1a.075.075 0 0 0 .053.128h9.06a.625.625 0 1 0 0-1.25z\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: none; font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div></div></div><div style=\"position: relative; width: auto; display: flex; align-items: center; padding-inline: 10px; padding-bottom: 8px; padding-top: 8px;\"><div spellcheck=\"true\" placeholder=\"New page\" contenteditable=\"false\" data-content-editable-leaf=\"true\" tabindex=\"0\" role=\"textbox\" aria-label=\"Start typing to edit text\" style=\"max-width: 100%; width: auto; white-space: pre-wrap; word-break: break-word; caret-color: rgb(50, 48, 44); pointer-events: none; flex-grow: 1; padding: 0px 1px; font-size: 15px; line-height: 1.5; min-height: 22.5px; font-weight: 500;\">page 1</div></div></a></div><div data-block-id=\"263bce34-b547-80b4-83c9-ce97351b7e00\" class=\"notion-selectable notion-page-block notion-collection-item\" style=\"\"><a href=\"/page-2-263bce34b54780b483c9ce97351b7e00?pvs=25\" role=\"link\" rel=\"noopener noreferrer\" style=\"display: block; color: inherit; text-decoration: none; user-select: none; transition: background 100ms ease-out; cursor: pointer; border-radius: 10px; position: static; overflow: hidden; background: rgb(255, 255, 255); margin-bottom: 8px; box-shadow: rgba(25, 25, 25, 0.027) 0px 4px 12px 0px, rgba(25, 25, 25, 0.02) 0px 1px 2px 0px, rgba(42, 28, 0, 0.07) 0px 0px 0px 1px; height: 100%; min-height: 40px;\"><div style=\"position: relative; width: 100%; z-index: 1;\"><div style=\"width: 100%; cursor: inherit;\"></div><div style=\"color: rgb(115, 114, 110); fill: rgb(115, 114, 110); font-size: 12px; background: white; box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px -2px, rgba(84, 72, 49, 0.08) 0px 0px 0px 1px; display: flex; white-space: nowrap; border-radius: 4px; max-width: calc(100% - 16px); min-height: 24px; overflow: hidden; pointer-events: none; opacity: 0; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI Variable Display&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; position: absolute; inset-inline-end: 8px; z-index: 2; top: 8px; transition-duration: 200ms; transition-timing-function: ease; transition-property: opacity;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: 1px solid rgba(55, 53, 47, 0.09); font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"pencilLineSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M11.243 3.457a.803.803 0 0 0-1.13 0l-.554.552a.075.075 0 0 0 0 .106l1.03 1.03a.075.075 0 0 0 .107 0l.547-.546a.1.1 0 0 0 .019-.032.804.804 0 0 0-.02-1.11m-2.246 1.22a.075.075 0 0 0-.106 0l-6.336 6.326a1.1 1.1 0 0 0-.237.393l-.27.87v.002c-.062.232.153.466.389.383l.863-.267q.221-.061.397-.239l6.332-6.331a.075.075 0 0 0 0-.106zm-3.355 6.898a.08.08 0 0 0-.053.022l-1.1 1.1a.075.075 0 0 0 .053.128h9.06a.625.625 0 1 0 0-1.25z\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: none; font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div></div></div><div style=\"position: relative; width: auto; display: flex; align-items: center; padding-inline: 10px; padding-bottom: 8px; padding-top: 8px;\"><div spellcheck=\"true\" placeholder=\"New page\" contenteditable=\"false\" data-content-editable-leaf=\"true\" tabindex=\"0\" role=\"textbox\" aria-label=\"Start typing to edit text\" style=\"max-width: 100%; width: auto; white-space: pre-wrap; word-break: break-word; caret-color: rgb(50, 48, 44); pointer-events: none; flex-grow: 1; padding: 0px 1px; font-size: 15px; line-height: 1.5; min-height: 22.5px; font-weight: 500;\">page 2</div></div></a></div><div data-block-id=\"263bce34-b547-80b6-ac42-e6e00381e109\" class=\"notion-selectable notion-page-block notion-collection-item\" style=\"\"><a href=\"/page-3-263bce34b54780b6ac42e6e00381e109?pvs=25\" role=\"link\" rel=\"noopener noreferrer\" style=\"display: block; color: inherit; text-decoration: none; user-select: none; transition: background 100ms ease-out; cursor: pointer; border-radius: 10px; position: static; overflow: hidden; background: rgb(255, 255, 255); margin-bottom: 8px; box-shadow: rgba(25, 25, 25, 0.027) 0px 4px 12px 0px, rgba(25, 25, 25, 0.02) 0px 1px 2px 0px, rgba(42, 28, 0, 0.07) 0px 0px 0px 1px; height: 100%; min-height: 40px;\"><div style=\"position: relative; width: 100%; z-index: 1;\"><div style=\"width: 100%; cursor: inherit;\"></div><div style=\"color: rgb(115, 114, 110); fill: rgb(115, 114, 110); font-size: 12px; background: white; box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px -2px, rgba(84, 72, 49, 0.08) 0px 0px 0px 1px; display: flex; white-space: nowrap; border-radius: 4px; max-width: calc(100% - 16px); min-height: 24px; overflow: hidden; pointer-events: none; opacity: 0; font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI Variable Display&quot;, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; position: absolute; inset-inline-end: 8px; z-index: 2; top: 8px; transition-duration: 200ms; transition-timing-function: ease; transition-property: opacity;\"><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: 1px solid rgba(55, 53, 47, 0.09); font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"pencilLineSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M11.243 3.457a.803.803 0 0 0-1.13 0l-.554.552a.075.075 0 0 0 0 .106l1.03 1.03a.075.075 0 0 0 .107 0l.547-.546a.1.1 0 0 0 .019-.032.804.804 0 0 0-.02-1.11m-2.246 1.22a.075.075 0 0 0-.106 0l-6.336 6.326a1.1 1.1 0 0 0-.237.393l-.27.87v.002c-.062.232.153.466.389.383l.863-.267q.221-.061.397-.239l6.332-6.331a.075.075 0 0 0 0-.106zm-3.355 6.898a.08.08 0 0 0-.053.022l-1.1 1.1a.075.075 0 0 0 .053.128h9.06a.625.625 0 1 0 0-1.25z\"></path></svg></div></div><div data-popup-origin=\"true\" style=\"display: contents;\"><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px 6px; border-inline-end: none; font-weight: 500; color: rgb(115, 114, 110); fill: rgb(115, 114, 110);\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"ellipsisSmall\" style=\"width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0;\"><path d=\"M3.2 6.725a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55m4.8 0a1.275 1.275 0 1 0 0 2.55 1.275 1.275 0 0 0 0-2.55\"></path></svg></div></div></div></div><div style=\"position: relative; width: auto; display: flex; align-items: center; padding-inline: 10px; padding-bottom: 8px; padding-top: 8px;\"><div spellcheck=\"true\" placeholder=\"New page\" contenteditable=\"false\" data-content-editable-leaf=\"true\" tabindex=\"0\" role=\"textbox\" aria-label=\"Start typing to edit text\" style=\"max-width: 100%; width: auto; white-space: pre-wrap; word-break: break-word; caret-color: rgb(50, 48, 44); pointer-events: none; flex-grow: 1; padding: 0px 1px; font-size: 15px; line-height: 1.5; min-height: 22.5px; font-weight: 500;\">page 3</div></div></a></div><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; height: 32px; padding-inline: 10px; border-radius: 10px; white-space: nowrap; font-size: 15px; flex-shrink: 0; line-height: 1.2; min-width: 0px; color: rgb(142, 139, 134); width: 100%; box-shadow: rgba(142, 139, 134, 0.1) 0px 0px 0px 1px; min-height: 40px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(142, 139, 134); flex-shrink: 0; margin-inline: 2px 9px;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg>New page</div></div><div class=\"notion-board-group\" style=\"flex: 0 0 auto; padding-inline: 8px; padding-bottom: 8px; margin-inline-end: 12px; margin-bottom: 16px; box-sizing: content-box; width: 260px; height: max-content; background-color: rgba(3, 118, 186, 0.043); border-end-start-radius: 10px; border-end-end-radius: 10px;\"><div style=\"height: 3px;\"><div data-block-id=\"263bce34-b547-80de-8198-e5593b3d6708\" class=\"notion-selectable notion-collection_view-block\"></div></div><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; height: 32px; padding-inline: 10px; border-radius: 10px; white-space: nowrap; font-size: 15px; flex-shrink: 0; line-height: 1.2; min-width: 0px; color: rgb(35, 131, 226); width: 100%; box-shadow: rgba(35, 131, 226, 0.1) 0px 0px 0px 1px; min-height: 40px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(35, 131, 226); flex-shrink: 0; margin-inline: 2px 9px;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg>New page</div></div><div class=\"notion-board-group\" style=\"flex: 0 0 auto; padding-inline: 8px; padding-bottom: 8px; margin-inline-end: 12px; margin-bottom: 16px; box-sizing: content-box; width: 260px; height: max-content; background-color: rgba(3, 87, 31, 0.035); border-end-start-radius: 10px; border-end-end-radius: 10px;\"><div style=\"height: 3px;\"><div data-block-id=\"263bce34-b547-80de-8198-e5593b3d6708\" class=\"notion-selectable notion-collection_view-block\"></div></div><div role=\"button\" tabindex=\"0\" style=\"user-select: none; transition: background 20ms ease-in; cursor: pointer; display: inline-flex; align-items: center; height: 32px; padding-inline: 10px; border-radius: 10px; white-space: nowrap; font-size: 15px; flex-shrink: 0; line-height: 1.2; min-width: 0px; color: rgb(85, 167, 124); width: 100%; box-shadow: rgba(85, 167, 124, 0.1) 0px 0px 0px 1px; min-height: 40px;\"><svg aria-hidden=\"true\" role=\"graphics-symbol\" viewBox=\"0 0 16 16\" class=\"plusSmall\" style=\"width: 16px; height: 16px; display: block; fill: rgb(85, 167, 124); flex-shrink: 0; margin-inline: 2px 9px;\"><path d=\"M8 2.74a.66.66 0 0 1 .66.66v3.94h3.94a.66.66 0 0 1 0 1.32H8.66v3.94a.66.66 0 0 1-1.32 0V8.66H3.4a.66.66 0 0 1 0-1.32h3.94V3.4A.66.66 0 0 1 8 2.74\"></path></svg>New page</div></div></div></div><div style=\"display: flex; flex-direction: column; width: fit-content; height: fit-content; margin-top: 14px;\"></div><div class=\"notion-selectable-halo\" style=\"position: absolute; pointer-events: none; inset: 0px; background: rgba(35, 131, 226, 0.14); z-index: 81; border-radius: 4px; opacity: 1; transition-duration: 200ms; transition-timing-function: ease; transition-property: opacity;\"></div></div></div><div style=\"height: 0px; margin-top: 0px; pointer-events: none; clear: both; transform: translateY(0px);\"></div><div style=\"position: absolute; z-index: 999; width: 100%; transform: translateY(-48px);\"></div></div>\n    <div class=\"notion-callout\">\n      <p>Styled callout block example</p>\n    </div>\n  </div>\n</body>\n</html>\n"
+            "text": "{"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"_id\": \"68be6905f1911d74b1025275\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"title\": \"Task\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"userId\": \"68b14ad501f989f10ba4f454\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"userEmail\": \""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "mailto:atharv.mahajan@betaque.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "atharv.mahajan@betaque.com"
+          },
+          {
+            "type": "text",
+            "text": "\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"parentId\": null,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"contentPath\": \"docs/notes/68be6905f1911d74b1025275.json\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"commitSha\": \"cab4d743828f624d7dd02f00500a34aecc384a15\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"createdAt\": \"2025-09-08T05:26:31.930Z\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"updatedAt\": \"2025-09-08T05:26:31.930Z\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"order\": 33,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"children\": [],"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"icon\": \"\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"isPublish\": false,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"isPublic\": 0,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"sharedWith\": [],"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"approvalStatus\": \"Publish\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"isPublicNote\": false,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"noteType\": \"Viewdatabase_Note\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"isRestrictedPage\": false,"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"imageStatusId\": \"68be6907193c4aebe52c1318\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"organizationDomain\": \""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "http://betaque.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "betaque.com"
+          },
+          {
+            "type": "text",
+            "text": "\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"workspaceId\": \"\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"databaseViewId\": \"68bb04fd1c8bbb2b839023d1\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"tree\": ["
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "        {"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"_id\": \"68be6905f1911d74b1025275\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"title\": \"Task\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"icon\": \"\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"userId\": \"68b14ad501f989f10ba4f454\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"userEmail\": \""
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "mailto:atharv.mahajan@betaque.com",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "atharv.mahajan@betaque.com"
+          },
+          {
+            "type": "text",
+            "text": "\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "            \"children\": []"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "        }"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    ],"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"id\": \"68be6905f1911d74b1025275\","
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "    \"content\": \"{\\n  \\\"type\\\": \\\"doc\\\",\\n  \\\"content\\\": [\\n    {\\n      \\\"type\\\": \\\"text\\\",\\n      \\\"attrs\\\": {\\n        \\\"level\\\": 2\\n      },\\n      \\\"content\\\": []\\n    }\\n  ]\\n}\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "}"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-03T10:28:18.526Z"
+  "online_content_time": "2025-09-08T05:29:04.875Z"
 }
