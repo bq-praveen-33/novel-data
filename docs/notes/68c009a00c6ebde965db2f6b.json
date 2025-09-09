@@ -17,11 +17,11 @@
         "content": [
           {
             "type": "text",
-            "text": "#include <bits/stdc++.h>\nusing namespace std ;\n\nint main(){\nint t;\ncin>>t;\nwhile(t--){\n int n,m;\nstring s,x;\ncin>>n>>m;\ncin>>x,s;\nwhile(i<n){\nint a=0;\nwhile(x.length()\n}\n\n}\n}"
+            "text": "#include <bits/stdc++.h>\nusing namespace std ;\n\nint main(){\nint t;\ncin>>t;\nwhile(t--){\n int n,m;\nstring s,x;\ncin>>n>>m;\ncin>>x,s;\nwhile(i<n){\nint a=0;\nwhile(x.length()<=s.lenght()){\nx=x+x;\n} \nint i=0, j=x.length();\ni\n\n}\n}"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-09T11:18:42.225Z"
+  "online_content_time": "2025-09-09T11:19:54.556Z"
 }
