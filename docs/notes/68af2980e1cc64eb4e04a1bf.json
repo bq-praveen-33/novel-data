@@ -10,8 +10,18 @@
             "text": "dd"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68c01f76f32ace2eb91ade29",
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-09T06:26:34.537Z"
+  "online_content_time": "2025-09-09T12:37:21.090Z"
 }
