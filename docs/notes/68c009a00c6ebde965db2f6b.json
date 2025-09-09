@@ -1,12 +1,27 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68c009a9ef67765e4393c161",
+          "component": "board"
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "#include <bits/stdc++.h>\nusing namespace std ;\n\nint main(){\nint t;\ncin>>t;\nwhile(t--){\n int n,m;\ncin>>n>>m;\nwhile(n--){\n\n}\n}\n}"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-09T11:06:06.254Z"
 }
