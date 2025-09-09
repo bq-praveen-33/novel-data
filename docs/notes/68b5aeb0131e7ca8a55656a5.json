@@ -3,15 +3,59 @@
     "type": "doc",
     "content": [
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68beb62476cc386298f17b47",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "/"
+            "text": "safasdf"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this ins my new vofasf-wighowjgsdgiwjipwjsdfgjgipsdjgpsdgjpsdjgspjgspgjsdssdjpsdgjspdgjsgs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "34rewrqweoijirjqwkehrdjkqweqwjkrjqwkrkl;j"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68beb70176cc386298f17b4f",
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-08T10:55:23.948Z"
+  "online_content_time": "2025-09-09T10:41:39.422Z"
 }
