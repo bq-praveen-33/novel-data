@@ -7,65 +7,11 @@
         "content": [
           {
             "type": "text",
-            "text": "Feel free to mention all the bugs here, that you face while working onto this platform"
+            "text": "dd"
           }
         ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "ddd"
-          }
-        ]
-      },
-      {
-        "type": "cmsBlock",
-        "attrs": {
-          "contentId": "cms_mf6x9cl4_334fvt3",
-          "projectId": "68af2980e1cc64eb4e04a1bf",
-          "slug": null,
-          "content": "sdaffasdfasdf",
-          "lastSavedContent": "",
-          "locale": "en-US"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "cmsBlock",
-        "attrs": {
-          "contentId": "68bad368741406ede79b4b72",
-          "projectId": "68af2980e1cc64eb4e04a1bf",
-          "slug": null,
-          "content": "",
-          "lastSavedContent": "",
-          "locale": "en-US"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "cmsBlock",
-        "attrs": {
-          "contentId": "68bad378741406ede79b4b73",
-          "projectId": "68af2980e1cc64eb4e04a1bf",
-          "slug": null,
-          "content": "",
-          "lastSavedContent": "",
-          "locale": "en-US"
-        }
       }
     ]
   },
-  "online_content_time": "2025-09-05T14:39:26.992Z"
+  "online_content_time": "2025-09-09T06:26:34.537Z"
 }
