@@ -10,8 +10,18 @@
             "text": "this is task3 with checked tickbox with medium priority."
           }
         ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://cdn.jsdelivr.net/npm/emoji-datasource-apple/img/apple/64/1f603.png",
+          "alt": "smiley",
+          "title": null,
+          "width": null,
+          "height": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-10T07:32:34.104Z"
+  "online_content_time": "2025-09-10T09:38:11.525Z"
 }
