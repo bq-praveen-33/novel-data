@@ -6,6 +6,19 @@
         "type": "heading",
         "attrs": {
           "level": 1
+        }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68c149c539561d897e7a572b",
+          "component": "board"
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
         },
         "content": [
           {
@@ -19,5 +32,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-10T09:49:06.494Z"
+  "online_content_time": "2025-09-10T09:50:07.558Z"
 }
