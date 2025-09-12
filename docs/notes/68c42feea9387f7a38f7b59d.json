@@ -3,9 +3,15 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is task 3 with checked ticcobx"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-12T14:36:49.990Z"
+  "online_content_time": "2025-09-12T14:37:44.848Z"
 }
