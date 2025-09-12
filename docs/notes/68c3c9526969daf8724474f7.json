@@ -15,30 +15,24 @@
         }
       },
       {
-        "type": "cmsBlock",
-        "attrs": {
-          "contentId": "cms_mfgis7tu_4lzxgcu",
-          "projectId": "68c3c9526969daf8724474f7",
-          "slug": null,
-          "content": "hbjkknklnlkn",
-          "lastSavedContent": "",
-          "locale": "en-US",
-          "type": "text"
-        }
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "cmsBlock",
         "attrs": {
-          "contentId": "cms_mfgjma1h_0xtmpw6",
+          "contentId": "cms_mfgnpvqt_r8gzsde",
           "projectId": "68c3c9526969daf8724474f7",
           "slug": null,
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": ""
+          "type": "text"
         }
       }
     ]
   },
-  "online_content_time": "2025-09-12T07:56:08.887Z"
+  "online_content_time": "2025-09-12T10:54:13.813Z"
 }
