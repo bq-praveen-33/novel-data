@@ -1,12 +1,44 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfgiajrk_eh01js8",
+          "projectId": "68c3c9526969daf8724474f7",
+          "slug": null,
+          "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68c3c9526969daf8724474f7/images/Mask group (4).png-289dcacf-a3b7-4ce0-b69a-7c49e93d39de",
+          "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68c3c9526969daf8724474f7/images/Mask group (4).png-289dcacf-a3b7-4ce0-b69a-7c49e93d39de",
+          "locale": "en-US",
+          "type": "image"
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfgis7tu_4lzxgcu",
+          "projectId": "68c3c9526969daf8724474f7",
+          "slug": null,
+          "content": "hbjkknklnlkn",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": "text"
+        }
+      },
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfgjma1h_0xtmpw6",
+          "projectId": "68c3c9526969daf8724474f7",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": ""
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-09-12T07:56:08.887Z"
 }
