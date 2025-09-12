@@ -21,7 +21,16 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfgq9as3_1oxwz6e",
+          "projectId": "68c3c9526969daf8724474f7",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": ""
+        }
       },
       {
         "type": "cmsBlock",
@@ -37,5 +46,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-12T11:01:57.860Z"
+  "online_content_time": "2025-09-12T11:02:08.840Z"
 }
