@@ -23,15 +23,8 @@
             "text": "/board"
           }
         ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68cabe95ef6d79a03fe58037",
-          "component": "board"
-        }
       }
     ]
   },
-  "online_content_time": "2025-09-17T13:59:56.334Z"
+  "online_content_time": "2025-09-17T14:00:32.285Z"
 }
