@@ -3,16 +3,6 @@
     "type": "doc",
     "content": [
       {
-        "type": "image",
-        "attrs": {
-          "src": "https://www.bosscoderacademy.com/_next/image?url=https%3A%2F%2Fbosscoder-academy-2.ghost.io%2Fcontent%2Fimages%2F2025%2F02%2Fframe_255--1-.webp&w=3840&q=75",
-          "alt": "feature image",
-          "title": null,
-          "width": 1160,
-          "height": 600
-        }
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -40,14 +30,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "Breaking into System Design"
                   }
                 ]
@@ -62,14 +44,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "Understanding HLD & LLD in System Design"
                   }
                 ]
@@ -84,14 +58,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "System Design Roadmap: A Beginners Guide"
                   }
                 ]
@@ -106,14 +72,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "System Design Best Practices"
                   }
                 ]
@@ -128,14 +86,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "Common Mistakes in System Design"
                   }
                 ]
@@ -150,14 +100,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "Preparing for System Design at Interviews"
                   }
                 ]
@@ -172,14 +114,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "textStyle",
-                        "attrs": {
-                          "color": ""
-                        }
-                      }
-                    ],
                     "text": "FAQs (Frequently Asked Questions)"
                   }
                 ]
@@ -3605,14 +3539,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "System design represents the process that defines the architecture together with the components along with their interactions to fulfill specific requirements. The development of scalable software solutions depends heavily on system design which ensures both efficiency and maintainability. System design functions as a vital skill for software engineers because it enables high traffic management and failure prevention alongside smooth system performance."
           }
         ]
@@ -3639,14 +3565,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "One should begin system design education through core understanding of "
           },
           {
@@ -3660,14 +3578,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": " and"
           },
           {
@@ -3681,14 +3591,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "and caching principles. You should first study theoretical approaches before examining practical case studies of YouTube and Uber system development. Through practice with mock interviews together with hands-on work, students can better grasp these concepts."
           }
         ]
@@ -3715,14 +3617,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "System design should be very good at certain topics like load balances for traffic split, database scaling techniques ("
           },
           {
@@ -3736,14 +3630,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": ", "
           },
           {
@@ -3757,14 +3643,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": ", "
           },
           {
@@ -3778,14 +3656,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "), caching strategies (redis, CDN) and also architecture decisions (microservices vs monolithic). Another thing one must understand is "
           },
           {
@@ -3799,14 +3669,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": " and consistency models for designing a fault-tolerant distributed system."
           }
         ]
@@ -3821,25 +3683,10 @@
             "type": "text",
             "marks": [
               {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              },
-              {
                 "type": "bold"
               }
             ],
-            "text": "4. "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "What are some common System Design interview questions?"
+            "text": "4. What are some common System Design interview questions?"
           }
         ]
       },
@@ -3848,14 +3695,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "Many system design interviews are practical. Many asked questions are - Design URL shortener like Bitly, Ride-sharing app like Uber, scalable chat system like WhatsApp or Video streaming service like YouTube etc. Applicants are anticipated to outline system elements, horizontal scaling tactics, and facts flow."
           }
         ]
@@ -3870,25 +3709,10 @@
             "type": "text",
             "marks": [
               {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              },
-              {
                 "type": "bold"
               }
             ],
-            "text": "5. "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "bold"
-              }
-            ],
-            "text": "What are the best resources to prepare for System Design?"
+            "text": "5. What are the best resources to prepare for System Design?"
           }
         ]
       },
@@ -3897,19 +3721,11 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": ""
-                }
-              }
-            ],
             "text": "As the best resources for system design practice would be books like Designing Data Intensive Applications and video courses structured for the online format by seasoned MAANG engineers. GitHub repositories, blogs and YouTube tutorials also contain a lot of information. Practice system design problems through mock interviews on a regular basis, and this will lead to improvement of problem-solving skills."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-04T16:32:35.625Z"
+  "online_content_time": "2025-09-18T17:10:20.141Z"
 }
