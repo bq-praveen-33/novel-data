@@ -92,8 +92,23 @@
           "locale": "en-US",
           "type": "image"
         }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfqj9ktt_gesm09u",
+          "projectId": "68ccb00e4316c9c40903c476",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": null
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-19T07:42:09.693Z"
+  "online_content_time": "2025-09-19T07:44:01.105Z"
 }
