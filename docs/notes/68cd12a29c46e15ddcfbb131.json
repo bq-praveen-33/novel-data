@@ -8,11 +8,10 @@
           "contentId": "cms_mfqkwhv1_8ukf807",
           "projectId": "68cd12a29c46e15ddcfbb131",
           "slug": null,
-          "content": "fbdfhfhtnmg",
+          "content": "fbdfhfhtnmg\nhb jchb sjh\nds bjjks bc\ns jdbcb",
           "lastSavedContent": "fbdfhfhtnmg",
           "locale": "en-US",
-          "type": "text",
-          "isInitialized": true
+          "type": "text"
         }
       },
       {
@@ -24,8 +23,7 @@
           "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
           "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
           "locale": "en-US",
-          "type": "image",
-          "isInitialized": true
+          "type": "image"
         }
       },
       {
@@ -40,8 +38,7 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null,
-          "isInitialized": true
+          "type": null
         }
       },
       {
@@ -59,8 +56,7 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null,
-          "isInitialized": true
+          "type": null
         }
       },
       {
@@ -78,8 +74,7 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null,
-          "isInitialized": true
+          "type": null
         }
       },
       {
@@ -94,8 +89,7 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null,
-          "isInitialized": true
+          "type": null
         }
       },
       {
@@ -110,8 +104,7 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null,
-          "isInitialized": true
+          "type": null
         }
       },
       {
@@ -128,5 +121,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-19T10:28:32.889Z"
+  "online_content_time": "2025-09-19T10:37:06.757Z"
 }
