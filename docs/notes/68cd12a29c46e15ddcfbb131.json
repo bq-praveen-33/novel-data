@@ -11,7 +11,8 @@
           "content": "fbdfhfhtnmg",
           "lastSavedContent": "fbdfhfhtnmg",
           "locale": "en-US",
-          "type": "text"
+          "type": "text",
+          "isInitialized": true
         }
       },
       {
@@ -23,18 +24,9 @@
           "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
           "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
           "locale": "en-US",
-          "type": "image"
+          "type": "image",
+          "isInitialized": true
         }
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68cd187393681d85da5144d0",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -48,7 +40,8 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null
+          "type": null,
+          "isInitialized": true
         }
       },
       {
@@ -66,11 +59,28 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null
+          "type": null,
+          "isInitialized": true
         }
       },
       {
         "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfqp4i6e_o34ptrl",
+          "projectId": "68cd12a29c46e15ddcfbb131",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": null,
+          "isInitialized": true
+        }
       },
       {
         "type": "paragraph"
@@ -86,5 +96,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-19T10:18:43.039Z"
+  "online_content_time": "2025-09-19T10:28:00.803Z"
 }
