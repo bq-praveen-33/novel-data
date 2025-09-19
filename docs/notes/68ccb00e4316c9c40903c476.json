@@ -1,12 +1,30 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfq5m525_vdifw44",
+          "projectId": "68ccb00e4316c9c40903c476",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": "text"
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ccb3bf5836d33218695561",
+          "component": "board"
+        }
+      }
+    ]
+  },
+  "online_content_time": "2025-09-19T02:32:01.297Z"
 }
