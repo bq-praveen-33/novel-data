@@ -20,10 +20,10 @@
           "contentId": "cms_mfqkwtei_lm9q1c5",
           "projectId": "68cd12a29c46e15ddcfbb131",
           "slug": null,
-          "content": "bvdfbd",
-          "lastSavedContent": "",
+          "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
+          "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68cd12a29c46e15ddcfbb131/images/DBMS.png-f423e4ee-102d-42de-b393-1ffddfb60482",
           "locale": "en-US",
-          "type": null
+          "type": "image"
         }
       },
       {
@@ -50,8 +50,11 @@
       },
       {
         "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-19T10:08:31.474Z"
+  "online_content_time": "2025-09-19T10:09:13.737Z"
 }
