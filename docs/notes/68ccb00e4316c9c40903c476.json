@@ -27,7 +27,16 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfqfp89s_hu5bpl0",
+          "projectId": "68ccb00e4316c9c40903c476",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": null
+        }
       },
       {
         "type": "reactComponentBlock",
@@ -38,5 +47,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-19T02:35:34.191Z"
+  "online_content_time": "2025-09-19T06:04:08.125Z"
 }
