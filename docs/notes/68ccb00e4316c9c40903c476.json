@@ -14,7 +14,8 @@
           "content": "",
           "lastSavedContent": "hvjh",
           "locale": "en-US",
-          "type": "text"
+          "type": "text",
+          "isInitialized": true
         }
       },
       {
@@ -29,7 +30,8 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": "text"
+          "type": "text",
+          "isInitialized": true
         }
       },
       {
@@ -44,7 +46,8 @@
           "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ccb00e4316c9c40903c476/images/download.jpeg-06ab0c26-0787-4502-91d7-a59486626a3b",
           "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ccb00e4316c9c40903c476/images/download.jpeg-06ab0c26-0787-4502-91d7-a59486626a3b",
           "locale": "en-US",
-          "type": "image"
+          "type": "image",
+          "isInitialized": true
         }
       },
       {
@@ -72,7 +75,8 @@
           "content": "ygib",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null
+          "type": null,
+          "isInitialized": true
         }
       },
       {
@@ -90,7 +94,24 @@
           "content": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ccb00e4316c9c40903c476/images/download (1).jpeg-2e6bd0e2-2df3-4e3d-b7fd-de61021d1994",
           "lastSavedContent": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ccb00e4316c9c40903c476/images/download (1).jpeg-2e6bd0e2-2df3-4e3d-b7fd-de61021d1994",
           "locale": "en-US",
-          "type": "image"
+          "type": "image",
+          "isInitialized": true
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "cmsBlock",
+        "attrs": {
+          "contentId": "cms_mfqp64d7_30zb36q",
+          "projectId": "68ccb00e4316c9c40903c476",
+          "slug": null,
+          "content": "",
+          "lastSavedContent": "",
+          "locale": "en-US",
+          "type": null,
+          "isInitialized": true
         }
       },
       {
@@ -105,10 +126,11 @@
           "content": "",
           "lastSavedContent": "",
           "locale": "en-US",
-          "type": null
+          "type": null,
+          "isInitialized": true
         }
       }
     ]
   },
-  "online_content_time": "2025-09-19T07:44:01.105Z"
+  "online_content_time": "2025-09-19T10:29:13.314Z"
 }
