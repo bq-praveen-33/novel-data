@@ -3,9 +3,18 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Currently all views are appearing by default, instead there should be slash command for each view, ie. board view, calendar view, timeline view "
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-21T14:40:34.437Z"
+  "online_content_time": "2025-09-21T14:42:31.303Z"
 }
