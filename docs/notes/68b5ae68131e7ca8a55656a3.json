@@ -7,25 +7,11 @@
         "content": [
           {
             "type": "text",
-            "text": "new page"
+            "text": "@"
           }
         ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68bee88e14351e2e0df2ede4",
-          "component": "board"
-        }
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68c2ba5566ec60279603d081",
-          "component": "board"
-        }
       }
     ]
   },
-  "online_content_time": "2025-09-11T12:02:40.199Z"
+  "online_content_time": "2025-09-22T10:02:36.555Z"
 }
