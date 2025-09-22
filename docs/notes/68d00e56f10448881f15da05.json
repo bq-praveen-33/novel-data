@@ -11,10 +11,20 @@
           },
           {
             "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "and on clicking on + button it should give option to add new view for same "
+          },
+          {
+            "type": "hardBreak"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-21T14:42:31.303Z"
+  "online_content_time": "2025-09-22T13:34:10.398Z"
 }
