@@ -1,12 +1,34 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68c7ada49a65cc5754395916",
+          "component": "board"
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68c7f2fda8af47adf64911ce",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "@"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-22T11:51:01.774Z"
 }
