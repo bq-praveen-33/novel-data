@@ -27,8 +27,15 @@
       },
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68d2586356024ad9f40d5950",
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-23T08:20:43.246Z"
+  "online_content_time": "2025-09-23T08:21:12.703Z"
 }
