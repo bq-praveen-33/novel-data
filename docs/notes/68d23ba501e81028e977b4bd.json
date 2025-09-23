@@ -7,11 +7,11 @@
         "content": [
           {
             "type": "text",
-            "text": "when sidebar is open then updating the title does or any property like status or date ( on drag nad drop )"
+            "text": "when sidebar is open then updating the title or any property like status or date ( on drag nad drop ) does not reflect on the sidebar side by side ."
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-23T06:41:23.823Z"
+  "online_content_time": "2025-09-23T06:42:01.752Z"
 }
