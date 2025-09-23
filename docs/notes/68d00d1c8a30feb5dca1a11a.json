@@ -3,27 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": " "
-          },
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68afe9f2d1092066e302f856",
-              "label": "Atharv Mahajan",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " this is still not done properly "
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-22T13:35:43.624Z"
+  "online_content_time": "2025-09-23T16:12:36.486Z"
 }
