@@ -113,11 +113,14 @@
         "content": [
           {
             "type": "text",
-            "text": "its nothing just a term to define, that we have another integeration to do same way and interactions output would be same that same thing can be used "
+            "text": "its nothing just a term to define, that we have another integeration to do same way and interactions output would be same that same thing can be used in replacement of existing one, creating multiple adapter could help us in many ways in future"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-23T03:01:48.938Z"
+  "online_content_time": "2025-09-23T03:02:13.302Z"
 }
