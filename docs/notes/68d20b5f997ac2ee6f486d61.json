@@ -26,9 +26,6 @@
           {
             "type": "text",
             "text": "Steps to do:"
-          },
-          {
-            "type": "hardBreak"
           }
         ]
       },
@@ -92,5 +89,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-23T02:59:05.033Z"
+  "online_content_time": "2025-09-23T02:59:09.314Z"
 }
