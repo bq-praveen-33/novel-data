@@ -3,9 +3,6 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -17,11 +14,18 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
+          "viewId": "68d00cffe57db045b016cf24",
+          "component": "board"
+        }
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
           "viewId": "68d15131ffa634d6c07dc712",
           "component": "board"
         }
       }
     ]
   },
-  "online_content_time": "2025-09-23T06:24:47.529Z"
+  "online_content_time": "2025-09-23T07:14:58.376Z"
 }
