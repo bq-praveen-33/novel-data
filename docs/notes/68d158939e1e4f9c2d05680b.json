@@ -1,12 +1,27 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68d24647207a105314479f02",
+          "component": "board"
+        }
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/bo"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-09-23T08:21:20.742Z"
 }
