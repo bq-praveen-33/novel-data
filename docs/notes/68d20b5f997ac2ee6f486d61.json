@@ -7,11 +7,54 @@
         "content": [
           {
             "type": "text",
-            "text": "Currently we are saving to Github pages, now introduce a new adapter that would be saving only to "
+            "text": "Currently we are saving to Github pages, now introduce a new adapter that would be saving to mongodb and response would be exactly similar so that we just need to replace the current save to github pages functionality "
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 1
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Steps to do:"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First "
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-23T02:55:19.365Z"
+  "online_content_time": "2025-09-23T02:57:15.683Z"
 }
