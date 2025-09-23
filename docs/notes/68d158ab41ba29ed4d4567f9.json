@@ -20,8 +20,18 @@
           "viewId": "68d24292ed398140631fb235",
           "component": "board"
         }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68d243cbe1edae1fd50196b6",
+          "component": "board"
+        }
       }
     ]
   },
-  "online_content_time": "2025-09-23T06:47:56.769Z"
+  "online_content_time": "2025-09-23T06:53:09.486Z"
 }
