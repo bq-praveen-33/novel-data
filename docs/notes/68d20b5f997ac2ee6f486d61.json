@@ -85,15 +85,39 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Once this function is ready we simply will replace "
+                    "text": "Once this function is ready we simply will replace saveToGithub to saveToMongo"
+                  },
+                  {
+                    "type": "hardBreak"
                   }
                 ]
               }
             ]
           }
         ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What's Adapter ?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "its nothing just a term to define, that we have another integeration to do same way and interactions output would be same that same thing can be used "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-23T03:00:33.958Z"
+  "online_content_time": "2025-09-23T03:01:48.938Z"
 }
