@@ -3,25 +3,12 @@
     "type": "doc",
     "content": [
       {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68d13cf980093d08dd4314d7",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "this is a new page"
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68d2581056024ad9f40d594d",
+          "viewId": "68d274ed5bf1d95c7546b8d3",
           "component": "board"
         }
       },
@@ -29,13 +16,27 @@
         "type": "paragraph"
       },
       {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68d2586356024ad9f40d5950",
-          "component": "board"
-        }
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "f"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "f"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-23T08:21:12.703Z"
+  "online_content_time": "2025-09-23T10:24:52.024Z"
 }
