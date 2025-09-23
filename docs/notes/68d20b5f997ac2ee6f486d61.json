@@ -25,7 +25,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Steps to do:"
+            "text": "Steps:"
           }
         ]
       },
@@ -81,7 +81,13 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Once this function is ready we simply will replace "
+                  }
+                ]
               }
             ]
           }
@@ -89,5 +95,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-23T02:59:09.314Z"
+  "online_content_time": "2025-09-23T03:00:33.958Z"
 }
