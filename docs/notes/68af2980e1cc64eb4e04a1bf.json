@@ -6,23 +6,22 @@
         "type": "paragraph"
       },
       {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68d00cffe57db045b016cf24",
-          "component": "board"
-        }
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       },
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68d00cffe57db045b016cf24",
+          "viewId": "68d15131ffa634d6c07dc712",
           "component": "board"
         }
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-22T12:06:42.762Z"
+  "online_content_time": "2025-09-23T06:24:47.529Z"
 }
