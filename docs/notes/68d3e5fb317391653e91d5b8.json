@@ -3,41 +3,29 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "secret",
-            "attrs": {
-              "encryptedContent": "",
-              "isLocked": true,
-              "secretId": "secret_mfy0h27e_z5sgg61",
-              "pageId": "68d3e5fb317391653e91d5b8"
-            }
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       },
       {
         "type": "paragraph",
         "content": [
           {
-            "type": "text",
-            "text": "hello "
-          },
-          {
             "type": "secret",
             "attrs": {
               "encryptedContent": "",
               "isLocked": true,
-              "secretId": "secret_mfy0hpdz_nbcyy7c",
+              "secretId": "secret_mfy108aw_1vp5347",
               "pageId": "68d3e5fb317391653e91d5b8"
-            }
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": "locked"
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-24T13:20:31.201Z"
+  "online_content_time": "2025-09-24T13:34:55.521Z"
 }
