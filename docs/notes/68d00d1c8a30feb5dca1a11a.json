@@ -3,9 +3,23 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "mention",
+            "attrs": {
+              "id": "68b1a40ea1222e4de83dc470",
+              "label": "Sarthak Gupta",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-23T16:12:36.486Z"
+  "online_content_time": "2025-09-24T12:27:44.613Z"
 }
