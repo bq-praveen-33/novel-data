@@ -61,8 +61,28 @@
             ]
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "secret",
+            "attrs": {
+              "encryptedContent": "",
+              "isLocked": false,
+              "secretId": "secret_mfy1zu7k_76wdjd7",
+              "pageId": "68d3f921dc1e022c3933b333"
+            },
+            "content": [
+              {
+                "type": "text",
+                "text": " hello"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-09-24T14:02:03.411Z"
+  "online_content_time": "2025-09-24T14:02:39.095Z"
 }
