@@ -27,9 +27,38 @@
         "type": "paragraph"
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "hello "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "secret",
+            "attrs": {
+              "encryptedContent": "",
+              "isLocked": true,
+              "secretId": "secret_mfy0beke_ltmo1cy",
+              "pageId": "68d3e5fb317391653e91d5b8"
+            }
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-24T13:15:22.640Z"
+  "online_content_time": "2025-09-24T13:15:37.241Z"
 }
