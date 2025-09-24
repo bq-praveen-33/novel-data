@@ -19,18 +19,22 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/bo"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68d389f3847467354f33a845",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-24T06:04:36.648Z"
+  "online_content_time": "2025-09-24T06:04:48.438Z"
 }
