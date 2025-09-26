@@ -7,11 +7,26 @@
         "content": [
           {
             "type": "text",
-            "text": "/pag"
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "/notes/68d63d656ca3a0cff893c148",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
+                }
+              }
+            ],
+            "text": "Page 1"
+          },
+          {
+            "type": "text",
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-26T07:14:31.543Z"
+  "online_content_time": "2025-09-26T07:14:51.482Z"
 }
