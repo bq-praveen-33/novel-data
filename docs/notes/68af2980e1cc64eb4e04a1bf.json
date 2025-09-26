@@ -19,9 +19,27 @@
         }
       },
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68d64584ba647a6743d8cb85",
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-09-26T07:46:45.004Z"
+  "online_content_time": "2025-09-26T07:49:34.653Z"
 }
