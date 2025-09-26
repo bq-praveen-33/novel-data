@@ -23,6 +23,9 @@
         "content": [
           {
             "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
           }
         ]
       },
@@ -32,7 +35,7 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68d64584ba647a6743d8cb85",
+          "viewId": "68d6482ef5a8a6d52233e740",
           "component": "board"
         }
       },
@@ -41,5 +44,5 @@
       }
     ]
   },
-  "online_content_time": "2025-09-26T07:49:34.653Z"
+  "online_content_time": "2025-09-26T08:00:57.523Z"
 }
