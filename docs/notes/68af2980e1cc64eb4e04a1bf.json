@@ -13,25 +13,15 @@
         }
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68d6482ef5a8a6d52233e740",
-          "component": "board"
-        }
-      },
-      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": " "
+            "text": "`"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-09-26T11:40:58.341Z"
+  "online_content_time": "2025-09-29T06:59:24.244Z"
 }
