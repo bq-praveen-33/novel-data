@@ -28,8 +28,17 @@
             "text": "3"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "km"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-06T10:54:12.162Z"
+  "online_content_time": "2025-10-06T11:26:14.460Z"
 }
