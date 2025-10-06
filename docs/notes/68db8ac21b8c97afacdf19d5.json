@@ -3,30 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "v1"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "v2"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-06T12:42:08.205Z"
+  "online_content_time": "2025-10-06T12:42:30.238Z"
 }
