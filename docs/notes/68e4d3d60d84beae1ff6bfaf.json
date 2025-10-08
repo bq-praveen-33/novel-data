@@ -3,28 +3,12 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "This is the "
-          }
-        ]
-      },
-      {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68e508413ed426ef6e7c47bf",
-          "component": "board"
-        }
       },
       {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-08T06:44:26.235Z"
+  "online_content_time": "2025-10-08T12:36:01.876Z"
 }
