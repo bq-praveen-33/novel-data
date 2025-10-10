@@ -18,8 +18,24 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68e89e4a99c15124817bd495",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-10T05:46:33.797Z"
+  "online_content_time": "2025-10-10T05:49:08.844Z"
 }
