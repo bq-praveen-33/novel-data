@@ -1,12 +1,20 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
-      },
-      "content": []
-    }
-  ]
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": "typescriptreact"
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\"use client\";\n\nimport { useState } from \"react\";\nimport CommentList from \"./commentList\";\nimport CommentInputBox from \"./commentInputBox\";\nimport { Comment, Note } from \"@/types/board\";\nimport { CommentProvider, useComments } from \"@/contexts/commentContext\";\n\ninterface CommentContainerProps {\n  comments?: Comment[];\n  noteId: string;\n  boardId: string;\n  note: Note;\n}\n\nfunction CommentContainerInner() {\n  const { comments, addComment, editComment, deleteComment } = useComments();\n  const [showAll, setShowAll] = useState(false);\n  const displayedComments = showAll ? comments : comments.slice(0, 3);\n\n  return (\n    <div className=\"w-full bg-transparent px-4\">\n      <div className=\"pb-1 text-[13px] font-medium text-gray-500 dark:text-gray-400\">\n        Comments\n      </div>\n\n      <div className=\"flex flex-col gap-3\">\n        <CommentList\n          comments={displayedComments}\n          onEditComment={editComment}\n          onDeleteComment={deleteComment}\n        />\n\n        {comments.length > 3 && (\n          <button\n            className=\"text-xs text-blue-600 dark:text-blue-400 hover:underline mt-1\"\n            onClick={() => setShowAll(!showAll)}\n          >\n            {showAll ? \"Show less\" : `View all ${comments.length} comments`}\n          </button>\n        )}\n\n        <div className=\"border-t border-gray-200 dark:border-gray-700 pt-2 mt-1\">\n          <CommentInputBox onSubmit={addComment} />\n        </div>\n      </div>\n    </div>\n  );\n}\n\nexport default function CommentContainer({ comments = [], noteId, boardId, note }: CommentContainerProps) {\n  return (\n    <CommentProvider initialComments={comments} noteId={noteId} boardId={boardId} note={note}>\n      <CommentContainerInner />\n    </CommentProvider>\n  );\n}\n"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-10-10T05:35:19.705Z"
 }
