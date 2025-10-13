@@ -16,12 +16,26 @@
         "type": "paragraph",
         "content": [
           {
+            "type": "mention",
+            "attrs": {
+              "id": "68e50ad33ed426ef6e7c47c1",
+              "label": "Atharv Mahajan",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
             "type": "text",
-            "text": "@"
+            "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-13T09:46:12.685Z"
+  "online_content_time": "2025-10-13T14:09:41.019Z"
 }
