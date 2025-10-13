@@ -1,0 +1,30 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this a text "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68eca1d6576d0d62d86a4440",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-10-13T10:54:22.443Z"
+}
