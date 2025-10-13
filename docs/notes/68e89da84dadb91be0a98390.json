@@ -3,36 +3,25 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68e50ad33ed426ef6e7c47c1",
-              "label": "Atharv Mahajan",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
+        "type": "paragraph"
       },
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68e89e4a99c15124817bd495",
+          "viewId": "68ecac094e89d76cb41498af",
           "component": "board"
         }
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "@"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-10T11:27:19.871Z"
+  "online_content_time": "2025-10-13T09:46:12.685Z"
 }
