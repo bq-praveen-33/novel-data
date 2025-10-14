@@ -16,7 +16,19 @@
         "content": [
           {
             "type": "text",
-            "text": "this is comment - 1"
+            "text": "this is "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ee455d750da950fb9abba8"
+                }
+              }
+            ],
+            "text": "comment - 1"
           }
         ]
       },
@@ -31,5 +43,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-14T12:42:48.062Z"
+  "online_content_time": "2025-10-14T12:43:19.751Z"
 }
