@@ -1,0 +1,67 @@
+{
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is the sample text "
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "text",
+            "text": "this is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ee30e28654eefc70d0bab9"
+                }
+              }
+            ],
+            "text": "comment text"
+          },
+          {
+            "type": "text",
+            "text": " "
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "this is the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ee5053d407ed0020cc2ac6"
+                }
+              }
+            ],
+            "text": "third line"
+          }
+        ]
+      }
+    ]
+  },
+  "online_content_time": "2025-10-15T11:03:10.848Z"
+}
