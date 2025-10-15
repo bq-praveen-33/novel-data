@@ -160,7 +160,37 @@
                 }
               }
             ],
-            "text": "Machine Learning is mainly divided into three core types: Supervised, Unsupervised and Reinforcement Learning along with two additional types, Semi-Supervised and Self-Supervised Learning."
+            "text": "Machine Learning is mainly divided into three core types: Supervised, "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68efaadf3a660ec5063169d9"
+                }
+              }
+            ],
+            "text": "Unsupervised and Reinf"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ],
+            "text": "orcement Learning along with two additional types, Semi-Supervised and Self-Supervised Learning."
           }
         ]
       },
@@ -5493,5 +5523,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-15T12:58:03.682Z"
+  "online_content_time": "2025-10-15T14:08:41.754Z"
 }
