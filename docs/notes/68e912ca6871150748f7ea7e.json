@@ -223,6 +223,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
+                        }
                       }
                     ],
                     "text": "Supervised Learning"
@@ -232,6 +238,12 @@
                     "marks": [
                       {
                         "type": "bold"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
+                        }
                       }
                     ],
                     "text": ":"
@@ -243,6 +255,12 @@
                         "type": "textStyle",
                         "attrs": {
                           "color": ""
+                        }
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
                         }
                       }
                     ],
@@ -275,6 +293,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
+                        }
                       }
                     ],
                     "text": "Unsupervised Learning"
@@ -286,6 +310,12 @@
                         "type": "textStyle",
                         "attrs": {
                           "color": ""
+                        }
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
                         }
                       }
                     ],
@@ -318,6 +348,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
+                        }
                       }
                     ],
                     "text": "Reinforcement Learning"
@@ -329,6 +365,12 @@
                         "type": "textStyle",
                         "attrs": {
                           "color": ""
+                        }
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68efb56c45e90b77f29fcbd4"
                         }
                       }
                     ],
@@ -5523,5 +5565,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-15T14:08:41.754Z"
+  "online_content_time": "2025-10-15T14:53:43.052Z"
 }
