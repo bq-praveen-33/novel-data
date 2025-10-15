@@ -35,8 +35,21 @@
             "text": " "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ef5a172d383fcf3b7b898c",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-15T07:43:46.074Z"
+  "online_content_time": "2025-10-15T08:24:01.826Z"
 }
