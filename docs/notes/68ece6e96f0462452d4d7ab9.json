@@ -109,7 +109,23 @@
         "content": [
           {
             "type": "text",
-            "text": "this comment asdfadfasd fasdg as saga gg "
+            "text": "this comment asdfadfasd "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f09a33007f94911d991e08"
+                }
+              }
+            ],
+            "text": "fasdg"
+          },
+          {
+            "type": "text",
+            "text": " as saga gg "
           },
           {
             "type": "text",
@@ -172,5 +188,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-15T12:35:02.414Z"
+  "online_content_time": "2025-10-16T07:09:49.502Z"
 }
