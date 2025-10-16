@@ -5149,6 +5149,12 @@
                 "attrs": {
                   "color": ""
                 }
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f095b2007f94911d991e04"
+                }
               }
             ],
             "text": "Module 7: Deployment of ML Models"
@@ -5165,6 +5171,12 @@
                 "type": "textStyle",
                 "attrs": {
                   "color": ""
+                }
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f095b2007f94911d991e04"
                 }
               }
             ],
@@ -5207,6 +5219,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Machine learning deployement"
@@ -5244,6 +5262,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Deploy ML Model using Streamlit Library"
@@ -5281,6 +5305,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Deploy ML web app on Heroku"
@@ -5318,6 +5348,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Create UIs for prototyping Machine Learning model with Gradio"
@@ -5338,6 +5374,12 @@
                 "type": "textStyle",
                 "attrs": {
                   "color": ""
+                }
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f095b2007f94911d991e04"
                 }
               }
             ],
@@ -5380,6 +5422,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Deploy Machine Learning Model using Flask"
@@ -5417,6 +5465,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Deploying ML Models as API using FastAPI"
@@ -5437,6 +5491,12 @@
                 "type": "textStyle",
                 "attrs": {
                   "color": ""
+                }
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f095b2007f94911d991e04"
                 }
               }
             ],
@@ -5479,6 +5539,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "MLOps"
@@ -5516,6 +5582,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "Continuous Integration and Continuous Deployment (CI/CD) in MLOps"
@@ -5553,6 +5625,12 @@
                       },
                       {
                         "type": "underline"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68f095b2007f94911d991e04"
+                        }
                       }
                     ],
                     "text": "End-to-End MLOps"
@@ -5565,5 +5643,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-15T14:54:33.541Z"
+  "online_content_time": "2025-10-16T06:50:37.017Z"
 }
