@@ -73,7 +73,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Your data is always changing. Debezium lets your apps react every time your data changes, and you don't have to change your apps that modify the data. Debezium continuously monitors your databases and lets any of your applications stream every row-level change in the same order they were committed to the database. Use the event streams to purge a cache, update search indexes, generate derived views and data, keep other data sources in sync, and much more. In fact, pull that functionality out of your app and into separate services."
+            "text": "Your data is always changing. Debezium lets your apps react every time your data changes, and you don't have to change your apps thatmodify the data. Debezium continuously monitors your databases and lets any of your applications stream every row-level change in the same order they were committed to the database. Use the event streams to purge a cache, update search indexes, generate derived views and data, keep other data sources in sync, and much more. In fact, pull that functionality out of your app and into separate services."
           }
         ]
       },
@@ -204,7 +204,7 @@
         "content": [
           {
             "type": "text",
-            "text": "Take your apps and services down for maintenance, and Debezium keeps monitoring so that when your apps come back up they'll continue exactly where they left off. No matter what, Debezium keeps the events in the same order they were made to the database. And Debezium makes sure that you always "
+            "text": "Take your apps and services down for maintenance, and Debezium keeps monitoring so that when your apps come back up they'll continue exactly where they left off. No matter what, Debezium keeps the events in the same order they were made to the database. And fklnvlkDebezium makes sure that you always "
           },
           {
             "type": "text",
@@ -262,5 +262,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-16T13:19:07.981Z"
+  "online_content_time": "2025-10-16T13:19:29.128Z"
 }
