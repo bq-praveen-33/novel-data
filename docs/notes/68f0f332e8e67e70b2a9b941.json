@@ -10,8 +10,21 @@
             "text": "new content "
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68f0f36f9469dc1d750ff974",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-16T13:29:39.984Z"
+  "online_content_time": "2025-10-16T13:30:33.436Z"
 }
