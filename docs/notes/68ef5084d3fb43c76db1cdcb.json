@@ -46,7 +46,206 @@
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Do more with your data"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your data is always changing. Debezium lets your apps react every time your data changes, and you don't have to change your apps that modify the data. Debezium continuously monitors your databases and lets any of your applications stream every row-level change in the same order they were committed to the database. Use the event streams to purge a cache, update search indexes, generate derived views and data, keep other data sources in sync, and much more. In fact, pull that functionality out of your app and into separate services."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Simplify your apps"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Since Debezium can monitor your data, why have one app update the database "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "and"
+          },
+          {
+            "type": "text",
+            "text": " update search indexes "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "and"
+          },
+          {
+            "type": "text",
+            "text": " send notifications "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "and"
+          },
+          {
+            "type": "text",
+            "text": " publish messages? Doing that correctly - especially when things go wrong - is really tough, and if you get it wrong the data in those system may become inconsistent. Keep things simple, and move that extra functionality into separate services that use Debezium."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Never miss a beat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Take your apps and services down for maintenance, and Debezium keeps monitoring so that when your apps come back up they'll continue exactly where they left off. No matter what, Debezium keeps the events in the same order they were made to the database. And Debezium makes sure that you always "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              }
+            ],
+            "text": "see every event"
+          },
+          {
+            "type": "text",
+            "text": ", even when things go wrong."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          },
+          {
+            "type": "hardBreak"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "React quickly"
+          }
+        ]
       },
       {
         "type": "paragraph"
@@ -63,5 +262,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-15T14:31:44.103Z"
+  "online_content_time": "2025-10-16T13:19:07.981Z"
 }
