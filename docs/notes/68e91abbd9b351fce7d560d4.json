@@ -38,11 +38,27 @@
         "content": [
           {
             "type": "text",
-            "text": "this is the comment text - 2 "
+            "text": "this is the"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f2235ec681ed8691ba3266"
+                }
+              }
+            ],
+            "text": " comment text "
+          },
+          {
+            "type": "text",
+            "text": "- 2 "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-17T11:07:08.585Z"
+  "online_content_time": "2025-10-17T11:07:20.977Z"
 }
