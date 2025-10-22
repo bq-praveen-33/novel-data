@@ -1,12 +1,40 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68f8955fb3e2cb48f8db6756",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "68f8957784e41301a96ff195"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68f89e91b3e2cb48f8db675b",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-10-22T09:06:36.090Z"
 }
