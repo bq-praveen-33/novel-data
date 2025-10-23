@@ -35,7 +35,7 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "68fa3fe62db7094d465c4195",
+          "viewId": "68fa42242db7094d465c41ba",
           "component": "board"
         }
       },
@@ -49,9 +49,22 @@
         "type": "paragraph"
       },
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68fa401a2db7094d465c41a4",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-23T14:47:51.355Z"
+  "online_content_time": "2025-10-23T14:56:47.124Z"
 }
