@@ -37,8 +37,21 @@
             "text": "vjhvhjsd"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68fa1bc1dbfc63b560eaf4f0",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-23T12:12:05.418Z"
+  "online_content_time": "2025-10-23T12:12:53.435Z"
 }
