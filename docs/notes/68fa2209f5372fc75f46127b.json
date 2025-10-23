@@ -12,19 +12,15 @@
         ]
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fa2244dbfc63b560eaf507",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-23T12:40:46.770Z"
+  "online_content_time": "2025-10-23T12:48:37.334Z"
 }
