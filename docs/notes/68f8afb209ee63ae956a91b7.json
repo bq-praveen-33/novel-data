@@ -51,8 +51,27 @@
             "text": "/content"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68f8afdea3b3f42108ef17bd",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/content"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-23T06:01:15.628Z"
+  "online_content_time": "2025-10-23T06:04:13.451Z"
 }
