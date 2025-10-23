@@ -7,7 +7,23 @@
         "content": [
           {
             "type": "text",
-            "text": "some content added here "
+            "text": "some cont"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68f9df5073ed9b5126399d3c"
+                }
+              }
+            ],
+            "text": "ent add"
+          },
+          {
+            "type": "text",
+            "text": "ed here "
           }
         ]
       },
@@ -36,5 +52,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-23T07:48:12.984Z"
+  "online_content_time": "2025-10-23T07:55:11.784Z"
 }
