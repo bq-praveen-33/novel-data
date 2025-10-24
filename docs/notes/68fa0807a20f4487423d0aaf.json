@@ -4,67 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb9ef88abe71395cb736b5",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb82808abe71395cb736b0",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb82388abe71395cb736ac",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb81b58abe71395cb736a8",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb52ce7ef3146ffce946b8",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-24T17:41:54.563Z"
+  "online_content_time": "2025-10-24T17:43:10.402Z"
 }
