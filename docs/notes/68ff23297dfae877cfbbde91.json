@@ -4,47 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "this is the page 2."
-          }
-        ]
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ff23297dfae877cfbbde91/images/image.png-aa713fc4-82eb-4ec4-9c07-c56ec2e2c44f",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ff23297dfae877cfbbde91/images/image.png-73eff76a-ab25-457a-b9d3-861746208a45",
-          "alt": null,
-          "title": null,
-          "width": 257,
-          "height": 170.575
-        }
-      },
-      {
-        "type": "image",
-        "attrs": {
-          "src": "https://raw.githubusercontent.com/bq-praveen-33/novel-data/main/docs/notes/68ff23297dfae877cfbbde91/images/image.png-c2149318-3a14-401a-8299-22270b0322f7",
-          "alt": null,
-          "title": null,
-          "width": null,
-          "height": null
-        }
       }
     ]
   },
-  "online_content_time": "2025-10-27T08:37:05.168Z"
+  "online_content_time": "2025-10-27T08:37:16.605Z"
 }
