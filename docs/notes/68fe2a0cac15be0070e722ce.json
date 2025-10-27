@@ -22,9 +22,15 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/boiard"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-27T07:14:08.611Z"
+  "online_content_time": "2025-10-27T08:05:49.094Z"
 }
