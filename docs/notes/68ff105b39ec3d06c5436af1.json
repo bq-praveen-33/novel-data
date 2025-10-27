@@ -25,6 +25,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff14905fa3611ba115b9ac"
+                }
+              }
+            ],
             "text": "sdf"
           }
         ]
@@ -43,11 +51,11 @@
         "content": [
           {
             "type": "text",
-            "text": " d"
+            "text": "d"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-27T06:43:22.436Z"
+  "online_content_time": "2025-10-27T06:43:31.843Z"
 }
