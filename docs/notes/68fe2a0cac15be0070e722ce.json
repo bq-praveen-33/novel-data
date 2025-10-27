@@ -28,27 +28,6 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
-      },
-      {
         "type": "reactComponentBlock",
         "attrs": {
           "viewId": "68fe2da0703854c385be85c6",
@@ -63,5 +42,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-27T11:55:19.571Z"
+  "online_content_time": "2025-10-27T11:58:50.818Z"
 }
