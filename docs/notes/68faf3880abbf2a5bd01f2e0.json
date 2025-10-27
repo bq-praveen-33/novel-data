@@ -3,44 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "new changes made in board"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68faf39d9c49a8757ece6107",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fb22d337a9e8dc173f8131",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-24T09:48:43.904Z"
+  "online_content_time": "2025-10-27T10:18:28.281Z"
 }
