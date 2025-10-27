@@ -3,28 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "new content added"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68fe2da0703854c385be85c6",
-          "component": "board"
-        }
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-26T14:51:15.585Z"
+  "online_content_time": "2025-10-27T06:11:25.130Z"
 }
