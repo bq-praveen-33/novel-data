@@ -704,6 +704,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff65aa1eadfe06afcf117a"
+                }
+              }
+            ],
             "text": "In traditional aesthetics ("
           },
           {
@@ -711,12 +719,26 @@
             "marks": [
               {
                 "type": "italic"
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff65aa1eadfe06afcf117a"
+                }
               }
             ],
             "text": "shairaana andaaz"
           },
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff65aa1eadfe06afcf117a"
+                }
+              }
+            ],
             "text": "), “chaudhvin ka chand” sounds more lyrical and rhythmic than “poonima ka chand.”"
           }
         ]
@@ -738,12 +760,26 @@
                     "marks": [
                       {
                         "type": "italic"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
                       }
                     ],
                     "text": "“Chaudhvin”"
                   },
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
+                      }
+                    ],
                     "text": " has that smooth, romantic sound."
                   }
                 ]
@@ -761,12 +797,26 @@
                     "marks": [
                       {
                         "type": "italic"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
                       }
                     ],
                     "text": "“Poonima”"
                   },
                   {
                     "type": "text",
+                    "marks": [
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
+                      }
+                    ],
                     "text": " or "
                   },
                   {
@@ -774,13 +824,31 @@
                     "marks": [
                       {
                         "type": "italic"
+                      },
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
                       }
                     ],
                     "text": "“Purnima”"
                   },
                   {
                     "type": "text",
-                    "text": " sounds more Sanskritic and less used in Urdu poetry."
+                    "marks": [
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65aa1eadfe06afcf117a"
+                        }
+                      }
+                    ],
+                    "text": " sounds more Sanskritic an"
+                  },
+                  {
+                    "type": "text",
+                    "text": "d less used in Urdu poetry."
                   }
                 ]
               }
@@ -1144,5 +1212,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-27T12:28:32.420Z"
+  "online_content_time": "2025-10-27T12:29:42.311Z"
 }
