@@ -3,9 +3,38 @@
     "type": "doc",
     "content": [
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "new content added"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68fe2da0703854c385be85c6",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ff27e35807a935754a0c87",
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-27T11:47:10.437Z"
+  "online_content_time": "2025-10-27T11:47:40.825Z"
 }
