@@ -4,8 +4,28 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ff608e6bd0112fb9f9366d",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ff6f0240674f2c545953d9",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-27T13:12:11.983Z"
+  "online_content_time": "2025-10-27T13:24:46.605Z"
 }
