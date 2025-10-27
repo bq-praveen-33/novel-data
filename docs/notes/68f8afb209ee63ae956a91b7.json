@@ -3,75 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "hghghjbkjh"
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "commentMark",
-                "attrs": {
-                  "commentId": "68f9c42b52afc33679a9f46d"
-                }
-              }
-            ],
-            "text": " jhvbhjbhbv kbbhkkhv jbv"
-          },
-          {
-            "type": "text",
-            "text": "jhvkj"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "hjvjhvhvj"
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68f8afdea3b3f42108ef17bd",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/content"
-          }
-        ]
-      },
-      {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "68f8afdea3b3f42108ef17bd",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/content"
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-10-23T06:04:13.451Z"
+  "online_content_time": "2025-10-27T06:11:10.549Z"
 }
