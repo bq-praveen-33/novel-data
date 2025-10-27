@@ -600,7 +600,19 @@
                   },
                   {
                     "type": "text",
-                    "text": " — something beautiful you can’t reach."
+                    "text": " — something beautiful you"
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "commentMark",
+                        "attrs": {
+                          "commentId": "68ff65661eadfe06afcf1172"
+                        }
+                      }
+                    ],
+                    "text": " can’t reach."
                   }
                 ]
               }
@@ -613,7 +625,30 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff65661eadfe06afcf1172"
+                }
+              }
+            ],
             "text": "By saying "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "68ff65661eadfe06afcf1172"
+                }
+              }
+            ],
+            "text": "“chaudhvin "
           },
           {
             "type": "text",
@@ -622,7 +657,7 @@
                 "type": "italic"
               }
             ],
-            "text": "“chaudhvin ka chand”"
+            "text": "ka chand”"
           },
           {
             "type": "text",
@@ -1109,5 +1144,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-27T12:28:04.297Z"
+  "online_content_time": "2025-10-27T12:28:32.420Z"
 }
