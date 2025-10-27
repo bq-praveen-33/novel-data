@@ -15,13 +15,17 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ff574a6bd0112fb9f93617",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -56,5 +60,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-27T11:28:08.485Z"
+  "online_content_time": "2025-10-27T11:28:11.927Z"
 }
