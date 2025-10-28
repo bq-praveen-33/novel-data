@@ -43,11 +43,61 @@
             },
             "content": [
               {
+                "type": "paragraph"
+              },
+              {
                 "type": "paragraph",
                 "content": [
                   {
                     "type": "text",
                     "text": "adsfasdfasdfasdf"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "columnLayout",
+                "attrs": {
+                  "columns": 2
+                },
+                "content": [
+                  {
+                    "type": "columnItem",
+                    "attrs": {
+                      "width": 50
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnItem",
+                    "attrs": {
+                      "width": 50
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "columnItem",
+                    "attrs": {
+                      "width": 100
+                    },
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
                   }
                 ]
               }
@@ -57,5 +107,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:27:25.202Z"
+  "online_content_time": "2025-10-28T09:27:37.738Z"
 }
