@@ -29,13 +29,17 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/lis"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006ac1c3bd4650b0a55806",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -45,5 +49,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T07:03:27.896Z"
+  "online_content_time": "2025-10-28T07:03:30.470Z"
 }
