@@ -157,6 +157,19 @@
               },
               {
                 "type": "paragraph"
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "viewId": "690086381620b0fe42eb1321",
+                  "component": "board"
+                }
+              },
+              {
+                "type": "paragraph"
               }
             ]
           },
@@ -302,5 +315,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:00:34.807Z"
+  "online_content_time": "2025-10-28T09:00:42.070Z"
 }
