@@ -49,6 +49,15 @@
                 "type": "paragraph"
               },
               {
+                "type": "paragraph"
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "paragraph"
+              },
+              {
                 "type": "reactComponentBlock",
                 "attrs": {
                   "viewId": "6900820b1620b0fe42eb12fa",
@@ -60,9 +69,29 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "dfafafasdfdsjdjdjdjdjdjdjdjdjdjjdddd /li"
+                    "text": "dfafafasdfdsjdjdjdjdjdjdjdjdjdjjdddd "
                   }
                 ]
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "viewId": "690083841620b0fe42eb130e",
+                  "component": "board"
+                }
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "viewId": "690083841620b0fe42eb1312",
+                  "component": "board"
+                }
+              },
+              {
+                "type": "paragraph"
               }
             ]
           },
@@ -112,5 +141,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T08:48:49.222Z"
+  "online_content_time": "2025-10-28T08:59:41.014Z"
 }
