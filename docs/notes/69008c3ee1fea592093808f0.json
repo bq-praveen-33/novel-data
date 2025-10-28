@@ -7,64 +7,11 @@
         "content": [
           {
             "type": "text",
-            "text": "adfadfasdfasdfasdfsadfasdfsdfasdfasdfasdfasdfasdfasdfasdfasdfsadfsdfadfasfafdafs"
-          }
-        ]
-      },
-      {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "adaddfadfa"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 100
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "adsfasdfsdfasdfasdfsadfsdfsadfsadfasdfasdfasdfasdfsdf"
-                  }
-                ]
-              }
-            ]
+            "text": "/"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:27:11.049Z"
+  "online_content_time": "2025-10-28T09:27:18.891Z"
 }
