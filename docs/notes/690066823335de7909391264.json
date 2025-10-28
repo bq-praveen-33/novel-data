@@ -16,13 +16,17 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/time"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006ab4c3bd4650b0a55800",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -32,5 +36,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T07:03:13.946Z"
+  "online_content_time": "2025-10-28T07:03:18.026Z"
 }
