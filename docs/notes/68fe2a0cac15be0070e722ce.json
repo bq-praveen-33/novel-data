@@ -249,11 +249,24 @@
         "content": [
           {
             "type": "text",
-            "text": "/board"
+            "text": "d"
           }
         ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006430f5fea06a2462f0e4",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T06:35:25.352Z"
+  "online_content_time": "2025-10-28T06:35:29.534Z"
 }
