@@ -3,9 +3,270 @@
     "type": "doc",
     "content": [
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "new content "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "69005b6774a98e023f4ddd7b"
+                }
+              }
+            ],
+            "text": "added"
+          },
+          {
+            "type": "text",
+            "text": " dhgckjsh "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "kjcjds"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": "The modal should stay open until the delete operation is complete. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "onClose()"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " should be called from within your "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "handleDeleteBoard"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " function after the deletion is successful, which you already have:The modal should stay open until the delete operation is complete. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "onClose()"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " should be called from within your "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "handleDeleteBoard"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " function after the deletion is successful, which you already have:The modal should stay open until the delete operation is complete. The "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "onClose()"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " should be called from within your "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "code"
+              }
+            ],
+            "text": "handleDeleteBoard"
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": " function after the deletion is successful, which you already have:jfhvkjdfhkvldhfklvhfdklhvlkdhkldhklvhdklfvhkldhv"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(15, 17, 21)"
+                }
+              }
+            ],
+            "text": "dkfjvklfdvkjdnvjkdjvhfcxjkvhkjh"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "xfxdmtgfxdff"
+          }
+        ]
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68ff5cc26bd0112fb9f93656",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "68fe2da0703854c385be85c6",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69005fd3f5fea06a2462f0cf",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "d"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006430f5fea06a2462f0e4",
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T06:35:43.298Z"
+  "online_content_time": "2025-10-28T06:35:45.109Z"
 }
