@@ -7,7 +7,23 @@
         "content": [
           {
             "type": "text",
-            "text": "this the comment  ."
+            "text": "this "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "690073e6f81afad3a0efc2c4"
+                }
+              }
+            ],
+            "text": "the comment"
+          },
+          {
+            "type": "text",
+            "text": "  ."
           }
         ]
       },
@@ -68,5 +84,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T07:42:08.829Z"
+  "online_content_time": "2025-10-28T07:42:33.544Z"
 }
