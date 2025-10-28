@@ -13,15 +13,19 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6900a300d2ada781434f7035",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T11:03:23.717Z"
+  "online_content_time": "2025-10-28T11:03:29.329Z"
 }
