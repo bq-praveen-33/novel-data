@@ -280,15 +280,19 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/cal"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006f1fc3bd4650b0a55818",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T07:22:05.847Z"
+  "online_content_time": "2025-10-28T07:22:09.270Z"
 }
