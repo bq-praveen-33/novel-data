@@ -57,15 +57,19 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/list"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6900e56ebcc129850155f669",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T15:46:51.512Z"
+  "online_content_time": "2025-10-28T15:46:55.735Z"
 }
