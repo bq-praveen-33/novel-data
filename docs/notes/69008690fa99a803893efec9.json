@@ -18,38 +18,10 @@
                 "type": "paragraph"
               }
             ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 100
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "fffffff"
-                  }
-                ]
-              }
-            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:02:17.674Z"
+  "online_content_time": "2025-10-28T09:06:03.534Z"
 }
