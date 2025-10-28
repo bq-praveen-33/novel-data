@@ -47,9 +47,15 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T15:24:48.046Z"
+  "online_content_time": "2025-10-28T15:46:41.207Z"
 }
