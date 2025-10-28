@@ -3,84 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dfasdfasdfasdfsdfsfdadsffasfdfadfadffdadsfff "
-                  }
-                ]
-              },
-              {
-                "type": "reactComponentBlock",
-                "attrs": {
-                  "viewId": "6900820b1620b0fe42eb12f6",
-                  "component": "board"
-                }
-              },
-              {
-                "type": "paragraph"
-              },
-              {
-                "type": "reactComponentBlock",
-                "attrs": {
-                  "viewId": "6900820b1620b0fe42eb12fa",
-                  "component": "board"
-                }
-              },
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "ddfadfadfadfadsfasdfadsfasdf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph"
-              },
-              {
-                "type": "paragraph"
-              },
-              {
-                "type": "reactComponentBlock",
-                "attrs": {
-                  "viewId": "690082261620b0fe42eb1301",
-                  "component": "board"
-                }
-              },
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T08:43:19.867Z"
+  "online_content_time": "2025-10-28T08:46:54.575Z"
 }
