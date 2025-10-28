@@ -3,33 +3,6 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "sdfadfs"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "adfasdfasdfasdf"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "adf"
-          }
-        ]
-      },
-      {
         "type": "columnLayout",
         "attrs": {
           "columns": 2
@@ -42,49 +15,7 @@
             },
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "adsfasdfsdfsdfsdfasdfsdfasfdfa"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dfasdfasdfdsfsdfsdfsadfsdfdsf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sdfasdfsdf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dfasdfasdfsadfsdfasdfsdfasdfsdafsd"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sdfasdfasdf"
-                  }
-                ]
+                "type": "paragraph"
               }
             ]
           },
@@ -95,13 +26,7 @@
             },
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dfasdfasdfdsf"
-                  }
-                ]
+                "type": "paragraph"
               }
             ]
           },
@@ -120,5 +45,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:31:54.933Z"
+  "online_content_time": "2025-10-28T09:32:00.872Z"
 }
