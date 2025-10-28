@@ -19,9 +19,29 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "dfasdfasdfasdfsdfsfdadsffasfdfadfadffdadsfff /bo"
+                    "text": "dfasdfasdfasdfsdfsfdadsffasfdfadfadffdadsfff "
                   }
                 ]
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "viewId": "6900820b1620b0fe42eb12f6",
+                  "component": "board"
+                }
+              },
+              {
+                "type": "paragraph"
+              },
+              {
+                "type": "reactComponentBlock",
+                "attrs": {
+                  "viewId": "6900820b1620b0fe42eb12fa",
+                  "component": "board"
+                }
+              },
+              {
+                "type": "paragraph"
               }
             ]
           },
@@ -46,5 +66,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T08:42:49.647Z"
+  "online_content_time": "2025-10-28T08:42:52.596Z"
 }
