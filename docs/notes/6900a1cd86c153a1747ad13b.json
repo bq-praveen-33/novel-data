@@ -47,15 +47,25 @@
         }
       },
       {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6900e565bcc129850155f662",
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "/board"
+            "text": "/list"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T15:46:41.207Z"
+  "online_content_time": "2025-10-28T15:46:51.512Z"
 }
