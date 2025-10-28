@@ -3,15 +3,47 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/"
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 100
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:27:18.891Z"
+  "online_content_time": "2025-10-28T09:27:20.582Z"
 }
