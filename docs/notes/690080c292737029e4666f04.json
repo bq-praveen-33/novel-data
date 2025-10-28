@@ -4,74 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690086441620b0fe42eb1327",
-          "component": "board"
-        }
-      },
-      {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 3
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sddd"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "ssss"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 100
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "ssss"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T09:01:08.956Z"
+  "online_content_time": "2025-10-28T09:01:13.302Z"
 }
