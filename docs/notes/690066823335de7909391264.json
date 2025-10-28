@@ -64,13 +64,17 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/cal"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69007bbec3bd4650b0a5584f",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -83,5 +87,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T08:15:39.500Z"
+  "online_content_time": "2025-10-28T08:15:59.471Z"
 }
