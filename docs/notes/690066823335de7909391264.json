@@ -6,16 +6,9 @@
         "type": "paragraph"
       },
       {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690066a59a96d63a27f57f69",
-          "component": "board"
-        }
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-28T06:45:58.519Z"
+  "online_content_time": "2025-10-28T06:50:14.605Z"
 }
