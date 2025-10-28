@@ -226,9 +226,15 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-28T06:15:12.978Z"
+  "online_content_time": "2025-10-28T06:16:46.787Z"
 }
