@@ -45,6 +45,16 @@
         "type": "paragraph"
       },
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69006acbc3bd4650b0a5580c",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph"
       },
       {
@@ -52,5 +62,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-28T07:03:36.640Z"
+  "online_content_time": "2025-10-28T07:03:40.929Z"
 }
