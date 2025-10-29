@@ -22,33 +22,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": " sDg "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sG"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sdfsdfs dfsdf sdfsdfsdfsdfsdf"
+                    "text": "  dfsdf sdfsdfsdfsdfsdf"
                   }
                 ]
               }
@@ -531,5 +505,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T11:48:10.279Z"
+  "online_content_time": "2025-10-29T11:48:14.439Z"
 }
