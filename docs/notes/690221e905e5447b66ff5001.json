@@ -54,24 +54,10 @@
                 "type": "paragraph"
               }
             ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 33.33
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
           }
         ]
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T14:19:39.726Z"
+  "online_content_time": "2025-10-29T14:19:41.863Z"
 }
