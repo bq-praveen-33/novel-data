@@ -3,25 +3,6 @@
     "type": "doc",
     "content": [
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -493,5 +474,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T10:56:33.355Z"
+  "online_content_time": "2025-10-29T10:56:36.206Z"
 }
