@@ -3,26 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "link",
-                "attrs": {
-                  "href": "https://github.com/Betaque/books/blob/b3e8525746d23b753954f806e8a240ed8f0f1bc0/apps/web/public/images/page-cover/webb2.jpg",
-                  "target": "_blank",
-                  "rel": "noopener noreferrer nofollow",
-                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
-                }
-              }
-            ],
-            "text": "https://github.com/Betaque/books/blob/b3e8525746d23b753954f806e8a240ed8f0f1bc0/apps/web/public/images/page-cover/webb2.jpg"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T06:15:46.910Z"
+  "online_content_time": "2025-10-29T06:15:58.343Z"
 }
