@@ -165,7 +165,13 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/2"
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -639,5 +645,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T11:52:52.171Z"
+  "online_content_time": "2025-10-29T12:01:14.461Z"
 }
