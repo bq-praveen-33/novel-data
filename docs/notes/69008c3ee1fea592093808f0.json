@@ -15,39 +15,13 @@
             },
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "faf adsfsdfsdf sdf sdf v45 w4twetwesdf sdfsd fsd fsdfsdfsdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": " dfs dfsdfsdfsd fsdf ef sdf wet wetwet wweet eet ete wet"
-                  }
-                ]
+                "type": "paragraph"
               }
             ]
           }
         ]
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T12:35:34.673Z"
+  "online_content_time": "2025-10-29T12:35:37.993Z"
 }
