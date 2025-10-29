@@ -3,9 +3,15 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/bo"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T11:22:14.404Z"
+  "online_content_time": "2025-10-29T11:25:01.269Z"
 }
