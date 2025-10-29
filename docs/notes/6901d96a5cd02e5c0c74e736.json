@@ -61,20 +61,12 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "adsfasdfasdfasdfsadfasdfasdfadfsadfasdfsdaffdsafasdfsdff"
+                    "text": "dfadfasdfasdfsdafasdfsafasfasfsafaff"
                   }
                 ]
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
+          },
           {
             "type": "columnItem",
             "attrs": {
@@ -86,7 +78,7 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "dfadfasdfasdfsdafasdfsafasfasfsafaff"
+                    "text": "adsfasdfasdfasdfsadfasdfasdfadfsadfasdfsdaffdsafasdfsdff"
                   }
                 ]
               }
@@ -99,5 +91,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T09:16:10.487Z"
+  "online_content_time": "2025-10-29T09:16:13.510Z"
 }
