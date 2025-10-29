@@ -3,15 +3,48 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/2"
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SDF ASDGSDGSGSDGSDGSDGSDG SDG"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SGSDFG SDFGSDGSDGSGSDG"
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T14:34:14.771Z"
+  "online_content_time": "2025-10-29T14:34:22.379Z"
 }
