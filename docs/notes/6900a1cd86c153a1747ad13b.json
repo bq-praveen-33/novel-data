@@ -78,15 +78,8 @@
       },
       {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "6900e565bcc129850155f662",
-          "component": "board"
-        }
       }
     ]
   },
-  "online_content_time": "2025-10-29T15:25:01.781Z"
+  "online_content_time": "2025-10-29T15:25:04.889Z"
 }
