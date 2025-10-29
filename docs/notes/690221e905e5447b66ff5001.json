@@ -198,9 +198,72 @@
         ]
       },
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 5
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 20
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 20
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 20
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 20
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 20
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T15:13:04.042Z"
+  "online_content_time": "2025-10-29T15:13:06.119Z"
 }
