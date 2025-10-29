@@ -3,71 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 3
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "hello world dsfasdfasdfasdfsdfasdfasdfasdfasdf"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "adsfasdfasdfasdfasdfsadfsadfasdffasdfadsfasdfasdfasdfasdfsdafasdfsdfsdf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph"
-              },
-              {
-                "type": "paragraph"
-              },
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 100
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T09:04:42.763Z"
+  "online_content_time": "2025-10-29T09:05:58.212Z"
 }
