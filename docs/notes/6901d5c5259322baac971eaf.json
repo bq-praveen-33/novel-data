@@ -3,9 +3,6 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
-      },
-      {
         "type": "columnLayout",
         "attrs": {
           "columns": 2
@@ -17,60 +14,8 @@
               "width": 50
             },
             "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "  ar ar aerae rear aeraerearaer aer aerae raer er"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "er a"
-                  }
-                ]
-              },
               {
                 "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dfgkpdafng fdsigjs DigHS SDF sDf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sD"
-                  }
-                ]
               },
               {
                 "type": "paragraph",
@@ -586,5 +531,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T11:48:07.800Z"
+  "online_content_time": "2025-10-29T11:48:10.279Z"
 }
