@@ -3,6 +3,9 @@
     "type": "doc",
     "content": [
       {
+        "type": "paragraph"
+      },
+      {
         "type": "columnLayout",
         "attrs": {
           "columns": 2
@@ -15,26 +18,25 @@
             },
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "sd s af"
-                  }
-                ]
-              },
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "rrer ewe rerere"
-                  }
-                ]
+                "type": "paragraph"
               }
             ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -511,5 +513,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T11:27:28.082Z"
+  "online_content_time": "2025-10-29T11:27:37.709Z"
 }
