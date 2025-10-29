@@ -4,18 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "6901d1a75ef20a3979aa7d8e",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T08:34:48.713Z"
+  "online_content_time": "2025-10-29T08:35:03.658Z"
 }
