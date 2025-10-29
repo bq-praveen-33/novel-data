@@ -19,23 +19,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "adfasdfasdfsdafadsfasfdsfasfdfadsfadsfadsda"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
                     "text": "sdsddadfasdfsdfsf"
                   }
                 ]
@@ -87,9 +70,34 @@
         ]
       },
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "adfasdfasdfsdafadsfasfdsfasfdfadsfadsfadsda"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T09:16:13.510Z"
+  "online_content_time": "2025-10-29T09:16:20.536Z"
 }
