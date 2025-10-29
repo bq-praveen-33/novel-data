@@ -110,15 +110,45 @@
         "type": "paragraph"
       },
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph",
         "content": [
           {
             "type": "text",
-            "text": "/"
+            "text": "sdfsd fsdigh dfighdf gdafhg dfigh dfgihdf gidfhg dfgdhg dfgh dfgihafds goafdhg dfogh fdoghdf g"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T14:13:32.216Z"
+  "online_content_time": "2025-10-29T14:13:39.762Z"
 }
