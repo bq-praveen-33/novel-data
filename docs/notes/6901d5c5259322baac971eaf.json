@@ -225,13 +225,49 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/3"
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "wetwert"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "etwertwerwerwerwerwerwerwerwerwe"
+                  }
+                ]
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -696,5 +732,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T12:13:02.156Z"
+  "online_content_time": "2025-10-29T12:13:19.332Z"
 }
