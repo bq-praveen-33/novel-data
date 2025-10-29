@@ -3,45 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": " e ssdfsdfsdfsdfsdf sdf df sdf sdfsd f sdfdsfsdfsd fdfsdfsdfsdfffff"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T13:00:05.066Z"
+  "online_content_time": "2025-10-29T13:03:43.169Z"
 }
