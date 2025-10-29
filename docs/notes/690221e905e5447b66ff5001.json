@@ -18,23 +18,6 @@
                 "type": "paragraph"
               }
             ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "SD GSDGSDGSGSDGS GSGH SFUGH GSIG S[igh SH[IHs dfohsdsudbg sdogbdgospg sdgs"
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
@@ -84,5 +67,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T14:17:56.167Z"
+  "online_content_time": "2025-10-29T14:17:58.684Z"
 }
