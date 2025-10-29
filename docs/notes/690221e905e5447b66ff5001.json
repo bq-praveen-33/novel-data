@@ -15,7 +15,211 @@
             },
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ZXVZXVXCVXCVonst baseStyle = ["
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"display: flex\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"flex-wrap: nowrap\", // ✅ single row"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"justify-content: flex-start\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"align-items: flex-start\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"gap: 24px\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"overflow-x: auto\", // ✅ horizontal scroll on small screens"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"scrollbar-width: thin\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"scrollbar-color: rgba(0,0,0,0.2) transparent\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"max-width: 100%\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"box-sizing: border-box\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "    ].join(\"; \");onst baseStyle = ["
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"display: flex\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"flex-wrap: nowrap\", // ✅ single row"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"justify-content: flex-start\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"align-items: flex-start\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"gap: 24px\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"overflow-x: auto\", // ✅ horizontal scroll on small screens"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"scrollbar-width: thin\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"scrollbar-color: rgba(0,0,0,0.2) transparent\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"max-width: 100%\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "      \"box-sizing: border-box\","
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "    ].join(\"; \");"
+                  }
+                ]
               }
             ]
           },
@@ -48,5 +252,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T14:41:55.490Z"
+  "online_content_time": "2025-10-29T14:42:00.022Z"
 }
