@@ -3,9 +3,34 @@
     "type": "doc",
     "content": [
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " qer aeraeresdasas"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T13:27:07.913Z"
+  "online_content_time": "2025-10-29T13:27:12.469Z"
 }
