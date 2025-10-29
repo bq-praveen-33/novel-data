@@ -25,40 +25,21 @@
                     "text": " esr er esr esrer esres wetest settetetetet setset st stset  SD ASDASDASDASDASDASDAS DASDsetsetestetestsetsetsetsetr  ASFse sdgsdf sdfsdr esresrererer eres rer  sdf sdfsdf efdf df"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
               {
                 "type": "paragraph",
                 "content": [
                   {
                     "type": "text",
-                    "text": " f"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "f"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "dsf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "df AFASFSA FA SFASF AFA SFA FAF AFA FAF AF AFs dfs dfsd fsdfsdfdfd fsdfsdfsdf sdfsdfsdfs dfdssdfsdd f"
+                    "text": " AFASFSA FA SFASF AFA SFA FAF AFA FAF AF AFs dfs dfsd fsdfsdfdfd fsdfsdfsdf sdfsdfsdfs dfdssdfsdd f"
                   }
                 ]
               },
@@ -101,5 +82,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-29T13:35:39.125Z"
+  "online_content_time": "2025-10-29T13:35:41.939Z"
 }
