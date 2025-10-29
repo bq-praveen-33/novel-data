@@ -9,17 +9,20 @@
             "type": "text",
             "marks": [
               {
-                "type": "textStyle",
+                "type": "link",
                 "attrs": {
-                  "color": "rgb(227, 227, 227)"
+                  "href": "https://github.com/Betaque/books/blob/b3e8525746d23b753954f806e8a240ed8f0f1bc0/apps/web/public/images/page-cover/webb2.jpg",
+                  "target": "_blank",
+                  "rel": "noopener noreferrer nofollow",
+                  "class": "text-muted-foreground underline underline-offset-[3px] hover:text-primary transition-colors cursor-pointer"
                 }
               }
             ],
-            "text": "relative px-3 py-2 pb-0 pt-0 bg-white text-gray-900 dark:bg-background dark:text-gray-100"
+            "text": "https://github.com/Betaque/books/blob/b3e8525746d23b753954f806e8a240ed8f0f1bc0/apps/web/public/images/page-cover/webb2.jpg"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T06:13:51.946Z"
+  "online_content_time": "2025-10-29T06:15:25.193Z"
 }
