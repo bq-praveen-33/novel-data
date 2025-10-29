@@ -60,9 +60,12 @@
         "type": "paragraph"
       },
       {
+        "type": "paragraph"
+      },
+      {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "6900e56ebcc129850155f669",
+          "viewId": "6901b7d04ab7adaea6a499a9",
           "component": "board"
         }
       },
@@ -70,15 +73,12 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/list"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T06:44:26.835Z"
+  "online_content_time": "2025-10-29T06:44:33.614Z"
 }
