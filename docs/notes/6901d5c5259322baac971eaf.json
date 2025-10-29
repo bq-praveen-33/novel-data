@@ -48,15 +48,39 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/2"
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-29T10:24:16.900Z"
+  "online_content_time": "2025-10-29T10:24:20.487Z"
 }
