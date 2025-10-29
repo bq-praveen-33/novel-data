@@ -4,27 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T13:51:41.352Z"
+  "online_content_time": "2025-10-29T13:51:43.793Z"
 }
