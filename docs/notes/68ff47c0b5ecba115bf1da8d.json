@@ -3,45 +3,467 @@
     "type": "doc",
     "content": [
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
+        "type": "paragraph",
         "content": [
           {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": " efsdfdsafd sfsdifsdn gdfigdf gdfigpjdf godfjp dfgpodjfg dfgpojdf gpdfjod fgojdfg dfogjdf gdafogj rg9jr gr9gjf gf[ogjdfg difjgd fpgj prgrgffgfgf dfgdfgd wd d adasd asd8ashd asudg asd8g 7qwg9ee w-9ey qw-9qwyqw9yq fa08fyh ADF08GAD DFGA FAGFA FAFGA9UFGFF F F F F F "
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
+            "type": "text",
+            "text": "About Us"
           }
         ]
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Bring on Your Technology Challenges At ReventLabs, we believe that complex infrastructure problems are opportunities for innovation. We tackle the toughest DevOps, cloud, and SRE challenges head-on, delivering solutions that transform how teams build, deploy, and operate at scale."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Who We Are"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "ReventLabs is a premier cloud-native services firm founded to help organizations accelerate their digital transformation journeys. Our team of seasoned engineers, architects, and DevOps experts partners with clients to design, build, and manage scalable, secure, and cost-effective infrastructure solutions across AWS, Google Cloud, Azure, Digital Ocean and on-premises environments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "With a passion for automation, best practices, and continuous improvement, ReventLabs delivers end-to-end services—from initial assessment through long-term support—ensuring our clients achieve tangible business outcomes and maintain a competitive edge."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Why ReventLabs Exists"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We founded ReventLabs when we saw teams struggling to maintain brittle, manually managed environments. Instead of piecemeal support, clients needed a partner who could truly embed in their workflows—co-owning problems as if we were part of their engineering team."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Drawing on years of experience architecting multi-cloud infrastructures and large-scale SRE systems, we built ReventLabs to fill that gap. Today, our mission is simple: treat infrastructure as code, automate aggressively, and empower organizations to focus on innovation rather than firefighting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Our Story"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Founded by a group of cloud and DevOps veterans, ReventLabs was born out of a shared belief: traditional IT processes were not keeping pace with the demands of modern applications. We recognized early on that organizations needed more than just advisory—they needed hands-on execution, templates that work at scale, and a partner who understood the daily pressures DevOps teams face."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Over the years, ReventLabs has grown from a small consultancy into a multi-disciplinary team, delivering hundreds of successful engagements spanning global cloud migrations, high-availability Kubernetes deployments, and fully automated CI/CD pipelines. Our track record of turning complex requirements into reliable, automated solutions has earned our clients' trust and driven our sustained growth."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://reventlabs.com/static/media/Mask%20group.9a0bc0f1be267efed09e.png",
+          "alt": "img",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Our Mission"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To empower organizations through innovative technology solutions that transform operations, enhance user experiences, and drive sustainable growth."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Our Vision"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "To be the leading technology partner for forward-thinking organizations, known for our technical excellence, impactful solutions, and exceptional client partnerships."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Our Core Values"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(70, 70, 70)"
+                }
+              }
+            ],
+            "text": "01"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Craftsmanship Over Convenience"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We maintain a growth mindset and insist on writing clean, maintainable infrastructure code—whether it's defining environments, creating configuration manifests, or orchestrating deployments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(70, 70, 70)"
+                }
+              }
+            ],
+            "text": "02"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Be the Reliable Backbone"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dependability is non-negotiable. We show up consistently, anticipate risks, and drive projects forward even when the path isn't clear."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(70, 70, 70)"
+                }
+              }
+            ],
+            "text": "03"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Hustle with Humility"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We tackle complex challenges with determination, but never lose sight of collaboration and respect. Ego has no place in problem-solving."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": "rgb(70, 70, 70)"
+                }
+              }
+            ],
+            "text": "04"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Security by Default"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Every design, every automation script, and every deployment follows the principle of least privilege. We embed compliance checks into our workflows so you're audit-ready from day one."
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "attrs": {
+          "src": "https://reventlabs.com/static/media/Mask%20group%20(1).be649643dd53b8a443e4.png",
+          "alt": "img",
+          "title": null,
+          "width": null,
+          "height": null
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Our Embedded \"BetaPods\" Model"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Seamless Integration"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We assign a small, dedicated team of experts—our \"BetaPods\"—to work alongside your engineers."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Co-Ownership of Outcomes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "BetaPods adopt your processes and standards, sharing responsibility for design reviews, change management, and incident response."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 4
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Rapid Value Delivery"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "By aligning directly with your sprint cycles and release cadences, BetaPods accelerate time to ROI—often delivering production-ready infrastructure in weeks, not months."
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-29T13:27:48.518Z"
+  "online_content_time": "2025-10-30T07:23:19.047Z"
 }
