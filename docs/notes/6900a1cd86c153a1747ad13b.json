@@ -13,32 +13,6 @@
         }
       },
       {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690327ddced987c94f60f405",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690327e3ced987c94f60f40b",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "paragraph",
         "content": [
           {
@@ -58,5 +32,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-30T14:31:40.048Z"
+  "online_content_time": "2025-10-30T14:33:14.608Z"
 }
