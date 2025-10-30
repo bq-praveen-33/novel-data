@@ -39,13 +39,17 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690341e7d44f1c197b2bde62",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph",
@@ -67,5 +71,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-30T10:45:55.890Z"
+  "online_content_time": "2025-10-30T10:46:00.802Z"
 }
