@@ -29,6 +29,16 @@
         "type": "paragraph"
       },
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690327e3ced987c94f60f40b",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph"
       },
       {
@@ -36,5 +46,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-30T08:54:55.048Z"
+  "online_content_time": "2025-10-30T08:55:00.726Z"
 }
