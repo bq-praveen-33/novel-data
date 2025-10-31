@@ -4,8 +4,44 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6904bf24f4f7840bcb70d3ae",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6904bfcbf4f7840bcb70d3be",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6904c168f4f7840bcb70d3c4",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/list"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-31T12:33:11.873Z"
+  "online_content_time": "2025-10-31T14:14:01.738Z"
 }
