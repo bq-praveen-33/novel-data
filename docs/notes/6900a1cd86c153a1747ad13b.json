@@ -6,9 +6,15 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-10-31T07:05:52.730Z"
+  "online_content_time": "2025-10-31T07:06:00.382Z"
 }
