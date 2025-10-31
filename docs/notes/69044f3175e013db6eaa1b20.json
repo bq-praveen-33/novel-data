@@ -41,42 +41,8 @@
       },
       {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "some content here "
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "69044f4e3ac661948640c361",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "more content added"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-31T06:25:40.421Z"
+  "online_content_time": "2025-10-31T06:25:58.991Z"
 }
