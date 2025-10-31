@@ -24,15 +24,19 @@
         ]
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69045ce710b807feebaf0375",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-31T06:53:26.859Z"
+  "online_content_time": "2025-10-31T06:53:28.685Z"
 }
