@@ -15,6 +15,13 @@
         ]
       },
       {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69044f4e3ac661948640c361",
+          "component": "board"
+        }
+      },
+      {
         "type": "paragraph",
         "content": [
           {
@@ -28,5 +35,5 @@
       }
     ]
   },
-  "online_content_time": "2025-10-31T06:03:23.983Z"
+  "online_content_time": "2025-10-31T06:03:25.577Z"
 }
