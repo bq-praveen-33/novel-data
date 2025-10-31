@@ -4,8 +4,36 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "some content here "
+          }
+        ]
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69044f4e3ac661948640c361",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "added"
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-31T06:13:02.335Z"
+  "online_content_time": "2025-10-31T06:16:48.500Z"
 }
