@@ -38,38 +38,9 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "some content here "
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "69044f4e3ac661948640c361",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "6904574910b807feebaf033a",
-          "component": "board"
-        }
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-10-31T06:30:24.967Z"
+  "online_content_time": "2025-10-31T06:30:28.317Z"
 }
