@@ -3,46 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "sdafsadfasdf"
-          }
-        ]
-      },
-      {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "6908908415e9eb48b3f66b48",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "adsfasdfasdf"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "asdfasdf"
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-11-03T11:23:03.435Z"
+  "online_content_time": "2025-11-03T11:28:46.633Z"
 }
