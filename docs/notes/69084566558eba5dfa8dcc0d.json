@@ -35,12 +35,20 @@
         "type": "paragraph",
         "content": [
           {
+            "type": "mention",
+            "attrs": {
+              "id": "68f89484b3e2cb48f8db674f",
+              "label": "Nikita Rani",
+              "mentionSuggestionChar": "@"
+            }
+          },
+          {
             "type": "text",
-            "text": "@"
+            "text": " "
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-11-03T13:02:14.763Z"
+  "online_content_time": "2025-11-03T13:02:24.034Z"
 }
