@@ -15,75 +15,13 @@
             },
             "content": [
               {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "afg"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
                 "type": "paragraph"
               }
             ]
           }
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "s dsDf SDFSDF"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "dfsd fsd"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "fdsfsd"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "f"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "dfsdfsfsdf"
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-11-03T13:04:13.540Z"
+  "online_content_time": "2025-11-03T13:04:34.003Z"
 }
