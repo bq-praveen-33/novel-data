@@ -4,8 +4,37 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6908960ea0481d4a9e8779be",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "69089b5d401c0587b39168a5",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-11-03T12:08:18.687Z"
+  "online_content_time": "2025-11-03T12:13:03.046Z"
 }
