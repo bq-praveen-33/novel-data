@@ -3,9 +3,39 @@
     "type": "doc",
     "content": [
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-03T13:01:42.307Z"
+  "online_content_time": "2025-11-03T13:01:53.767Z"
 }
