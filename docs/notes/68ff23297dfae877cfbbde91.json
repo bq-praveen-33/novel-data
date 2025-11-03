@@ -3,15 +3,45 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/2"
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "afg"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 50
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-03T13:03:54.756Z"
+  "online_content_time": "2025-11-03T13:03:59.678Z"
 }
