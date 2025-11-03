@@ -51,15 +51,50 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 3
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/3"
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-03T11:10:05.303Z"
+  "online_content_time": "2025-11-03T11:10:11.590Z"
 }
