@@ -92,23 +92,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "ewt weTrteT"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 25
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
                     "text": "et eT ET YDR"
                   }
                 ]
@@ -233,5 +216,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-03T12:31:20.864Z"
+  "online_content_time": "2025-11-03T12:31:25.684Z"
 }
