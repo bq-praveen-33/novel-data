@@ -16,16 +16,9 @@
         "type": "paragraph"
       },
       {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "6904bfcbf4f7840bcb70d3be",
-          "component": "board"
-        }
-      },
-      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-03T05:38:02.177Z"
+  "online_content_time": "2025-11-03T05:38:14.337Z"
 }
