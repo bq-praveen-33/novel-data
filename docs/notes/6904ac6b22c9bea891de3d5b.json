@@ -3,9 +3,28 @@
     "type": "doc",
     "content": [
       {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": " n"
+          }
+        ]
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6904bf24f4f7840bcb70d3ae",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-03T14:00:20.624Z"
+  "online_content_time": "2025-11-03T14:00:26.534Z"
 }
