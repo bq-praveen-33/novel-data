@@ -25,7 +25,13 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       },
       {
         "type": "paragraph"
@@ -52,5 +58,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T09:42:30.730Z"
+  "online_content_time": "2025-11-04T09:45:51.691Z"
 }
