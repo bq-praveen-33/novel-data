@@ -39,21 +39,20 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "s dsd sdFsdf"
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "fafgsgasgsdgasd"
+                    "text": "sdf sdfs"
                   }
                 ]
               }
             ]
-          },
+          }
+        ]
+      },
+      {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
           {
             "type": "columnItem",
             "attrs": {
@@ -65,7 +64,16 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "sdf sdfs"
+                    "text": "s dsd sdFsdf"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "fafgsgasgsdgasd"
                   }
                 ]
               }
@@ -88,5 +96,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T05:35:28.193Z"
+  "online_content_time": "2025-11-04T05:41:50.964Z"
 }
