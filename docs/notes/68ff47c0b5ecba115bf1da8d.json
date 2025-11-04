@@ -13,6 +13,12 @@
                 "attrs": {
                   "color": "#ad1a72"
                 }
+              },
+              {
+                "type": "highlight",
+                "attrs": {
+                  "color": "var(--novel-highlight-gray)"
+                }
               }
             ],
             "text": "About Us"
@@ -530,5 +536,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T14:28:37.102Z"
+  "online_content_time": "2025-11-04T14:28:43.164Z"
 }
