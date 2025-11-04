@@ -106,61 +106,15 @@
         ]
       },
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 4
-        },
+        "type": "paragraph",
         "content": [
           {
-            "type": "columnItem",
-            "attrs": {
-              "width": 25
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 25
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 25
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 25
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
+            "type": "text",
+            "text": "/4"
           }
         ]
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-04T08:50:07.954Z"
+  "online_content_time": "2025-11-04T08:50:10.981Z"
 }
