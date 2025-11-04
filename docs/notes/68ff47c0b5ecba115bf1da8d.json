@@ -7,6 +7,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "highlight",
+                "attrs": {
+                  "color": "var(--novel-highlight-purple)"
+                }
+              }
+            ],
             "text": "About Us"
           }
         ]
@@ -522,5 +530,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T14:13:58.909Z"
+  "online_content_time": "2025-11-04T14:15:28.971Z"
 }
