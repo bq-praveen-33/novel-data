@@ -276,9 +276,6 @@
               {
                 "type": "text",
                 "text": "Sab ka maalik ek"
-              },
-              {
-                "type": "hardBreak"
               }
             ]
           }
@@ -286,5 +283,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:59:05.542Z"
+  "online_content_time": "2025-11-04T06:59:08.121Z"
 }
