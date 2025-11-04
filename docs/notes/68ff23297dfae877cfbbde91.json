@@ -138,15 +138,22 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "taskList",
         "content": [
           {
-            "type": "text",
-            "text": "/"
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:57:23.768Z"
+  "online_content_time": "2025-11-04T06:57:25.283Z"
 }
