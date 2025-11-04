@@ -147,7 +147,47 @@
             },
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "task 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "task 2 "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "taskItem",
+            "attrs": {
+              "checked": false
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "task 3"
+                  }
+                ]
               }
             ]
           }
@@ -155,5 +195,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:57:30.485Z"
+  "online_content_time": "2025-11-04T06:57:39.813Z"
 }
