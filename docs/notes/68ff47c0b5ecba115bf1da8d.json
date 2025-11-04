@@ -157,7 +157,7 @@
               {
                 "type": "textStyle",
                 "attrs": {
-                  "color": "#0b6e99"
+                  "color": "#ad1a72"
                 }
               }
             ],
@@ -547,5 +547,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T15:07:43.581Z"
+  "online_content_time": "2025-11-04T15:07:45.132Z"
 }
