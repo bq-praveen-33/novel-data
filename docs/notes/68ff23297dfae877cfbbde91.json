@@ -530,6 +530,40 @@
         "type": "paragraph"
       },
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 2
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": " third point "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "second point "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       },
       {
@@ -603,32 +637,6 @@
           "columns": 3
         },
         "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 33.33
-            },
-            "content": [
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": " third point "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
-                    "text": "second point "
-                  }
-                ]
-              }
-            ]
-          },
           {
             "type": "columnItem",
             "attrs": {
@@ -937,5 +945,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T11:53:43.050Z"
+  "online_content_time": "2025-11-04T11:53:53.346Z"
 }
