@@ -6,45 +6,6 @@
         "type": "paragraph"
       },
       {
-        "type": "columnLayout",
-        "attrs": {
-          "columns": 2
-        },
-        "content": [
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          },
-          {
-            "type": "columnItem",
-            "attrs": {
-              "width": 50
-            },
-            "content": [
-              {
-                "type": "paragraph"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
         "type": "reactComponentBlock",
         "attrs": {
           "viewId": "6908c26a41d297b69e85bae0",
@@ -56,5 +17,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T05:48:02.798Z"
+  "online_content_time": "2025-11-04T05:48:05.615Z"
 }
