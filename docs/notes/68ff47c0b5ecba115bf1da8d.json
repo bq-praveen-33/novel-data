@@ -268,6 +268,11 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
             "text": "Dependability is non-negotiable. We show up consistently, anticipate risks, and drive projects forward even when the path isn't clear."
           }
         ]
@@ -465,5 +470,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T11:20:07.505Z"
+  "online_content_time": "2025-11-04T13:14:23.202Z"
 }
