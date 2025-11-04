@@ -614,15 +614,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "second point "
-                  }
-                ]
-              },
-              {
-                "type": "paragraph",
-                "content": [
-                  {
-                    "type": "text",
                     "text": "first"
                   }
                 ]
@@ -633,6 +624,15 @@
                   {
                     "type": "text",
                     "text": " third point "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "second point "
                   }
                 ]
               }
@@ -946,5 +946,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T12:37:14.709Z"
+  "online_content_time": "2025-11-04T12:37:33.367Z"
 }
