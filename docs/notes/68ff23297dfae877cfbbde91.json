@@ -230,15 +230,24 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "orderedList",
+        "attrs": {
+          "tight": true,
+          "start": 1,
+          "type": null
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/"
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:58:08.067Z"
+  "online_content_time": "2025-11-04T06:58:11.274Z"
 }
