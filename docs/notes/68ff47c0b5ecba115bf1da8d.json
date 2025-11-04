@@ -168,7 +168,23 @@
         "content": [
           {
             "type": "text",
-            "text": "To be the leading technology partner for forward-thinking organizations, known for our technical excellence, impactful solutions, and exceptional client partnerships."
+            "text": "To be the "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "commentMark",
+                "attrs": {
+                  "commentId": "6909fc3ce7fde3f9753c0e1a"
+                }
+              }
+            ],
+            "text": "leading"
+          },
+          {
+            "type": "text",
+            "text": " technology partner for forward-thinking organizations, known for our technical excellence, impactful solutions, and exceptional client partnerships."
           }
         ]
       },
@@ -470,5 +486,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T13:14:23.202Z"
+  "online_content_time": "2025-11-04T13:14:54.318Z"
 }
