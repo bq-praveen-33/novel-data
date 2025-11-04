@@ -241,7 +241,27 @@
             "type": "listItem",
             "content": [
               {
-                "type": "paragraph"
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "first "
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "second "
+                  }
+                ]
               }
             ]
           }
@@ -249,5 +269,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:58:11.274Z"
+  "online_content_time": "2025-11-04T06:58:20.801Z"
 }
