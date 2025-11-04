@@ -4,47 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690845b5006a5f0eb4285ac9",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "vhjhbv"
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "mention",
-            "attrs": {
-              "id": "68f89484b3e2cb48f8db674f",
-              "label": "Nikita Rani",
-              "mentionSuggestionChar": "@"
-            }
-          },
-          {
-            "type": "text",
-            "text": " "
-          }
-        ]
       }
     ]
   },
-  "online_content_time": "2025-11-04T11:15:44.141Z"
+  "online_content_time": "2025-11-04T11:20:26.818Z"
 }
