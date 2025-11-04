@@ -3,13 +3,48 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 3
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/3"
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
+      },
+      {
+        "type": "paragraph"
       },
       {
         "type": "paragraph"
@@ -26,5 +61,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T05:58:02.313Z"
+  "online_content_time": "2025-11-04T05:58:03.339Z"
 }
