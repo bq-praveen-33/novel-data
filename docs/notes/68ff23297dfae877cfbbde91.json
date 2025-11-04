@@ -101,13 +101,6 @@
                 "type": "paragraph"
               },
               {
-                "type": "reactComponentBlock",
-                "attrs": {
-                  "viewId": "6909a60794f46ca828fd53f0",
-                  "component": "board"
-                }
-              },
-              {
                 "type": "paragraph"
               }
             ]
@@ -402,5 +395,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T07:06:48.892Z"
+  "online_content_time": "2025-11-04T07:06:58.910Z"
 }
