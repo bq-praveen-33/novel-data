@@ -194,15 +194,22 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "bulletList",
+        "attrs": {
+          "tight": true
+        },
         "content": [
           {
-            "type": "text",
-            "text": "/"
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:57:48.998Z"
+  "online_content_time": "2025-11-04T06:57:53.562Z"
 }
