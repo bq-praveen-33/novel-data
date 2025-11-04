@@ -48,7 +48,7 @@
               {
                 "type": "textStyle",
                 "attrs": {
-                  "color": "#9b9a97"
+                  "color": "#d9730d"
                 }
               }
             ],
@@ -69,7 +69,7 @@
               {
                 "type": "textStyle",
                 "attrs": {
-                  "color": "#9b9a97"
+                  "color": "#d9730d"
                 }
               }
             ],
@@ -553,5 +553,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T15:23:43.612Z"
+  "online_content_time": "2025-11-04T15:23:48.122Z"
 }
