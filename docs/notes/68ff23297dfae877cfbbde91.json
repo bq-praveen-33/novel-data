@@ -73,14 +73,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": " rgdr hdrhdfhd hdfh dfhdfhdfhdfhfd"
                   }
                 ]
@@ -90,14 +82,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "hdf"
                   }
                 ]
@@ -125,14 +109,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "hdf"
                   }
                 ]
@@ -142,14 +118,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "hdf"
                   }
                 ]
@@ -159,14 +127,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "hdf"
                   }
                 ]
@@ -176,14 +136,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "hdf"
                   }
                 ]
@@ -193,14 +145,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "df"
                   }
                 ]
@@ -210,14 +154,6 @@
                 "content": [
                   {
                     "type": "text",
-                    "marks": [
-                      {
-                        "type": "highlight",
-                        "attrs": {
-                          "color": "var(--novel-highlight-gray)"
-                        }
-                      }
-                    ],
                     "text": "df"
                   }
                 ]
@@ -1219,5 +1155,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T15:49:05.421Z"
+  "online_content_time": "2025-11-04T15:49:13.018Z"
 }
