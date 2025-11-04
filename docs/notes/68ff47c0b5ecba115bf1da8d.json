@@ -30,14 +30,6 @@
         "content": [
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "highlight",
-                "attrs": {
-                  "color": "var(--novel-highlight-yellow)"
-                }
-              }
-            ],
             "text": "ReventLabs is a premier cloud-native services firm founded to help organizations accelerate their digital transformation journeys. Our team of seasoned engineers, architects, and DevOps experts partners with clients to design, build, and manage scalable, secure, and cost-effective "
           },
           {
@@ -51,14 +43,6 @@
           },
           {
             "type": "text",
-            "marks": [
-              {
-                "type": "highlight",
-                "attrs": {
-                  "color": "var(--novel-highlight-yellow)"
-                }
-              }
-            ],
             "text": " solutions across AWS, Google Cloud, Azure, Digital Ocean and on-premises environments."
           }
         ]
@@ -522,5 +506,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T14:08:48.838Z"
+  "online_content_time": "2025-11-04T14:09:01.503Z"
 }
