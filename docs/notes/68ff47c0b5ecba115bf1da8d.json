@@ -153,6 +153,14 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "highlight",
+                "attrs": {
+                  "color": "var(--novel-highlight-yellow)"
+                }
+              }
+            ],
             "text": "Founded by a group of cloud and DevOps veterans, ReventLabs was born out of a shared belief: traditional IT processes were not keeping pace with the demands of modern applications. We recognized early on that organizations needed more than just advisory—they needed hands-on execution, templates that work at scale, and a partner who understood the daily pressures DevOps teams face."
           }
         ]
@@ -539,5 +547,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T15:05:48.610Z"
+  "online_content_time": "2025-11-04T15:06:51.305Z"
 }
