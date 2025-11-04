@@ -271,17 +271,11 @@
         "type": "blockquote",
         "content": [
           {
-            "type": "paragraph",
-            "content": [
-              {
-                "type": "text",
-                "text": " "
-              }
-            ]
+            "type": "paragraph"
           }
         ]
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:58:31.168Z"
+  "online_content_time": "2025-11-04T06:58:32.378Z"
 }
