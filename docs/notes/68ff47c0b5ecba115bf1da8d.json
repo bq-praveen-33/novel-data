@@ -76,6 +76,20 @@
         "content": [
           {
             "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "Why ReventLabs Exists"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
             "text": "We founded ReventLabs when we saw teams struggling to maintain brittle, manually managed environments. Instead of piecemeal support, clients needed a partner who could truly embed in their workflows—co-owning problems as if we were part of their engineering team."
           }
         ]
@@ -491,5 +505,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T13:41:00.009Z"
+  "online_content_time": "2025-11-04T13:41:08.251Z"
 }
