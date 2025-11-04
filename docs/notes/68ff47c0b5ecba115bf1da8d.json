@@ -16,15 +16,6 @@
         "content": [
           {
             "type": "text",
-            "text": "Bring on Your Technology Challenges At ReventLabs, we believe that complex infrastructure problems are opportunities for innovation. We tackle the toughest DevOps, cloud, and SRE challenges head-on, delivering solutions that transform how teams build, deploy, and operate at scale."
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
             "marks": [
               {
                 "type": "bold"
@@ -486,5 +477,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T13:32:19.066Z"
+  "online_content_time": "2025-11-04T13:40:26.175Z"
 }
