@@ -28,6 +28,23 @@
               {
                 "type": "textStyle",
                 "attrs": {
+                  "color": "#0b6e99"
+                }
+              }
+            ],
+            "text": "About Us"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
                   "color": "#64473a"
                 }
               },
@@ -553,5 +570,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T15:07:49.567Z"
+  "online_content_time": "2025-11-04T15:09:36.898Z"
 }
