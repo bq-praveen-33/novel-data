@@ -152,7 +152,20 @@
             },
             "content": [
               {
-                "type": "paragraph"
+                "type": "bulletList",
+                "attrs": {
+                  "tight": true
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph"
+                      }
+                    ]
+                  }
+                ]
               },
               {
                 "type": "paragraph"
@@ -213,5 +226,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-04T11:09:44.107Z"
+  "online_content_time": "2025-11-04T11:09:48.687Z"
 }
