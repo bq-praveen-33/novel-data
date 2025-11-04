@@ -13,9 +13,50 @@
         "type": "paragraph"
       },
       {
+        "type": "columnLayout",
+        "attrs": {
+          "columns": 3
+        },
+        "content": [
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "columnItem",
+            "attrs": {
+              "width": 33.33
+            },
+            "content": [
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-04T06:48:16.523Z"
+  "online_content_time": "2025-11-04T06:48:20.326Z"
 }
