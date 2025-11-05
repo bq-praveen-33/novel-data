@@ -21,7 +21,8 @@
         "type": "reactComponentBlock",
         "attrs": {
           "viewId": "690b2c22bf5c1f12a31c3ae5",
-          "component": "board"
+          "component": "board",
+          "initialBoard": null
         }
       },
       {
@@ -31,7 +32,8 @@
         "type": "reactComponentBlock",
         "attrs": {
           "viewId": "690b31f5bf5c1f12a31c3aef",
-          "component": "board"
+          "component": "board",
+          "initialBoard": null
         }
       },
       {
@@ -51,5 +53,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T11:35:01.419Z"
+  "online_content_time": "2025-11-05T12:02:47.103Z"
 }
