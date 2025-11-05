@@ -8,19 +8,6 @@
       {
         "type": "reactComponentBlock",
         "attrs": {
-          "viewId": "690b4133bf5c1f12a31c3b2c",
-          "component": "board",
-          "boardTitle": null,
-          "boardIcon": null,
-          "boardViews": null
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
           "viewId": "690b41a0bf5c1f12a31c3b34",
           "component": "board",
           "boardTitle": "New Board",
@@ -40,5 +27,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T12:22:57.926Z"
+  "online_content_time": "2025-11-05T12:23:10.493Z"
 }
