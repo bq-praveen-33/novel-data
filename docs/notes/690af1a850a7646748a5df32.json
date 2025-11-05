@@ -4,8 +4,22 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690b664d4df727cee0fcc2f3",
+          "component": "board",
+          "boardTitle": "",
+          "currentViewId": "board",
+          "currentViewTitle": "Board",
+          "currentViewIcon": ""
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T15:01:01.708Z"
+  "online_content_time": "2025-11-05T15:03:02.427Z"
 }
