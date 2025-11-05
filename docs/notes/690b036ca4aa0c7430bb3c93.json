@@ -13,12 +13,6 @@
                 "attrs": {
                   "color": "#dfab01"
                 }
-              },
-              {
-                "type": "highlight",
-                "attrs": {
-                  "color": "var(--novel-highlight-red)"
-                }
               }
             ],
             "text": "dfvxgxgfg fgfg g"
@@ -27,5 +21,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T14:45:02.074Z"
+  "online_content_time": "2025-11-05T14:45:04.816Z"
 }
