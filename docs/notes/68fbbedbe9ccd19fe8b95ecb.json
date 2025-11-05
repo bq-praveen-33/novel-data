@@ -71,6 +71,9 @@
             },
             "content": [
               {
+                "type": "paragraph"
+              },
+              {
                 "type": "paragraph",
                 "content": [
                   {
@@ -113,5 +116,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T09:23:49.000Z"
+  "online_content_time": "2025-11-05T09:23:55.467Z"
 }
