@@ -10,7 +10,7 @@
         "attrs": {
           "viewId": "690b664d4df727cee0fcc2f3",
           "component": "board",
-          "boardTitle": "",
+          "boardTitle": "test",
           "currentViewId": "board",
           "currentViewTitle": "Board",
           "currentViewIcon": ""
@@ -21,5 +21,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T15:03:02.427Z"
+  "online_content_time": "2025-11-05T15:03:42.838Z"
 }
