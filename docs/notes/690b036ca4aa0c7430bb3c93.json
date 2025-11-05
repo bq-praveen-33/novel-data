@@ -3,23 +3,9 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "textStyle",
-                "attrs": {
-                  "color": "#dfab01"
-                }
-              }
-            ],
-            "text": "dfvxgxgfg fgfg g"
-          }
-        ]
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T14:45:04.816Z"
+  "online_content_time": "2025-11-05T14:53:51.617Z"
 }
