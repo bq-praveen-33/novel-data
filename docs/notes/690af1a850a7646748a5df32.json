@@ -52,15 +52,130 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690b3e54bf5c1f12a31c3b05",
+          "component": "board",
+          "initialBoard": {
+            "_id": "690b3e54bf5c1f12a31c3b05",
+            "title": "",
+            "description": "",
+            "createdBy": {
+              "userId": "68f89484b3e2cb48f8db674f",
+              "userName": "Nikita Rani",
+              "userEmail": "nikita.rani@reventlabs.com"
+            },
+            "createdAt": "2025-11-05T12:08:52.088Z",
+            "updatedAt": "2025-11-05T12:08:52.088Z",
+            "properties": {
+              "prop_690b3e54bf5c1f12a31c3b03": {
+                "name": "status",
+                "type": "status",
+                "default": true,
+                "options": [
+                  {
+                    "id": "todo",
+                    "name": "Todo",
+                    "color": "blue"
+                  },
+                  {
+                    "id": "in_progress",
+                    "name": "In Progress",
+                    "color": "green"
+                  },
+                  {
+                    "id": "done",
+                    "name": "Done",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "prop_690b3e54bf5c1f12a31c3b04": {
+                "name": "Date",
+                "type": "date",
+                "default": true
+              }
+            },
+            "viewsType": [
+              {
+                "id": "690b3e5043c731b798321b00",
+                "viewType": "board",
+                "title": "Board",
+                "icon": ""
+              }
+            ]
           }
-        ]
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690b3e5bbf5c1f12a31c3b0e",
+          "component": "board",
+          "initialBoard": {
+            "_id": "690b3e5bbf5c1f12a31c3b0e",
+            "title": "",
+            "description": "",
+            "createdBy": {
+              "userId": "68f89484b3e2cb48f8db674f",
+              "userName": "Nikita Rani",
+              "userEmail": "nikita.rani@reventlabs.com"
+            },
+            "createdAt": "2025-11-05T12:08:59.888Z",
+            "updatedAt": "2025-11-05T12:08:59.888Z",
+            "properties": {
+              "prop_690b3e5bbf5c1f12a31c3b0c": {
+                "name": "status",
+                "type": "status",
+                "default": true,
+                "options": [
+                  {
+                    "id": "todo",
+                    "name": "Todo",
+                    "color": "blue"
+                  },
+                  {
+                    "id": "in_progress",
+                    "name": "In Progress",
+                    "color": "green"
+                  },
+                  {
+                    "id": "done",
+                    "name": "Done",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "prop_690b3e5bbf5c1f12a31c3b0d": {
+                "name": "Date",
+                "type": "date",
+                "default": true
+              }
+            },
+            "viewsType": [
+              {
+                "id": "690b3e5b43c731b798321b01",
+                "viewType": "board",
+                "title": "Board",
+                "icon": ""
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T12:08:45.720Z"
+  "online_content_time": "2025-11-05T12:09:00.968Z"
 }
