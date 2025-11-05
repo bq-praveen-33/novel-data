@@ -4,40 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "heading",
-        "attrs": {
-          "level": 1
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "testing"
-          }
-        ]
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690b2c22bf5c1f12a31c3ae5",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690b31f5bf5c1f12a31c3aef",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T11:32:43.630Z"
+  "online_content_time": "2025-11-05T11:32:59.484Z"
 }
