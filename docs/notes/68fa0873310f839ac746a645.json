@@ -3,9 +3,23 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "ai-highlight",
+                "attrs": {
+                  "color": "#c1ecf970"
+                }
+              }
+            ],
+            "text": "/emb"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-11-05T07:12:40.390Z"
+  "online_content_time": "2025-11-05T07:14:34.410Z"
 }
