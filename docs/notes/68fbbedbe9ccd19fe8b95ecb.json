@@ -9,8 +9,8 @@
         "type": "embed",
         "attrs": {
           "src": "https://www.widgetbox.app/embed/clock/digital/NdTQLGnLBHWdmB3kUxGZzm?flag=true",
-          "width": 390,
-          "height": 297
+          "width": 403,
+          "height": 206
         }
       },
       {
@@ -116,5 +116,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T09:40:10.425Z"
+  "online_content_time": "2025-11-05T09:40:15.250Z"
 }
