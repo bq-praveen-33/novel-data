@@ -17,7 +17,7 @@
               {
                 "type": "highlight",
                 "attrs": {
-                  "color": "var(--novel-highlight-green)"
+                  "color": "var(--novel-highlight-red)"
                 }
               }
             ],
@@ -27,5 +27,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-05T14:44:39.326Z"
+  "online_content_time": "2025-11-05T14:45:02.074Z"
 }
