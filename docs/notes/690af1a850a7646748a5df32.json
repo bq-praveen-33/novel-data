@@ -4,33 +4,8 @@
     "content": [
       {
         "type": "paragraph"
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "reactComponentBlock",
-        "attrs": {
-          "viewId": "690b5930b99512005f49c401",
-          "component": "board"
-        }
-      },
-      {
-        "type": "paragraph"
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "    \"content\": \"{\\n  \\\"online_content\\\": {\\n    \\\"type\\\": \\\"doc\\\",\\n    \\\"content\\\": [\\n      {\\n        \\\"type\\\": \\\"paragraph\\\"\\n      },\\n      {\\n        \\\"type\\\": \\\"paragraph\\\"\\n      },\\n      {\\n        \\\"type\\\": \\\"reactComponentBlock\\\",\\n        \\\"attrs\\\": {\\n          \\\"viewId\\\": \\\"690b5930b99512005f49c401\\\",\\n          \\\"component\\\": \\\"board\\\"\\n        }\\n      },\\n      {\\n        \\\"type\\\": \\\"paragraph\\\"\\n      }\\n    ]\\n  },\\n  \\\"online_content_time\\\": \\\"2025-11-05T14:03:29.217Z\\\"\\n}\""
-          }
-        ]
-      },
-      {
-        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T14:05:02.989Z"
+  "online_content_time": "2025-11-05T14:58:53.180Z"
 }
