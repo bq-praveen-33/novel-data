@@ -4,8 +4,37 @@
     "content": [
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690b41a0bf5c1f12a31c3b34",
+          "component": "board",
+          "boardTitle": "New Board",
+          "boardIcon": "",
+          "boardViews": [
+            {
+              "id": "690b419e8614914e7b919db4",
+              "viewType": "list",
+              "title": "List",
+              "icon": ""
+            }
+          ]
+        }
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T12:26:25.232Z"
+  "online_content_time": "2025-11-05T14:02:27.797Z"
 }
