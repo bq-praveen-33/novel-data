@@ -3,15 +3,68 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/list"
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690b3f54bf5c1f12a31c3b1c",
+          "component": "board",
+          "initialBoard": {
+            "_id": "690b3f54bf5c1f12a31c3b1c",
+            "title": "",
+            "description": "",
+            "createdBy": {
+              "userId": "68f89484b3e2cb48f8db674f",
+              "userName": "Nikita Rani",
+              "userEmail": "nikita.rani@reventlabs.com"
+            },
+            "createdAt": "2025-11-05T12:13:08.849Z",
+            "updatedAt": "2025-11-05T12:13:08.849Z",
+            "properties": {
+              "prop_690b3f54bf5c1f12a31c3b1a": {
+                "name": "status",
+                "type": "status",
+                "default": true,
+                "options": [
+                  {
+                    "id": "todo",
+                    "name": "Todo",
+                    "color": "blue"
+                  },
+                  {
+                    "id": "in_progress",
+                    "name": "In Progress",
+                    "color": "green"
+                  },
+                  {
+                    "id": "done",
+                    "name": "Done",
+                    "color": "gray"
+                  }
+                ]
+              },
+              "prop_690b3f54bf5c1f12a31c3b1b": {
+                "name": "Date",
+                "type": "date",
+                "default": true
+              }
+            },
+            "viewsType": [
+              {
+                "id": "690b3f4e8c135d1b8e45d391",
+                "viewType": "list",
+                "title": "List",
+                "icon": ""
+              }
+            ]
           }
-        ]
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-05T12:13:02.606Z"
+  "online_content_time": "2025-11-05T12:13:09.976Z"
 }
