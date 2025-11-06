@@ -26,7 +26,7 @@
         "type": "embed",
         "attrs": {
           "src": "https://widgetbox.app/embed/calendar/simple/da84a273-8a5f-4024-aaa3-6c9a04e83155",
-          "width": 480,
+          "width": 296,
           "height": 320
         }
       },
@@ -49,5 +49,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-06T15:24:46.066Z"
+  "online_content_time": "2025-11-06T15:24:50.568Z"
 }
