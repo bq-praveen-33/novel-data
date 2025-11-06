@@ -16,9 +16,15 @@
         "type": "paragraph"
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-11-06T08:31:18.355Z"
+  "online_content_time": "2025-11-06T08:31:21.083Z"
 }
