@@ -130,15 +130,19 @@
         }
       },
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/lis"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690caa94e9938a6346417051",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-06T14:02:57.854Z"
+  "online_content_time": "2025-11-06T14:03:01.119Z"
 }
