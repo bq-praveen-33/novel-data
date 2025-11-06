@@ -26,7 +26,7 @@
         "type": "embed",
         "attrs": {
           "src": "https://widgetbox.app/embed/clock/analog/cd08f47a-3ace-462f-9156-8670e72e01ba",
-          "width": 321,
+          "width": 240,
           "height": 337
         }
       },
@@ -100,5 +100,5 @@
       }
     ]
   },
-  "online_content_time": "2025-11-06T15:25:46.438Z"
+  "online_content_time": "2025-11-06T15:26:11.153Z"
 }
