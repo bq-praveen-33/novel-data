@@ -7,11 +7,14 @@
         "content": [
           {
             "type": "text",
-            "text": "/"
+            "text": "/board"
           }
         ]
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-07T10:48:38.483Z"
+  "online_content_time": "2025-11-07T10:49:18.673Z"
 }
