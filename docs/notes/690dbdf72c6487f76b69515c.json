@@ -3,15 +3,19 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "/board"
-          }
-        ]
+        "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "690dbe15c2bce7752f1adac0",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-07T09:38:26.790Z"
+  "online_content_time": "2025-11-07T09:38:30.220Z"
 }
