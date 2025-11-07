@@ -13,9 +13,15 @@
         }
       },
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "/board"
+          }
+        ]
       }
     ]
   },
-  "online_content_time": "2025-11-07T06:07:29.256Z"
+  "online_content_time": "2025-11-07T06:07:48.576Z"
 }
