@@ -30,8 +30,18 @@
       },
       {
         "type": "paragraph"
+      },
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "6911a4dc482678ae42da7c71",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
       }
     ]
   },
-  "online_content_time": "2025-11-10T08:39:45.226Z"
+  "online_content_time": "2025-11-10T08:39:57.800Z"
 }
