@@ -1,12 +1,21 @@
 {
-  "type": "doc",
-  "content": [
-    {
-      "type": "text",
-      "attrs": {
-        "level": 2
+  "online_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
       },
-      "content": []
-    }
-  ]
+      {
+        "type": "reactComponentBlock",
+        "attrs": {
+          "viewId": "691311b8fc167e911dcb79a1",
+          "component": "board"
+        }
+      },
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "online_content_time": "2025-11-11T10:36:44.363Z"
 }
